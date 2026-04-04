@@ -1,0 +1,1 @@
+# Ghi log quá trình chạy tool
