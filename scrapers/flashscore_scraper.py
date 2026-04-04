@@ -36,17 +36,32 @@ class FlashscoreScraper:
                 pass
 
             # 2. CLICK SHOW MORE CHO ĐẾN KHI HẾT
-            print("⏳ Đang tải toàn bộ lịch sử trận đấu...")
+            # 2. CLICK SHOW MORE CHO ĐẾN KHI HẾT (Load tới Vòng 1)
+            print("⏳ Đang tải toàn bộ lịch sử trận đấu (Sẽ mất vài phút)...")
+            click_count = 0
             while True:
                 try:
-                    wait = WebDriverWait(self.driver, 4)
-                    btn = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, ".event__more.event__more--static")))
+                    # Chờ nút xuất hiện (tối đa 10 giây)
+                    wait = WebDriverWait(self.driver, 10)
+                    
+                    # Dùng XPath để tìm CHÍNH XÁC nút chứa chữ "Show more matches"
+                    # Dấu // nghĩa là tìm ở bất kỳ đâu trên trang
+                    xpath = "//button[contains(., 'Show more matches') or contains(., 'Show more')]"
+                    btn = wait.until(EC.presence_of_element_located((By.XPATH, xpath)))
+                    
+                    # Cuộn trang xuống sát nút để kích hoạt load dữ liệu
                     self.driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", btn)
-                    time.sleep(1)
-                    btn.click()
-                    time.sleep(2)
-                except:
-                    print("✅ Đã mở rộng toàn bộ danh sách!")
+                    time.sleep(1.5) # Chờ cho hiệu ứng cuộn mượt hoàn tất
+                    
+                    # Dùng JavaScript click thẳng vào DOM (xuyên qua mọi lớp quảng cáo/cookie)
+                    self.driver.execute_script("arguments[0].click();", btn)
+                    click_count += 1
+                    print(f"👉 Đã click 'Show more' lần {click_count}...")
+                    
+                    # Đợi một chút để mạng load thêm khoảng 10-20 trận mới
+                    time.sleep(4) 
+                except Exception as e:
+                    print("✅ Không tìm thấy nút 'Show more' nữa. Đã tải đến Vòng 1!")
                     break
 
             # 3. BÓC TÁCH DỮ LIỆU (Có thêm Round và Date)
