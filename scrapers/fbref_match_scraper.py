@@ -130,10 +130,10 @@ class FBrefMatchScraper:
 
 if __name__ == "__main__":
     # KHỞI TẠO TỪ NĂM 1888
-    scraper = FBrefMatchScraper(start_date_str="1906-09-12") 
+    scraper = FBrefMatchScraper(start_date_str="1906-09-25") 
     scraper.run()
     
     # --- TUYỆT CHIÊU CUỐI: Ép dọn rác ngay lập tức trong im lặng ---
-    sys.stderr = open(os.devnull, 'w')
+    sys.stderr = open(os.devnull, 'w')  
     del scraper 
     gc.collect()
