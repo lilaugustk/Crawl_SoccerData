@@ -4,11 +4,11 @@ import pandas as pd
 from datetime import date, timedelta, datetime
 import time
 import os
-import sys  # Đừng quên import sys nhé
+import sys  
 import gc
 
 class FBrefMatchScraper:
-    def __init__(self, start_date_str="1888-01-01", output_file="data/raw/fbref_all_matches.csv"):
+    def __init__(self, start_date_str="1888-01-01", output_file="data/raw/fbref_all_matches/fbref_all_matches_2026.csv"):
         self.start_date = datetime.strptime(start_date_str, "%Y-%m-%d").date()
         self.end_date = date.today()
         self.output_file = output_file
@@ -130,7 +130,8 @@ class FBrefMatchScraper:
 
 if __name__ == "__main__":
     # KHỞI TẠO TỪ NĂM 1888
-    scraper = FBrefMatchScraper(start_date_str="1906-09-25") 
+    # ĐÃ CÀO ĐƯỢC TỪ 01/01/1888 - 30/06/1909
+    scraper = FBrefMatchScraper(start_date_str="2026-01-01") #(YYYY-MM-DD)
     scraper.run()
     
     # --- TUYỆT CHIÊU CUỐI: Ép dọn rác ngay lập tức trong im lặng ---
