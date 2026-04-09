@@ -172,7 +172,7 @@ class FBrefMatchDetailScraper:
                 try:
                     self.driver.get(item['url'])
                     # Tăng thời gian chờ lên 10s để đảm bảo load hết bảng stats
-                    time.sleep(10) 
+                    time.sleep(4) 
                     
                     soup = BeautifulSoup(self.driver.page_source, 'html.parser')
                     data = self.parse_match_details(soup, item['id'])
@@ -187,7 +187,7 @@ class FBrefMatchDetailScraper:
                     print("DONE!")
                 except Exception as e:
                     print(f"LOI -> {e}")
-                    time.sleep(5)
+                    time.sleep(4)
         finally:
             print("-" * 80)
             print(f"TIEN DO: {count}/{total} tran.")
