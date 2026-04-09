@@ -19,6 +19,8 @@ class FBrefMatchDetailScraper:
 
         print("--- KHOI TAO TRINH DUYET (CHROME 146) ---")
         options = uc.ChromeOptions()
+        # Chạy ẩn danh để hạn chế cache và tăng tốc độ load
+        options.add_argument("--incognito") 
         try:
             self.driver = uc.Chrome(options=options, version_main=146)
         except Exception as e:
@@ -36,15 +38,17 @@ class FBrefMatchDetailScraper:
                 for line in f:
                     try:
                         data = json.loads(line)
-                        scraped_ids.add(data['match_id'])
+                        # Chỉ coi là đã cào nếu có đủ thông tin quan trọng
+                        if data.get('match_id') and data.get('home_team_id'):
+                            scraped_ids.add(data['match_id'])
                     except: continue
         return scraped_ids
 
     def parse_match_details(self, soup, match_id):
         data = {
             "match_id": match_id,
-            "home_team_id": "", # Sẽ được điền từ player_stats
-            "away_team_id": "", # Sẽ được điền từ player_stats
+            "home_team_id": "",
+            "away_team_id": "",
             "home_manager": "",
             "away_manager": "",
             "home_formation": "",
@@ -54,9 +58,16 @@ class FBrefMatchDetailScraper:
             "match_events": []
         }
 
-        # 1. Manager
+        # 1. Lấy Team ID và Manager từ Scorebox (Phần quan trọng nhất)
         scorebox = soup.find('div', class_='scorebox')
         if scorebox:
+            # Lấy Team IDs từ các link squads
+            team_links = scorebox.select('div > strong > a[href*="/squads/"]')
+            if len(team_links) >= 2:
+                data["home_team_id"] = team_links[0]['href'].split('/squads/')[1].split('/')[0]
+                data["away_team_id"] = team_links[1]['href'].split('/squads/')[1].split('/')[0]
+
+            # Lấy HLV
             mgr_divs = [d for d in scorebox.find_all('div', class_='datapoint') if "Manager" in d.text]
             if len(mgr_divs) >= 2:
                 h_mgr_raw = re.sub(r'^\d+', '', mgr_divs[0].text.replace('Manager:', ''))
@@ -64,7 +75,7 @@ class FBrefMatchDetailScraper:
                 data["home_manager"] = self.clean_text(h_mgr_raw)
                 data["away_manager"] = self.clean_text(a_mgr_raw)
 
-        # 2. Formation
+        # 2. Formation (Sơ đồ chiến thuật)
         lineups = soup.find_all('div', class_='lineup')
         if len(lineups) >= 2:
             h_th = lineups[0].find('th')
@@ -72,7 +83,7 @@ class FBrefMatchDetailScraper:
             if h_th and '(' in h_th.text: data["home_formation"] = h_th.text.split('(')[-1].replace(')', '').strip()
             if a_th and '(' in a_th.text: data["away_formation"] = a_th.text.split('(')[-1].replace(')', '').strip()
 
-        # 3. Stats chinh
+        # 3. Team Stats (Possession, Shots, vv...)
         ts_div = soup.find('div', id='team_stats')
         if ts_div:
             curr_label = ""
@@ -88,7 +99,7 @@ class FBrefMatchDetailScraper:
                     data["team_stats"]["home"][curr_label] = h_val
                     data["team_stats"]["away"][curr_label] = a_val
 
-        # 4. Player Stats
+        # 4. Player Stats (Thông số cầu thủ)
         p_tables = soup.find_all('table', id=re.compile(r'stats_.*_summary'))
         for table in p_tables:
             t_id = table.get('id').split('_')[1]
@@ -110,22 +121,11 @@ class FBrefMatchDetailScraper:
                     p_data["details"][stat] = tag.text.strip() if tag else "0"
                 data["player_stats"].append(p_data)
 
-        # --- LOGIC MOI: Tu dong nhan dien Home/Away Team ID ---
-        if data["player_stats"]:
-            # Doi nha luon la team_id cua cau thu dau tien trong bang stats
-            data["home_team_id"] = data["player_stats"][0]["team_id"]
-            # Doi khach la team_id khac voi doi nha dau tien tim thay
-            for p in data["player_stats"]:
-                if p["team_id"] != data["home_team_id"]:
-                    data["away_team_id"] = p["team_id"]
-                    break
-
-        # 5. Events
+        # 5. Match Events (Diễn biến trận đấu)
         e_wrap = soup.find('div', id='events_wrap')
         if e_wrap:
             for ev in e_wrap.find_all('div', class_='event'):
                 time_div = ev.find('div')
-                # Chi lay so phut (vi du 90+2), bo qua cac ky tu rac
                 event_time = "".join(re.findall(r'[\d+]+', time_div.text)) if time_div else ""
                 icon = ev.find('div', class_='event_icon')
                 e_type = icon.get('class')[1] if icon and len(icon.get('class')) > 1 else "other"
@@ -158,7 +158,7 @@ class FBrefMatchDetailScraper:
                 })
 
         total = len(pending)
-        print(f"\n=== BAT DAU CAO CHI TIET (AUTO TEAM ID) ===")
+        print(f"\n=== BAT DAU CAO CHI TIET (ROBUST VERSION) ===")
         print(f"Tong so tran can xu ly: {total}")
         print("-" * 80)
 
@@ -171,9 +171,17 @@ class FBrefMatchDetailScraper:
                 
                 try:
                     self.driver.get(item['url'])
-                    time.sleep(7)
+                    # Tăng thời gian chờ lên 10s để đảm bảo load hết bảng stats
+                    time.sleep(10) 
+                    
                     soup = BeautifulSoup(self.driver.page_source, 'html.parser')
                     data = self.parse_match_details(soup, item['id'])
+                    
+                    # Kiểm tra dữ liệu rác trước khi ghi
+                    if not data["home_team_id"]:
+                        print("BO QUA (Trang chua load xong)")
+                        continue
+
                     with open(self.output_jsonl, 'a', encoding='utf-8') as f:
                         f.write(json.dumps(data, ensure_ascii=False) + '\n')
                     print("DONE!")
