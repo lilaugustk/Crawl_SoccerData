@@ -3,105 +3,164 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 import os
+import random
 import gc
 
-def parse_player_row(row, team_name_fallback):
-    """Boc tach chi tiet tung cau thu"""
-    try:
-        if row.get('class') and 'thead' in row.get('class'):
-            return None
+class FBrefAutoPlayerScraper:
+    def __init__(self, seasons_file="data/raw/fbref_all_seasons.csv", 
+                 output_file="data/raw/fbref_players_stats.csv"):
+        self.seasons_file = seasons_file
+        self.output_file = output_file
+        self.base_url = "https://fbref.com"
+        os.makedirs(os.path.dirname(self.output_file), exist_ok=True)
+
+        print("Dang khoi tao trinh duyet phien ban V5...")
+        options = uc.ChromeOptions()
+        options.add_argument('--start-maximized')
+        options.add_argument('--disable-notifications')
         
-        player_cell = row.find('td', {'data-stat': 'player'})
-        if not player_cell:
-            return None
+        try:
+            self.driver = uc.Chrome(options=options, version_main=146)
+        except Exception as e:
+            print(f"Loi khoi tao: {e}")
+            self.driver = None
 
-        # Trich xuat du lieu
-        data = {
-            "PlayerName": player_cell.text.strip(),
-            "Nation": row.find('td', {'data-stat': 'nationality'}).text.strip().split(' ')[-1] if row.find('td', {'data-stat': 'nationality'}) else "",
-            "Pos": row.find('td', {'data-stat': 'position'}).text.strip() if row.find('td', {'data-stat': 'position'}) else "",
-            "Team": row.find('td', {'data-stat': 'team'}).text.strip() if row.find('td', {'data-stat': 'team'}) else team_name_fallback,
-            "Age": row.find('td', {'data-stat': 'age'}).text.strip()[:2] if row.find('td', {'data-stat': 'age'}) else "",
-            "MatchesPlayed": row.find('td', {'data-stat': 'games'}).text.strip() if row.find('td', {'data-stat': 'games'}) else "0",
-            "Starts": row.find('td', {'data-stat': 'games_starts'}).text.strip() if row.find('td', {'data-stat': 'games_starts'}) else "0",
-            "Minutes": row.find('td', {'data-stat': 'minutes'}).text.strip().replace(',', '') if row.find('td', {'data-stat': 'minutes'}) else "0",
-            "Goals": row.find('td', {'data-stat': 'goals'}).text.strip() if row.find('td', {'data-stat': 'goals'}) else "0",
-            "Assists": row.find('td', {'data-stat': 'assists'}).text.strip() if row.find('td', {'data-stat': 'assists'}) else "0",
-            "xG": row.find('td', {'data-stat': 'xg'}).text.strip() if row.find('td', {'data-stat': 'xg'}) else "0.0",
-            "xAG": row.find('td', {'data-stat': 'xg_assist'}).text.strip() if row.find('td', {'data-stat': 'xg_assist'}) else "0.0",
-            "YellowCards": row.find('td', {'data-stat': 'cards_yellow'}).text.strip() if row.find('td', {'data-stat': 'cards_yellow'}) else "0",
-            "RedCards": row.find('td', {'data-stat': 'cards_red'}).text.strip() if row.find('td', {'data-stat': 'cards_red'}) else "0",
-            "PlayerURL": "https://fbref.com" + player_cell.find('a')['href'] if player_cell.find('a') else ""
-        }
-        return data
-    except Exception:
-        return None
+    def handle_popups(self):
+        """Tu dong dong thong bao Privacy/Cookie nhu trong anh cua ban"""
+        try:
+            # Thu click nut 'Accept All' bang JavaScript de nhanh va chinh xac
+            self.driver.execute_script("""
+                var acceptBtn = document.querySelector('#osano-cm-accept-all');
+                if(acceptBtn) { acceptBtn.click(); }
+                var privacyOverlay = document.querySelector('.osano-cm-window');
+                if(privacyOverlay) { privacyOverlay.remove(); }
+            """)
+            time.sleep(2)
+        except:
+            pass
 
-def main():
-    # 1. Doc danh sach tat ca cac giai dau da cao truoc do
-    leagues_file = "data/raw/fbref_all_leagues.csv"
-    if not os.path.exists(leagues_file):
-        print(f"Loi: Khong tim thay file {leagues_file}. Hay cao danh sach giai truoc.")
-        return
-
-    df_leagues = pd.read_csv(leagues_file)
-    
-    # 2. Ket noi vao Chrome Debug
-    options = uc.ChromeOptions()
-    options.add_argument('--remote-debugging-port=9222')
-    try:
-        driver = uc.Chrome(options=options, version_main=146)
-    except Exception as e:
-        print(f"Loi ket noi Chrome Debug: {e}")
-        return
-
-    output_dir = "data/raw/players/"
-    os.makedirs(output_dir, exist_ok=True)
-
-    # 3. Duyet qua tung giai dau de cao cau thu
-    for index, row in df_leagues.iterrows():
-        league_id = row['source_id']
-        league_name = row['name'].replace(' ', '-')
-        season = "2024-2025" # Ban co the thay doi mua giai tai day
+    def get_squad_urls_from_league(self, league_season_url):
+        self.driver.get(league_season_url)
+        time.sleep(5)
+        self.handle_popups()
         
-        output_file = f"{output_dir}players_{league_name}_{season}.csv"
+        # Cuon trang de kich hoat render bảng
+        self.driver.execute_script("window.scrollTo(0, 1000);")
+        time.sleep(3)
+
+        squad_links = []
+        # Tim moi o co data-stat="team" (Dua theo anh Inspector {8DCA2FD4...}.jpg ban gui)
+        soup = BeautifulSoup(self.driver.page_source, 'html.parser')
+        team_cells = soup.find_all('td', {'data-stat': 'team'})
         
-        # Neu da cao giai nay roi thi bo qua de tiet kiem thoi gian
-        if os.path.exists(output_file):
-            print(f"Bo qua {league_name} vi da co file.")
-            continue
-
-        url = f"https://fbref.com/en/comps/{league_id}/{season}/stats/{season}-{league_name}-Stats"
-        print(f"--- Dang cao: {league_name} (ID: {league_id}) ---")
+        if not team_cells:
+            print("Khong tim thay o 'team', thu tim trong toan bo the <a>...")
+            # Backup plan: Tim tat ca link co dang /squads/
+            team_cells = soup.find_all('a', href=True)
+            for a in team_cells:
+                if '/en/squads/' in a['href'] and 'Stats' in a.get_text():
+                    url = self.base_url + a['href']
+                    if url not in [s['team_url'] for s in squad_links]:
+                        squad_links.append({"team_name": a.get_text().replace(' Stats',''), "team_url": url})
+        else:
+            for cell in team_cells:
+                a_tag = cell.find('a', href=True)
+                if a_tag:
+                    url = self.base_url + a_tag['href']
+                    name = a_tag.get_text(strip=True)
+                    if url not in [s['team_url'] for s in squad_links]:
+                        squad_links.append({"team_name": name, "team_url": url})
         
-        driver.get(url)
-        time.sleep(random.uniform(7, 10)) # Doi load trang va ne bot detection
+        return squad_links
 
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
-        table = soup.find('table', id=lambda x: x and x.startswith('stats_standard'))
-
-        if not table:
-            print(f"Khong tim thay bang cho {league_name}. Co the mua giai nay chua co stats.")
-            continue
-
-        players_list = []
-        rows = table.find('tbody').find_all('tr')
-        for r in rows:
-            p_data = parse_player_row(r, team_name_fallback="")
-            if p_data:
-                p_data["League"] = row['name'] # Gan ten giai vao du lieu cau thu
-                players_list.append(p_data)
-
-        if players_list:
-            pd.DataFrame(players_list).to_csv(output_file, index=False, encoding='utf-8-sig')
-            print(f"Xong! Luu {len(players_list)} cau thu.")
+    def scrape_players_from_squad(self, squad_url, team_name, league_id, season_name):
+        self.driver.get(squad_url)
+        rows_found = []
+        # Vong lap cho bang Standard Stats hien ra
+        for attempt in range(10):
+            time.sleep(4)
+            self.driver.execute_script("window.scrollBy(0, 500);")
+            soup = BeautifulSoup(self.driver.page_source, 'html.parser')
+            table = soup.find('table', id=lambda x: x and x.startswith('stats_standard'))
+            if table and table.find('tbody'):
+                rows_found = table.find('tbody').find_all('tr')
+                if rows_found: break
+            print(".", end="", flush=True)
         
-        # Nghi dai mot chut giua cac giai dau lon de tranh bi khoa IP
-        time.sleep(random.uniform(5, 8))
+        if not rows_found: return []
 
-    print("--- HOAN THANH CAO TAT CA CAU THU CUA CAC GIAI DAU ---")
-    gc.collect()
+        player_list = []
+        # Lay TeamID tu URL
+        team_id = squad_url.split('/')[squad_url.split('/').index('squads') + 1]
+
+        for r in rows_found:
+            if r.get('class') and ('thead' in r.get('class') or 'spacer' in r.get('class')):
+                continue
+            
+            p_cell = r.find('th', {'data-stat': 'player'}) or r.find('td', {'data-stat': 'player'})
+            if not p_cell or not p_cell.find('a'): continue
+
+            p_link = p_cell.find('a')
+            player_list.append({
+                "Season": season_name,
+                "LeagueID": league_id,
+                "TeamID": team_id,
+                "TeamName": team_name,
+                "PlayerID": p_link['href'].split('/')[3],
+                "PlayerName": p_cell.get_text(strip=True),
+                "Nation": r.find('td', {'data-stat': 'nationality'}).get_text(strip=True).split(' ')[-1] if r.find('td', {'data-stat': 'nationality'}) else "",
+                "Pos": r.find('td', {'data-stat': 'position'}).get_text(strip=True) if r.find('td', {'data-stat': 'position'}) else "",
+                "Age": r.find('td', {'data-stat': 'age'}).get_text(strip=True) if r.find('td', {'data-stat': 'age'}) else "",
+                "MP": r.find('td', {'data-stat': 'games'}).get_text(strip=True) or "0",
+                "Min": (r.find('td', {'data-stat': 'minutes'}).get_text(strip=True) or "0").replace(',', ''),
+                "Gls": r.find('td', {'data-stat': 'goals'}).get_text(strip=True) or "0",
+                "Ast": r.find('td', {'data-stat': 'assists'}).get_text(strip=True) or "0",
+                "xG": r.find('td', {'data-stat': 'xg'}).get_text(strip=True) or "0.0",
+                "PlayerURL": self.base_url + p_link['href']
+            })
+        return player_list
+
+    def run(self):
+        if not os.path.exists(self.seasons_file): return
+        df_seasons = pd.read_csv(self.seasons_file)
+        
+        # Resume logic: Lay LeagueID + Season làm key
+        finished_tasks = set()
+        if os.path.exists(self.output_file):
+            try:
+                df_done = pd.read_csv(self.output_file, usecols=['LeagueID', 'Season'])
+                finished_tasks = set(df_done['LeagueID'].astype(str) + "_" + df_done['Season'].astype(str))
+            except: pass
+
+        for _, s_info in df_seasons.iterrows():
+            l_id, s_name = str(s_info['league_id']), str(s_info['season'])
+            if f"{l_id}_{s_name}" in finished_tasks:
+                print(f"Skipping {s_info['league_name']} {s_name}")
+                continue
+
+            print(f"\n>>> PROCESSING: {s_info['league_name']} | {s_name}")
+            squads = self.get_squad_urls_from_league(s_info['season_url'])
+            
+            if not squads:
+                print("Failed to get squads. Possible block or layout change.")
+                continue
+
+            for squad in squads:
+                print(f"--- {squad['team_name']}:", end=" ", flush=True)
+                data = self.scrape_players_from_squad(squad['team_url'], squad['team_name'], l_id, s_name)
+                
+                if data:
+                    df_temp = pd.DataFrame(data)
+                    # Ghi tiep vao file
+                    is_empty = not os.path.exists(self.output_file) or os.stat(self.output_file).st_size == 0
+                    df_temp.to_csv(self.output_file, mode='a', index=False, header=is_empty, encoding='utf-8-sig')
+                    print(f"Done ({len(data)} p).")
+                else: print("Error.")
+                
+                # Delay an toan de ne Cloudflare
+                time.sleep(random.uniform(5, 9))
+            gc.collect()
 
 if __name__ == "__main__":
-    import random
-    main()
+    scraper = FBrefAutoPlayerScraper()
+    scraper.run()
