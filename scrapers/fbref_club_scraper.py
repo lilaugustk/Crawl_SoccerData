@@ -14,90 +14,97 @@ def fetch_logos():
         print("Loi: Khong tim thay file dau vao fbref_all_clubs_1.csv")
         return
 
-    # Doc du lieu va kiem tra cac doi da cao roi de chay tiep suc
+    # 1. Doc toan bo danh sach doi can cao
     df_all = pd.read_csv(input_file)
+    df_all.columns = df_all.columns.str.strip()
+    
+    # 2. KIEM TRA CAC DOI DA CAO (Resuming logic)
     crawled_ids = set()
     if os.path.exists(output_file):
         try:
-            df_existing = pd.read_csv(output_file)
-            crawled_ids = set(df_existing['ClubID'].unique())
-        except:
-            pass
+            # Vi file cua ban hien tai KHONG CO TIEU DE (Header), chung ta phai doc kieu header=None
+            df_existing = pd.read_csv(output_file, header=None)
+            # Cot 0 trong file logo cua ban la ClubID
+            crawled_ids = set(df_existing[0].astype(str).str.strip().unique())
+            print(f"Tim thay {len(crawled_ids)} doi da duoc cao logo truoc do.")
+        except Exception as e:
+            print(f"Luu y: Khong the doc file da co ({e}), se cao moi.")
 
-    df_to_crawl = df_all[~df_all['ClubID'].isin(crawled_ids)]
-    print(f"Can cao logo cho: {len(df_to_crawl)} doi.")
+    # 3. Loc ra danh sach thuc su can cao tiep
+    df_to_crawl = df_all[~df_all['ClubID'].astype(str).str.strip().isin(crawled_ids)]
+    print(f"Con lai: {len(df_to_crawl)} doi can quet.")
 
     if df_to_crawl.empty:
-        print("Tat ca da hoan thanh.")
+        print("Tat ca cac doi trong danh sach deu da co logo!")
         return
 
-    # Cau hinh Chrome an toan
+    # 4. Cau hinh trinh duyet
     options = uc.ChromeOptions()
     options.add_argument('--start-maximized')
-    options.add_argument('--disable-gpu')
-    options.add_argument('--no-sandbox')
+    options.add_argument('--remote-debugging-port=9222') # Dung port debug de on dinh
 
     print("Dang mo trinh duyet...")
-    driver = uc.Chrome(options=options, version_main=146)
+    try:
+        driver = uc.Chrome(options=options, version_main=146)
+    except Exception as e:
+        print(f"Loi trinh duyet: {e}")
+        return
 
     try:
         for index, row in df_to_crawl.iterrows():
-            club_id = row['ClubID']
+            club_id = str(row['ClubID']).strip()
             club_url = row['URL']
             
-            print(f"Dang lay logo: {row['ClubName']}...", end=" ", flush=True)
+            print(f"Dang lay logo: {row['ClubName']} (ID: {club_id})...", end=" ", flush=True)
             
             driver.get(club_url)
             
-            # --- CO CHE CHO DU LIEU THUC TE ---
             logo_url = ""
-            for attempt in range(10): # Cho toi đa 30-40 giay
-                time.sleep(4) 
+            # Vong lap cho tai logo (ne anh transparent)
+            for attempt in range(8): 
+                time.sleep(3) 
                 soup = BeautifulSoup(driver.page_source, 'html.parser')
                 
-                # Tim the div chua logo va the img teamlogo nhu anh image_63f1a7.jpg
                 logo_div = soup.find('div', class_='media-item logo')
                 if logo_div:
-                    img_tag = logo_div.find('img', class_='teamlogo')
+                    img_tag = logo_div.find('img', class_='teamlogo') or logo_div.find('img')
                     if img_tag and img_tag.get('src'):
                         src = img_tag.get('src')
-                        if 'transparent' not in src: # Bo qua anh trong suot
+                        if 'transparent' not in src:
                             logo_url = src
                             break
-                
                 print(".", end="", flush=True)
             
             if logo_url:
-                # Chuan hoa link CDN
                 if logo_url.startswith('/'):
                     logo_url = "https://cdn.ssref.net" + logo_url
                 
-                # Luu ngay lap tuc
-                res = {"ClubID": club_id, "ClubName": row['ClubName'], "LogoURL": logo_url, "Country": row['Country']}
-                pd.DataFrame([res]).to_csv(output_file, mode='a', index=False, 
-                                          header=not os.path.exists(output_file), encoding='utf-8-sig')
-                print(" Xong.")
+                # Luu du lieu: ClubID, ClubName, LogoURL, Country
+                res = [club_id, row['ClubName'], logo_url, row['Country']]
+                
+                # Ghi tiep vao file (Append mode), KHONG ghi tieu de de dong bo voi du lieu cu cua ban
+                pd.DataFrame([res]).to_csv(output_file, mode='a', index=False, header=False, encoding='utf-8-sig')
+                print(" OK.")
             else:
                 print(" Khong tim thay.")
 
-            # Nghi ngan giua cac doi
+            # Delay ngan giua cac yeu cau
             time.sleep(random.uniform(2, 4))
             
             if index % 20 == 0:
                 gc.collect()
 
     except Exception as e:
-        print(f"\nLoi trong qua trinh cào: {e}")
+        print(f"\nLoi trong qua trinh: {e}")
     finally:
         print("\nDang dong trinh duyet an toan...")
         try:
             driver.close()
-            time.sleep(2)
+            time.sleep(1)
             driver.quit()
-        except OSError:
-            # Khac phuc WinError 6: Neu handle da bi thu hoi thi bo qua
+        except:
             pass
-        print("Hoan thanh.")
+        print("Done.")
 
 if __name__ == "__main__":
     fetch_logos()
