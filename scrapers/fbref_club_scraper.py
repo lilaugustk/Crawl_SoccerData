@@ -3,150 +3,101 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 import os
-import sys
+import random
 import gc
 
-class FBrefDeepClubScraper:
-    def __init__(self, output_file="data/raw/fbref_all_clubs_deep_v2.csv"):
-        self.output_file = output_file
-        self.base_url = "https://fbref.com"
-        
-        os.makedirs(os.path.dirname(self.output_file), exist_ok=True)
+def fetch_logos():
+    input_file = "data/raw/fbref_all_clubs_1.csv"
+    output_file = "data/raw/fbref_clubs_with_logos_final.csv"
+    
+    if not os.path.exists(input_file):
+        print("Loi: Khong tim thay file dau vao fbref_all_clubs_1.csv")
+        return
 
-        print("Khoi tao trinh duyet chong tang hinh...")
-        options = uc.ChromeOptions()
-        options.add_argument('--start-maximized')
-        options.add_argument('--disable-notifications')
-        self.driver = uc.Chrome(options=options, version_main=146)
-
-    def get_already_crawled_countries(self):
-        if os.path.exists(self.output_file):
-            try:
-                df = pd.read_csv(self.output_file)
-                if not df.empty and 'Country' in df.columns:
-                    return set(df['Country'].unique())
-            except pd.errors.EmptyDataError:
-                # Nếu file tồn tại nhưng trống rỗng, coi như chưa cào gì
-                return set()
-        return set()
-
-    def get_country_links(self):
-        url = f"{self.base_url}/en/squads/"
-        print("LOP 1: Dang lay danh sach URL Quoc gia...")
-        self.driver.get(url)
-        time.sleep(10) 
-        
-        soup = BeautifulSoup(self.driver.page_source, 'html.parser')
-        country_links = []
-        
-        table = soup.find('table', id='countries')
-        if not table:
-            print("Khong tim thay bang Quoc gia. Co the bi block.")
-            return []
-            
-        rows = table.find('tbody').find_all('tr')
-        for row in rows:
-            if 'spacer' in row.get('class', []): continue
-            
-            country_th = row.find('th', {'data-stat': 'country'})
-            if country_th and country_th.find('a'):
-                a_tag = country_th.find('a')
-                country_name = a_tag.text.replace('Football Clubs', '').strip()
-                country_url = self.base_url + a_tag['href']
-                gov_body = row.find('td', {'data-stat': 'governing_body'}).text.strip()
-                
-                country_links.append({
-                    "name": country_name,
-                    "url": country_url,
-                    "gov": gov_body
-                })
-                
-        print(f"Da tim thay {len(country_links)} Quoc gia. Bat dau vao LOP 2...")
-        return country_links
-
-    def run(self):
+    # Doc du lieu va kiem tra cac doi da cao roi de chay tiep suc
+    df_all = pd.read_csv(input_file)
+    crawled_ids = set()
+    if os.path.exists(output_file):
         try:
-            countries = self.get_country_links()
-            if not countries: return
-            
-            crawled_countries = self.get_already_crawled_countries()
-            
-            for country in countries:
-                if country['name'] in crawled_countries:
-                    continue
-                    
-                print(f"Dang quet {country['name']}...", end=" ", flush=True)
-                self.driver.get(country['url'])
-                time.sleep(6) 
-                
-                soup = BeautifulSoup(self.driver.page_source, 'html.parser')
-                
-                # --- THAY ĐỔI QUAN TRỌNG: NHẮM THẲNG VÀO BẢNG ID="CLUBS" ---
-                club_table = soup.find('table', id='clubs')
-                if not club_table:
-                    print("Khong tim thay bang CLB (co the chua duoc ho tro hoac bi an).")
-                    continue
-                
-                club_list = []
-                tbody = club_table.find('tbody')
-                rows = tbody.find_all('tr') if tbody else []
+            df_existing = pd.read_csv(output_file)
+            crawled_ids = set(df_existing['ClubID'].unique())
+        except:
+            pass
 
-                for row in rows:
-                    if 'spacer' in row.get('class', []): continue
-                    
-                    team_th = row.find('th', {'data-stat': 'team'})
-                    if not team_th or not team_th.find('a'): continue
-                    
-                    a_tag = team_th.find('a')
-                    href = a_tag.get('href', '')
-                    club_name = a_tag.text.strip()
-                    
-                    parts = href.split('/')
-                    if len(parts) > 3:
-                        club_id = parts[3]
-                        
-                        # Bóc tách các cột dữ liệu theo đúng cấu trúc FBref
-                        gender = row.find('td', {'data-stat': 'gender'}).text.strip() if row.find('td', {'data-stat': 'gender'}) else ""
-                        comp = row.find('td', {'data-stat': 'comp'}).text.strip() if row.find('td', {'data-stat': 'comp'}) else ""
-                        min_season = row.find('td', {'data-stat': 'min_season'}).text.strip() if row.find('td', {'data-stat': 'min_season'}) else ""
-                        max_season = row.find('td', {'data-stat': 'max_season'}).text.strip() if row.find('td', {'data-stat': 'max_season'}) else ""
-                        num_comps = row.find('td', {'data-stat': 'num_comps'}).text.strip() if row.find('td', {'data-stat': 'num_comps'}) else ""
-                        champs = row.find('td', {'data-stat': 'first_place_finishes'}).text.strip() if row.find('td', {'data-stat': 'first_place_finishes'}) else ""
-                        other_names = row.find('td', {'data-stat': 'other_names'}).text.strip() if row.find('td', {'data-stat': 'other_names'}) else ""
+    df_to_crawl = df_all[~df_all['ClubID'].isin(crawled_ids)]
+    print(f"Can cao logo cho: {len(df_to_crawl)} doi.")
 
-                        club_list.append({
-                            "ClubID": club_id,
-                            "ClubName": club_name,
-                            "Country": country['name'],
-                            "GoverningBody": country['gov'],
-                            "Gender": gender,
-                            "Comp": comp,
-                            "From": min_season,
-                            "To": max_season,
-                            "NumComps": num_comps,
-                            "Champs": champs,
-                            "OtherNames": other_names,
-                            "URL": self.base_url + href
-                        })
+    if df_to_crawl.empty:
+        print("Tat ca da hoan thanh.")
+        return
+
+    # Cau hinh Chrome an toan
+    options = uc.ChromeOptions()
+    options.add_argument('--start-maximized')
+    options.add_argument('--disable-gpu')
+    options.add_argument('--no-sandbox')
+
+    print("Dang mo trinh duyet...")
+    driver = uc.Chrome(options=options, version_main=146)
+
+    try:
+        for index, row in df_to_crawl.iterrows():
+            club_id = row['ClubID']
+            club_url = row['URL']
+            
+            print(f"Dang lay logo: {row['ClubName']}...", end=" ", flush=True)
+            
+            driver.get(club_url)
+            
+            # --- CO CHE CHO DU LIEU THUC TE ---
+            logo_url = ""
+            for attempt in range(10): # Cho toi đa 30-40 giay
+                time.sleep(4) 
+                soup = BeautifulSoup(driver.page_source, 'html.parser')
                 
-                if club_list:
-                    df = pd.DataFrame(club_list)
-                    header = not os.path.exists(self.output_file) or os.path.getsize(self.output_file) == 0
-                    df.to_csv(self.output_file, mode='a', index=False, header=header)
-                    print(f"Lay duoc {len(club_list)} CLB.")
-                else:
-                    print("Khong co CLB nao hoac bi chan.")
-                    
-        except Exception as e:
-            print(f"\nLoi he thong: {e}")
-        finally:
-            self.driver.quit()
-            print(f"\nHOAN THANH DEEP SCRAPE! Du lieu tai: {self.output_file}")
+                # Tim the div chua logo va the img teamlogo nhu anh image_63f1a7.jpg
+                logo_div = soup.find('div', class_='media-item logo')
+                if logo_div:
+                    img_tag = logo_div.find('img', class_='teamlogo')
+                    if img_tag and img_tag.get('src'):
+                        src = img_tag.get('src')
+                        if 'transparent' not in src: # Bo qua anh trong suot
+                            logo_url = src
+                            break
+                
+                print(".", end="", flush=True)
+            
+            if logo_url:
+                # Chuan hoa link CDN
+                if logo_url.startswith('/'):
+                    logo_url = "https://cdn.ssref.net" + logo_url
+                
+                # Luu ngay lap tuc
+                res = {"ClubID": club_id, "ClubName": row['ClubName'], "LogoURL": logo_url, "Country": row['Country']}
+                pd.DataFrame([res]).to_csv(output_file, mode='a', index=False, 
+                                          header=not os.path.exists(output_file), encoding='utf-8-sig')
+                print(" Xong.")
+            else:
+                print(" Khong tim thay.")
+
+            # Nghi ngan giua cac doi
+            time.sleep(random.uniform(2, 4))
+            
+            if index % 20 == 0:
+                gc.collect()
+
+    except Exception as e:
+        print(f"\nLoi trong qua trinh cào: {e}")
+    finally:
+        print("\nDang dong trinh duyet an toan...")
+        try:
+            driver.close()
+            time.sleep(2)
+            driver.quit()
+        except OSError:
+            # Khac phuc WinError 6: Neu handle da bi thu hoi thi bo qua
+            pass
+        print("Hoan thanh.")
 
 if __name__ == "__main__":
-    scraper = FBrefDeepClubScraper(output_file="data/raw/fbref_all_clubs.csv")
-    scraper.run()
-    
-    sys.stderr = open(os.devnull, 'w')
-    del scraper
-    gc.collect()
+    fetch_logos()
