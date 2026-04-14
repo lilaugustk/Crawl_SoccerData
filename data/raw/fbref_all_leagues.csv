@@ -1,104 +1,154 @@
 ﻿source_id,name,category,country,country_code,gender,level,first_season,last_season,logo_url
-9,Premier League,Domestic,eng ENG,ENG,M,1st,1888-1889,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/9.png
-12,La Liga,Domestic,es ESP,ES,M,1st,1988-1989,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/12.png
-13,Ligue 1,Domestic,fr FRA,FR,M,1st,1995-1996,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/13.png
-20,Fußball-Bundesliga,Domestic,de GER,DE,M,1st,1988-1989,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/20.png
-11,Serie A,Domestic,it ITA,IT,M,1st,1988-1989,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/11.png
-Big5,Big 5 European Leagues Combined,Domestic,,INTL,M,1st,1995-1996,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/Big5.png
-21,Liga Profesional de Fútbol Argentina,Domestic,ar ARG,AR,M,Cup,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/21.png
-65,A-League Men,Domestic,au AUS,AU,M,Cup,2005-2006,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/65.png
-196,A-League Women,Domestic,au AUS,AU,F,Cup,2018-2019,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/196.png
-56,Austrian Football Bundesliga,Domestic,at AUT,AT,M,Cup,2003-2004,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/56.png
-286,ÖFB Frauen-Bundesliga,Domestic,at AUT,AT,F,Cup,2020-2021,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/286.png
-37,Belgian Pro League,Domestic,be BEL,BE,M,Cup,2003-2004,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/37.png
-296,Belgian Women's Super League,Domestic,be BEL,BE,F,Cup,2020-2021,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/296.png
-74,División de Fútbol Profesional,Domestic,bo BOL,BO,M,Cup,2014-2015,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/74.png
-24,Campeonato Brasileiro Série A,Domestic,br BRA,BR,M,Cup,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/24.png
-206,Campeonato Brasileiro de Futebol Feminino Série A1,Domestic,br BRA,BR,F,Cup,2019,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/206.png
-67,First Professional Football League,Domestic,bg BUL,BG,M,Cup,2009-2010,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/67.png
-211,Canadian Premier League,Domestic,ca CAN,CA,M,Cup,2019,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/211.png
-35,Liga de Primera,Domestic,cl CHI,CL,M,Cup,2014-2015,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/35.png
-62,Chinese Football Association Super League,Domestic,cn CHN,CN,M,Cup,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/62.png
-41,Categoría Primera A,Domestic,co COL,CO,M,Cup,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/41.png
-63,Croatian Football League,Domestic,hr CRO,HR,M,Cup,2007-2008,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/63.png
-66,Czech First League,Domestic,cz CZE,CZ,M,Cup,2009-2010,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/66.png
-50,Danish Superliga,Domestic,dk DEN,DK,M,Cup,2003-2004,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/50.png
-340,A-Liga,Domestic,dk DEN,DK,F,Cup,2019-2020,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/340.png
-58,Liga Profesional Ecuador,Domestic,ec ECU,EC,M,Cup,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/58.png
-9,Premier League,Domestic,eng ENG,ENG,M,Cup,1888-1889,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/9.png
-189,FA Women's Super League,Domestic,eng ENG,ENG,F,Cup,2017,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/189.png
-12,La Liga,Domestic,es ESP,ES,M,Cup,1988-1989,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/12.png
-230,Liga F,Domestic,es ESP,ES,F,Cup,2022-2023,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/230.png
-43,Veikkausliiga,Domestic,fi FIN,FI,M,Cup,2003,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/43.png
-13,Ligue 1,Domestic,fr FRA,FR,M,Cup,1995-1996,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/13.png
-193,Première Ligue,Domestic,fr FRA,FR,F,Cup,2017-2018,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/193.png
-20,Fußball-Bundesliga,Domestic,de GER,DE,M,Cup,1988-1989,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/20.png
-183,Frauen-Bundesliga,Domestic,de GER,DE,F,Cup,2016-2017,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/183.png
-27,Super League Greece,Domestic,gr GRE,GR,M,Cup,2000-2001,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/27.png
-46,Nemzeti Bajnokság I,Domestic,hu HUN,HU,M,Cup,2005-2006,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/46.png
-82,Indian Super League,Domestic,in IND,IN,M,Cup,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/82.png
-80,League of Ireland Premier Division,Domestic,ie IRL,IE,M,Cup,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/80.png
-64,Persian Gulf Pro League,Domestic,ir IRN,IR,M,Cup,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/64.png
-11,Serie A,Domestic,it ITA,IT,M,Cup,1988-1989,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/11.png
-208,Serie A,Domestic,it ITA,IT,F,Cup,2018-2019,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/208.png
-25,J1 League,Domestic,jp JPN,JP,M,Cup,2014,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/25.png
-893,Women Empowerment League,Domestic,jp JPN,JP,F,Cup,2021-2022,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/893.png
-55,K League 1,Domestic,kr KOR,KR,M,Cup,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/55.png
-70,Saudi Pro League,Domestic,sa KSA,SA,M,Cup,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/70.png
-31,Liga MX,Domestic,mx MEX,MX,M,Cup,2003-2004,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/31.png
-23,Eredivisie,Domestic,nl NED,NL,M,Cup,2000-2001,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/23.png
-195,Eredivisie Vrouwen,Domestic,nl NED,NL,F,Cup,2018-2019,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/195.png
-28,Eliteserien,Domestic,no NOR,NO,M,Cup,2000,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/28.png
-185,Toppserien,Domestic,no NOR,NO,F,Cup,2017,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/185.png
-61,APF División de Honor,Domestic,py PAR,PY,M,Cup,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/61.png
-44,Liga 1 de Fútbol Profesional,Domestic,pe PER,PE,M,Cup,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/44.png
-36,Ekstraklasa,Domestic,pl POL,PL,M,Cup,2002-2003,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/36.png
-32,Primeira Liga,Domestic,pt POR,PT,M,Cup,2000-2001,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/32.png
-47,Liga I,Domestic,ro ROU,RO,M,Cup,2006-2007,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/47.png
-52,South African Premiership,Domestic,za RSA,ZA,M,Cup,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/52.png
-30,Russian Premier League,Domestic,ru RUS,RU,M,Cup,2001,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/30.png
-40,Scottish Premiership,Domestic,sct SCO,SCT,M,Cup,2000-2001,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/40.png
-54,Serbian SuperLiga,Domestic,rs SRB,RS,M,Cup,2008-2009,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/54.png
-57,Swiss Super League,Domestic,ch SUI,CH,M,Cup,2003-2004,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/57.png
-894,Swiss Women's Super League,Domestic,ch SUI,CH,F,Cup,2021-2022,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/894.png
-29,Allsvenskan,Domestic,se SWE,SE,M,Cup,2001,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/29.png
-187,Damallsvenskan,Domestic,se SWE,SE,F,Cup,2017,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/187.png
-26,Süper Lig,Domestic,tr TUR,TR,M,Cup,2001-2002,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/26.png
-39,Ukrainian Premier League,Domestic,ua UKR,UA,M,Cup,2003-2004,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/39.png
-45,Liga AUF Uruguaya,Domestic,uy URU,UY,M,Cup,2014-2015,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/45.png
-22,Major League Soccer,Domestic,us USA,US,M,Cup,1996,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/22.png
-182,National Women's Soccer League,Domestic,us USA,US,F,Cup,2013,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/182.png
-878,Women's Professional Soccer,Domestic,us USA,US,F,Cup,2009,2011,https://cdn.ssref.net/req/202603251/tlogo/fb/878.png
-877,Women's United Soccer Association,Domestic,us USA,US,F,Cup,2001,2003,https://cdn.ssref.net/req/202603251/tlogo/fb/877.png
-105,Venezuelan Primera División,Domestic,ve VEN,VE,M,Cup,2014-2015,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/105.png
-719,FIFA Club World Cup,International Cup,International,INTL,M,,2019,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/719.png
-133,CONCACAF Champions Cup,International Cup,International,INTL,M,1st,2020,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/133.png
-939,Leagues Cup,International Cup,International,INTL,M,,2023,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/939.png
-14,Copa Libertadores de América,International Cup,International,INTL,M,1st,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/14.png
-205,Copa CONMEBOL Sudamericana,International Cup,International,INTL,M,2nd,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/205.png
-8,UEFA Champions League,International Cup,International,INTL,M,1st,1990-1991,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/8.png
-19,UEFA Europa League,International Cup,International,INTL,M,2nd,1990-1991,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/19.png
-882,UEFA Conference League,International Cup,International,INTL,M,3rd,2021-2022,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/882.png
-122,UEFA Super Cup,International Cup,International,INTL,M,,2000,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/122.png
-181,UEFA Women's Champions League,International Cup,International,INTL,F,1st,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/181.png
-666,FIFA Confederations Cup,National Team,International,INTL,M,,2001,2017,https://cdn.ssref.net/req/202603251/tlogo/fb/666.png
-1,FIFA World Cup,National Team,International,INTL,M,,1930,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/1.png
-218,International Friendlies (M),National Team,International,INTL,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/218.png
-214,Algarve Cup,National Team,International,INTL,F,,2019,2022,https://cdn.ssref.net/req/202603251/tlogo/fb/214.png
-106,FIFA Women's World Cup,National Team,International,INTL,F,,1991,2023,https://cdn.ssref.net/req/202603251/tlogo/fb/106.png
-217,International Friendlies (W),National Team,International,INTL,F,,2019,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/217.png
-180,Olympics — Women's Tournament,National Team,International,INTL,F,,1996,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/180.png
-212,SheBelieves Cup,National Team,International,INTL,F,,2016,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/212.png
-656,Africa Cup of Nations,National Team,International,INTL,M,,2010,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/656.png
-156,Women's Africa Cup of Nations,National Team,International,INTL,F,,2016,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/156.png
-681,CONCACAF Gold Cup,National Team,International,INTL,M,,2015,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/681.png
-157,CONCACAF W Championship,National Team,International,INTL,F,,2014,2022,https://cdn.ssref.net/req/202603251/tlogo/fb/157.png
-685,CONMEBOL Copa América,National Team,International,INTL,M,,2015,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/685.png
-158,Copa América Femenina,National Team,International,INTL,F,,2018,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/158.png
-257,OFC Nations Cup,National Team,International,INTL,M,,2007-2008,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/257.png
-159,OFC Women's Nations Cup,National Team,International,INTL,F,,2018,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/159.png
-676,UEFA European Football Championship,National Team,International,INTL,M,,2000,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/676.png
-677,UEFA Nations League,National Team,International,INTL,M,,2018-2019,2024-2025,https://cdn.ssref.net/req/202603251/tlogo/fb/677.png
-162,UEFA Women's Championship,National Team,International,INTL,F,,2001,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/162.png
-664,AFC Asian Cup,National Team,International,INTL,M,,2000,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/664.png
-161,AFC Women's Asian Cup,National Team,International,INTL,F,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/161.png
+719,FIFA Club World Cup,comps_intl_club_cup,International,INTL,M,,2019,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/719.png
+133,CONCACAF Champions Cup,comps_intl_club_cup,International,INTL,M,1st,2020,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/133.png
+939,Leagues Cup,comps_intl_club_cup,International,INTL,M,,2023,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/939.png
+14,Copa Libertadores de América,comps_intl_club_cup,International,INTL,M,1st,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/14.png
+205,Copa CONMEBOL Sudamericana,comps_intl_club_cup,International,INTL,M,2nd,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/205.png
+8,UEFA Champions League,comps_intl_club_cup,International,INTL,M,1st,1990-1991,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/8.png
+19,UEFA Europa League,comps_intl_club_cup,International,INTL,M,2nd,1990-1991,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/19.png
+882,UEFA Conference League,comps_intl_club_cup,International,INTL,M,3rd,2021-2022,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/882.png
+122,UEFA Super Cup,comps_intl_club_cup,International,INTL,M,,2000,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/122.png
+181,UEFA Women's Champions League,comps_intl_club_cup,International,INTL,F,1st,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/181.png
+666,FIFA Confederations Cup,comps_intl_fa_nonqualifier_senior,International,INTL,M,,2001,2017,https://cdn.ssref.net/req/202603251/tlogo/fb/666.png
+1,FIFA World Cup,comps_intl_fa_nonqualifier_senior,International,INTL,M,,1930,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/1.png
+218,International Friendlies (M),comps_intl_fa_nonqualifier_senior,International,INTL,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/218.png
+214,Algarve Cup,comps_intl_fa_nonqualifier_senior,International,INTL,F,,2019,2022,https://cdn.ssref.net/req/202603251/tlogo/fb/214.png
+106,FIFA Women's World Cup,comps_intl_fa_nonqualifier_senior,International,INTL,F,,1991,2023,https://cdn.ssref.net/req/202603251/tlogo/fb/106.png
+217,International Friendlies (W),comps_intl_fa_nonqualifier_senior,International,INTL,F,,2019,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/217.png
+180,Olympics — Women's Tournament,comps_intl_fa_nonqualifier_senior,International,INTL,F,,1996,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/180.png
+212,SheBelieves Cup,comps_intl_fa_nonqualifier_senior,International,INTL,F,,2016,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/212.png
+656,Africa Cup of Nations,comps_intl_fa_nonqualifier_senior,International,INTL,M,,2010,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/656.png
+156,Women's Africa Cup of Nations,comps_intl_fa_nonqualifier_senior,International,INTL,F,,2016,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/156.png
+681,CONCACAF Gold Cup,comps_intl_fa_nonqualifier_senior,International,INTL,M,,2015,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/681.png
+157,CONCACAF W Championship,comps_intl_fa_nonqualifier_senior,International,INTL,F,,2014,2022,https://cdn.ssref.net/req/202603251/tlogo/fb/157.png
+685,CONMEBOL Copa América,comps_intl_fa_nonqualifier_senior,International,INTL,M,,2015,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/685.png
+158,Copa América Femenina,comps_intl_fa_nonqualifier_senior,International,INTL,F,,2018,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/158.png
+257,OFC Nations Cup,comps_intl_fa_nonqualifier_senior,International,INTL,M,,2007-2008,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/257.png
+159,OFC Women's Nations Cup,comps_intl_fa_nonqualifier_senior,International,INTL,F,,2018,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/159.png
+676,UEFA European Football Championship,comps_intl_fa_nonqualifier_senior,International,INTL,M,,2000,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/676.png
+677,UEFA Nations League,comps_intl_fa_nonqualifier_senior,International,INTL,M,,2018-2019,2024-2025,https://cdn.ssref.net/req/202603251/tlogo/fb/677.png
+162,UEFA Women's Championship,comps_intl_fa_nonqualifier_senior,International,INTL,F,,2001,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/162.png
+664,AFC Asian Cup,comps_intl_fa_nonqualifier_senior,International,INTL,M,,2000,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/664.png
+161,AFC Women's Asian Cup,comps_intl_fa_nonqualifier_senior,International,INTL,F,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/161.png
+9,Premier League,comps_club,eng ENG,ENG,M,1st,1888-1889,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/9.png
+12,La Liga,comps_club,es ESP,ES,M,1st,1988-1989,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/12.png
+13,Ligue 1,comps_club,fr FRA,FR,M,1st,1995-1996,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/13.png
+20,Fußball-Bundesliga,comps_club,de GER,DE,M,1st,1988-1989,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/20.png
+11,Serie A,comps_club,it ITA,IT,M,1st,1988-1989,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/11.png
+Big5,Big 5 European Leagues Combined,comps_club,,INTL,M,1st,1995-1996,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/Big5.png
+21,Liga Profesional de Fútbol Argentina,comps_1_fa_club_league_senior,ar ARG,AR,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/21.png
+65,A-League Men,comps_1_fa_club_league_senior,au AUS,AU,M,,2005-2006,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/65.png
+196,A-League Women,comps_1_fa_club_league_senior,au AUS,AU,F,,2018-2019,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/196.png
+56,Austrian Football Bundesliga,comps_1_fa_club_league_senior,at AUT,AT,M,,2003-2004,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/56.png
+286,ÖFB Frauen-Bundesliga,comps_1_fa_club_league_senior,at AUT,AT,F,,2020-2021,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/286.png
+37,Belgian Pro League,comps_1_fa_club_league_senior,be BEL,BE,M,,2003-2004,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/37.png
+296,Belgian Women's Super League,comps_1_fa_club_league_senior,be BEL,BE,F,,2020-2021,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/296.png
+74,División de Fútbol Profesional,comps_1_fa_club_league_senior,bo BOL,BO,M,,2014-2015,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/74.png
+24,Campeonato Brasileiro Série A,comps_1_fa_club_league_senior,br BRA,BR,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/24.png
+206,Campeonato Brasileiro de Futebol Feminino Série A1,comps_1_fa_club_league_senior,br BRA,BR,F,,2019,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/206.png
+67,First Professional Football League,comps_1_fa_club_league_senior,bg BUL,BG,M,,2009-2010,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/67.png
+211,Canadian Premier League,comps_1_fa_club_league_senior,ca CAN,CA,M,,2019,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/211.png
+35,Liga de Primera,comps_1_fa_club_league_senior,cl CHI,CL,M,,2014-2015,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/35.png
+62,Chinese Football Association Super League,comps_1_fa_club_league_senior,cn CHN,CN,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/62.png
+41,Categoría Primera A,comps_1_fa_club_league_senior,co COL,CO,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/41.png
+63,Croatian Football League,comps_1_fa_club_league_senior,hr CRO,HR,M,,2007-2008,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/63.png
+66,Czech First League,comps_1_fa_club_league_senior,cz CZE,CZ,M,,2009-2010,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/66.png
+50,Danish Superliga,comps_1_fa_club_league_senior,dk DEN,DK,M,,2003-2004,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/50.png
+340,A-Liga,comps_1_fa_club_league_senior,dk DEN,DK,F,,2019-2020,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/340.png
+58,Liga Profesional Ecuador,comps_1_fa_club_league_senior,ec ECU,EC,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/58.png
+189,FA Women's Super League,comps_1_fa_club_league_senior,eng ENG,ENG,F,,2017,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/189.png
+230,Liga F,comps_1_fa_club_league_senior,es ESP,ES,F,,2022-2023,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/230.png
+43,Veikkausliiga,comps_1_fa_club_league_senior,fi FIN,FI,M,,2003,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/43.png
+193,Première Ligue,comps_1_fa_club_league_senior,fr FRA,FR,F,,2017-2018,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/193.png
+183,Frauen-Bundesliga,comps_1_fa_club_league_senior,de GER,DE,F,,2016-2017,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/183.png
+27,Super League Greece,comps_1_fa_club_league_senior,gr GRE,GR,M,,2000-2001,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/27.png
+46,Nemzeti Bajnokság I,comps_1_fa_club_league_senior,hu HUN,HU,M,,2005-2006,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/46.png
+82,Indian Super League,comps_1_fa_club_league_senior,in IND,IN,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/82.png
+80,League of Ireland Premier Division,comps_1_fa_club_league_senior,ie IRL,IE,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/80.png
+64,Persian Gulf Pro League,comps_1_fa_club_league_senior,ir IRN,IR,M,,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/64.png
+208,Serie A,comps_1_fa_club_league_senior,it ITA,IT,F,,2018-2019,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/208.png
+25,J1 League,comps_1_fa_club_league_senior,jp JPN,JP,M,,2014,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/25.png
+893,Women Empowerment League,comps_1_fa_club_league_senior,jp JPN,JP,F,,2021-2022,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/893.png
+55,K League 1,comps_1_fa_club_league_senior,kr KOR,KR,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/55.png
+70,Saudi Pro League,comps_1_fa_club_league_senior,sa KSA,SA,M,,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/70.png
+31,Liga MX,comps_1_fa_club_league_senior,mx MEX,MX,M,,2003-2004,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/31.png
+23,Eredivisie,comps_1_fa_club_league_senior,nl NED,NL,M,,2000-2001,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/23.png
+195,Eredivisie Vrouwen,comps_1_fa_club_league_senior,nl NED,NL,F,,2018-2019,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/195.png
+28,Eliteserien,comps_1_fa_club_league_senior,no NOR,NO,M,,2000,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/28.png
+185,Toppserien,comps_1_fa_club_league_senior,no NOR,NO,F,,2017,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/185.png
+61,APF División de Honor,comps_1_fa_club_league_senior,py PAR,PY,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/61.png
+44,Liga 1 de Fútbol Profesional,comps_1_fa_club_league_senior,pe PER,PE,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/44.png
+36,Ekstraklasa,comps_1_fa_club_league_senior,pl POL,PL,M,,2002-2003,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/36.png
+32,Primeira Liga,comps_1_fa_club_league_senior,pt POR,PT,M,,2000-2001,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/32.png
+47,Liga I,comps_1_fa_club_league_senior,ro ROU,RO,M,,2006-2007,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/47.png
+52,South African Premiership,comps_1_fa_club_league_senior,za RSA,ZA,M,,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/52.png
+30,Russian Premier League,comps_1_fa_club_league_senior,ru RUS,RU,M,,2001,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/30.png
+40,Scottish Premiership,comps_1_fa_club_league_senior,sct SCO,SCT,M,,2000-2001,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/40.png
+54,Serbian SuperLiga,comps_1_fa_club_league_senior,rs SRB,RS,M,,2008-2009,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/54.png
+57,Swiss Super League,comps_1_fa_club_league_senior,ch SUI,CH,M,,2003-2004,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/57.png
+894,Swiss Women's Super League,comps_1_fa_club_league_senior,ch SUI,CH,F,,2021-2022,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/894.png
+29,Allsvenskan,comps_1_fa_club_league_senior,se SWE,SE,M,,2001,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/29.png
+187,Damallsvenskan,comps_1_fa_club_league_senior,se SWE,SE,F,,2017,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/187.png
+26,Süper Lig,comps_1_fa_club_league_senior,tr TUR,TR,M,,2001-2002,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/26.png
+39,Ukrainian Premier League,comps_1_fa_club_league_senior,ua UKR,UA,M,,2003-2004,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/39.png
+45,Liga AUF Uruguaya,comps_1_fa_club_league_senior,uy URU,UY,M,,2014-2015,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/45.png
+22,Major League Soccer,comps_1_fa_club_league_senior,us USA,US,M,,1996,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/22.png
+182,National Women's Soccer League,comps_1_fa_club_league_senior,us USA,US,F,,2013,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/182.png
+878,Women's Professional Soccer,comps_1_fa_club_league_senior,us USA,US,F,,2009,2011,https://cdn.ssref.net/req/202603251/tlogo/fb/878.png
+877,Women's United Soccer Association,comps_1_fa_club_league_senior,us USA,US,F,,2001,2003,https://cdn.ssref.net/req/202603251/tlogo/fb/877.png
+105,Venezuelan Primera División,comps_1_fa_club_league_senior,ve VEN,VE,M,,2014-2015,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/105.png
+69,Challenger Pro League,comps_2_fa_club_league_senior,be BEL,BE,M,,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/69.png
+38,Campeonato Brasileiro Série B,comps_2_fa_club_league_senior,br BRA,BR,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/38.png
+10,EFL Championship,comps_2_fa_club_league_senior,eng ENG,ENG,M,,2001-2002,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/10.png
+17,Spanish Segunda División,comps_2_fa_club_league_senior,es ESP,ES,M,,2001-2002,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/17.png
+60,Ligue 2,comps_2_fa_club_league_senior,fr FRA,FR,M,,2009-2010,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/60.png
+33,2. Fußball-Bundesliga,comps_2_fa_club_league_senior,de GER,DE,M,,2003-2004,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/33.png
+378,I-League,comps_2_fa_club_league_senior,in IND,IN,M,,2013-2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/378.png
+18,Serie B,comps_2_fa_club_league_senior,it ITA,IT,M,,2001-2002,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/18.png
+49,J2 League,comps_2_fa_club_league_senior,jp JPN,JP,M,,2014,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/49.png
+51,Eerste Divisie,comps_2_fa_club_league_senior,nl NED,NL,M,,2007-2008,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/51.png
+72,Scottish Championship,comps_2_fa_club_league_senior,sct SCO,SCT,M,,2007-2008,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/72.png
+48,Superettan,comps_2_fa_club_league_senior,se SWE,SE,M,,2006,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/48.png
+76,North American Soccer League,comps_2_fa_club_league_senior,us USA,US,M,,2011,2017,https://cdn.ssref.net/req/202603251/tlogo/fb/76.png
+73,USL Championship,comps_2_fa_club_league_senior,us USA,US,M,,2011,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/73.png
+68,USL First Division,comps_2_fa_club_league_senior,us USA,US,M,,2004,2009,https://cdn.ssref.net/req/202603251/tlogo/fb/68.png
+79,USSF Division 2 Professional League,comps_2_fa_club_league_senior,us USA,US,M,,2010,2010,https://cdn.ssref.net/req/202603251/tlogo/fb/79.png
+15,EFL League One,comps_3_fa_club_league_senior,eng ENG,ENG,M,3rd,2002-2003,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/15.png
+16,EFL League Two,comps_3_fa_club_league_senior,eng ENG,ENG,M,4th,2002-2003,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/16.png
+34,National League,comps_3_fa_club_league_senior,eng ENG,ENG,M,5th,2006-2007,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/34.png
+59,3. Fußball-Liga,comps_3_fa_club_league_senior,de GER,DE,M,3rd,2009-2010,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/59.png
+137,USL League One,comps_3_fa_club_league_senior,us USA,US,M,3rd,2020,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/137.png
+255,FIFA World Cup Qualification — Inter-confederation play-offs,comps_intl_fa_qualifier_senior,International,INTL,M,1st,2022,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/255.png
+657,Africa Cup of Nations qualification,comps_intl_fa_qualifier_senior,International,INTL,M,,2015,2027,https://cdn.ssref.net/req/202603251/tlogo/fb/657.png
+2,FIFA World Cup Qualification — CAF,comps_intl_fa_qualifier_senior,International,INTL,M,,2002,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/2.png
+3,FIFA World Cup Qualification — CONCACAF,comps_intl_fa_qualifier_senior,International,INTL,M,,1998,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/3.png
+4,FIFA World Cup Qualification — CONMEBOL,comps_intl_fa_qualifier_senior,International,INTL,M,,2002,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/4.png
+5,FIFA World Cup Qualification — OFC,comps_intl_fa_qualifier_senior,International,INTL,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/5.png
+6,FIFA World Cup Qualification — UEFA,comps_intl_fa_qualifier_senior,International,INTL,M,,1998,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/6.png
+678,UEFA European Football Championship Qualifying,comps_intl_fa_qualifier_senior,International,INTL,M,,2008,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/678.png
+160,FIFA Women's World Cup Qualification (UEFA),comps_intl_fa_qualifier_senior,International,INTL,F,,2019,2027,https://cdn.ssref.net/req/202603251/tlogo/fb/160.png
+675,UEFA Women's Euro Qualification,comps_intl_fa_qualifier_senior,International,INTL,F,,2017,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/675.png
+665,AFC Asian Cup qualification,comps_intl_fa_qualifier_senior,International,INTL,M,,2000,2023,https://cdn.ssref.net/req/202603251/tlogo/fb/665.png
+7,FIFA World Cup Qualification — AFC,comps_intl_fa_qualifier_senior,International,INTL,M,,2002,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/7.png
+662,AFC Women's Asian Cup qualification,comps_intl_fa_qualifier_senior,International,INTL,F,,2018,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/662.png
+905,Copa de la Liga Profesional,comps_fa_club_cup,ar ARG,AR,M,,2020,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/905.png
+690,EFL Cup,comps_fa_club_cup,eng ENG,ENG,M,,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/690.png
+602,FA Community Shield,comps_fa_club_cup,eng ENG,ENG,M,,2015,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/602.png
+514,FA Cup,comps_fa_club_cup,eng ENG,ENG,M,,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/514.png
+569,Copa del Rey,comps_fa_club_cup,es ESP,ES,M,,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/569.png
+646,Supercopa de España,comps_fa_club_cup,es ESP,ES,M,,2015,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/646.png
+518,Coupe de France,comps_fa_club_cup,fr FRA,FR,M,,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/518.png
+693,Coupe de la Ligue,comps_fa_club_cup,fr FRA,FR,M,,2014-2015,2019-2020,https://cdn.ssref.net/req/202603251/tlogo/fb/693.png
+604,Trophée des Champions,comps_fa_club_cup,fr FRA,FR,M,,2014,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/604.png
+521,DFB-Pokal,comps_fa_club_cup,de GER,DE,M,,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/521.png
+606,Franz Beckenbauer Supercup,comps_fa_club_cup,de GER,DE,M,,2014,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/606.png
+520,DFB-Pokal Frauen,comps_fa_club_cup,de GER,DE,F,,2019-2020,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/520.png
+529,Coppa Italia,comps_fa_club_cup,it ITA,IT,M,,2014-2015,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/529.png
+612,Supercoppa Italiana,comps_fa_club_cup,it ITA,IT,M,,2014,2025,https://cdn.ssref.net/req/202603251/tlogo/fb/612.png
+577,Lamar Hunt U.S. Open Cup,comps_fa_club_cup,us USA,US,M,,2019,2026,https://cdn.ssref.net/req/202603251/tlogo/fb/577.png
+881,NWSL Challenge Cup,comps_fa_club_cup,us USA,US,F,,2020,2024,https://cdn.ssref.net/req/202603251/tlogo/fb/881.png
+884,NWSL Fall Series,comps_fa_club_cup,us USA,US,F,,2020,2020,https://cdn.ssref.net/req/202603251/tlogo/fb/884.png
+852,Premier League 2,comps_fa_club_league_junior,eng ENG,ENG,M,1st,2016-2017,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/852.png
+853,Premier League 2 — Division 2,comps_fa_club_league_junior,eng ENG,ENG,M,2nd,2016-2017,2022-2023,https://cdn.ssref.net/req/202603251/tlogo/fb/853.png
+851,U17 DFB Youth League,comps_fa_club_league_junior,de GER,DE,M,1st,2016-2017,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/851.png
+850,U19 DFB Youth League,comps_fa_club_league_junior,de GER,DE,M,1st,2015-2016,2025-2026,https://cdn.ssref.net/req/202603251/tlogo/fb/850.png
