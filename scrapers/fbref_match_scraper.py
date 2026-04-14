@@ -8,7 +8,7 @@ import sys
 import gc
 
 class FBrefMatchScraper:
-    def __init__(self, start_date_str="1909-04-30", output_file="data/raw/fbref_all_matches/fbref_all_matches_2024.csv"):
+    def __init__(self, start_date_str="1912-06-12", output_file="data/raw/fbref_all_matches/fbref_all_matches_2024.csv"):
         self.start_date = datetime.strptime(start_date_str, "%Y-%m-%d").date()
         self.end_date = date.today()
         self.output_file = output_file
@@ -94,7 +94,7 @@ class FBrefMatchScraper:
 
             try:
                 self.driver.get(url)
-                time.sleep(5) 
+                time.sleep(7) 
 
                 soup = BeautifulSoup(self.driver.page_source, 'html.parser')
                 
@@ -128,7 +128,7 @@ class FBrefMatchScraper:
 
             except Exception as e:
                 print(f"Loi: {e}")
-                time.sleep(10)
+                time.sleep(7)
 
             current_date += timedelta(days=1)
 
@@ -140,7 +140,7 @@ class FBrefMatchScraper:
 
 if __name__ == "__main__":
     # Bat dau tu dau nam 2026
-    scraper = FBrefMatchScraper(start_date_str="2024-01-01")
+    scraper = FBrefMatchScraper(start_date_str="1912-06-12")
     scraper.run()
     
     sys.stderr = open(os.devnull, 'w')  
