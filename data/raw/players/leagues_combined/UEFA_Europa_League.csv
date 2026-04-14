@@ -1,0 +1,417 @@
+﻿PlayerID,Name,nationality,position,age,games,games_starts,minutes,minutes_90s,goals,assists,goals_assists,goals_pens,pens_made,pens_att,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,goals_pens_per90,goals_assists_pens_per90,matches,League,Season
+30db8574,Mads Bech Sørensen,dk DEN,DF,25,31,30,"2,730",30.3,1,2,3,1,0,0,1,0,0.03,0.07,0.10,0.03,0.10,Matches,UEFA Europa League,2024-2025
+53e442e2,Oliver Jensen,dk DEN,MF,22,28,26,"2,386",26.5,9,3,12,7,2,2,1,0,0.34,0.11,0.45,0.26,0.38,Matches,UEFA Europa League,2024-2025
+90a55977,Ousmane Diao,sn SEN,DF,20,25,24,"2,062",22.9,4,1,5,4,0,0,8,2,0.17,0.04,0.22,0.17,0.22,Matches,UEFA Europa League,2024-2025
+99047b00,Elías Rafn Ólafsson,is ISL,GK,24,22,22,"1,980",22.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+493924a7,Kevin Mbabu,ch SUI,DF,29,23,22,"1,745",19.4,2,1,3,2,0,0,7,0,0.10,0.05,0.15,0.10,0.15,Matches,UEFA Europa League,2024-2025
+5bd13551,Franculino Djú,gw GNB,FW,20,28,22,"1,683",18.7,11,3,14,10,1,1,3,0,0.59,0.16,0.75,0.53,0.70,Matches,UEFA Europa League,2024-2025
+3b676989,Adam Buksa,pl POL,FW,28,24,18,"1,702",18.9,12,1,13,9,3,3,5,0,0.63,0.05,0.69,0.48,0.53,Matches,UEFA Europa League,2024-2025
+706a337d,Victor Jensen,dk DEN,DF,20,21,18,"1,447",16.1,1,3,4,1,0,0,0,0,0.06,0.19,0.25,0.06,0.25,Matches,UEFA Europa League,2024-2025
+2e1e3952,Darío Osorio,cl CHI,"MF,FW",20,24,17,"1,503",16.7,3,2,5,3,0,0,5,1,0.18,0.12,0.30,0.18,0.30,Matches,UEFA Europa League,2024-2025
+b5f66351,Joel Andersson,se SWE,"DF,MF",27,25,15,"1,512",16.8,1,3,4,1,0,0,2,0,0.06,0.18,0.24,0.06,0.24,Matches,UEFA Europa League,2024-2025
+f91fa277,Aral Şimşir,dk DEN,"MF,FW",22,23,15,"1,392",15.5,3,6,9,2,1,1,0,0,0.19,0.39,0.58,0.13,0.52,Matches,UEFA Europa League,2024-2025
+860ea3c0,Pedro Bravo,co COL,MF,19,23,14,"1,328",14.8,1,2,3,1,0,0,4,0,0.07,0.14,0.20,0.07,0.20,Matches,UEFA Europa League,2024-2025
+52061089,Emiliano Martínez,uy URU,MF,24,15,13,"1,088",12.1,0,1,1,0,0,0,4,0,0.00,0.08,0.08,0.00,0.08,Matches,UEFA Europa League,2024-2025
+3cdc84e9,Mikel Gogorza,dk DEN,"MF,FW",17,21,11,916,10.2,3,3,6,3,0,0,1,0,0.29,0.29,0.59,0.29,0.59,Matches,UEFA Europa League,2024-2025
+97975540,Denil Castillo,ec ECU,MF,20,22,11,862,9.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+4f9f721c,Valdemar Andreasen,dk DEN,MF,19,22,10,925,10.3,2,2,4,2,0,0,0,1,0.19,0.19,0.39,0.19,0.39,Matches,UEFA Europa League,2024-2025
+939bc634,Jonas Lössl,dk DEN,GK,35,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+56fca564,Daniel Bandeira,pt POR,MF,24,13,10,846,9.4,1,0,1,1,0,0,2,0,0.11,0.00,0.11,0.11,0.11,Matches,UEFA Europa League,2024-2025
+071f2dd3,Lee Hanbeom,kr KOR,DF,22,11,8,733,8.1,0,1,1,0,0,0,0,0,0.00,0.12,0.12,0.00,0.12,Matches,UEFA Europa League,2024-2025
+4bce9c16,Jan Kuchta,cz CZE,FW,27,9,7,538,6.0,1,1,2,1,0,0,0,0,0.17,0.17,0.33,0.17,0.33,Matches,UEFA Europa League,2024-2025
+a69cc629,Kristoffer Askildsen,no NOR,MF,23,12,6,543,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+b7b27de0,Edward Chilufya,zm ZAM,FW,24,20,5,674,7.5,3,5,8,3,0,0,1,0,0.40,0.67,1.07,0.40,1.07,Matches,UEFA Europa League,2024-2025
+1881d66b,Adam Gabriel,cz CZE,DF,23,11,4,461,5.1,1,2,3,1,0,0,0,0,0.20,0.39,0.59,0.20,0.59,Matches,UEFA Europa League,2024-2025
+72c01cfb,Juninho,br BRA,DF,28,9,4,419,4.7,1,0,1,1,0,0,1,0,0.21,0.00,0.21,0.21,0.21,Matches,UEFA Europa League,2024-2025
+f3fa599d,Paulinho,br BRA,DF,29,12,3,445,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+ffe5ecdb,Ola Brynhildsen,no NOR,MF,25,6,3,279,3.1,2,0,2,2,0,0,0,0,0.65,0.00,0.65,0.65,0.65,Matches,UEFA Europa League,2024-2025
+c8829a58,Christian Sørensen,dk DEN,DF,31,6,3,264,2.9,0,1,1,0,0,0,0,0,0.00,0.34,0.34,0.00,0.34,Matches,UEFA Europa League,2024-2025
+fa6d26d9,André Rømer,dk DEN,MF,31,4,1,194,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+d2a83712,Victor Lind,dk DEN,"FW,MF",21,3,0,56,0.6,1,0,1,1,0,0,0,0,1.61,0.00,1.61,1.61,1.61,Matches,UEFA Europa League,2024-2025
+8846f47e,Alhaji Kamara,sl SLE,FW,30,2,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+26c91311,Sofus Johannesen,dk DEN,MF,17,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+61976e6e,Gustav Bjerge,dk DEN,DF,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+5c407847,Ovie Ejeheri,eng ENG,GK,21,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+c4e91c70,Bilal Konteh,se SWE,DF,17,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+1dff86ec,Marrony,br BRA,"FW,MF",25,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+2d319b80,Jānis Ikaunieks,lv LVA,"FW,MF",29,8,8,720,8.0,1,2,3,1,0,1,2,0,0.12,0.25,0.37,0.12,0.37,Matches,UEFA Europa League,2024-2025
+c5b2b9b2,Fabrice Ondoa,cm CMR,GK,28,8,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+877354e8,Stefan Panić,rs SRB,MF,31,8,8,720,8.0,0,1,1,0,0,0,3,0,0.00,0.12,0.12,0.00,0.12,Matches,UEFA Europa League,2024-2025
+4ce7b806,Lasha Odisharia,ge GEO,"MF,DF",21,8,8,690,7.7,1,0,1,1,0,0,1,0,0.13,0.00,0.13,0.13,0.13,Matches,UEFA Europa League,2024-2025
+ccc7dd74,Herdi Prenga,al ALB,DF,29,8,8,678,7.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+acd874bb,Adam Markhiev,fi FIN,MF,22,8,8,636,7.1,1,0,1,1,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matches,UEFA Europa League,2024-2025
+2a878c15,Roberts Savaļnieks,lv LVA,"DF,MF",31,8,8,623,6.9,1,0,1,1,0,0,1,0,0.14,0.00,0.14,0.14,0.14,Matches,UEFA Europa League,2024-2025
+7463432a,Dmitrijs Zelenkovs,lv LVA,MF,24,8,7,682,7.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+6205d041,Žiga Lipušček,si SVN,DF,27,7,7,630,7.0,1,0,1,1,0,0,0,0,0.14,0.00,0.14,0.14,0.14,Matches,UEFA Europa League,2024-2025
+d4c7614e,Cedric Kouadio,ci CIV,FW,28,8,7,546,6.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+e822e329,Haruna Rasid Njie,gm GAM,DF,18,7,6,474,5.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+80440f7e,Daniels Balodis,lv LVA,DF,26,4,3,289,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+e66d044c,Rostand Ndjiki,cm CMR,FW,20,4,2,146,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+2ded389e,Elvis Stuglis,lv LVA,DF,31,6,0,113,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+a6adad66,Luka Silagadze,ge GEO,FW,25,5,0,93,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+6d207bd8,Darko Lemajić,rs SRB,FW,30,4,0,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+59740f1b,Victor Osuagwu,ng NGA,FW,20,3,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+b9a7a845,Petr Mareš,cz CZE,"DF,MF",33,2,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+19d85eb3,Mārtiņš Ķigurs,lv LVA,MF,27,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+9e7608eb,Emerson Santana,br BRA,MF,25,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+96e58ac1,Pāvels Šteinbors,lv LVA,GK,38,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+05092396,Sergejs Vilkovs,lv LVA,GK,21,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+788c4780,Busanello,br BRA,DF,25,8,8,720,8.0,0,2,2,0,0,0,2,0,0.00,0.25,0.25,0.00,0.25,Matches,UEFA Europa League,2024-2025
+a6d339fa,Colin Rosler,no NOR,DF,24,8,8,720,8.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+a0b95824,Lasse Berg Johnsen,no NOR,MF,24,8,8,678,7.5,1,1,2,1,0,0,1,0,0.13,0.13,0.27,0.13,0.27,Matches,UEFA Europa League,2024-2025
+3d13d9e4,Erik Botheim,no NOR,"FW,MF",24,8,7,626,7.0,4,0,4,3,1,2,1,0,0.58,0.00,0.58,0.43,0.43,Matches,UEFA Europa League,2024-2025
+63170f69,Hugo Bolin,se SWE,MF,21,8,7,586,6.5,1,0,1,1,0,0,2,0,0.15,0.00,0.15,0.15,0.15,Matches,UEFA Europa League,2024-2025
+f91e81c9,Jens Stryger Larsen,dk DEN,"DF,MF",33,6,6,531,5.9,0,1,1,0,0,0,1,0,0.00,0.17,0.17,0.00,0.17,Matches,UEFA Europa League,2024-2025
+10a69a43,Nils Zätterström,se SWE,DF,19,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+770ebf00,Anders Christiansen,dk DEN,"MF,FW",34,7,5,425,4.7,1,1,2,1,0,0,2,1,0.21,0.21,0.42,0.21,0.42,Matches,UEFA Europa League,2024-2025
+eda8506a,Sergio Peña,pe PER,MF,28,6,5,425,4.7,1,0,1,1,0,0,2,0,0.21,0.00,0.21,0.21,0.21,Matches,UEFA Europa League,2024-2025
+c40e64b6,Ricardo,br BRA,GK,31,5,4,405,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+1c6f0559,Otto Rosengren,se SWE,MF,21,8,4,403,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+6053df96,Oliver Berg,no NOR,MF,30,8,4,369,4.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+172e52d8,Pontus Jansson,se SWE,DF,33,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+da4b8a4e,Taha Abdi Ali,se SWE,MF,26,7,3,288,3.2,1,0,1,1,0,0,0,0,0.31,0.00,0.31,0.31,0.31,Matches,UEFA Europa League,2024-2025
+b956af7d,Isaac Kiese Thelin,se SWE,FW,32,5,3,271,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+a04e2dd2,Johan Dahlin,se SWE,GK,37,3,3,225,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+d2889240,Zakaria Loukili,se SWE,MF,18,5,1,115,1.3,0,1,1,0,0,0,2,0,0.00,0.78,0.78,0.00,0.78,Matches,UEFA Europa League,2024-2025
+572498c7,Søren Rieks,dk DEN,MF,37,5,1,111,1.2,1,0,1,1,0,0,1,0,0.81,0.00,0.81,0.81,0.81,Matches,UEFA Europa League,2024-2025
+0c574b7f,Adrian Skogmar,se SWE,DF,18,2,1,99,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+f6571475,Joakim Persson,se SWE,GK,17,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+0c09c984,Oscar Lewicki,se SWE,"DF,MF",32,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+d796974b,Sebastian Jørgensen,dk DEN,"FW,MF",24,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+cf04a4c7,Daníel Gudjohnsen,is ISL,FW,18,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+2f72f79e,Martin Olsson,se SWE,"DF,MF",36,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+89b281b3,William Åkesson,se SWE,DF,19,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+013d348e,Melker Ellborg,se SWE,GK,21,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+89b5930c,Viggo Jeppsson,se SWE,MF,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+f86cd0e1,Gentian Lajqi,se SWE,MF,17,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+4ee36b23,Elison Makolli,se SWE,DF,19,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+d5fda7c9,William Nieroth,se SWE,GK,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+70cf63ca,Rafa Silva,pt POR,"MF,FW",31,35,35,"3,081",34.2,12,5,17,12,0,0,5,0,0.35,0.15,0.50,0.35,0.50,Matches,UEFA Europa League,2024-2025
+b583aef5,Mert Günok,tr TUR,GK,35,34,34,"3,060",34.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+e2dde94c,Gedson Fernandes,pt POR,MF,25,34,34,"2,946",32.7,7,0,7,6,1,2,4,1,0.21,0.00,0.21,0.18,0.18,Matches,UEFA Europa League,2024-2025
+57df7a11,Arthur Masuaku,cd COD,DF,30,33,31,"2,758",30.6,0,8,8,0,0,0,9,0,0.00,0.26,0.26,0.00,0.26,Matches,UEFA Europa League,2024-2025
+deb20131,Jonas Svensson,no NOR,DF,31,31,31,"2,722",30.2,0,2,2,0,0,0,7,0,0.00,0.07,0.07,0.00,0.07,Matches,UEFA Europa League,2024-2025
+4431aed2,Ciro Immobile,it ITA,FW,34,30,26,"2,011",22.3,15,4,19,7,8,8,4,0,0.67,0.18,0.85,0.31,0.49,Matches,UEFA Europa League,2024-2025
+677da306,Ohis Felix Uduokhai,de GER,DF,26,26,25,"2,171",24.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+6c6a3300,Milot Rashica,xk KVX,MF,28,28,24,"2,041",22.7,3,5,8,3,0,0,2,0,0.13,0.22,0.35,0.13,0.35,Matches,UEFA Europa League,2024-2025
+1828145a,Emir Topçu,tr TUR,DF,23,28,20,"1,818",20.2,1,0,1,1,0,0,7,0,0.05,0.00,0.05,0.05,0.05,Matches,UEFA Europa League,2024-2025
+b7ca5c51,Gabriel Paulista,br BRA,DF,33,20,20,"1,639",18.2,1,1,2,1,0,0,1,0,0.05,0.05,0.11,0.05,0.11,Matches,UEFA Europa League,2024-2025
+f0021247,João Mário,pt POR,MF,31,27,18,"1,602",17.8,5,3,8,3,2,2,1,0,0.28,0.17,0.45,0.17,0.34,Matches,UEFA Europa League,2024-2025
+1f1229a9,Ernest Muçi,al ALB,MF,23,27,15,"1,329",14.8,4,2,6,4,0,0,2,0,0.27,0.14,0.41,0.27,0.41,Matches,UEFA Europa League,2024-2025
+38c7feef,Alex Oxlade-Chamberlain,eng ENG,MF,30,18,14,992,11.0,1,0,1,1,0,0,1,0,0.09,0.00,0.09,0.09,0.09,Matches,UEFA Europa League,2024-2025
+cd6a1a59,Al-Musrati,ly LBY,MF,28,16,13,"1,174",13.0,1,0,1,1,0,0,4,0,0.08,0.00,0.08,0.08,0.08,Matches,UEFA Europa League,2024-2025
+3064f033,Semih Kılıçsoy,tr TUR,"MF,FW",18,32,11,"1,315",14.6,3,2,5,2,1,1,3,1,0.21,0.14,0.34,0.14,0.27,Matches,UEFA Europa League,2024-2025
+e8213ed3,Amir Hadžiahmetović,ba BIH,MF,27,11,7,714,7.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+7d4f9ee6,Tayyib Talha Sanuç,tr TUR,DF,24,15,7,540,6.0,0,0,0,0,0,0,1,2,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+9a65ae7c,Mustafa Hekimoğlu,tr TUR,"MF,FW",17,20,6,712,7.9,2,1,3,2,0,0,2,0,0.25,0.13,0.38,0.25,0.38,Matches,UEFA Europa League,2024-2025
+3b88609d,Cher Ndour,it ITA,MF,20,12,6,678,7.5,1,2,3,1,0,0,0,0,0.13,0.27,0.40,0.13,0.40,Matches,UEFA Europa League,2024-2025
+fe154b26,Salih Uçan,tr TUR,MF,30,17,6,493,5.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+b8441408,Baktiyor Zainutdinov,kz KAZ,DF,26,9,3,347,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+32e96d52,Onur Bulut,tr TUR,DF,30,17,2,404,4.5,0,1,1,0,0,0,0,0,0.00,0.22,0.22,0.00,0.22,Matches,UEFA Europa League,2024-2025
+7dcbd768,Serkan Terzi,tr TUR,DF,20,4,2,215,2.4,0,1,1,0,0,0,1,0,0.00,0.42,0.42,0.00,0.42,Matches,UEFA Europa League,2024-2025
+8b95acda,Omar Colley,gm GAM,DF,31,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+52b3c895,Ersin Destanoğlu,tr TUR,GK,23,2,2,180,2.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+a9c426f6,Keny Arroyo,ec ECU,MF,18,11,1,237,2.6,1,0,1,1,0,0,0,0,0.38,0.00,0.38,0.38,0.38,Matches,UEFA Europa League,2024-2025
+b1e202b4,Can Keles,at AUT,MF,22,3,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+2f7af524,Necip Uysal,tr TUR,"DF,MF",33,3,0,64,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+b5bb8188,Jean Onana,cm CMR,MF,24,3,0,47,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+383e8f03,Jackson Muleka,cd COD,"FW,MF",24,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+a0b62e11,Fahri Ay,tr TUR,MF,19,2,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+a0f70d5d,Yakup Kılıç,,DF,19,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+b60a3266,Göktuğ Baytekin,,GK,19,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+d243b87d,Arda Berk Özüarap,,DF,19,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+65c081c1,Demir Ege Tıknaz,tr TUR,MF,19,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+e848e971,Elan Ricardo,co COL,MF,20,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+fcabeb52,Emir Yaşar,tr TUR,GK,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+df8d6029,Arthur Theate,be BEL,DF,24,31,31,"2,704",30.0,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+5b92d896,Hugo Ekitike,fr FRA,FW,22,33,31,"2,563",28.5,15,8,23,14,1,3,1,0,0.53,0.28,0.81,0.49,0.77,Matches,UEFA Europa League,2024-2025
+ea6bc03a,Robin Koch,de GER,DF,28,30,30,"2,586",28.7,3,0,3,3,0,0,3,0,0.10,0.00,0.10,0.10,0.10,Matches,UEFA Europa League,2024-2025
+39769cff,Rasmus Kristensen,dk DEN,"DF,MF",27,30,28,"2,513",27.9,5,3,8,5,0,0,4,0,0.18,0.11,0.29,0.18,0.29,Matches,UEFA Europa League,2024-2025
+00c9a283,Hugo Larsson,se SWE,MF,20,33,28,"2,393",26.6,3,1,4,3,0,0,2,0,0.11,0.04,0.15,0.11,0.15,Matches,UEFA Europa League,2024-2025
+ce17b5eb,Kevin Trapp,de GER,GK,34,26,26,"2,295",25.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+35d64857,Tuta,br BRA,"DF,MF",25,30,26,"2,274",25.3,2,1,3,2,0,0,8,0,0.08,0.04,0.12,0.08,0.12,Matches,UEFA Europa League,2024-2025
+c2211709,Ellyes Skhiri,tn TUN,MF,29,30,26,"2,231",24.8,1,2,3,1,0,0,6,0,0.04,0.08,0.12,0.04,0.12,Matches,UEFA Europa League,2024-2025
+abc79c47,Nathaniel Brown,de GER,"MF,DF",21,26,22,"1,947",21.6,3,6,9,3,0,0,2,0,0.14,0.28,0.42,0.14,0.42,Matches,UEFA Europa League,2024-2025
+19a967ab,Ansgar Knauff,de GER,MF,22,30,18,"1,597",17.7,4,5,9,4,0,0,3,0,0.23,0.28,0.51,0.23,0.51,Matches,UEFA Europa League,2024-2025
+9efa1d25,Mario Götze,de GER,MF,32,24,18,"1,542",17.1,3,2,5,3,0,0,1,0,0.18,0.12,0.29,0.18,0.29,Matches,UEFA Europa League,2024-2025
+0e0102eb,Omar Marmoush,eg EGY,"FW,MF",25,17,17,"1,448",16.1,15,9,24,13,2,2,2,0,0.93,0.56,1.49,0.81,1.37,Matches,UEFA Europa League,2024-2025
+8eb5c94c,Nnamdi Collins,de GER,"DF,MF",20,24,15,"1,489",16.5,1,1,2,1,0,0,4,0,0.06,0.06,0.12,0.06,0.12,Matches,UEFA Europa League,2024-2025
+357103bd,Fares Chaïbi,dz ALG,MF,21,26,10,"1,013",11.3,1,3,4,1,0,0,2,0,0.09,0.27,0.36,0.09,0.36,Matches,UEFA Europa League,2024-2025
+70d4c949,Jean Mattéo Bahoya,fr FRA,MF,19,24,10,921,10.2,2,3,5,2,0,0,3,0,0.20,0.29,0.49,0.20,0.49,Matches,UEFA Europa League,2024-2025
+c7c50cb5,Kauã Santos,br BRA,GK,21,9,8,765,8.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+3e2bbae6,Oscar Højlund,dk DEN,MF,19,20,7,722,8.0,1,0,1,1,0,0,0,0,0.12,0.00,0.12,0.12,0.12,Matches,UEFA Europa League,2024-2025
+1d0b134a,Can Uzun,tr TUR,MF,18,20,6,675,7.5,4,1,5,4,0,0,1,0,0.53,0.13,0.67,0.53,0.67,Matches,UEFA Europa League,2024-2025
+f5b281e7,Niels Nkounkou,fr FRA,"MF,DF",23,12,4,382,4.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+db4ed67b,Mahmoud Dahoud,de GER,MF,28,9,3,364,4.0,1,1,2,1,0,0,2,0,0.25,0.25,0.49,0.25,0.49,Matches,UEFA Europa League,2024-2025
+2973d8ff,Michy Batshuayi,be BEL,FW,30,10,3,300,3.3,3,0,3,3,0,0,2,0,0.90,0.00,0.90,0.90,0.90,Matches,UEFA Europa League,2024-2025
+95bb6ddc,Junior Dina Ebimbe,cm CMR,MF,23,7,3,293,3.3,0,1,1,0,0,0,0,0,0.00,0.31,0.31,0.00,0.31,Matches,UEFA Europa League,2024-2025
+948e1292,Igor Matanovic,hr CRO,FW,21,16,2,312,3.5,1,0,1,1,0,0,0,0,0.29,0.00,0.29,0.29,0.29,Matches,UEFA Europa League,2024-2025
+0d7b6576,Elye Wahi,ci CIV,FW,21,8,1,196,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+1227a22d,Aurele Amenda,ch SUI,DF,21,8,1,96,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+b3b7f5a6,Timothy Chandler,us USA,"DF,MF",34,3,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+03299713,Eba Bekir Is,de GER,MF,15,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+ef8f2990,Noah Fenyő,hu HUN,MF,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+f26dee6b,Jens Grahl,de GER,GK,35,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+acecfaee,Amil Siljević,de GER,GK,17,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+27d0a506,Pedro Porro,es ESP,DF,24,33,28,"2,610",29.0,2,6,8,2,0,0,5,0,0.07,0.21,0.28,0.07,0.28,Matches,UEFA Europa League,2024-2025
+df3cda47,Dejan Kulusevski,se SWE,"MF,FW",24,32,27,"2,389",26.5,7,4,11,7,0,0,3,0,0.26,0.15,0.41,0.26,0.41,Matches,UEFA Europa League,2024-2025
+e77dc3b2,Dominic Solanke,eng ENG,FW,26,27,25,"2,201",24.5,9,3,12,8,1,1,0,0,0.37,0.12,0.49,0.33,0.45,Matches,UEFA Europa League,2024-2025
+0cd31129,Brennan Johnson,wls WAL,"FW,MF",23,33,24,"2,177",24.2,11,3,14,11,0,0,5,0,0.45,0.12,0.58,0.45,0.58,Matches,UEFA Europa League,2024-2025
+77d6fd4d,Guglielmo Vicario,it ITA,GK,27,24,24,"2,160",24.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+92e7e919,Son Heung-min,kr KOR,"FW,MF",32,30,24,"2,110",23.4,7,9,16,6,1,2,1,0,0.30,0.38,0.68,0.26,0.64,Matches,UEFA Europa League,2024-2025
+7cd520e8,Destiny Udogie,it ITA,DF,21,25,24,"1,924",21.4,0,1,1,0,0,0,2,0,0.00,0.05,0.05,0.00,0.05,Matches,UEFA Europa League,2024-2025
+feb5d972,Pape Matar Sarr,sn SEN,MF,21,36,22,"1,913",21.3,3,2,5,3,0,0,6,0,0.14,0.09,0.24,0.14,0.24,Matches,UEFA Europa League,2024-2025
+ee38d9c5,James Maddison,eng ENG,MF,27,31,21,"1,809",20.1,9,7,16,9,0,0,6,0,0.45,0.35,0.80,0.45,0.80,Matches,UEFA Europa League,2024-2025
+3b8674e6,Rodrigo Bentancur,uy URU,MF,27,26,21,"1,645",18.3,2,0,2,2,0,0,9,0,0.11,0.00,0.11,0.11,0.11,Matches,UEFA Europa League,2024-2025
+9bc9a519,Djed Spence,eng ENG,DF,23,25,19,"1,792",19.9,1,2,3,1,0,0,4,1,0.05,0.10,0.15,0.05,0.15,Matches,UEFA Europa League,2024-2025
+f58515f5,Archie Gray,eng ENG,"DF,MF",18,28,19,"1,751",19.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+a3d94a58,Cristian Romero,ar ARG,DF,26,18,18,"1,416",15.7,1,0,1,1,0,0,3,0,0.06,0.00,0.06,0.06,0.06,Matches,UEFA Europa League,2024-2025
+6c203af0,Yves Bissouma,ml MLI,MF,27,28,16,"1,408",15.6,2,0,2,2,0,0,7,0,0.13,0.00,0.13,0.13,0.13,Matches,UEFA Europa League,2024-2025
+44781702,Ben Davies,wls WAL,DF,31,17,14,"1,331",14.8,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+620922ed,Radu Drăgușin,ro ROU,DF,22,16,14,"1,252",13.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+8fe2a392,Micky van de Ven,nl NED,DF,23,13,12,"1,015",11.3,0,2,2,0,0,0,4,0,0.00,0.18,0.18,0.00,0.18,Matches,UEFA Europa League,2024-2025
+a109e5c8,Lucas Bergvall,se SWE,MF,18,27,11,"1,212",13.5,0,1,1,0,0,0,3,0,0.00,0.07,0.07,0.00,0.07,Matches,UEFA Europa League,2024-2025
+829aa60c,Mathys Tel,fr FRA,FW,19,13,11,911,10.1,2,1,3,1,1,1,2,0,0.20,0.10,0.30,0.10,0.20,Matches,UEFA Europa League,2024-2025
+35516eac,Wilson Odobert,fr FRA,"FW,MF",19,16,9,850,9.4,1,0,1,1,0,0,0,0,0.11,0.00,0.11,0.11,0.11,Matches,UEFA Europa League,2024-2025
+6e33125f,Kevin Danso,at AUT,DF,25,10,9,842,9.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+c3e39f12,Fraser Forster,eng ENG,GK,36,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+b38ac6a4,Antonín Kinský,cz CZE,GK,21,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+49fe9070,Timo Werner,de GER,"FW,MF",28,18,4,516,5.7,0,3,3,0,0,0,0,0,0.00,0.52,0.52,0.00,0.52,Matches,UEFA Europa League,2024-2025
+fa031b34,Richarlison,br BRA,FW,27,15,4,504,5.6,4,1,5,4,0,0,2,0,0.71,0.18,0.89,0.71,0.89,Matches,UEFA Europa League,2024-2025
+00953a9d,Mikey Moore,eng ENG,"MF,FW",16,10,3,366,4.1,0,1,1,0,0,0,0,0,0.00,0.25,0.25,0.00,0.25,Matches,UEFA Europa League,2024-2025
+3353737a,Sergio Reguilón,es ESP,DF,27,4,1,196,2.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+5e253986,Brandon Austin,eng ENG,GK,25,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+21945a9e,Dane Scarlett,eng ENG,FW,20,3,0,34,0.4,0,1,1,0,0,0,0,0,0.00,2.65,2.65,0.00,2.65,Matches,UEFA Europa League,2024-2025
+ac1ef440,Alfie Dorrington,eng ENG,DF,19,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+92df535b,Will Lankshear,eng ENG,FW,19,3,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+d3a6f5a3,Oyindamola Ajayi,eng ENG,MF,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+0b8373bb,Dante Cassanova,jm JAM,DF,20,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+ba08056d,Alfie Devine,eng ENG,MF,19,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+3478fa17,Malachi Hardy,eng ENG,DF,16,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+b00671f2,Maeson King,eng ENG,DF,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+fe3db176,Yang Minhyeok,kr KOR,MF,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+d6455444,Callum Olusesi,eng ENG,MF,17,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+3f2587ee,Alfie Whiteman,eng ENG,GK,25,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+d2fe0b0b,Luca Williams Barnett,eng ENG,FW,15,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+83454d60,Peer Koopmeiners,nl NED,MF,24,34,33,"2,793",31.0,1,7,8,1,0,0,3,0,0.03,0.23,0.26,0.03,0.26,Matches,UEFA Europa League,2024-2025
+df4b73f0,Alexandre Penetra,pt POR,DF,22,31,31,"2,594",28.8,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+9affc5f2,David Møller Wolfe,no NOR,DF,22,31,30,"2,500",27.8,2,5,7,2,0,0,5,1,0.07,0.18,0.25,0.07,0.25,Matches,UEFA Europa League,2024-2025
+169df85b,Rome-Jayden Owusu-Oduro,nl NED,GK,20,28,28,"2,520",28.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+4357f557,Troy Parrott,ie IRL,FW,22,28,27,"2,176",24.2,14,2,16,12,2,2,0,0,0.58,0.08,0.66,0.50,0.58,Matches,UEFA Europa League,2024-2025
+3e02d0f9,Sven Mijnans,nl NED,MF,24,28,26,"2,225",24.7,6,5,11,6,0,0,4,0,0.24,0.20,0.44,0.24,0.44,Matches,UEFA Europa League,2024-2025
+a65fd9ac,Wouter Goes,nl NED,DF,20,26,23,"2,052",22.8,1,3,4,1,0,0,8,1,0.04,0.13,0.18,0.04,0.18,Matches,UEFA Europa League,2024-2025
+7d97cf0e,Seiya Maikuma,jp JPN,DF,26,26,21,"1,909",21.2,0,1,1,0,0,0,2,0,0.00,0.05,0.05,0.00,0.05,Matches,UEFA Europa League,2024-2025
+31c01b85,Jordy Clasie,nl NED,MF,33,23,20,"1,820",20.2,0,2,2,0,0,0,3,0,0.00,0.10,0.10,0.00,0.10,Matches,UEFA Europa League,2024-2025
+ddc31375,Ernest Poku,nl NED,"MF,FW",20,23,17,"1,536",17.1,2,3,5,2,0,0,2,0,0.12,0.18,0.29,0.12,0.29,Matches,UEFA Europa League,2024-2025
+c9314f57,Ruben van Bommel,nl NED,"MF,FW",19,24,17,"1,491",16.6,3,5,8,3,0,0,4,0,0.18,0.30,0.48,0.18,0.48,Matches,UEFA Europa League,2024-2025
+7ae36711,Denso Kasius,nl NED,DF,21,30,13,"1,356",15.1,3,3,6,3,0,0,2,0,0.20,0.20,0.40,0.20,0.40,Matches,UEFA Europa League,2024-2025
+62766c3f,Zico Buurmeester,nl NED,MF,22,27,12,"1,195",13.3,4,1,5,4,0,0,0,0,0.30,0.08,0.38,0.30,0.38,Matches,UEFA Europa League,2024-2025
+9200d432,Ibrahim Sadiq,gh GHA,"MF,FW",24,19,12,976,10.8,6,4,10,6,0,0,1,0,0.55,0.37,0.92,0.55,0.92,Matches,UEFA Europa League,2024-2025
+53888a90,Kees Smit,nl NED,MF,18,18,9,989,11.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+4d5f6b4a,Mexx Meerdink,nl NED,"FW,MF",21,27,8,906,10.1,9,0,9,9,0,0,2,0,0.89,0.00,0.89,0.89,0.89,Matches,UEFA Europa League,2024-2025
+6b390f32,Mayckel Lahdo,se SWE,"MF,FW",21,21,8,869,9.7,3,1,4,3,0,0,0,0,0.31,0.10,0.41,0.31,0.41,Matches,UEFA Europa League,2024-2025
+17d0d996,Maxim Dekker,nl NED,DF,20,11,7,589,6.5,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+999f20b3,Kristijan Belic,rs SRB,MF,23,15,6,585,6.5,1,0,1,1,0,0,4,0,0.15,0.00,0.15,0.15,0.15,Matches,UEFA Europa League,2024-2025
+7bc34048,Bruno Martins Indi,nl NED,DF,32,10,6,551,6.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+cc1a0c57,Jeroen Zoet,nl NED,GK,33,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+116a67ee,Mees de Wit,nl NED,"DF,FW",26,14,5,472,5.2,1,1,2,1,0,0,2,0,0.19,0.19,0.38,0.19,0.38,Matches,UEFA Europa League,2024-2025
+662ffe3d,Jayden Addai,nl NED,"MF,FW",18,17,3,324,3.6,1,0,1,1,0,0,1,0,0.28,0.00,0.28,0.28,0.28,Matches,UEFA Europa League,2024-2025
+485fbd1a,Myron van Brederode,nl NED,MF,21,3,2,171,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+2cc959a8,Dave Kwakman,nl NED,MF,19,5,2,150,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+8123650b,Elijah Dijkstra,nl NED,DF,17,2,1,92,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+3e4b25f3,Ro-Zangelo Daal,nl NED,MF,20,3,1,71,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+e38b5f28,Lequincio Zeefuik,nl NED,FW,19,3,0,32,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+da59a197,Riechedly Bazoer,cw CUW,"DF,MF",27,1,0,3,0.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+2efecbd8,Lewis Schouten,nl NED,"DF,MF",20,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+3a27b25b,Jorn Berkhout,nl NED,DF,22,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+f3075d99,Kasper Boogaard,nl NED,MF,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+75218497,Wassim Bouziane,nl NED,FW,17,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+34fd82c1,Daniel Deen,nl NED,GK,21,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+840b6ead,Sem van Duijn,nl NED,FW,20,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+8337c067,Tristan Kuijsten,nl NED,GK,19,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+b7247b16,Enoch Mastoras,nl NED,MF,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+02e79972,Julian Oerip,nl NED,MF,17,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+9f82f7c2,Hobie Verhulst,nl NED,GK,31,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+5dbd461a,Lucas Perri,br BRA,GK,26,33,33,"2,970",33.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+00242715,Moussa Niakhate,sn SEN,DF,28,31,30,"2,726",30.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+55abe554,Clinton Mata,ao ANG,DF,31,29,27,"2,370",26.3,0,4,4,0,0,0,6,0,0.00,0.15,0.15,0.00,0.15,Matches,UEFA Europa League,2024-2025
+652d4c37,Corentin Tolisso,fr FRA,MF,29,32,27,"2,329",25.9,7,4,11,7,0,0,4,0,0.27,0.15,0.43,0.27,0.43,Matches,UEFA Europa League,2024-2025
+eb7822d7,Nemanja Matić,rs SRB,MF,35,29,25,"2,010",22.3,0,1,1,0,0,0,1,0,0.00,0.04,0.04,0.00,0.04,Matches,UEFA Europa League,2024-2025
+9dbb75ca,Alexandre Lacazette,fr FRA,FW,33,30,24,"2,051",22.8,15,2,17,10,5,6,5,0,0.66,0.09,0.75,0.44,0.53,Matches,UEFA Europa League,2024-2025
+b34c63a5,Rayan Cherki,fr FRA,"MF,FW",20,30,22,"2,041",22.7,8,11,19,8,0,0,3,0,0.35,0.49,0.84,0.35,0.84,Matches,UEFA Europa League,2024-2025
+f0661424,Nicolás Tagliafico,ar ARG,DF,31,24,22,"1,902",21.1,3,1,4,3,0,0,7,0,0.14,0.05,0.19,0.14,0.19,Matches,UEFA Europa League,2024-2025
+e3a5814e,Ainsley Maitland-Niles,eng ENG,"DF,MF",26,32,20,"1,985",22.1,1,4,5,1,0,0,1,0,0.05,0.18,0.23,0.05,0.23,Matches,UEFA Europa League,2024-2025
+4a56052c,Jordan Veretout,fr FRA,MF,31,27,19,"1,553",17.3,2,0,2,2,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches,UEFA Europa League,2024-2025
+94f8d10c,Duje Ćaleta-Car,hr CRO,DF,27,19,17,"1,584",17.6,1,0,1,1,0,0,8,0,0.06,0.00,0.06,0.06,0.06,Matches,UEFA Europa League,2024-2025
+8236f673,Malick Fofana,be BEL,"FW,MF",19,29,16,"1,589",17.7,5,4,9,5,0,0,2,0,0.28,0.23,0.51,0.28,0.51,Matches,UEFA Europa League,2024-2025
+4788cb6b,Georges Mikautadze,ge GEO,"FW,MF",23,34,13,"1,449",16.1,11,6,17,8,3,4,2,0,0.68,0.37,1.06,0.50,0.87,Matches,UEFA Europa League,2024-2025
+ac277993,Tanner Tessmann,us USA,MF,22,25,13,"1,234",13.7,1,0,1,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches,UEFA Europa League,2024-2025
+234a703c,Ernest Nuamah,gh GHA,"MF,FW",20,23,13,"1,052",11.7,3,1,4,3,0,0,2,0,0.26,0.09,0.34,0.26,0.34,Matches,UEFA Europa League,2024-2025
+7f9c5d2d,Abner,br BRA,"DF,MF",24,19,12,"1,090",12.1,1,1,2,1,0,0,1,0,0.08,0.08,0.17,0.08,0.17,Matches,UEFA Europa League,2024-2025
+c385bf49,Sael Kumbedi,fr FRA,DF,19,14,12,951,10.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+27f33438,Thiago Almada,ar ARG,MF,23,16,9,951,10.6,1,4,5,1,0,0,3,0,0.09,0.38,0.47,0.09,0.47,Matches,UEFA Europa League,2024-2025
+5a04fd92,Saïd Benrahma,dz ALG,"FW,MF",28,13,9,735,8.2,1,3,4,1,0,0,0,0,0.12,0.37,0.49,0.12,0.49,Matches,UEFA Europa League,2024-2025
+f81ef10d,Maxence Caqueret,fr FRA,MF,24,9,6,573,6.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+de17db90,Gift Orban,ng NGA,FW,22,3,2,186,2.1,2,0,2,2,0,0,1,0,0.97,0.00,0.97,0.97,0.97,Matches,UEFA Europa League,2024-2025
+477e50ce,Rémy Descamps,fr FRA,GK,28,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+b2bc3b1f,Wilfried Zaha,ci CIV,FW,31,4,1,73,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+a572e291,Orel Mangala,be BEL,MF,26,1,1,67,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+fb14aa28,Mama Samba Baldé,gw GNB,"FW,MF",28,2,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+fbe1cf6b,Alejandro Rodriguez,pt POR,FW,16,1,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+31f5b89b,Paul Akouokou,ci CIV,MF,26,2,0,19,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+1906b842,Mahamadou Diawara,fr FRA,MF,19,2,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+4534a352,Warmed Omari,km COM,DF,24,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+70530825,Téo Barisic,hr CRO,DF,19,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+e980e78d,Adryelson,br BRA,DF,26,1,0,1,0.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+286c713d,Matthias Da Silva,pt POR,GK,16,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+f327e6a6,Lassine Diarra,ml MLI,GK,21,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+f00de885,Anthony Lopes,pt POR,GK,33,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+a452d263,Enzo Molebe,fr FRA,FW,16,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+663629ae,Mohamed Diomandé,ci CIV,MF,22,36,32,"2,636",29.3,4,7,11,4,0,0,6,1,0.14,0.24,0.38,0.14,0.38,Matches,UEFA Europa League,2024-2025
+be765073,James Tavernier,eng ENG,"DF,MF",32,33,30,"2,790",31.0,4,8,12,3,1,1,4,0,0.13,0.26,0.39,0.10,0.35,Matches,UEFA Europa League,2024-2025
+94217eae,Jefté,br BRA,DF,20,33,30,"2,688",29.9,1,4,5,1,0,0,7,0,0.03,0.13,0.17,0.03,0.17,Matches,UEFA Europa League,2024-2025
+bb1cf301,Václav Černý,cz CZE,"MF,FW",26,33,30,"2,472",27.5,12,4,16,12,0,0,3,0,0.44,0.15,0.58,0.44,0.58,Matches,UEFA Europa League,2024-2025
+dba1f190,Nicolas Raskin,be BEL,MF,23,33,29,"2,628",29.2,4,10,14,4,0,0,8,0,0.14,0.34,0.48,0.14,0.48,Matches,UEFA Europa League,2024-2025
+cc70a1d5,Jack Butland,eng ENG,GK,31,28,28,"2,520",28.0,0,1,1,0,0,0,2,0,0.00,0.04,0.04,0.00,0.04,Matches,UEFA Europa League,2024-2025
+312d7b42,John Souttar,sct SCO,DF,27,24,24,"2,117",23.5,1,0,1,1,0,0,1,0,0.04,0.00,0.04,0.04,0.04,Matches,UEFA Europa League,2024-2025
+dcb38abe,Cyriel Dessers,ng NGA,FW,29,35,24,"2,115",23.5,18,2,20,17,1,1,3,0,0.77,0.09,0.85,0.72,0.81,Matches,UEFA Europa League,2024-2025
+1da5c4d6,Hamza Igamane,ma MAR,"FW,MF",21,33,23,"1,976",22.0,12,1,13,12,0,0,2,0,0.55,0.05,0.59,0.55,0.59,Matches,UEFA Europa League,2024-2025
+87881ed8,Connor Barron,sct SCO,MF,21,28,23,"1,941",21.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+996fc502,Robin Pröpper,nl NED,DF,30,27,22,"2,019",22.4,2,0,2,2,0,0,8,0,0.09,0.00,0.09,0.09,0.09,Matches,UEFA Europa League,2024-2025
+0127419a,Ianis Hagi,ro ROU,MF,25,24,16,"1,442",16.0,4,5,9,4,0,0,5,1,0.25,0.31,0.56,0.25,0.56,Matches,UEFA Europa League,2024-2025
+f42d6c13,Nedim Bajrami,al ALB,MF,25,28,15,"1,433",15.9,2,1,3,2,0,0,2,0,0.13,0.06,0.19,0.13,0.19,Matches,UEFA Europa League,2024-2025
+78e68b4d,Leon Balogun,ng NGA,DF,36,20,13,"1,071",11.9,1,1,2,1,0,0,1,0,0.08,0.08,0.17,0.08,0.17,Matches,UEFA Europa League,2024-2025
+54dd7308,Dujon Sterling,eng ENG,"DF,MF",24,20,11,"1,134",12.6,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+94721522,Rıdvan Yılmaz,tr TUR,"DF,MF",23,17,11,"1,106",12.3,0,2,2,0,0,0,1,0,0.00,0.16,0.16,0.00,0.16,Matches,UEFA Europa League,2024-2025
+d8c74957,Liam Kelly,sct SCO,GK,28,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+a778332e,Clinton Nsiala,fr FRA,DF,20,11,10,834,9.3,0,1,1,0,0,0,1,0,0.00,0.11,0.11,0.00,0.11,Matches,UEFA Europa League,2024-2025
+ccd38335,Danilo,br BRA,"FW,MF",25,23,8,886,9.8,5,4,9,5,0,0,0,0,0.51,0.41,0.91,0.51,0.91,Matches,UEFA Europa League,2024-2025
+7e2f45f4,Tom Lawrence,wls WAL,MF,30,18,8,820,9.1,4,2,6,4,0,0,4,0,0.44,0.22,0.66,0.44,0.66,Matches,UEFA Europa League,2024-2025
+ba26440f,Ross McCausland,nir NIR,MF,21,13,4,330,3.7,0,1,1,0,0,0,4,1,0.00,0.27,0.27,0.00,0.27,Matches,UEFA Europa League,2024-2025
+d2c12fe0,Oscar Cortés,co COL,"MF,FW",20,10,4,276,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+6d25f2fb,Neraysho Kasanwirjo,nl NED,DF,22,9,3,354,3.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+2f6ec02a,Kieran Dowell,eng ENG,"MF,FW",26,12,2,260,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+33144cc5,Rabbi Matondo,wls WAL,"MF,FW",23,6,2,241,2.7,2,2,4,2,0,0,0,0,0.75,0.75,1.49,0.75,1.49,Matches,UEFA Europa League,2024-2025
+e9b0ccaf,Scott Wright,sct SCO,MF,26,2,2,132,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+b7c1df64,Bailey Rice,sct SCO,MF,17,7,1,220,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+e2a68b89,Findlay Curtis,sct SCO,MF,17,3,1,78,0.9,0,1,1,0,0,0,0,0,0.00,1.15,1.15,0.00,1.15,Matches,UEFA Europa League,2024-2025
+c9009a1f,Ben Davies,eng ENG,DF,28,1,1,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+dbc1e5d8,Rafael Fernandes,pt POR,DF,22,3,1,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+82c615f8,Leon King,sct SCO,DF,20,2,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+de9aee9d,Robbie Fraser,sct SCO,"DF,MF",21,2,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+d20cc408,Zak Lovelace,eng ENG,FW,18,1,0,6,0.1,0,1,1,0,0,0,0,0,0.00,15.00,15.00,0.00,15.00,Matches,UEFA Europa League,2024-2025
+ec17110e,Paul Nsio,sct SCO,MF,18,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+299d32f7,Alexander Hutton,sct SCO,DF,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+37c1303d,Aiden McCallion,sct SCO,MF,16,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+da887ea1,Cole McKinnon,sct SCO,MF,21,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+937ad70b,Mason Munn,nir NIR,GK,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+b8814868,Vitaliy Buyalskyi,ua UKR,"MF,FW",31,29,26,"2,112",23.5,7,7,14,6,1,1,0,0,0.30,0.30,0.60,0.26,0.55,Matches,UEFA Europa League,2024-2025
+7287ea6b,Vladyslav Vanat,ua UKR,FW,22,28,25,"2,145",23.8,17,4,21,15,2,2,3,0,0.71,0.17,0.88,0.63,0.80,Matches,UEFA Europa League,2024-2025
+390eb94b,Vladyslav Kabayev,ua UKR,MF,28,30,25,"2,078",23.1,2,3,5,2,0,0,3,0,0.09,0.13,0.22,0.09,0.22,Matches,UEFA Europa League,2024-2025
+92990d5d,Taras Mykhavko,ua UKR,DF,19,26,23,"2,079",23.1,1,0,1,1,0,0,1,0,0.04,0.00,0.04,0.04,0.04,Matches,UEFA Europa League,2024-2025
+3b996663,Oleksandr Tymchyk,ua UKR,DF,27,20,20,"1,772",19.7,0,1,1,0,0,0,0,0,0.00,0.05,0.05,0.00,0.05,Matches,UEFA Europa League,2024-2025
+67f0703d,Denys Popov,ua UKR,DF,25,21,20,"1,640",18.2,1,0,1,1,0,0,6,1,0.05,0.00,0.05,0.05,0.05,Matches,UEFA Europa League,2024-2025
+17e3e467,Mykola Shaparenko,ua UKR,MF,25,23,17,"1,420",15.8,6,7,13,6,0,0,3,0,0.38,0.44,0.82,0.38,0.82,Matches,UEFA Europa League,2024-2025
+849c826a,Andriy Yarmolenko,ua UKR,MF,34,21,17,"1,259",14.0,7,1,8,3,4,4,2,0,0.50,0.07,0.57,0.21,0.29,Matches,UEFA Europa League,2024-2025
+eb2b33aa,Heorhiy Bushchan,ua UKR,GK,30,16,16,"1,440",16.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+826f39c3,Mykola Mykhailenko,ua UKR,MF,23,21,16,"1,433",15.9,2,1,3,2,0,0,1,0,0.13,0.06,0.19,0.13,0.19,Matches,UEFA Europa League,2024-2025
+696197fb,Volodymyr Brazhko,ua UKR,MF,22,22,15,"1,450",16.1,3,1,4,3,0,0,4,0,0.19,0.06,0.25,0.19,0.25,Matches,UEFA Europa League,2024-2025
+8c5506ec,Vladyslav Dubinchak,ua UKR,DF,26,21,15,"1,447",16.1,0,6,6,0,0,0,4,0,0.00,0.37,0.37,0.00,0.37,Matches,UEFA Europa League,2024-2025
+d46d048f,Kostiantyn Vivcharenko,ua UKR,DF,22,17,15,"1,294",14.4,1,2,3,1,0,0,3,0,0.07,0.14,0.21,0.07,0.21,Matches,UEFA Europa League,2024-2025
+0880e10b,Ruslan Neshcheret,ua UKR,GK,22,13,13,"1,170",13.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+1bd5735a,Oleksandr Karavayev,ua UKR,"DF,MF",32,17,12,"1,076",12.0,3,1,4,3,0,0,1,0,0.25,0.08,0.33,0.25,0.33,Matches,UEFA Europa League,2024-2025
+b2c1af55,Kristian Bilovar,ua UKR,DF,23,17,10,"1,074",11.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+3d64223a,Nazar Voloshyn,ua UKR,MF,21,24,8,"1,025",11.4,0,2,2,0,0,0,0,0,0.00,0.18,0.18,0.00,0.18,Matches,UEFA Europa League,2024-2025
+04e2af21,Oleksandr Pikhalyonok,ua UKR,MF,27,19,7,763,8.5,3,0,3,3,0,0,2,0,0.35,0.00,0.35,0.35,0.35,Matches,UEFA Europa League,2024-2025
+9e77a6e6,Maksym Braharu,ua UKR,MF,22,15,7,590,6.6,1,0,1,1,0,0,2,0,0.15,0.00,0.15,0.15,0.15,Matches,UEFA Europa League,2024-2025
+5b975e82,Valentyn Rubchynskyi,ua UKR,MF,22,21,6,646,7.2,3,0,3,3,0,0,2,0,0.42,0.00,0.42,0.42,0.42,Matches,UEFA Europa League,2024-2025
+75f6c9a1,Maksym Diachuk,ua UKR,DF,21,8,5,479,5.3,0,1,1,0,0,0,1,0,0.00,0.19,0.19,0.00,0.19,Matches,UEFA Europa League,2024-2025
+9d739099,Eduardo Guerrero,pa PAN,FW,24,16,4,520,5.8,0,1,1,0,0,0,0,0,0.00,0.17,0.17,0.00,0.17,Matches,UEFA Europa League,2024-2025
+4e3f5992,Oleksandr Andriyevskyi,ua UKR,MF,30,7,3,300,3.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+3fa61ade,Brayan Ceballos,co COL,DF,23,3,2,157,1.7,1,0,1,1,0,0,1,0,0.57,0.00,0.57,0.57,0.57,Matches,UEFA Europa League,2024-2025
+73affbb6,Vladyslav Supriaha,ua UKR,FW,24,2,1,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+3b2087a4,Valentyn Morhun,ua UKR,GK,22,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+9cf14be5,Justin Lonwijk,sr SUR,MF,24,2,1,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+f36880a9,Matvii Ponomarenko,ua UKR,FW,18,2,0,53,0.6,1,0,1,1,0,0,1,0,1.70,0.00,1.70,1.70,1.70,Matches,UEFA Europa League,2024-2025
+a0e9a73d,Valeriy Luchkevych,ua UKR,"DF,MF",28,2,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+131f7fed,Roman Salenko,ua UKR,MF,19,2,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+a455c4e5,Navin Malysh,ua UKR,MF,21,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+d4822868,Samba Diallo,sn SEN,MF,21,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+7063dad4,Vladyslav Herych,ua UKR,,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+dce33bf6,Denys Ihnatenko,ua UKR,GK,21,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+0bd76eeb,Maksym Korobov,ua UKR,DF,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+f0e50b57,Dmytrii Kremchanin,ua UKR,FW,19,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+a81ed730,Volodymyr Shepelyev,ua UKR,MF,27,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+550c5ccb,Artem Somka,ua UKR,GK,17,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+88cfc223,Viacheslav Surkis,ua UKR,GK,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+310a9b1d,Ángel Torres,co COL,MF,24,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+8bf49cd8,Nemanja Stojić,rs SRB,DF,26,8,7,651,7.2,1,0,1,1,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matches,UEFA Europa League,2024-2025
+feb79640,Roei Mashpati,il ISR,GK,31,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+e2a302a8,Dor Peretz,il ISR,MF,29,8,7,607,6.7,2,0,2,2,0,0,0,0,0.30,0.00,0.30,0.30,0.30,Matches,UEFA Europa League,2024-2025
+c7d67f45,Raz Shlomo,il ISR,DF,24,7,7,595,6.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+792a9d41,Issouf Sissokho,ml MLI,MF,22,8,6,557,6.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+d9d3eb6c,Dor Turgeman,il ISR,FW,20,7,6,494,5.5,1,1,2,1,0,0,0,0,0.18,0.18,0.36,0.18,0.36,Matches,UEFA Europa League,2024-2025
+6546d98e,Gavriel Kanichowsky,il ISR,MF,26,6,6,460,5.1,1,0,1,1,0,0,3,1,0.20,0.00,0.20,0.20,0.20,Matches,UEFA Europa League,2024-2025
+3fa6a0d9,Osher Davida,il ISR,"MF,FW",23,7,5,428,4.8,1,2,3,0,1,1,2,0,0.21,0.42,0.63,0.00,0.42,Matches,UEFA Europa League,2024-2025
+ced2aa0d,Joris van Overeem,nl NED,MF,30,7,4,446,5.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+0df16cd7,Weslley Patati,br BRA,MF,20,7,4,395,4.4,1,3,4,1,0,0,3,0,0.23,0.68,0.91,0.23,0.91,Matches,UEFA Europa League,2024-2025
+0f422610,Stav Lemkin,il ISR,DF,21,5,4,375,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+2ebd89bd,Tyrese Asante,nl NED,DF,22,5,4,339,3.8,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+f2c52355,Elad Madmon,il ISR,"FW,MF",20,8,4,320,3.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+f3294c3d,Idan Nachmias,il ISR,DF,27,4,3,294,3.3,1,0,1,1,0,0,1,0,0.31,0.00,0.31,0.31,0.31,Matches,UEFA Europa League,2024-2025
+e8725774,Roy Revivo,il ISR,DF,21,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+cebce017,Hisham Layous,il ISR,"FW,MF",23,4,3,250,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+bd9b9a48,Ido Shahar,il ISR,"MF,DF",22,3,3,208,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+1bfdb73a,Ofir Davidzada,il ISR,DF,33,3,2,178,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+a517aa82,Sagiv Yehezkel,il ISR,"DF,FW",29,4,2,172,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+5a5d394c,Simon Sluga,hr CRO,GK,31,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+e2ff6d17,Henry Addo,sk SVK,FW,21,7,0,112,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+86b575a7,Eran Zahavi,il ISR,"FW,MF",37,2,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+e997eece,Avishay Cohen,il ISR,FW,29,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+927750fc,Roei Amedi,il ISR,GK,20,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+f533776b,Nir Bitton,il ISR,"DF,MF",32,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+172d8d20,Roey Magor,il ISR,MF,17,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+626e647c,Yonas Malede,il ISR,FW,24,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+e8037e8c,Ofek Melika,il ISR,GK,19,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+a65f029f,Ido Oli,il ISR,MF,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+7a19393c,Shalev Saadia,il ISR,GK,18,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+007c75c0,Daniel Tishler,il ISR,DF,17,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+52861363,Idan Trau,il ISR,GK,16,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+0f281582,Idan Weinberg,il ISR,DF,17,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+b298716e,Dominik Kotarski,hr CRO,GK,24,28,28,"2,520",28.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+dc52c72f,Tomasz Kędziora,pl POL,DF,30,25,25,"2,232",24.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+e4086af3,Baba Rahman,gh GHA,DF,30,29,24,"2,198",24.4,5,2,7,5,0,0,6,1,0.20,0.08,0.29,0.20,0.29,Matches,UEFA Europa League,2024-2025
+fdeffef0,Giannis Konstantelias,gr GRE,"MF,FW",21,29,23,"2,082",23.1,7,0,7,7,0,0,4,0,0.30,0.00,0.30,0.30,0.30,Matches,UEFA Europa League,2024-2025
+13ea2544,Mohamed Camara,gn GUI,MF,27,29,19,"1,870",20.8,9,1,10,9,0,0,6,1,0.43,0.05,0.48,0.43,0.48,Matches,UEFA Europa League,2024-2025
+e28868f3,Jonny Castro,es ESP,DF,30,22,19,"1,703",18.9,0,2,2,0,0,0,4,0,0.00,0.11,0.11,0.00,0.11,Matches,UEFA Europa League,2024-2025
+321f83a2,Andrija Živković,rs SRB,MF,28,25,18,"1,717",19.1,8,4,12,8,0,0,5,0,0.42,0.21,0.63,0.42,0.63,Matches,UEFA Europa League,2024-2025
+7272a72a,Taison,br BRA,MF,36,25,18,"1,629",18.1,2,3,5,2,0,0,0,0,0.11,0.17,0.28,0.11,0.28,Matches,UEFA Europa League,2024-2025
+3ef0af0d,Magomed Ozdoyev,ru RUS,MF,31,24,18,"1,591",17.7,1,1,2,1,0,0,6,0,0.06,0.06,0.11,0.06,0.11,Matches,UEFA Europa League,2024-2025
+da3bf1b3,Stefan Schwab,at AUT,MF,33,28,17,"1,458",16.2,5,1,6,0,5,5,4,0,0.31,0.06,0.37,0.00,0.06,Matches,UEFA Europa League,2024-2025
+8cc9ef90,Giannis Michailidis,gr GRE,DF,24,17,16,"1,461",16.2,3,2,5,3,0,0,5,0,0.18,0.12,0.31,0.18,0.31,Matches,UEFA Europa League,2024-2025
+f9acf8bf,Joan Sastre Vanrell,es ESP,DF,27,19,14,"1,228",13.6,1,2,3,1,0,0,1,0,0.07,0.15,0.22,0.07,0.22,Matches,UEFA Europa League,2024-2025
+13c8e5f6,Kiril Despodov,bg BUL,MF,27,25,14,"1,215",13.5,5,4,9,5,0,0,2,0,0.37,0.30,0.67,0.37,0.67,Matches,UEFA Europa League,2024-2025
+eb8b2a35,Thomas Murg,at AUT,MF,29,14,12,824,9.2,1,0,1,1,0,0,0,0,0.11,0.00,0.11,0.11,0.11,Matches,UEFA Europa League,2024-2025
+042d286e,Fyodor Chalov,ru RUS,FW,26,26,10,991,11.0,3,4,7,3,0,0,1,0,0.27,0.36,0.64,0.27,0.64,Matches,UEFA Europa League,2024-2025
+3ecc8c5f,Mateusz Wieteska,pl POL,DF,27,10,10,900,10.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+3e016e5a,Brandon,es ESP,FW,29,12,9,611,6.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+4f60a143,Tarik Tissoudali,ma MAR,FW,31,16,8,759,8.4,2,1,3,2,0,0,1,0,0.24,0.12,0.36,0.24,0.36,Matches,UEFA Europa League,2024-2025
+1a2935f6,Dejan Lovren,hr CRO,DF,35,7,7,599,6.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+8b95acda,Omar Colley,gm GAM,DF,31,8,6,578,6.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+5cec2c74,Soualiho Meïté,fr FRA,MF,30,10,6,536,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+dae8623e,Mbwana Samatta,tz TAN,FW,31,12,5,578,6.4,4,2,6,4,0,0,2,0,0.62,0.31,0.93,0.62,0.93,Matches,UEFA Europa League,2024-2025
+33bd3dae,Dimitris Pelkas,gr GRE,"MF,FW",30,13,5,473,5.3,2,2,4,2,0,0,3,0,0.38,0.38,0.76,0.38,0.76,Matches,UEFA Europa League,2024-2025
+00f0482f,Shola Shoretire,eng ENG,MF,20,18,5,428,4.8,2,0,2,2,0,0,2,0,0.42,0.00,0.42,0.42,0.42,Matches,UEFA Europa League,2024-2025
+59bf127b,Tiemoué Bakayoko,fr FRA,MF,29,4,3,204,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+eda8506a,Sergio Peña,pe PER,MF,28,5,2,219,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+779fe525,Vieirinha,pt POR,DF,38,10,2,216,2.4,0,2,2,0,0,0,2,0,0.00,0.83,0.83,0.00,0.83,Matches,UEFA Europa League,2024-2025
+0a1cb833,Jiří Pavlenka,cz CZE,GK,32,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+062fc2e6,Rafa Soares,pt POR,DF,29,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+18cf07bd,Antonis Tsiftsis,gr GRE,GK,25,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+9cdc85e5,Jonathan Gomez,us USA,DF,20,2,2,169,1.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+6e945f87,Ivan Näsberg,no NOR,DF,28,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+85879c47,Konstantinos Thymianis,gr GRE,DF,23,3,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,UEFA Europa League,2024-2025
+86e5ea6e,Konstantinos Balomenos,gr GRE,GK,22,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+cba21b0d,Konstantinos Koulierakis,gr GRE,DF,20,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+8596a56f,Christos Talichmanidis,gr GRE,GK,23,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
+2d03fe94,Marios Tsaousis,gr GRE,DF,24,0,0,,,,,,,,,,,,,,,,Matches,UEFA Europa League,2024-2025
