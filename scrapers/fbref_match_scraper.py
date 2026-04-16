@@ -8,7 +8,7 @@ import sys
 import gc
 
 class FBrefMatchScraper:
-    def __init__(self, start_date_str="1912-06-12", output_file="data/raw/fbref_all_matches/fbref_all_matches_2024.csv"):
+    def __init__(self, start_date_str="1912-06-12", output_file="data/raw/fbref_all_matches/fbref_all_matches_1888_1950.csv"):
         self.start_date = datetime.strptime(start_date_str, "%Y-%m-%d").date()
         self.end_date = date.today()
         self.output_file = output_file
