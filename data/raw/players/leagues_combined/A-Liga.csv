@@ -1,0 +1,211 @@
+﻿PlayerID,Name,player,nationality,position,team,age,birth_year,games,games_starts,minutes,minutes_90s,goals,assists,goals_assists,goals_pens,pens_made,pens_att,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,goals_pens_per90,goals_assists_pens_per90,matches,goals_per_shot,goals_per_shot_on_target,shots,shots_on_target,shots_on_target_pct,shots_on_target_per90,shots_per90,gk_clean_sheets,gk_clean_sheets_pct,gk_games,gk_games_starts,gk_goals_against,gk_goals_against_per90,gk_losses,gk_minutes,gk_pens_allowed,gk_pens_att,gk_pens_missed,gk_pens_save_pct,gk_pens_saved,gk_save_pct,gk_saves,gk_shots_on_target_against,gk_ties,gk_wins,League,Season
+683f8c16,Milla Ahrenholt,Milla Ahrenholt,dk DEN,MF,Aarhus GF,18,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+0835cd1b,Tinaya Alexander,Tinaya Alexander,eng ENG,FW,HB Køge,25,1999,12,3,328,3.6,2,0,2,2,0,0,0,0,0.55,0.00,0.55,0.55,0.55,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+4635f116,Sara Amby,Sara Amby,dk DEN,FW,KoldingQ,17,2006,14,14,"1,191",13.2,1,0,1,1,0,0,3,0,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+6be2375f,Alberte Andersen,Alberte Andersen,dk DEN,GK,HB Køge,19,2004,20,20,"1,800",20.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,8,40.0,20,20,16,0.80,5,"1,800",1,1,0,0.0,0,,,,5,10,A-Liga,2024-2025
+61e53546,Vibeke Andersen,Vibeke Andersen,dk DEN,MF,HB Køge,21,2003,13,10,834,9.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+7a8f1f97,Lily Anna Farkas,Lily Anna Farkas,hu HUN,FW,Hjørring,23,2001,9,0,213,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+f8180776,Signe Antvorskov,Signe Antvorskov,dk DEN,MF,Nordsjælland,17,2006,21,15,"1,151",12.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+8f4f0cc8,Emilía Ásgeirsdóttir,Emilía Ásgeirsdóttir,is ISL,FW,Nordsjælland,19,2005,14,14,"1,201",13.3,7,0,7,7,0,0,0,0,0.52,0.00,0.52,0.52,0.52,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+d45f29d7,Signe Baattrup,Signe Baattrup,dk DEN,DF,Aarhus GF,24,2000,22,22,"1,852",20.6,3,1,4,3,0,0,3,0,0.15,0.05,0.19,0.15,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+49211cf3,Caroline Bager,Caroline Bager,dk DEN,DF,HB Køge,17,2007,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+4ada8b11,Dikte Bang,Dikte Bang,dk DEN,MF,Odense Q,19,2004,24,21,"1,749",19.4,5,0,5,5,0,0,0,0,0.26,0.00,0.26,0.26,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+ebe98654,Meryem Baskaya,Meryem Baskaya,dk DEN,DF,Brøndby,19,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+e472f067,Mille Bech,Mille Bech,dk DEN,MF,B93 København,20,2004,14,14,"1,206",13.4,1,0,1,1,0,0,1,0,0.07,0.00,0.07,0.07,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+fa67466e,Laila El Behery,Laila El Behery,eg EGY,FW,Nordsjælland,20,2003,9,5,335,3.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+b002803a,Frederikke Benfeldt,Frederikke Benfeldt,dk DEN,FW,B93 København,18,2005,13,10,937,10.4,2,2,4,2,0,0,1,0,0.19,0.19,0.38,0.19,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+1c9153d0,Mila Bischoff,Mila Bischoff,dk DEN,MF,Brøndby,15,2009,16,7,693,7.7,2,0,2,2,0,0,0,0,0.26,0.00,0.26,0.26,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+4ab2cd99,Isabella Blinge,Isabella Blinge,dk DEN,MF,HB Køge,16,2007,3,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+17dfa6cd,Frederikke Boisen,Frederikke Boisen,dk DEN,MF,B93 København,18,2006,3,0,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+fdad4bf3,Linnea Borbye,Linnea Borbye,dk DEN,FW,Brøndby,23,2001,23,14,"1,180",13.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+ccbdf34f,Anna Bout,Anna Bout,,MF,Odense Q,,,24,24,"2,029",22.5,2,1,3,2,0,0,1,0,0.09,0.04,0.13,0.09,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+aec0bd28,Signe Boysen,Signe Boysen,dk DEN,MF,Odense Q,28,1996,18,1,355,3.9,1,0,1,1,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+49a4412e,Amanda Brunholt,Amanda Brunholt,dk DEN,GK,Nordsjælland,29,1995,21,21,"1,890",21.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,7,33.3,21,21,23,1.10,8,"1,890",0,0,0,,0,,,,3,10,A-Liga,2024-2025
+d11b810b,Frederikke Bruun,Frederikke Bruun,dk DEN,DF,Brøndby,18,2005,1,1,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+69c8cf15,Luna Bruun,Luna Bruun,dk DEN,MF,B93 København,16,2007,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+81d66041,Anna Brændstrup,Anna Brændstrup,fo FRO,MF,HB Køge,19,2005,4,0,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+7daa9b74,Cecilie Buchberg,Cecilie Buchberg,dk DEN,MF,Brøndby,28,1995,16,15,"1,350",15.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+557a71b7,Marie Burkal,Marie Burkal,dk DEN,GK,Aarhus GF,19,2004,18,17,"1,594",17.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,23.5,18,17,23,1.30,7,"1,594",1,1,0,0.0,0,,,,3,7,A-Liga,2024-2025
+37cfd80a,Emilie Byrnak,Emilie Byrnak,dk DEN,DF,Nordsjælland,21,2003,14,14,"1,215",13.5,1,0,1,1,0,0,0,0,0.07,0.00,0.07,0.07,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+2fde1eee,Clara Bødtcher-Jensen,Clara Bødtcher-Jensen,dk DEN,FW,Nordsjælland,19,2005,6,0,138,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+0271de77,Augusta Callesen,Augusta Callesen,dk DEN,DF,HB Køge,18,2006,19,7,739,8.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+9e471c5f,Samantha Chang,Samantha Chang,ca CAN,DF,HB Køge,24,2000,14,14,"1,229",13.7,2,1,3,1,1,1,1,0,0.15,0.07,0.22,0.07,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+78c15c9e,Rylan Childers,Rylan Childers,,MF,Odense Q,,,23,23,"2,033",22.6,1,0,1,1,0,0,6,0,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+119fb26c,Cecilie Christensen,Cecilie Christensen,dk DEN,FW,KoldingQ,22,2001,12,10,720,8.0,2,0,2,2,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+91c2bb23,Signe Christensen,Signe Christensen,dk DEN,DF,Hjørring,17,2006,13,1,138,1.5,1,0,1,1,0,0,0,0,0.65,0.00,0.65,0.65,0.65,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+85356693,Nanna Christiansen,Nanna Christiansen,dk DEN,MF,Brøndby,35,1989,24,22,"1,959",21.8,10,0,10,9,1,1,0,0,0.46,0.00,0.46,0.41,0.41,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+83886395,Kathrine Clement,Kathrine Clement,dk DEN,MF,KoldingQ,20,2004,8,2,218,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+874ae8fc,Ava Collins,Ava Collins,nz NZL,MF,KoldingQ,22,2002,13,11,786,8.7,1,0,1,1,0,0,4,0,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+db5593b7,Janelle Cordia,Janelle Cordia,us USA,MF,Hjørring,37,1987,24,24,"2,124",23.6,1,0,1,1,0,0,0,0,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+4bd25897,Ester Dahlmann,Ester Dahlmann,,GK,KoldingQ,,,7,0,97,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+3f297e36,Madelyn Desiano,Madelyn Desiano,us USA,DF,Odense Q,24,2000,21,13,"1,141",12.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+3beea8cd,Ann-Kathrin Dilfer,Ann-Kathrin Dilfer,de GER,GK,Brøndby,22,2001,1,1,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,1,1.48,1,61,0,0,0,,0,,,,0,0,A-Liga,2024-2025
+1fdb740f,Nikoline Dudek,Nikoline Dudek,dk DEN,DF,Nordsjælland,20,2003,22,22,"1,886",21.0,1,0,1,1,0,0,1,0,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+40bd53c4,Sarah Dyrehauge Hansen,Sarah Dyrehauge Hansen,dk DEN,MF,Aarhus GF,27,1996,24,24,"2,121",23.6,5,1,6,5,0,0,3,0,0.21,0.04,0.25,0.21,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+2f934a79,Jennifer Einlykke,Jennifer Einlykke,dk DEN,MF,Brøndby,20,2004,5,0,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+c4ed34bf,Astrid Engsig Karup,Astrid Engsig Karup,dk DEN,MF,Nordsjælland,,,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+b4ba27da,Maria Ficzay,Maria Ficzay,ro ROU,DF,Hjørring,32,1991,6,2,171,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+eb5535d2,Laura Frank,Laura Frank,dk DEN,DF,Hjørring,25,1998,22,17,"1,490",16.6,1,0,1,1,0,0,2,0,0.06,0.00,0.06,0.06,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+530073e1,Tina Fremo,Tina Fremo,no NOR,DF,Aarhus GF,33,1991,21,11,"1,136",12.6,3,1,4,3,0,0,1,0,0.24,0.08,0.32,0.24,0.32,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+39e10637,Sophie French,Sophie French,us USA,,Odense Q,26,1998,22,8,786,8.7,2,0,2,2,0,0,3,0,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+fffbfa0c,Rebekka Frost Frederiksen,Rebekka Frost Frederiksen,dk DEN,MF,Hjørring,22,2002,20,12,992,11.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+61b103b9,Josefine Funch,Josefine Funch,dk DEN,MF,Nordsjælland,23,2000,21,17,"1,460",16.2,1,1,2,1,0,0,0,0,0.06,0.06,0.12,0.06,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+96ad886e,Bongeka Gamede,Bongeka Gamede,za RSA,DF,Nordsjælland,25,1999,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+71a3dc23,Olivia Garcia,Olivia Garcia,us USA,FW,HB Køge,20,2003,24,24,"2,131",23.7,18,1,19,18,0,0,1,0,0.76,0.04,0.80,0.76,0.80,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+b4e29a28,Emily Gray,Emily Gray,us USA,MF,Odense Q,23,2000,14,14,"1,207",13.4,3,2,5,2,1,1,0,0,0.22,0.15,0.37,0.15,0.30,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+9886a4b8,Ally Green,Ally Green,nz NZL,DF,Aarhus GF,25,1998,6,4,419,4.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+ea8d0301,Sara Grønhøj,Sara Grønhøj,dk DEN,DF,B93 København,18,2005,14,13,"1,079",12.0,2,0,2,2,0,0,0,0,0.17,0.00,0.17,0.17,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+fa5e0ce1,Ida Guldager,Ida Guldager,dk DEN,FW,KoldingQ,27,1996,14,9,901,10.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+3de59a67,Johanne Guldbæk,Johanne Guldbæk,dk DEN,MF,Aarhus GF,20,2003,20,13,"1,008",11.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+ae3e4c74,Andrea Guy,Andrea Guy,dk DEN,MF,HB Køge,17,2007,2,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+87a449ab,Ajla Habibovic,Ajla Habibovic,dk DEN,FW,Odense Q,19,2004,14,10,861,9.6,3,0,3,3,0,0,0,0,0.31,0.00,0.31,0.31,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+c6f6ccff,Alexandra Hargrave,Alexandra Hargrave,us USA,MF,HB Køge,23,2001,7,7,507,5.6,0,1,1,0,0,0,1,0,0.00,0.18,0.18,0.00,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+4ef0174b,Zoë Hasenauer,Zoë Hasenauer,us USA,MF,Odense Q,24,2000,23,22,"1,945",21.6,6,0,6,6,0,0,3,0,0.28,0.00,0.28,0.28,0.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+002d1ca1,Dajan Hashemi,Dajan Hashemi,dk DEN,FW,Brøndby,23,2000,24,22,"1,851",20.6,7,0,7,7,0,0,2,0,0.34,0.00,0.34,0.34,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+9150bd5b,Winonah Heatley,Winonah Heatley,au AUS,DF,Nordsjælland,23,2001,24,24,"2,124",23.6,2,0,2,2,0,0,2,0,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+1d8ccaee,Fiona Helenius,Fiona Helenius,dk DEN,DF,HB Køge,18,2005,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+44433688,Julie Hemmingsen,Julie Hemmingsen,dk DEN,DF,B93 København,21,2003,11,11,918,10.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+ae30e0fd,Emilie Henriksen,Emilie Henriksen,dk DEN,MF,Odense Q,27,1997,22,22,"1,754",19.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+e8aed5e0,Mille Henriksen,Mille Henriksen,dk DEN,DF,KoldingQ,21,2003,12,11,947,10.5,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+90ed30ae,Laura Hermann,Laura Hermann,dk DEN,MF,Brøndby,21,2003,4,0,59,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+1295c91d,Julia Hjørlunde,Julia Hjørlunde,dk DEN,FW,B93 København,23,2000,9,3,319,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+f75c112d,Frederikke Holmberg,Frederikke Holmberg,dk DEN,DF,Nordsjælland,21,2003,7,2,241,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+5a5d5c37,Marie Holmgaard,Marie Holmgaard,dk DEN,DF,Odense Q,22,2002,13,1,313,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+705ac255,Signe Holt Andersen,Signe Holt Andersen,dk DEN,MF,Aarhus GF,24,1999,10,6,599,6.7,1,0,1,1,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+a683d5ef,Emilie Holt,Emilie Holt,dk DEN,DF,HB Køge,17,2007,21,13,"1,132",12.6,2,1,3,0,2,2,1,0,0.16,0.08,0.24,0.00,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+cfe8ff18,Emma Hoppe,Emma Hoppe,dk DEN,FW,KoldingQ,24,2000,9,5,373,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+a85fac49,Teagan Hubertz,Teagan Hubertz,dk DEN,GK,HB Køge,19,2005,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,25.0,4,4,4,1.00,3,360,0,0,0,,0,,,,0,1,A-Liga,2024-2025
+32e918e8,Fleur Huisman,Fleur Huisman,nl NED,FW,HB Køge,18,2005,24,22,"1,945",21.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+9c9fd5d9,Astrid Husemoen,Astrid Husemoen,dk DEN,GK,B93 København,18,2006,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,5,5.00,1,90,0,0,0,,0,,,,0,0,A-Liga,2024-2025
+6dcb4423,Sofia Hvidbak,Sofia Hvidbak,dk DEN,FW,B93 København,22,2002,11,6,533,5.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+93287b83,Laura Høgh Faurskov,Laura Høgh Faurskov,dk DEN,MF,Aarhus GF,21,2002,17,10,989,11.0,3,0,3,3,0,0,0,0,0.27,0.00,0.27,0.27,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+51dceb5c,Filippa Høgild,Filippa Høgild,dk DEN,MF,B93 København,19,2004,10,10,756,8.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+323c55f8,Flora Højer,Flora Højer,dk DEN,FW,Nordsjælland,17,2007,10,0,133,1.5,1,0,1,1,0,0,1,0,0.68,0.00,0.68,0.68,0.68,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+b5d7d7f6,Clara Jensen,Clara Jensen,dk DEN,MF,Aarhus GF,18,2006,13,3,340,3.8,0,1,1,0,0,0,1,0,0.00,0.26,0.26,0.00,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+7e95a6ec,Julie Jensen,Julie Jensen,dk DEN,DF,Odense Q,23,2001,24,13,"1,185",13.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+ec67f178,Laura Jensen,Laura Jensen,dk DEN,GK,Hjørring,22,2002,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+65e8e3ac,Sille Jensen,Sille Jensen,dk DEN,MF,Odense Q,18,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+16e3d3f5,Julie Jorde,Julie Jorde,no NOR,MF,Brøndby,20,2004,10,10,748,8.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+f8078abb,Laura Juul Hansen,Laura Juul Hansen,dk DEN,FW,B93 København,23,2001,8,5,366,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+865f7eed,Laura Jørgensen,Laura Jørgensen,dk DEN,MF,Odense Q,22,2001,11,0,92,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+5780d731,Sofie Jørgensen,Sofie Jørgensen,dk DEN,MF,Aarhus GF,24,1999,17,5,455,5.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+0d9c2b87,Celine Kampmann,Celine Kampmann,dk DEN,DF,Nordsjælland,19,2005,1,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+f1b1940d,Sofie Karsberg,Sofie Karsberg,dk DEN,DF,KoldingQ,26,1997,3,0,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+d29b71ad,Laura Kjærsgård,Laura Kjærsgård,dk DEN,DF,Aarhus GF,19,2005,2,1,54,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+5dd7c92c,Julie Klæboe,Julie Klæboe,no NOR,MF,Brøndby,24,1999,5,2,145,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+f9c25d76,Karen Knudsen,Karen Knudsen,dk DEN,FW,Nordsjælland,20,2003,14,11,885,9.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+0a41cb51,Julia Kristensen,Julia Kristensen,dk DEN,MF,KoldingQ,19,2004,12,6,619,6.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+ebb3deab,Anna Krog,Anna Krog,dk DEN,FW,Odense Q,21,2003,23,17,"1,400",15.6,5,1,6,5,0,0,0,0,0.32,0.06,0.39,0.32,0.39,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+dca422e1,Samantha Kühne,Samantha Kühne,de GER,MF,Hjørring,22,2002,14,3,383,4.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+d81f5a02,Martha Langskov,Martha Langskov,dk DEN,DF,HB Køge,20,2004,2,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+d4653634,Camille Larsen,Camille Larsen,dk DEN,MF,Brøndby,18,2006,3,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+10db65cf,Cecilie Larsen,Cecilie Larsen,dk DEN,FW,Nordsjælland,23,2001,23,9,998,11.1,2,1,3,2,0,0,1,0,0.18,0.09,0.27,0.18,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+c4f23e77,Silke Larsen,Silke Larsen,dk DEN,DF,Aarhus GF,17,2007,6,2,169,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+2b3aa506,Selma Larsen Svendsen,Selma Larsen Svendsen,dk DEN,DF,HB Køge,23,2001,18,16,"1,477",16.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+784b69fa,Josefine Laursen,Josefine Laursen,dk DEN,FW,Hjørring,18,2006,11,2,323,3.6,0,1,1,0,0,0,0,0,0.00,0.28,0.28,0.00,0.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+c6b98f92,Sofie Laursen,Sofie Laursen,dk DEN,DF,Aarhus GF,24,2000,24,24,"2,141",23.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+0ad451fd,Mie Lerche,Mie Lerche,dk DEN,MF,Aarhus GF,18,2006,16,2,400,4.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+f06d0824,Mie Leth Jans,Mie Leth Jans,dk DEN,DF,Brøndby,30,1994,16,13,"1,025",11.4,2,0,2,2,0,0,0,0,0.18,0.00,0.18,0.18,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+ec92267a,Kamilla Lilhammer Karlsen,Kamilla Lilhammer Karlsen,dk DEN,DF,Brøndby,24,2000,23,14,"1,435",15.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+487b8c72,Sofie Lybæk,Sofie Lybæk,dk DEN,MF,Hjørring,23,2001,2,0,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+8387d753,Bella Madsen,Bella Madsen,dk DEN,MF,KoldingQ,17,2006,13,8,658,7.3,1,0,1,1,0,0,0,0,0.14,0.00,0.14,0.14,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+d3a4a9aa,Julie Madsen,Julie Madsen,dk DEN,DF,Brøndby,22,2002,21,18,"1,692",18.8,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+2b4dc026,Melanie Madsen,Melanie Madsen,,,KoldingQ,,,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+7c187be6,Ea Maiken Rasmussen,Ea Maiken Rasmussen,dk DEN,DF,KoldingQ,23,2001,14,14,"1,248",13.9,0,2,2,0,0,0,1,0,0.00,0.14,0.14,0.00,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+9afbc939,Rebecca Maria Winther,Rebecca Maria Winther,dk DEN,DF,HB Køge,22,2002,12,9,723,8.0,3,0,3,3,0,0,1,1,0.37,0.00,0.37,0.37,0.37,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+7a70b30b,Alma Marie Aagaard,Alma Marie Aagaard,dk DEN,MF,Nordsjælland,18,2006,22,18,"1,548",17.2,11,0,11,11,0,0,4,1,0.64,0.00,0.64,0.64,0.64,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+b7f61a5d,Ida Marie Jørgensen,Ida Marie Jørgensen,dk DEN,DF,Odense Q,19,2005,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+6d4c6f05,Signe Markvardsen,Signe Markvardsen,dk DEN,MF,HB Køge,21,2003,24,22,"1,916",21.3,3,0,3,3,0,0,1,0,0.14,0.00,0.14,0.14,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+a61dd240,Sydney Masur,Sydney Masur,us USA,MF,Hjørring,21,2003,10,5,536,6.0,1,1,2,1,0,0,0,0,0.17,0.17,0.34,0.17,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+7e9ba62f,Julie Mathiasen,Julie Mathiasen,dk DEN,FW,Aarhus GF,19,2004,23,23,"2,019",22.4,1,0,1,1,0,0,2,0,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+6ae46892,Shiho Matsubara,Shiho Matsubara,jp JPN,DF,Hjørring,27,1997,19,19,"1,649",18.3,1,0,1,1,0,0,0,0,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+c3548ff3,Robyn Mccarthy,Robyn Mccarthy,us USA,DF,Aarhus GF,25,1999,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+901e6908,Ida Meilstrup Jensen,Ida Meilstrup Jensen,dk DEN,GK,Odense Q,22,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,1,1.00,0,90,0,0,0,,0,,,,1,0,A-Liga,2024-2025
+b0bb625b,Karen Mikkelsen,Karen Mikkelsen,,MF,Hjørring,,,3,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+189d3d2f,Carli Moesgaard,Carli Moesgaard,dk DEN,DF,Nordsjælland,17,2007,20,3,571,6.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+37cd48f9,Alberte Mott,Alberte Mott,dk DEN,MF,Nordsjælland,16,2008,8,4,338,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+a1e05f0c,Angel Mukasa,Angel Mukasa,se SWE,GK,Brøndby,22,2002,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,57.1,7,7,5,0.71,1,630,0,0,0,,0,,,,2,4,A-Liga,2024-2025
+6b8d63b0,Signe Munk,Signe Munk,dk DEN,GK,B93 København,28,1995,13,13,"1,170",13.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,15.4,13,13,31,2.38,9,"1,170",0,0,0,,0,,,,2,2,A-Liga,2024-2025
+fb2acb27,Tanja Myrseth,Tanja Myrseth,no NOR,FW,Brøndby,27,1997,21,19,"1,563",17.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+e93de36d,Björk Mølgaard,Björk Mølgaard,dk DEN,DF,Odense Q,18,2006,4,1,104,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+092ab258,Phiona Nabbumba,Phiona Nabbumba,ug UGA,MF,B93 København,24,2000,14,14,"1,239",13.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+4d1202ca,Meaghan Nally,Meaghan Nally,us USA,DF,Odense Q,26,1998,23,23,"2,049",22.8,1,0,1,1,0,0,0,0,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+b137a1a8,Resty Nanziri,Resty Nanziri,ug UGA,FW,B93 København,26,1997,11,6,503,5.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+e54f5fc2,Elvira Nejmann,Elvira Nejmann,dk DEN,MF,Aarhus GF,18,2006,20,15,"1,365",15.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+142f80d3,Celine Nergård,Celine Nergård,no NOR,FW,Brøndby,25,1999,7,2,272,3.0,2,0,2,2,0,0,0,0,0.66,0.00,0.66,0.66,0.66,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+5bdbb7aa,Caroline Nicolaisen,Caroline Nicolaisen,dk DEN,MF,B93 København,19,2005,6,0,101,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+244f61b5,Agnete Nielsen,Agnete Nielsen,dk DEN,MF,Brøndby,25,1999,21,11,"1,150",12.8,3,0,3,3,0,0,0,0,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+8b1a87eb,Elisabeth Nielsen,Elisabeth Nielsen,dk DEN,FW,KoldingQ,19,2005,5,1,178,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+cc0db0fb,Maria Nielsen,Maria Nielsen,dk DEN,DF,HB Køge,24,1999,21,18,"1,666",18.5,1,0,1,1,0,0,0,0,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+06b7248e,Mariann Nielsen,Mariann Nielsen,dk DEN,MF,Aarhus GF,20,2004,23,19,"1,789",19.9,1,0,1,1,0,0,0,0,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+8dccb968,Nikoline Nielsen,Nikoline Nielsen,dk DEN,FW,Hjørring,14,2009,1,0,32,0.4,0,1,1,0,0,0,0,0,0.00,2.81,2.81,0.00,2.81,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+32bb365d,Sofie Nielsen-Grøn,Sofie Nielsen-Grøn,dk DEN,GK,KoldingQ,21,2003,8,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,3,3,8,2.67,1,270,1,1,0,0.0,0,,,,1,1,A-Liga,2024-2025
+9340cb0b,Linda Nyman,Linda Nyman,fi FIN,MF,HB Køge,30,1994,8,6,517,5.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+277df715,Sandra Olabi,Sandra Olabi,dk DEN,MF,B93 København,19,2005,12,11,917,10.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+a4f4b8ac,Joy Omega,Joy Omega,ng NGA,FW,Hjørring,21,2002,24,23,"1,961",21.8,22,4,26,20,2,2,2,0,1.01,0.18,1.19,0.92,1.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+8c9ab03c,Anastasija Pabiahajła,Anastasija Pabiahajła,by BLR,FW,Hjørring,20,2004,24,24,"1,932",21.5,11,2,13,11,0,0,0,0,0.51,0.09,0.61,0.51,0.61,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+ce7d6429,Andreea Părăluță,Andreea Părăluță,ro ROU,GK,Hjørring,29,1994,22,22,"1,980",22.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,11,52.4,21,21,14,0.67,2,"1,890",0,0,0,,0,,,,7,12,A-Liga,2024-2025
+c2b09bae,Kaitlyn Parcell,Kaitlyn Parcell,us USA,DF,Hjørring,26,1997,15,14,"1,076",12.0,1,0,1,1,0,0,0,0,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+a5bbc144,Kamma Pedersen,Kamma Pedersen,dk DEN,DF,Aarhus GF,19,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+b541f86f,Pernille Pedersen,Pernille Pedersen,dk DEN,MF,Hjørring,24,1999,12,6,557,6.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+956df348,Laura Pehrson,Laura Pehrson,dk DEN,DF,B93 København,20,2004,2,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+05fc6df6,Emma Pelkowski,Emma Pelkowski,us USA,FW,HB Køge,21,2003,9,9,799,8.9,0,2,2,0,0,0,1,0,0.00,0.23,0.23,0.00,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+7fc2aff7,Tiia Peltonen,Tiia Peltonen,fi FIN,DF,Hjørring,29,1995,24,24,"2,115",23.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+b63ecfb9,Jaime Perrault,Jaime Perrault,ca CAN,FW,Nordsjælland,17,2006,8,3,370,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+70cc860a,Julie Poulsen,Julie Poulsen,dk DEN,DF,KoldingQ,19,2004,8,2,235,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+35c10f8d,Simone Qi Andersen,Simone Qi Andersen,dk DEN,MF,Nordsjælland,28,1996,24,19,"1,681",18.7,0,1,1,0,0,0,0,0,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+afd1fc71,Lotte Raab,Lotte Raab,de GER,MF,KoldingQ,17,2006,3,0,74,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+17af14ad,Molly Race,Molly Race,,GK,Nordsjælland,,,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,66.7,3,3,3,1.00,1,270,0,0,0,,0,,,,0,2,A-Liga,2024-2025
+1de415a6,Hafrún Rakel Halldórsdóttir,Hafrún Rakel Halldórsdóttir,is ISL,DF,Brøndby,21,2002,24,21,"1,652",18.4,0,1,1,0,0,0,4,0,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+4112a7db,Emilie Ramskov,Emilie Ramskov,dk DEN,DF,B93 København,18,2006,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+cfcc6569,Mathilde Rasmussen,Mathilde Rasmussen,dk DEN,MF,Aarhus GF,21,2002,24,19,"1,572",17.5,4,0,4,4,0,0,1,0,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+180281f1,Emma Regan,Emma Regan,ca CAN,DF,HB Køge,24,2000,14,14,"1,258",14.0,1,0,1,1,0,0,1,0,0.07,0.00,0.07,0.07,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+590bf489,Thea Rhode,Thea Rhode,dk DEN,FW,B93 København,20,2003,9,9,696,7.7,3,0,3,3,0,0,1,0,0.39,0.00,0.39,0.39,0.39,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+bef89663,Ashley Riefner,Ashley Riefner,us USA,FW,Hjørring,30,1993,23,18,"1,526",17.0,7,1,8,7,0,0,3,0,0.41,0.06,0.47,0.41,0.47,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+31d79523,Lucy Roberts,Lucy Roberts,eng ENG,DF,Odense Q,23,2001,22,22,"1,958",21.8,1,0,1,1,0,0,4,1,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+8fddb798,Freja Rosenkrans Thisgaard,Freja Rosenkrans Thisgaard,dk DEN,GK,Hjørring,22,2002,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,50.0,2,2,1,0.50,0,180,0,0,0,,0,,,,0,2,A-Liga,2024-2025
+b59c6263,Anisa Saini,Anisa Saini,dk DEN,FW,Brøndby,18,2006,3,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+5ed0759b,Stefanie Sanders,Stefanie Sanders,de GER,FW,Odense Q,26,1998,7,0,125,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+0279c727,Jazmin Schultz-Petersen,Jazmin Schultz-Petersen,dk DEN,FW,B93 København,20,2003,9,1,154,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+afe8b022,Carla Schulz,Carla Schulz,dk DEN,MF,B93 København,19,2005,9,7,608,6.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+14682560,Ingibjörg Sigurðardóttir,Ingibjörg Sigurðardóttir,is ISL,DF,Brøndby,26,1997,20,20,"1,789",19.9,2,0,2,2,0,0,2,0,0.10,0.00,0.10,0.10,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+4cdccae3,Silje Simonsen,Silje Simonsen,dk DEN,DF,HB Køge,24,2000,17,16,"1,405",15.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+abc0e3bb,Emmi Siren,Emmi Siren,fi FIN,DF,Nordsjælland,23,2001,23,21,"1,778",19.8,1,0,1,1,0,0,0,0,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+30d55309,Ida Sofie Diget,Ida Sofie Diget,dk DEN,,B93 København,17,2007,2,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+69880f30,Tiffany Sornpao,Tiffany Sornpao,th THA,GK,Brøndby,26,1998,7,6,569,6.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,5,83.3,7,6,5,0.79,1,569,0,0,0,,0,,,,1,4,A-Liga,2024-2025
+1b21aef3,Ida Sort,Ida Sort,dk DEN,MF,Hjørring,18,2005,6,6,491,5.5,1,0,1,1,0,0,1,0,0.18,0.00,0.18,0.18,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+7f7c4454,Florentina Spânu,Florentina Spânu,ro ROU,"FW,MF",Hjørring,38,1985,24,24,"2,153",23.9,2,4,6,2,0,0,1,0,0.08,0.17,0.25,0.08,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+d9215e19,Malia Steinmetz,Malia Steinmetz,nz NZL,MF,Nordsjælland,25,1999,10,6,516,5.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+5ce088e2,Lisa Stengs,Lisa Stengs,nl NED,MF,HB Køge,18,2005,6,2,199,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+9ccff790,Sarah Sundahl,Sarah Sundahl,dk DEN,MF,Aarhus GF,22,2001,24,24,"2,014",22.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+d403c833,Eevi Sutela,Eevi Sutela,fi FIN,MF,HB Køge,23,2001,21,5,679,7.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+c2d33899,Katrine Svane,Katrine Svane,dk DEN,GK,Aarhus GF,26,1998,7,7,566,6.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,14.3,7,7,15,2.39,6,566,0,0,0,,0,,,,0,1,A-Liga,2024-2025
+9e38824f,Veronika Sæthre,Veronika Sæthre,no NOR,DF,Hjørring,24,1999,14,13,"1,209",13.4,1,0,1,1,0,0,0,0,0.07,0.00,0.07,0.07,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+85f89a28,Julie Tavlo-Petersson,Julie Tavlo-Petersson,dk DEN,MF,Brøndby,34,1989,24,24,"2,160",24.0,1,0,1,1,0,0,1,0,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+6a55312b,Julie Tenfjord,Julie Tenfjord,dk DEN,MF,KoldingQ,20,2004,14,11,985,10.9,3,2,5,3,0,0,0,0,0.27,0.18,0.46,0.27,0.46,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+7c4bf155,Andrea Termansen,Andrea Termansen,dk DEN,DF,KoldingQ,16,2007,4,4,330,3.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+a597afc0,Arna Thráinsdóttir,Arna Thráinsdóttir,is ISL,MF,Odense Q,22,2002,3,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+4c9e7b0e,Sofie Thrane Hornemann,Sofie Thrane Hornemann,dk DEN,FW,Brøndby,22,2002,21,5,580,6.4,3,0,3,3,0,0,0,0,0.47,0.00,0.47,0.47,0.47,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+c93b3bc0,Sofie Thrige,Sofie Thrige,dk DEN,DF,B93 København,28,1996,12,12,"1,066",11.8,1,0,1,1,0,0,1,0,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+3a9dac67,Sarah Thygesen,Sarah Thygesen,dk DEN,FW,HB Køge,20,2003,23,23,"1,971",21.9,3,0,3,3,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+a26f3afa,Signe Tingager,Signe Tingager,dk DEN,MF,Nordsjælland,18,2006,5,0,56,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+1e8785ee,Sarah Tofft,Sarah Tofft,dk DEN,DF,Nordsjælland,19,2005,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+67ac8a7f,Jalen Tompkins,Jalen Tompkins,us USA,GK,Brøndby,26,1997,10,10,900,10.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,40.0,10,10,10,1.00,3,900,1,1,0,0.0,0,,,,5,2,A-Liga,2024-2025
+0dc4d1b3,Sofie Tranholm Nielsen,Sofie Tranholm Nielsen,dk DEN,DF,KoldingQ,22,2002,14,14,"1,235",13.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+3b7b98e4,Malou Unn,Malou Unn,dk DEN,DF,B93 København,18,2005,14,3,519,5.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+0f14fb70,Emma Veletanlic,Emma Veletanlic,ba BIH,DF,KoldingQ,21,2003,13,13,"1,105",12.3,1,0,1,1,0,0,1,0,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+47993a2a,Louise Wadstrøm,Louise Wadstrøm,dk DEN,FW,Odense Q,21,2003,4,0,47,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+64b22864,Anna Walter,Anna Walter,dk DEN,FW,Nordsjælland,20,2004,23,23,"1,948",21.6,6,0,6,6,0,0,0,0,0.28,0.00,0.28,0.28,0.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+6bc61bf2,Risako Watanabe,Risako Watanabe,jp JPN,FW,Hjørring,23,2001,9,2,309,3.4,1,0,1,1,0,0,0,0,0.29,0.00,0.29,0.29,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+1b344f12,Sofia Weatherall,Sofia Weatherall,,FW,B93 København,,,6,0,84,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+3e764cff,Silja Weinell,Silja Weinell,dk DEN,DF,Nordsjælland,20,2004,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+3e764cff,Silja Weinell,Silja Weinell,dk DEN,DF,Nordsjælland,20,2004,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+3e764cff,Silja Weinell,Silja Weinell,dk DEN,DF,B93 København,20,2004,9,5,461,5.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+3e764cff,Silja Weinell,Silja Weinell,dk DEN,DF,B93 København,20,2004,9,5,461,5.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+da8b90cc,Mai Wendicke,Mai Wendicke,dk DEN,FW,KoldingQ,18,2006,4,1,169,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+ca057dba,Cayla White,Cayla White,us USA,GK,Odense Q,23,2001,23,23,"2,070",23.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,7,30.4,23,23,32,1.39,8,"2,070",1,1,0,0.0,0,,,,8,7,A-Liga,2024-2025
+e5419b91,Molly Wiklander,Molly Wiklander,se SWE,FW,Brøndby,21,2003,5,0,118,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+4ad5692c,Freya Winther,Freya Winther,dk DEN,DF,KoldingQ,22,2001,8,4,400,4.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+8ab7226e,Cecilie Winther Johansen,Cecilie Winther Johansen,dk DEN,FW,Aarhus GF,24,2000,22,13,"1,137",12.6,0,1,1,0,0,0,1,0,0.00,0.08,0.08,0.00,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025
+fa9231ed,Laura Worsøe,Laura Worsøe,dk DEN,GK,KoldingQ,22,2001,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,25.0,4,4,9,2.25,3,360,1,1,0,0.0,0,,,,1,0,A-Liga,2024-2025
+f6af9119,Ariel Young,Ariel Young,ca CAN,DF,Hjørring,22,2001,6,1,109,1.2,0,1,1,0,0,0,0,0,0.00,0.83,0.83,0.00,0.83,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,A-Liga,2024-2025

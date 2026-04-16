@@ -1,0 +1,457 @@
+﻿PlayerID,Name,player,nationality,position,team,age,birth_year,games,games_starts,minutes,minutes_90s,goals,assists,goals_assists,goals_pens,pens_made,pens_att,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,goals_pens_per90,goals_assists_pens_per90,matches,goals_per_shot,goals_per_shot_on_target,shots,shots_on_target,shots_on_target_pct,shots_on_target_per90,shots_per90,gk_clean_sheets,gk_clean_sheets_pct,gk_games,gk_games_starts,gk_goals_against,gk_goals_against_per90,gk_losses,gk_minutes,gk_pens_allowed,gk_pens_att,gk_pens_missed,gk_pens_save_pct,gk_pens_saved,gk_save_pct,gk_saves,gk_shots_on_target_against,gk_ties,gk_wins,League,Season
+5af2731a,Leroy Abanda,Leroy Abanda,fr FRA,DF,OFI Crete,24,2000,11,2,308,3.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+baa6cdf7,Bilal Abdelrahman Zeeni,Bilal Abdelrahman Zeeni,eg EGY,"MF,FW",PAS Lamia,21,2003,10,2,359,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+c603091a,Joel Abu Hanna,Joel Abu Hanna,il ISR,DF,Levadiakos,26,1998,16,15,"1,270",14.1,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+cd2b890d,Georgios Agapakis,Georgios Agapakis,gr GRE,MF,Panetolikos,21,2002,7,2,230,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+811a5834,Oluwatobiloba Alagbe,Oluwatobiloba Alagbe,ng NGA,"MF,DF",Asteras Tripoli,24,2000,29,21,"1,804",20.0,2,0,2,2,0,0,4,1,0.10,0.00,0.10,0.10,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+681b4836,Migouel Alfarela,Migouel Alfarela,fr FRA,FW,Kallithea,26,1997,17,15,"1,249",13.9,9,0,9,9,0,1,1,0,0.65,0.00,0.65,0.65,0.65,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+fd6108bc,Nikolai Alho,Nikolai Alho,fi FIN,DF,Asteras Tripoli,31,1993,20,16,"1,379",15.3,0,2,2,0,0,0,5,0,0.00,0.13,0.13,0.00,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+0afff3b7,Omri Altman,Omri Altman,il ISR,"MF,FW",Volos N.F.C.,30,1994,14,10,850,9.4,0,0,0,0,0,1,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+32a9f0f0,Federico Álvarez,Federico Álvarez,ar ARG,DF,Asteras Tripoli,29,1994,22,17,"1,570",17.4,1,0,1,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7c2a398c,Nordin Amrabat,Nordin Amrabat,ma MAR,MF,AEK Athens,37,1987,6,3,254,2.8,1,1,2,0,1,1,1,0,0.35,0.35,0.71,0.00,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+0b5d06ee,Lucas Anacker,Lucas Anacker,br BRA,GK,Levadiakos,27,1996,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,50.0,6,6,5,0.83,1,540,0,0,0,,0,,,,1,4,Super League Greece,2024-2025
+a31c9811,Alexandros Anagnostopoulos,Alexandros Anagnostopoulos,gr GRE,GK,Olympiacos,29,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,2,2.00,0,90,0,0,0,,0,,,,0,1,Super League Greece,2024-2025
+070eb3e3,Léo Andrade,Léo Andrade,br BRA,DF,PAS Lamia,26,1998,14,13,"1,035",11.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+2a70dcc9,Thanasis Androutsos,Thanasis Androutsos,gr GRE,"DF,MF",Olympiacos,27,1997,1,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+2a70dcc9,Thanasis Androutsos,Thanasis Androutsos,gr GRE,"DF,MF",Olympiacos,27,1997,1,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+2a70dcc9,Thanasis Androutsos,Thanasis Androutsos,gr GRE,MF,OFI Crete,27,1997,13,12,"1,008",11.2,0,1,1,0,0,0,4,0,0.00,0.09,0.09,0.00,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+2a70dcc9,Thanasis Androutsos,Thanasis Androutsos,gr GRE,MF,OFI Crete,27,1997,13,12,"1,008",11.2,0,1,1,0,0,0,4,0,0.00,0.09,0.09,0.00,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+38ead66d,Giannis Apostolakis,Giannis Apostolakis,gr GRE,MF,OFI Crete,19,2004,24,7,909,10.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+03db4a2e,Apostolos Apostolopoulos,Apostolos Apostolopoulos,gr GRE,DF,Olympiacos,21,2002,5,3,254,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+03db4a2e,Apostolos Apostolopoulos,Apostolos Apostolopoulos,gr GRE,DF,Olympiacos,21,2002,5,3,254,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+03db4a2e,Apostolos Apostolopoulos,Apostolos Apostolopoulos,gr GRE,"MF,DF",Panetolikos,21,2002,13,7,624,6.9,2,0,2,2,0,0,0,0,0.29,0.00,0.29,0.29,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+03db4a2e,Apostolos Apostolopoulos,Apostolos Apostolopoulos,gr GRE,"MF,DF",Panetolikos,21,2002,13,7,624,6.9,2,0,2,2,0,0,0,0,0.29,0.00,0.29,0.29,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f47a530a,Willian Arão,Willian Arão,br BRA,"MF,DF",Panathinaikos,31,1992,24,20,"1,647",18.3,1,0,1,1,0,0,4,0,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+155a69d7,Kyriakos Aslanidis,Kyriakos Aslanidis,gr GRE,DF,Volos N.F.C.,22,2002,15,5,655,7.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+0808e656,Jasin Assehnoun,Jasin Assehnoun,fi FIN,MF,Volos N.F.C.,25,1998,26,13,"1,242",13.8,1,2,3,1,0,0,6,0,0.07,0.14,0.22,0.07,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+efb62c60,Andreas Athanasakopoulos,Andreas Athanasakopoulos,gr GRE,"MF,FW",PAS Lamia,22,2001,24,17,"1,458",16.2,1,0,1,1,0,0,3,1,0.06,0.00,0.06,0.06,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e6345ae2,Nicolaos Athanasiou,Nicolaos Athanasiou,gr GRE,"DF,MF",Atromitos,23,2001,30,27,"2,361",26.2,3,6,9,2,1,1,7,1,0.11,0.23,0.34,0.08,0.30,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7c4451b8,Aviv Avraham,Aviv Avraham,il ISR,MF,Levadiakos,28,1996,8,2,244,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f7929dc6,Filip Bainović,Filip Bainović,rs SRB,MF,OFI Crete,28,1996,8,8,567,6.3,1,1,2,1,0,0,2,0,0.16,0.16,0.32,0.16,0.32,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+50ccf47d,Michalis Bakakis,Michalis Bakakis,gr GRE,"MF,DF",Panetolikos,33,1991,25,14,"1,222",13.6,0,3,3,0,0,0,8,0,0.00,0.22,0.22,0.00,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+dead55e5,Anastasios Bakasetas,Anastasios Bakasetas,gr GRE,MF,Panathinaikos,31,1993,22,15,"1,247",13.9,1,2,3,1,0,0,3,0,0.07,0.14,0.22,0.07,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+59bf127b,Tiemoué Bakayoko,Tiemoué Bakayoko,fr FRA,MF,PAOK,29,1994,4,3,204,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+729d11a5,Marko Bakić,Marko Bakić,me MNE,MF,OFI Crete,30,1993,28,21,"1,859",20.7,1,0,1,0,1,1,8,0,0.05,0.00,0.05,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+d2b262fe,Makana Baku,Makana Baku,de GER,"MF,FW",Atromitos,26,1998,31,30,"2,331",25.9,5,3,8,5,0,0,2,0,0.19,0.12,0.31,0.19,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+394854c4,George Baldock,George Baldock,gr GRE,DF,Panathinaikos,31,1993,3,2,187,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+60194b77,Guillermo Balzi,Guillermo Balzi,ar ARG,"MF,FW",Levadiakos,23,2001,27,27,"2,081",23.1,3,5,8,3,0,1,10,0,0.13,0.22,0.35,0.13,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+a3cd0078,Bernabé Barragán,Bernabé Barragán,es ESP,GK,Kallithea,31,1993,20,20,"1,729",19.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,20.0,20,20,26,1.35,9,"1,729",2,2,0,0.0,0,,,,9,2,Super League Greece,2024-2025
+6d819a57,Julián Bartolo,Julián Bartolo,ar ARG,"FW,MF",Asteras Tripoli,28,1996,28,26,"2,103",23.4,4,7,11,3,1,2,7,0,0.17,0.30,0.47,0.13,0.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+54b261c2,Christos Belevonis,Christos Belevonis,gr GRE,MF,Panetolikos,22,2002,29,7,944,10.5,1,0,1,1,0,0,4,0,0.10,0.00,0.10,0.10,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+0b4854f9,Emil Bergström,Emil Bergström,se SWE,DF,Panserraikos,31,1993,31,31,"2,724",30.3,0,1,1,0,0,0,3,0,0.00,0.03,0.03,0.00,0.03,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e68b8147,Lucas Bernadou,Lucas Bernadou,fr FRA,MF,Volos N.F.C.,23,2000,18,10,915,10.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f88c9890,Jefté Betancor,Jefté Betancor,es ESP,FW,Panserraikos,31,1993,30,30,"2,615",29.1,19,2,21,13,6,6,10,0,0.65,0.07,0.72,0.45,0.52,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+de40e38c,Giulian Biancone,Giulian Biancone,fr FRA,DF,Olympiacos,24,2000,17,12,"1,105",12.3,1,1,2,1,0,0,4,0,0.08,0.08,0.16,0.08,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6e4e6c25,Darnell Bile,Darnell Bile,fr FRA,MF,Asteras Tripoli,18,2005,9,1,171,1.9,0,1,1,0,0,0,1,0,0.00,0.53,0.53,0.00,0.53,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+dd7f6d4a,Giannis Bouzoukis,Giannis Bouzoukis,gr GRE,MF,Panetolikos,26,1998,31,28,"2,076",23.1,3,1,4,3,0,0,6,0,0.13,0.04,0.17,0.13,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+341e14aa,Jakub Brabec,Jakub Brabec,cz CZE,DF,Aris,31,1992,29,27,"2,421",26.9,3,0,3,3,0,0,8,0,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3e016e5a,Brandon,Brandon,es ESP,FW,PAOK,29,1995,12,9,611,6.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3db1684c,Bressan,Bressan,br BRA,DF,OFI Crete,31,1993,13,9,844,9.4,1,0,1,1,0,0,2,0,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6989550f,Alberto Brignoli,Alberto Brignoli,it ITA,GK,AEK Athens,32,1991,9,9,810,9.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,22.2,9,9,13,1.44,7,810,1,1,0,0.0,0,,,,1,1,Super League Greece,2024-2025
+08d37c53,Franz Brorsson,Franz Brorsson,se SWE,DF,Atromitos,28,1996,29,29,"2,506",27.8,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+35ac0417,Artem Bykov,Artem Bykov,by BLR,"MF,FW",PAS Lamia,31,1992,15,8,788,8.8,0,2,2,0,0,0,2,0,0.00,0.23,0.23,0.00,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+af34f10d,Alexander Callens,Alexander Callens,pe PER,DF,AEK Athens,32,1992,7,5,485,5.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+13ea2544,Mohamed Camara,Mohamed Camara,gn GUI,MF,PAOK,27,1997,29,19,"1,870",20.8,9,1,10,9,0,0,6,1,0.43,0.05,0.48,0.43,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+05ac9717,Carlitos,Carlitos,es ESP,FW,Atromitos,34,1990,20,12,941,10.5,5,2,7,5,0,0,1,1,0.48,0.19,0.67,0.48,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3ce20eda,David Carmo,David Carmo,ao ANG,DF,Olympiacos,25,1999,23,18,"1,559",17.3,1,0,1,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+ac89d15c,José Castaño,José Castaño,es ESP,DF,Asteras Tripoli,25,1998,17,13,"1,221",13.6,0,1,1,0,0,0,5,0,0.00,0.07,0.07,0.00,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e28868f3,Jonny Castro,Jonny Castro,es ESP,DF,PAOK,30,1994,22,19,"1,703",18.9,0,2,2,0,0,0,4,0,0.00,0.11,0.11,0.00,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+81339f97,Jasmin Čeliković,Jasmin Čeliković,ba BIH,"DF,MF",Panetolikos,25,1999,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+042d286e,Fyodor Chalov,Fyodor Chalov,ru RUS,FW,PAOK,26,1998,26,10,991,11.0,3,4,7,3,0,0,1,0,0.27,0.36,0.64,0.27,0.64,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e739d3fc,Dimitris Chantakias,Dimitris Chantakias,gr GRE,DF,Panserraikos,29,1995,8,8,542,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e739d3fc,Dimitris Chantakias,Dimitris Chantakias,gr GRE,DF,Panserraikos,29,1995,8,8,542,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e739d3fc,Dimitris Chantakias,Dimitris Chantakias,gr GRE,DF,PAS Lamia,29,1995,11,8,696,7.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e739d3fc,Dimitris Chantakias,Dimitris Chantakias,gr GRE,DF,PAS Lamia,29,1995,11,8,696,7.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+c8511c35,Konstantinos Charoupas,Konstantinos Charoupas,gr GRE,MF,Aris,16,2007,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+137e78cc,Anastasios Chatzigiovannis,Anastasios Chatzigiovannis,gr GRE,MF,Asteras Tripoli,27,1997,10,8,622,6.9,2,0,2,2,0,0,0,0,0.29,0.00,0.29,0.29,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+ebb24956,Zisis Chatzistravos,Zisis Chatzistravos,gr GRE,MF,Panserraikos,24,1999,24,17,"1,344",14.9,2,2,4,2,0,0,7,0,0.13,0.13,0.27,0.13,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+4b9b3933,Ilias Chatzitheodoridis,Ilias Chatzitheodoridis,gr GRE,DF,OFI Crete,26,1997,29,27,"2,302",25.6,0,2,2,0,0,0,8,0,0.00,0.08,0.08,0.00,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3e3ee8f7,Andrés Chávez,Andrés Chávez,ar ARG,FW,PAS Lamia,33,1991,7,2,261,2.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+47e44704,Lucas Chávez,Lucas Chávez,ar ARG,GK,Panetolikos,28,1995,36,35,"3,195",35.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,14,40.0,36,35,30,0.85,14,"3,195",3,5,1,25.0,1,,,,9,12,Super League Greece,2024-2025
+262e5a82,Chiquinho,Chiquinho,pt POR,MF,Olympiacos,29,1995,28,25,"2,054",22.8,8,4,12,8,0,0,0,0,0.35,0.18,0.53,0.35,0.53,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f1e21b5d,Manolis Chnaris,Manolis Chnaris,gr GRE,GK,OFI Crete,24,2000,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b61327eb,Diamantis Chouchoumis,Diamantis Chouchoumis,gr GRE,DF,Asteras Tripoli,30,1994,24,19,"1,755",19.5,1,3,4,1,0,0,2,0,0.05,0.15,0.21,0.05,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+62da9486,Lefteris Choutesiotis,Lefteris Choutesiotis,gr GRE,GK,Atromitos,30,1994,25,25,"2,250",25.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,6,24.0,25,25,30,1.20,12,"2,250",5,5,0,0.0,0,,,,2,11,Super League Greece,2024-2025
+ffe6adc5,Nikolaos Christogeorgos,Nikolaos Christogeorgos,gr GRE,GK,OFI Crete,24,2000,25,25,"2,250",25.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,6,24.0,25,25,33,1.32,9,"2,250",4,4,0,0.0,0,,,,6,10,Super League Greece,2024-2025
+a65335e0,Giannis Christopoulos,Giannis Christopoulos,gr GRE,DF,OFI Crete,24,2000,11,7,747,8.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8c8c07a7,José Cifuentes,José Cifuentes,ec ECU,MF,Aris,25,1999,29,25,"2,266",25.2,1,3,4,1,0,0,3,0,0.04,0.12,0.16,0.04,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+ef03b810,Enis Çokaj,Enis Çokaj,al ALB,MF,Levadiakos,25,1999,30,28,"2,424",26.9,0,0,0,0,0,0,13,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8b95acda,Omar Colley,Omar Colley,gm GAM,DF,PAOK,31,1992,8,6,578,6.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f3f7f222,Maximiliano Comba,Maximiliano Comba,ar ARG,"MF,DF",Volos N.F.C.,30,1994,33,28,"2,361",26.2,2,4,6,2,0,0,10,0,0.08,0.15,0.23,0.08,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+024adabd,Pavlos Correa,Pavlos Correa,cy CYP,DF,Volos N.F.C.,26,1998,11,9,857,9.5,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+80bc5e71,Costinha,Costinha,pt POR,DF,Olympiacos,24,2000,25,17,"1,457",16.2,0,3,3,0,0,0,2,1,0.00,0.19,0.19,0.00,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+c7b52b90,Julián Cuesta,Julián Cuesta,es ESP,GK,Aris,33,1991,30,30,"2,700",30.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,13,43.3,30,30,28,0.93,7,"2,700",4,4,0,0.0,0,,,,8,15,Super League Greece,2024-2025
+bd94153c,Edi Dajlani,Edi Dajlani,gr GRE,FW,Volos N.F.C.,20,2004,2,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3eb0f2df,Vladimír Darida,Vladimír Darida,cz CZE,MF,Aris,33,1990,29,19,"1,716",19.1,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+46bcd68d,Jason Davidson,Jason Davidson,au AUS,DF,Panserraikos,33,1991,28,26,"2,364",26.3,1,1,2,1,0,0,6,0,0.04,0.04,0.08,0.04,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8d9f7464,Miloš Deletić,Miloš Deletić,rs SRB,"MF,FW",Panserraikos,30,1993,29,16,"1,536",17.1,0,2,2,0,0,0,6,0,0.00,0.12,0.12,0.00,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6b6cbca4,Simon Deli,Simon Deli,ci CIV,DF,Asteras Tripoli,32,1991,29,26,"2,275",25.3,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+76098007,Panagiotis Deligiannidis,Panagiotis Deligiannidis,gr GRE,"DF,MF",Panserraikos,27,1996,32,27,"2,453",27.3,2,2,4,2,0,0,9,0,0.07,0.07,0.15,0.07,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+56b5cd94,Demethryus,Demethryus,br BRA,MF,Kallithea,25,1999,33,23,"2,045",22.7,1,3,4,1,0,1,2,0,0.04,0.13,0.18,0.04,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+c46b905f,Antonis Dentakis,Antonis Dentakis,gr GRE,"MF,DF",PAS Lamia,29,1995,18,12,"1,110",12.3,0,1,1,0,0,0,3,0,0.00,0.08,0.08,0.00,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+13c8e5f6,Kiril Despodov,Kiril Despodov,bg BUL,MF,PAOK,27,1996,25,14,"1,215",13.5,5,4,9,5,0,0,2,0,0.37,0.30,0.67,0.37,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+9a7498d1,Clayton Diandy,Clayton Diandy,sn SEN,MF,Aris,18,2006,19,11,910,10.1,0,1,1,0,0,0,1,0,0.00,0.10,0.10,0.00,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+877d1631,Sergio Díaz,Sergio Díaz,py PAR,"FW,MF",Panetolikos,26,1998,17,9,809,9.0,2,0,2,2,0,1,4,0,0.22,0.00,0.22,0.22,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b837e952,Giannis Doiranlis,Giannis Doiranlis,gr GRE,MF,PAS Lamia,21,2002,29,20,"1,755",19.5,1,0,1,1,0,0,2,0,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+64ed4f29,Nikolaos Dosis,Nikolaos Dosis,se SWE,MF,Volos N.F.C.,23,2001,3,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+085e71a7,Bartłomiej Drągowski,Bartłomiej Drągowski,pl POL,GK,Panathinaikos,26,1997,29,29,"2,589",28.8,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,10,34.5,29,29,29,1.01,5,"2,589",3,3,0,0.0,0,,,,7,17,Super League Greece,2024-2025
+d3ce2e2c,Dudu,Dudu,br BRA,MF,Aris,22,2002,7,2,278,3.1,2,0,2,2,0,0,1,0,0.65,0.00,0.65,0.65,0.65,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+0033fb1b,Niclas Eliasson,Niclas Eliasson,se SWE,MF,AEK Athens,28,1995,21,10,946,10.5,3,2,5,3,0,0,1,0,0.29,0.19,0.48,0.29,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+016cb21b,Luis Enrique Palma,Luis Enrique Palma,hn HON,MF,Olympiacos,24,2000,8,3,280,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e97655fc,Rodrigo Erramuspe,Rodrigo Erramuspe,ar ARG,DF,Levadiakos,34,1990,16,10,910,10.1,1,0,1,1,0,0,6,1,0.10,0.00,0.10,0.10,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b1c26ff9,Samy Faraj,Samy Faraj,fr FRA,MF,Asteras Tripoli,22,2001,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b7a5bc86,Mohamed Fares,Mohamed Fares,dz ALG,"DF,MF",Panserraikos,28,1996,29,27,"2,319",25.8,2,5,7,2,0,0,6,0,0.08,0.19,0.27,0.08,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b48349d9,Volnei Feltes,Volnei Feltes,br BRA,DF,Panserraikos,24,2000,13,12,"1,092",12.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8559fbe6,Paolo Fernandes,Paolo Fernandes,es ESP,MF,AEK Athens,25,1998,19,8,713,7.9,1,1,2,1,0,0,2,0,0.13,0.13,0.25,0.13,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+64bb0648,Franco Ferrari,Franco Ferrari,ar ARG,"DF,MF",Volos N.F.C.,32,1992,31,30,"2,505",27.8,0,5,5,0,0,0,14,1,0.00,0.18,0.18,0.00,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+d04d34c4,Giannis Fetfatzidis,Giannis Fetfatzidis,gr GRE,"MF,FW",Aris,33,1990,19,5,611,6.8,0,1,1,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+2ce71308,Taxiarchis Fountas,Taxiarchis Fountas,gr GRE,MF,OFI Crete,28,1995,28,27,"1,931",21.5,6,1,7,4,2,2,8,0,0.28,0.05,0.33,0.19,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b8b210d9,Martin Frýdek,Martin Frýdek,cz CZE,DF,Aris,32,1992,15,15,"1,107",12.3,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+14d8c5c4,Gustavo Furtado,Gustavo Furtado,br BRA,"FW,MF",PAS Lamia,23,2001,21,19,"1,758",19.5,6,1,7,5,1,1,9,1,0.31,0.05,0.36,0.26,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+0d10333c,Gabriel,Gabriel,br BRA,"MF,FW",Panserraikos,30,1993,11,8,765,8.5,1,0,1,1,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+16daec92,Mijat Gaćinović,Mijat Gaćinović,rs SRB,"DF,MF",AEK Athens,29,1995,20,9,903,10.0,2,0,2,2,0,0,6,1,0.20,0.00,0.20,0.20,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+738a08a6,David Galiatsos,David Galiatsos,gr GRE,DF,Panetolikos,18,2006,3,1,62,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b3f50e68,Felipe Gallegos,Felipe Gallegos,cl CHI,MF,OFI Crete,32,1991,3,2,208,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+bbfbd4d3,Braian Galván,Braian Galván,ar ARG,MF,Panserraikos,23,2000,9,2,180,2.0,1,1,2,1,0,0,0,0,0.50,0.50,1.00,0.50,1.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+50b4657d,Athanasios Garavelis,Athanasios Garavelis,gr GRE,GK,Levadiakos,31,1992,17,16,"1,500",16.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,18.8,17,16,19,1.14,6,"1,500",5,5,0,0.0,0,,,,6,4,Super League Greece,2024-2025
+240d3a0b,Dani García,Dani García,es ESP,MF,Olympiacos,34,1990,27,18,"1,530",17.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5a9dab86,Levi Garcia,Levi Garcia,tt TRI,FW,AEK Athens,26,1997,16,14,"1,110",12.3,5,2,7,5,0,0,2,0,0.41,0.16,0.57,0.41,0.57,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6ed1a2a2,Manu García,Manu García,es ESP,MF,Aris,26,1998,18,18,"1,435",15.9,4,1,5,4,0,0,3,0,0.25,0.06,0.31,0.25,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+c01826cb,Rubén García,Rubén García,es ESP,DF,Asteras Tripoli,25,1998,20,13,"1,163",12.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+4c700f46,Jérémy Gélin,Jérémy Gélin,fr FRA,MF,Panserraikos,27,1997,25,17,"1,561",17.3,0,1,1,0,0,0,5,1,0.00,0.06,0.06,0.00,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+fd0c3a8d,Ioannis Gelios,Ioannis Gelios,gr GRE,GK,Kallithea,32,1992,17,16,"1,511",16.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,5,31.3,17,16,26,1.55,7,"1,511",3,4,0,25.0,1,,,,3,6,Super League Greece,2024-2025
+cdf1e744,Elia Giani,Elia Giani,it ITA,FW,Kallithea,23,2000,23,5,726,8.1,3,2,5,2,1,1,5,1,0.37,0.25,0.62,0.25,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+fe2d2289,Giannis Gianniotas,Giannis Gianniotas,gr GRE,"MF,FW",Levadiakos,31,1993,23,9,938,10.4,3,2,5,3,0,1,2,0,0.29,0.19,0.48,0.29,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5d4e9c3a,Giorgos Giannoutsos,Giorgos Giannoutsos,gr GRE,DF,PAS Lamia,26,1998,28,26,"2,337",26.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5eb3130f,Petar Gigić,Petar Gigić,rs SRB,FW,Panserraikos,27,1997,8,1,148,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+87ec1a2a,Nacho Gil,Nacho Gil,es ESP,"MF,FW",Volos N.F.C.,28,1995,17,16,"1,311",14.6,2,1,3,2,0,0,3,0,0.14,0.07,0.21,0.14,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+79ab7593,Nicholas Gioacchini,Nicholas Gioacchini,us USA,FW,Asteras Tripoli,24,2000,12,7,619,6.9,1,0,1,1,0,0,2,0,0.15,0.00,0.15,0.15,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+ad4d00ea,Nikolaos Gkotzamanidis,Nikolaos Gkotzamanidis,gr GRE,DF,PAS Lamia,23,2001,23,19,"1,850",20.6,1,0,1,1,0,0,5,0,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1a6ec79a,Nemanja Glavčić,Nemanja Glavčić,rs SRB,MF,Volos N.F.C.,27,1997,17,16,"1,332",14.8,1,3,4,1,0,0,6,1,0.07,0.20,0.27,0.07,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+fe192f45,Adam Gnezda Čerin,Adam Gnezda Čerin,si SVN,MF,Panathinaikos,25,1999,27,17,"1,542",17.1,2,0,2,2,0,0,4,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+885d603d,Mamadou Gning,Mamadou Gning,sn SEN,MF,Aris,17,2006,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+9cdc85e5,Jonathan Gomez,Jonathan Gomez,us USA,DF,PAOK,20,2003,2,2,169,1.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b6d0052c,Borja González,Borja González,es ESP,DF,OFI Crete,28,1995,28,26,"2,341",26.0,4,7,11,4,0,0,4,0,0.15,0.27,0.42,0.15,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+09a2c9f9,Eder González,Eder González,es ESP,MF,Atromitos,27,1997,14,7,711,7.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+09a2c9f9,Eder González,Eder González,es ESP,MF,Atromitos,27,1997,14,7,711,7.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+09a2c9f9,Eder González,Eder González,es ESP,MF,Asteras Tripoli,27,1997,11,9,735,8.2,0,0,0,0,0,0,3,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+09a2c9f9,Eder González,Eder González,es ESP,MF,Asteras Tripoli,27,1997,11,9,735,8.2,0,0,0,0,0,0,3,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e45e5af2,Sean Goss,Sean Goss,nir NIR,MF,Asteras Tripoli,28,1995,3,0,57,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3dc7cc62,Dávid Gróf,Dávid Gróf,hu HUN,GK,Levadiakos,35,1989,8,8,720,8.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,12.5,8,8,15,1.87,4,720,2,2,0,0.0,0,,,,3,1,Super League Greece,2024-2025
+f05b0000,Luka Gugeshashvili,Luka Gugeshashvili,ge GEO,GK,Panserraikos,25,1999,33,33,"2,970",33.0,0,1,1,0,0,0,6,0,0.00,0.03,0.03,0.00,0.03,Matches,,,,,,,,5,15.2,33,33,55,1.67,16,"2,970",7,9,1,12.5,1,,,,7,10,Super League Greece,2024-2025
+5aea882b,Saliou Guindo,Saliou Guindo,ml MLI,"FW,MF",PAS Lamia,27,1996,11,3,432,4.8,0,1,1,0,0,0,2,1,0.00,0.21,0.21,0.00,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f4cb36ff,Konstantinos Gyftomitros,Konstantinos Gyftomitros,,DF,PAS Lamia,,,3,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b060e3b8,Ehsan Hajsafi,Ehsan Hajsafi,ir IRN,DF,AEK Athens,34,1990,15,12,"1,020",11.3,1,1,2,1,0,0,2,0,0.09,0.09,0.18,0.09,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+14b3a0e1,Karim Hamed,Karim Hamed,eg EGY,FW,Panserraikos,18,2005,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b387af71,Matěj Hanousek,Matěj Hanousek,cz CZE,"MF,DF",Kallithea,31,1993,13,8,731,8.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6f3a433e,Ángelo Henríquez,Ángelo Henríquez,cl CHI,FW,PAS Lamia,30,1994,13,5,544,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6aa0d1e2,Hjörtur Hermannsson,Hjörtur Hermannsson,is ISL,"DF,MF",Volos N.F.C.,29,1995,18,18,"1,614",17.9,2,1,3,2,0,0,6,0,0.11,0.06,0.17,0.11,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3694fad1,Santiago Hezze,Santiago Hezze,ar ARG,MF,Olympiacos,22,2001,30,20,"1,949",21.7,0,1,1,0,0,0,6,0,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+951f1739,André Horta,André Horta,pt POR,MF,Olympiacos,27,1996,2,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+853d23b4,Deivid Hoxha,Deivid Hoxha,al ALB,FW,Panetolikos,17,2007,2,0,15,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+c7429db3,Robert Ibáñez,Robert Ibáñez,es ESP,"MF,FW",PAS Lamia,31,1993,11,4,480,5.3,0,1,1,0,0,0,2,0,0.00,0.19,0.19,0.00,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3c93b9f0,Sverrir Ingi Ingason,Sverrir Ingi Ingason,is ISL,DF,Panathinaikos,30,1993,28,28,"2,519",28.0,1,1,2,1,0,0,4,1,0.04,0.04,0.07,0.04,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7fff395a,Fotis Ioannidis,Fotis Ioannidis,gr GRE,FW,Panathinaikos,24,2000,26,20,"1,824",20.3,6,1,7,3,3,4,5,1,0.30,0.05,0.35,0.15,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+14e8e9d7,Nicolas Isimat-Mirin,Nicolas Isimat-Mirin,fr FRA,DF,Kallithea,32,1991,24,23,"2,014",22.4,2,0,2,2,0,0,9,1,0.09,0.00,0.09,0.09,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+57fb35c0,Lamarana Jallow,Lamarana Jallow,gm GAM,"MF,FW",Levadiakos,22,2002,18,7,745,8.3,0,1,1,0,0,0,4,0,0.00,0.12,0.12,0.00,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f820504e,Tin Jedvaj,Tin Jedvaj,hr CRO,DF,Panathinaikos,28,1995,20,19,"1,673",18.6,1,1,2,1,0,0,5,0,0.05,0.05,0.11,0.05,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+54394643,Alexander Jeremejeff,Alexander Jeremejeff,se SWE,FW,Panathinaikos,30,1993,22,5,631,7.0,3,0,3,3,0,0,2,0,0.43,0.00,0.43,0.43,0.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1e161d47,Jesús Jiménez,Jesús Jiménez,es ESP,"FW,MF",OFI Crete,30,1993,2,0,57,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e9a12436,Juankar,Juankar,es ESP,DF,Aris,34,1990,9,6,606,6.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+d79afcfc,Juanpi,Juanpi,ve VEN,"MF,FW",Volos N.F.C.,30,1994,14,11,988,11.0,3,3,6,3,0,0,1,0,0.27,0.27,0.55,0.27,0.55,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1a371dfa,Denzhel Jubitana,Denzhel Jubitana,sr SUR,"MF,FW",Atromitos,25,1999,23,13,"1,235",13.7,4,0,4,3,1,1,6,0,0.29,0.00,0.29,0.22,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+0249b79b,Andrew Jung,Andrew Jung,fr FRA,FW,OFI Crete,26,1997,28,16,"1,490",16.6,3,2,5,2,1,1,4,0,0.18,0.12,0.30,0.12,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+53520a67,Jens Jønsson,Jens Jønsson,dk DEN,MF,AEK Athens,31,1993,19,13,"1,148",12.8,1,0,1,1,0,0,6,0,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b1bfd1d4,Ayoub El Kaabi,Ayoub El Kaabi,ma MAR,FW,Olympiacos,31,1993,29,25,"2,270",25.2,18,5,23,14,4,5,1,0,0.71,0.20,0.91,0.56,0.75,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6b169008,Nikos Kainourgios,Nikos Kainourgios,gr GRE,"DF,MF",Kallithea,25,1998,20,18,"1,554",17.3,1,0,1,1,0,0,3,0,0.06,0.00,0.06,0.06,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f25e1c88,Vasilios Kakonis,Vasilios Kakonis,gr GRE,,Panetolikos,19,2005,2,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f38a247a,Alexios Kalogeropoulos,Alexios Kalogeropoulos,gr GRE,"DF,MF",Volos N.F.C.,20,2004,33,33,"2,755",30.6,1,0,1,1,0,0,4,0,0.03,0.00,0.03,0.03,0.03,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f82630e7,Dimitrios Kaloskamis,Dimitrios Kaloskamis,gr GRE,MF,Atromitos,19,2005,20,5,584,6.5,3,0,3,3,0,0,0,0,0.46,0.00,0.46,0.46,0.46,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+71673dac,Nikos Kaltsas,Nikos Kaltsas,gr GRE,MF,Asteras Tripoli,34,1990,29,24,"2,042",22.7,6,1,7,6,0,0,11,0,0.26,0.04,0.31,0.26,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+ad5af04c,Ketu Kalvin,Ketu Kalvin,cm CMR,"FW,MF",Asteras Tripoli,27,1997,1,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+16886ee5,Joeri de Kamps,Joeri de Kamps,nl NED,"MF,DF",Volos N.F.C.,32,1992,15,9,695,7.7,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3e428eb2,Alexandros Kapsaliaris,Alexandros Kapsaliaris,gr GRE,GK,PAS Lamia,16,2008,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,,1,0,0,0.00,0,1,0,0,0,,0,,,,0,0,Super League Greece,2024-2025
+d717630e,Wilfrid Kaptoum,Wilfrid Kaptoum,cm CMR,MF,Panserraikos,28,1996,7,1,195,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e11ccec5,Zisis Karahalios,Zisis Karahalios,gr GRE,MF,OFI Crete,28,1996,29,23,"2,137",23.7,1,0,1,1,0,0,6,0,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1c4d59fa,Athanasios Karamanis,Athanasios Karamanis,gr GRE,MF,Atromitos,20,2003,22,14,"1,201",13.3,2,2,4,2,0,0,8,0,0.15,0.15,0.30,0.15,0.30,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+34259d3d,Antreas Karamanolis,Antreas Karamanolis,cy CYP,DF,Panserraikos,22,2001,4,3,244,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+4d56bc34,Aristotelis Karasalidis,Aristotelis Karasalidis,gr GRE,DF,Panserraikos,33,1991,15,5,647,7.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f5830bfd,Paschalis Kassos,Paschalis Kassos,gr GRE,"MF,DF",Levadiakos,32,1991,20,11,"1,095",12.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b3361768,Panagiotis Katsikas,Panagiotis Katsikas,gr GRE,GK,Panserraikos,25,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,4,4.00,1,90,0,1,0,100.0,1,,,,0,0,Super League Greece,2024-2025
+73d99236,Stefanos Katsikas,Stefanos Katsikas,gr GRE,"MF,FW",Volos N.F.C.,22,2002,8,2,186,2.1,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+dc52c72f,Tomasz Kędziora,Tomasz Kędziora,pl POL,DF,PAOK,30,1994,25,25,"2,232",24.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+01a02403,Marko Kerkez,Marko Kerkez,rs SRB,DF,Aris,24,2000,1,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+dab0da1c,Viktor Klonaridis,Viktor Klonaridis,be BEL,MF,PAS Lamia,32,1992,4,4,177,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6e1e6687,Aboubakary Koita,Aboubakary Koita,mr MTN,MF,AEK Athens,25,1998,23,14,"1,302",14.5,2,4,6,2,0,0,5,0,0.14,0.28,0.41,0.14,0.41,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+fdeffef0,Giannis Konstantelias,Giannis Konstantelias,gr GRE,"MF,FW",PAOK,21,2003,29,23,"2,082",23.1,7,0,7,7,0,0,4,0,0.30,0.00,0.30,0.30,0.30,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+88c0543c,Asterios Konstantinidis,Asterios Konstantinidis,,,Panserraikos,,,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+86430e2d,Sotiris Kontouris,Sotiris Kontouris,gr GRE,MF,Panetolikos,19,2005,17,6,575,6.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+080f6238,Georgios Kornezos,Georgios Kornezos,gr GRE,DF,PAS Lamia,26,1998,15,14,"1,288",14.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5594f2ee,Alexei Koșelev,Alexei Koșelev,md MDA,GK,Atromitos,30,1993,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,14.3,7,7,7,1.00,1,630,0,0,0,,0,,,,5,1,Super League Greece,2024-2025
+f4967186,Ioannis Kosti,Ioannis Kosti,cy CYP,MF,Levadiakos,24,2000,30,23,"2,028",22.5,2,3,5,2,0,0,12,1,0.09,0.13,0.22,0.09,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5b8c6a3a,Ivan Kostić,Ivan Kostić,rs SRB,GK,PAS Lamia,28,1995,21,21,"1,890",21.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,5,23.8,21,21,33,1.57,11,"1,890",3,5,2,0.0,0,,,,6,4,Super League Greece,2024-2025
+816010c4,Charalampos Kostoulas,Charalampos Kostoulas,gr GRE,"MF,FW",Olympiacos,17,2007,22,13,"1,200",13.3,7,0,7,7,0,0,2,0,0.52,0.00,0.52,0.52,0.52,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+a5ecefa2,Márk Koszta,Márk Koszta,hu HUN,FW,Volos N.F.C.,27,1996,24,18,"1,558",17.3,5,3,8,5,0,0,6,0,0.29,0.17,0.46,0.29,0.46,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b298716e,Dominik Kotarski,Dominik Kotarski,hr CRO,GK,PAOK,24,2000,28,28,"2,520",28.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,9,32.1,28,28,33,1.18,9,"2,520",2,6,2,50.0,2,,,,4,15,Super League Greece,2024-2025
+4e6e69b3,Giannis Kotsiras,Giannis Kotsiras,gr GRE,DF,Panathinaikos,31,1992,8,4,434,4.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+81af9f61,Athanasios Koutsogoulas,Athanasios Koutsogoulas,gr GRE,"DF,MF",Panserraikos,20,2004,12,7,737,8.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+10883949,Dániel Kovács,Dániel Kovács,hu HUN,GK,Volos N.F.C.,30,1994,20,20,"1,800",20.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,15.0,20,20,33,1.65,12,"1,800",3,4,0,25.0,1,,,,4,4,Super League Greece,2024-2025
+7eeefd04,Titos Koytentakis,Titos Koytentakis,gr GRE,MF,OFI Crete,20,2003,4,1,100,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+9f89b28b,Daniel Kuri,Daniel Kuri,lb LIB,FW,Panetolikos,25,1999,27,14,"1,289",14.3,0,1,1,0,0,0,1,0,0.00,0.07,0.07,0.00,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+68e73cc4,Toshio Lake,Toshio Lake,nl NED,"MF,FW",PAS Lamia,23,2001,17,8,795,8.8,1,1,2,1,0,0,3,0,0.11,0.11,0.23,0.11,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+591477c9,Vassilis Lambropoulos,Vassilis Lambropoulos,gr GRE,DF,OFI Crete,34,1990,28,28,"2,520",28.0,3,0,3,3,0,0,8,0,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+abe66106,Érik Lamela,Érik Lamela,ar ARG,"MF,FW",AEK Athens,32,1992,24,15,"1,463",16.3,5,3,8,5,0,0,9,1,0.31,0.18,0.49,0.31,0.49,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+42e1ea60,Lazaros Lamprou,Lazaros Lamprou,gr GRE,"MF,FW",Volos N.F.C.,26,1997,19,15,"1,363",15.1,4,2,6,3,1,2,2,0,0.26,0.13,0.40,0.20,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b18366a4,Keelan Lebon,Keelan Lebon,mf SMN,"MF,FW",Kallithea,27,1997,13,6,589,6.5,2,1,3,2,0,0,0,0,0.31,0.15,0.46,0.31,0.46,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+d8b87439,Fabiano Leismann,Fabiano Leismann,br BRA,DF,Aris,32,1991,23,20,"1,821",20.2,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1a0294f8,Kevin Lewis,Kevin Lewis,uy URU,DF,OFI Crete,25,1999,7,3,240,2.7,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+29ef0f49,Aaron Leya Iseka,Aaron Leya Iseka,be BEL,FW,OFI Crete,26,1997,2,2,179,2.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+01ecd78a,Samba Lélé Diba,Samba Lélé Diba,sn SEN,MF,Kallithea,20,2003,17,10,891,9.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b1c81b85,Panagiotis Liagas,Panagiotis Liagas,gr GRE,DF,Levadiakos,24,1999,32,31,"2,705",30.1,1,1,2,1,0,0,6,0,0.03,0.03,0.07,0.03,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7dc50527,Angelos Liasos,Angelos Liasos,gr GRE,MF,Panserraikos,24,2000,24,10,"1,029",11.4,0,2,2,0,0,0,7,0,0.00,0.17,0.17,0.00,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f3d12a9d,Georgios Liavas,Georgios Liavas,gr GRE,"MF,DF",Panetolikos,23,2001,32,26,"2,361",26.2,4,2,6,0,4,4,5,1,0.15,0.08,0.23,0.00,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+62c7067a,Dimitris Limnios,Dimitris Limnios,gr GRE,"FW,DF",Panathinaikos,26,1998,11,2,234,2.6,0,1,1,0,0,0,1,0,0.00,0.38,0.38,0.00,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+99a8ddc9,Robert Ljubicic,Robert Ljubicic,at AUT,MF,AEK Athens,25,1999,22,14,"1,260",14.0,2,3,5,2,0,0,1,0,0.14,0.21,0.36,0.14,0.36,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+59f0c185,Yuri Lodygin,Yuri Lodygin,ru RUS,GK,Panathinaikos,34,1990,4,3,286,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,33.3,4,3,4,1.26,2,286,2,2,0,0.0,0,,,,1,0,Super League Greece,2024-2025
+306caebd,Nikolaos Lolis,Nikolaos Lolis,gr GRE,MF,Olympiacos,19,2005,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b7668b24,Sebastián Lomonaco,Sebastián Lomonaco,ar ARG,FW,Panetolikos,25,1998,23,14,"1,272",14.1,2,0,2,2,0,0,5,0,0.14,0.00,0.14,0.14,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+9736b85a,Giannis Loukinas,Giannis Loukinas,gr GRE,FW,Kallithea,32,1991,29,14,"1,352",15.0,5,1,6,5,0,0,3,0,0.33,0.07,0.40,0.33,0.40,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1a2935f6,Dejan Lovren,Dejan Lovren,hr CRO,DF,PAOK,35,1989,7,7,599,6.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b0edd538,Miguel Luís,Miguel Luís,pt POR,MF,Panetolikos,25,1999,29,18,"1,532",17.0,2,0,2,2,0,0,6,1,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5d20755a,Konstantinos Lykourinos,Konstantinos Lykourinos,gr GRE,DF,Volos N.F.C.,18,2006,2,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+64293bed,Ramiro Macagno,Ramiro Macagno,ar ARG,GK,Levadiakos,27,1997,6,6,480,5.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,50.0,6,6,4,0.75,1,480,1,1,0,0.0,0,,,,1,4,Super League Greece,2024-2025
+e14daddc,Federico Macheda,Federico Macheda,it ITA,FW,Asteras Tripoli,32,1991,22,16,"1,538",17.1,6,3,9,5,1,2,4,0,0.35,0.18,0.53,0.29,0.47,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+526541e5,Hörður Magnússon,Hörður Magnússon,is ISL,DF,Panathinaikos,31,1993,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1ede6696,Andrija Majdevac,Andrija Majdevac,rs SRB,FW,Panetolikos,26,1997,26,11,"1,088",12.1,3,1,4,2,1,2,2,0,0.25,0.08,0.33,0.17,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+00b28772,Nemanja Maksimović,Nemanja Maksimović,rs SRB,MF,Panathinaikos,29,1995,27,17,"1,509",16.8,3,3,6,3,0,0,5,0,0.18,0.18,0.36,0.18,0.36,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+cb574619,Hugo Mallo,Hugo Mallo,es ESP,DF,Aris,33,1991,20,19,"1,668",18.5,1,1,2,1,0,0,5,0,0.05,0.05,0.11,0.05,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5c1663e9,Daniel Mancini,Daniel Mancini,ar ARG,"FW,MF",Panathinaikos,27,1996,17,5,497,5.5,0,1,1,0,0,0,2,0,0.00,0.18,0.18,0.00,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+924081a5,Mansur,Mansur,br BRA,DF,Atromitos,31,1993,25,25,"2,211",24.6,3,0,3,3,0,0,8,1,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+88a9ea33,Petros Mantalos,Petros Mantalos,gr GRE,MF,AEK Athens,32,1991,25,12,"1,197",13.3,2,3,5,1,1,1,8,0,0.15,0.23,0.38,0.08,0.30,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+910de159,Giorgos Manthatis,Giorgos Manthatis,gr GRE,"MF,DF",Kallithea,27,1997,28,19,"1,700",18.9,0,1,1,0,0,0,8,1,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1856c443,Vasilios Mantzis,Vasilios Mantzis,gr GRE,FW,Asteras Tripoli,32,1991,3,0,43,0.5,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8fe5f653,Rafail Margaritis,Rafail Margaritis,gr GRE,MF,PAS Lamia,19,2004,2,1,57,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8c13fa92,Nikos Marinakis,Nikos Marinakis,gr GRE,DF,OFI Crete,30,1993,14,6,599,6.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+dee8f3e7,Georgios Marinos,Georgios Marinos,gr GRE,FW,Panserraikos,24,2000,2,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+c3f5963a,Georgios Marios Katris,Georgios Marios Katris,gr GRE,DF,Levadiakos,18,2005,19,13,"1,357",15.1,1,1,2,1,0,0,3,0,0.07,0.07,0.13,0.07,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+c955eab3,Nicolás Marotta,Nicolás Marotta,ar ARG,DF,Kallithea,27,1996,1,0,24,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8b788c01,Anthony Martial,Anthony Martial,fr FRA,"MF,FW",AEK Athens,28,1995,19,15,"1,305",14.5,7,1,8,6,1,1,1,0,0.48,0.07,0.55,0.41,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+9b8f61bd,Ádám Martin,Ádám Martin,hu HUN,FW,Asteras Tripoli,29,1994,8,7,502,5.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3ef0fa48,Gelson Martins,Gelson Martins,pt POR,MF,Olympiacos,29,1995,26,22,"1,924",21.4,7,8,15,7,0,0,3,0,0.33,0.37,0.70,0.33,0.70,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+2bfb9f04,Alexandros Maskanakis,Alexandros Maskanakis,gr GRE,MF,Panserraikos,19,2004,9,1,260,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+9d689a5b,Giorgos Masouras,Giorgos Masouras,gr GRE,MF,Olympiacos,30,1994,10,2,245,2.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+35fa45cc,Javier Matilla,Javier Matilla,es ESP,MF,Kallithea,35,1988,26,16,"1,629",18.1,1,2,3,1,0,0,8,0,0.06,0.11,0.17,0.06,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5980e40f,Wiktor Matyjewicz,Wiktor Matyjewicz,pl POL,DF,Kallithea,20,2004,2,1,49,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1cfd188f,Charalampos Mavrias,Charalampos Mavrias,gr GRE,"MF,DF",Panetolikos,30,1994,31,28,"2,369",26.3,0,2,2,0,0,0,3,0,0.00,0.08,0.08,0.00,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+826e8b63,Philipp Max,Philipp Max,de GER,DF,Panathinaikos,30,1993,9,5,531,5.9,0,1,1,0,0,0,1,0,0.00,0.17,0.17,0.00,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+aeac8132,James McGarry,James McGarry,nz NZL,DF,Kallithea,26,1998,8,5,471,5.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5cec2c74,Soualiho Meïté,Soualiho Meïté,fr FRA,MF,PAOK,30,1994,10,6,536,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+78483f73,Alfredo Mejía,Alfredo Mejía,hn HON,MF,Levadiakos,34,1990,10,7,520,5.8,0,1,1,0,0,0,2,0,0.00,0.17,0.17,0.00,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f472365d,Josua Mejías,Josua Mejías,ve VEN,DF,Kallithea,26,1997,24,20,"1,802",20.0,0,1,1,0,0,0,9,0,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+61ee5f2d,Nedim Mekić,Nedim Mekić,ba BIH,"MF,FW",PAS Lamia,29,1995,9,6,509,5.7,0,1,1,0,0,0,0,0,0.00,0.18,0.18,0.00,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+ba50d314,Miguel Mellado,Miguel Mellado,ar ARG,MF,Kallithea,31,1993,15,14,"1,073",11.9,1,0,1,1,0,0,4,0,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+074d690d,Júnior Mendieta,Júnior Mendieta,ar ARG,"MF,FW",Volos N.F.C.,31,1993,15,10,945,10.5,4,0,4,4,0,0,8,0,0.38,0.00,0.38,0.38,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f99fe221,Hamza Mendyl,Hamza Mendyl,ma MAR,DF,Aris,26,1997,12,11,"1,049",11.7,1,2,3,1,0,0,3,0,0.09,0.17,0.26,0.09,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+21c4b6af,Alessandro Mercati,Alessandro Mercati,it ITA,MF,Kallithea,22,2002,30,22,"1,780",19.8,0,1,1,0,0,0,10,0,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1912161c,Dimitris Metaxas,Dimitris Metaxas,gr GRE,MF,Kallithea,20,2003,7,3,314,3.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8cc9ef90,Giannis Michailidis,Giannis Michailidis,gr GRE,DF,PAOK,24,2000,17,16,"1,461",16.2,3,2,5,3,0,0,5,0,0.18,0.12,0.31,0.18,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5ad141cb,Peter Michorl,Peter Michorl,at AUT,MF,Atromitos,29,1995,25,12,"1,045",11.6,1,1,2,1,0,0,4,0,0.09,0.09,0.17,0.09,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+903b3b77,Nemanja Miletić,Nemanja Miletić,rs SRB,DF,Volos N.F.C.,33,1991,17,12,997,11.1,1,0,1,1,0,0,2,0,0.09,0.00,0.09,0.09,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+939c6319,Gerasimos Mitoglou,Gerasimos Mitoglou,gr GRE,DF,AEK Athens,24,1999,15,13,"1,113",12.4,3,0,3,3,0,0,2,1,0.24,0.00,0.24,0.24,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5fa09c2e,Sebastian Mladen,Sebastian Mladen,ro ROU,DF,Panetolikos,32,1991,24,21,"1,887",21.0,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+a3eabee0,Filip Mladenović,Filip Mladenović,rs SRB,DF,Panathinaikos,32,1991,28,26,"2,244",24.9,1,2,3,1,0,0,14,0,0.04,0.08,0.12,0.04,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8ac501f5,Monchu,Monchu,es ESP,MF,Aris,24,1999,30,29,"2,603",28.9,3,8,11,3,0,0,9,0,0.10,0.28,0.38,0.10,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5cec2487,Martín Montoya,Martín Montoya,es ESP,"DF,MF",Aris,33,1991,22,15,"1,403",15.6,0,3,3,0,0,0,8,1,0.00,0.19,0.19,0.00,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+88235fb9,Maximiliano Moreira,Maximiliano Moreira,uy URU,"DF,MF",Levadiakos,30,1994,28,24,"2,081",23.1,0,1,1,0,0,0,8,1,0.00,0.04,0.04,0.00,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3aa4a3be,Loren Morón,Loren Morón,es ESP,FW,Aris,30,1993,30,30,"2,620",29.1,18,1,19,11,7,7,5,0,0.62,0.03,0.65,0.38,0.41,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b64073a0,Andrei Motoc,Andrei Motoc,md MDA,"DF,MF",Kallithea,22,2002,12,11,988,11.0,0,1,1,0,0,0,3,1,0.00,0.09,0.09,0.00,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5f26e0c5,Harold Moukoudi,Harold Moukoudi,cm CMR,DF,AEK Athens,26,1997,21,20,"1,660",18.4,4,0,4,4,0,0,5,1,0.22,0.00,0.22,0.22,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+58c525e2,Mattheos Mountes,Mattheos Mountes,gr GRE,"DF,MF",Atromitos,20,2003,17,10,"1,000",11.1,1,0,1,1,0,0,6,0,0.09,0.00,0.09,0.09,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+fba806a3,Giorgos Moustakopoulos,Giorgos Moustakopoulos,gr GRE,MF,Kallithea,25,1998,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8e928063,Thierry Moutinho,Thierry Moutinho,pt POR,"FW,MF",Kallithea,33,1991,10,8,572,6.4,1,1,2,1,0,0,2,2,0.16,0.16,0.31,0.16,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7cf1e983,Christos Mouzakitis,Christos Mouzakitis,gr GRE,MF,Olympiacos,17,2006,23,16,"1,386",15.4,1,2,3,1,0,0,2,0,0.06,0.13,0.19,0.06,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7af655fe,François Mughe,François Mughe,cm CMR,MF,Kallithea,20,2004,5,3,265,2.9,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+a2d0e8c1,Mumo,Mumo,es ESP,MF,Asteras Tripoli,29,1995,28,26,"2,117",23.5,1,0,1,1,0,0,7,1,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+eb8b2a35,Thomas Murg,Thomas Murg,at AUT,MF,PAOK,29,1994,14,12,824,9.2,1,0,1,1,0,0,0,0,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+a87d8d5c,Georgios Mygas,Georgios Mygas,gr GRE,"DF,MF",Volos N.F.C.,30,1994,32,28,"2,386",26.5,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6e945f87,Ivan Näsberg,Ivan Näsberg,no NOR,DF,PAOK,28,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+047854a8,Daniel Naumov,Daniel Naumov,bg BUL,GK,OFI Crete,26,1998,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,7,7,14,2.00,5,630,1,2,0,50.0,1,,,,2,0,Super League Greece,2024-2025
+936ac844,Mor Ndiaye,Mor Ndiaye,sn SEN,"MF,DF",Kallithea,23,2000,23,13,"1,407",15.6,1,3,4,1,0,0,6,0,0.06,0.19,0.26,0.06,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+12d25112,Juan Neira,Juan Neira,ar ARG,MF,OFI Crete,35,1989,19,2,408,4.5,0,1,1,0,0,0,3,0,0.00,0.22,0.22,0.00,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+44da72f0,Giorgos Nikas,Giorgos Nikas,gr GRE,MF,Panathinaikos,24,1999,4,0,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3a6379f1,Evangelos Nikolaou,Evangelos Nikolaou,gr GRE,"MF,DF",Panetolikos,20,2004,23,9,882,9.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+18a98ffe,Nemanja Nikolić,Nemanja Nikolić,ba BIH,DF,Kallithea,23,2001,2,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+56bcde74,Andreas Ntoi,Andreas Ntoi,gr GRE,"DF,MF",Olympiacos,21,2003,6,6,526,5.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b1e70da3,Cristopher Núñez,Cristopher Núñez,cr CRC,MF,PAS Lamia,26,1997,12,12,"1,035",11.5,0,1,1,0,0,0,4,0,0.00,0.09,0.09,0.00,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+13ab2053,Thiago Nuss,Thiago Nuss,ar ARG,MF,OFI Crete,23,2001,26,23,"1,887",21.0,8,2,10,8,0,0,11,2,0.38,0.10,0.48,0.38,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+761bc132,Moses Odubajo,Moses Odubajo,eng ENG,DF,AEK Athens,31,1993,16,8,928,10.3,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8c7b57f9,Chidera Okoh,Chidera Okoh,ng NGA,FW,Asteras Tripoli,21,2003,2,0,44,0.5,2,0,2,2,0,0,0,0,4.09,0.00,4.09,4.09,4.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+947e036f,Sérgio Oliveira,Sérgio Oliveira,pt POR,MF,Olympiacos,32,1992,9,3,322,3.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+72c803a0,Stephane Omeonga,Stephane Omeonga,be BEL,MF,Panserraikos,28,1996,14,12,"1,066",11.8,1,1,2,1,0,0,3,0,0.08,0.08,0.17,0.08,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+0006e160,Bruno Onyemaechi,Bruno Onyemaechi,ng NGA,DF,Olympiacos,25,1999,9,4,443,4.9,0,1,1,0,0,0,1,0,0.00,0.20,0.20,0.00,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+54d608cc,Francisco Ortega,Francisco Ortega,ar ARG,DF,Olympiacos,25,1999,24,21,"1,880",20.9,0,1,1,0,0,0,2,0,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+ad9765ef,Ismahila Ouédraogo,Ismahila Ouédraogo,bf BFA,MF,Atromitos,24,1999,30,30,"2,590",28.8,0,1,1,0,0,0,7,0,0.00,0.03,0.03,0.00,0.03,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+83299cc0,Azzedine Ounahi,Azzedine Ounahi,ma MAR,MF,Panathinaikos,24,2000,25,18,"1,620",18.0,5,4,9,5,0,0,3,0,0.28,0.22,0.50,0.28,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+26a411b0,Alen Ožbolt,Alen Ožbolt,si SVN,FW,Levadiakos,28,1996,30,17,"1,327",14.7,8,2,10,6,2,2,1,0,0.54,0.14,0.68,0.41,0.54,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3ef0af0d,Magomed Ozdoyev,Magomed Ozdoyev,ru RUS,MF,PAOK,31,1992,24,18,"1,591",17.7,1,1,2,1,0,0,6,0,0.06,0.06,0.11,0.06,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+37dfd961,Julián Palacios,Julián Palacios,ar ARG,MF,Asteras Tripoli,25,1999,9,2,251,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e5c1e0ca,Erik Palmer-Brown,Erik Palmer-Brown,us USA,DF,Panathinaikos,27,1997,7,5,509,5.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+0490acaf,Brayan Palmezano,Brayan Palmezano,ve VEN,"FW,MF",Atromitos,23,2000,8,3,239,2.7,1,1,2,1,0,0,1,1,0.38,0.38,0.75,0.38,0.75,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+bbc14bc5,Epaminondas Pantelakis,Epaminondas Pantelakis,gr GRE,DF,Panetolikos,29,1995,25,23,"2,020",22.4,1,0,1,1,0,0,8,2,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8174137d,Zacharias Papadimitriou,Zacharias Papadimitriou,gr GRE,MF,Panserraikos,20,2004,1,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+931b7c30,Kyriakos Papadopoulos,Kyriakos Papadopoulos,gr GRE,DF,Levadiakos,32,1992,8,8,647,7.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+cba5d877,Nikos Papadopoulos,Nikos Papadopoulos,gr GRE,GK,Asteras Tripoli,34,1990,16,16,"1,439",16.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,6,37.5,16,16,14,0.88,4,"1,439",0,1,0,100.0,1,,,,4,8,Super League Greece,2024-2025
+db46294a,Symeon Papadopoulos,Symeon Papadopoulos,gr GRE,GK,Volos N.F.C.,24,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,3,3.00,1,90,0,0,0,,0,,,,0,0,Super League Greece,2024-2025
+42492335,Antonios Papakanellos,Antonios Papakanellos,gr GRE,MF,Olympiacos,18,2005,7,0,73,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6e3cb4ba,Georgios Papavasiliou,Georgios Papavasiliou,gr GRE,FW,Panserraikos,32,1992,1,1,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+de138ecc,Michalis Pardalos,Michalis Pardalos,gr GRE,GK,Panetolikos,23,2001,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,1,2.00,0,45,0,0,0,,0,,,,0,1,Super League Greece,2024-2025
+2306bfde,Rubén Pardo,Rubén Pardo,es ESP,MF,Aris,31,1992,9,2,254,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6416adf0,Triantafyllos Pasaridīs,Triantafyllos Pasaridīs,gr GRE,DF,Kallithea,28,1996,26,26,"2,036",22.6,1,0,1,1,0,0,14,3,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+0a1cb833,Jiří Pavlenka,Jiří Pavlenka,cz CZE,GK,PAOK,32,1992,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,50.0,2,2,2,1.00,1,180,0,1,0,100.0,1,,,,0,1,Super League Greece,2024-2025
+ca75f7cf,Fabricio Pedrozo,Fabricio Pedrozo,ar ARG,"MF,FW",Levadiakos,31,1992,28,14,"1,330",14.8,3,3,6,2,1,1,5,0,0.20,0.20,0.41,0.14,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+33bd3dae,Dimitris Pelkas,Dimitris Pelkas,gr GRE,"MF,FW",PAOK,30,1993,13,5,473,5.3,2,2,4,2,0,0,3,0,0.38,0.38,0.76,0.38,0.76,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+ac7e7b1c,Facundo Pellistri,Facundo Pellistri,uy URU,"MF,FW",Panathinaikos,22,2001,24,13,"1,226",13.6,1,3,4,1,0,0,3,0,0.07,0.22,0.29,0.07,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+eda8506a,Sergio Peña,Sergio Peña,pe PER,MF,PAOK,28,1995,5,2,219,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+75f2c59f,Roberto Pereyra,Roberto Pereyra,ar ARG,MF,AEK Athens,33,1991,25,14,"1,246",13.8,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+90179f0c,Pedro Pérez Conde,Pedro Pérez Conde,es ESP,"FW,MF",Volos N.F.C.,36,1988,30,11,"1,128",12.5,4,0,4,2,2,2,2,0,0.32,0.00,0.32,0.16,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e777121a,Facundo Pérez,Facundo Pérez,ar ARG,MF,Panetolikos,25,1999,31,26,"2,291",25.5,3,1,4,3,0,1,10,1,0.12,0.04,0.16,0.12,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+33359192,Francisco Perruzzi,Francisco Perruzzi,ar ARG,MF,Panserraikos,22,2001,10,4,426,4.7,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+140a2a1a,Stavros Petavrakis,Stavros Petavrakis,gr GRE,DF,Panserraikos,31,1992,9,7,579,6.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+307877be,Frantzdy Pierrot,Frantzdy Pierrot,ht HAI,FW,AEK Athens,29,1995,28,18,"1,724",19.2,6,0,6,6,0,0,4,0,0.31,0.00,0.31,0.31,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+00615d53,Stavros Pilios,Stavros Pilios,al ALB,DF,AEK Athens,23,2000,17,12,"1,078",12.0,1,1,2,1,0,0,4,0,0.08,0.08,0.17,0.08,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+411fabd7,Orbelín Pineda,Orbelín Pineda,mx MEX,MF,AEK Athens,28,1996,30,22,"1,874",20.8,1,2,3,1,0,0,5,0,0.05,0.10,0.14,0.05,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+caec77da,Lorenzo Pirola,Lorenzo Pirola,it ITA,DF,Olympiacos,22,2002,21,19,"1,651",18.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+4ab6d47f,Kostas Plegas,Kostas Plegas,gr GRE,MF,Levadiakos,27,1997,14,5,554,6.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7cbfdded,Konstantinos Pomonis,Konstantinos Pomonis,gr GRE,"MF,DF",Atromitos,22,2002,5,2,161,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+4a03dba0,Giorgos Prountzos,Giorgos Prountzos,gr GRE,MF,Volos N.F.C.,20,2003,10,4,477,5.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+74c7c2db,Robin Quaison,Robin Quaison,se SWE,"FW,MF",Aris,30,1993,11,0,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7a538238,Quini,Quini,es ESP,DF,Atromitos,34,1989,28,28,"2,474",27.5,0,2,2,0,0,0,8,1,0.00,0.07,0.07,0.00,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+45de0128,Vedad Radonja,Vedad Radonja,ba BIH,"MF,DF",PAS Lamia,22,2001,19,14,"1,273",14.1,1,0,1,1,0,0,1,1,0.07,0.00,0.07,0.07,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e4086af3,Baba Rahman,Baba Rahman,gh GHA,DF,PAOK,30,1994,29,24,"2,198",24.4,5,2,7,5,0,0,6,1,0.20,0.08,0.29,0.20,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+a62b6bc4,Mohammed Al Rashdi,Mohammed Al Rashdi,sa KSA,MF,Panserraikos,22,2002,8,2,189,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+64a816ff,Álvaro Ratón,Álvaro Ratón,es ESP,GK,PAS Lamia,31,1993,12,12,"1,080",12.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,8.3,12,12,22,1.83,10,"1,080",1,1,0,0.0,0,,,,2,0,Super League Greece,2024-2025
+17dab216,Ajdin Redžić,Ajdin Redžić,ba BIH,FW,Asteras Tripoli,27,1997,4,0,66,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+4b32b2be,Xesc Regis,Xesc Regis,es ESP,MF,Asteras Tripoli,27,1996,29,22,"1,838",20.4,4,2,6,4,0,0,5,0,0.20,0.10,0.29,0.20,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+4bd00a50,Panagiotis Retsos,Panagiotis Retsos,gr GRE,DF,Olympiacos,25,1998,17,14,"1,276",14.2,1,1,2,1,0,0,2,0,0.07,0.07,0.14,0.07,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5b15731e,Adrián Riera,Adrián Riera,es ESP,MF,OFI Crete,28,1996,15,3,364,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+cfe4071d,Sebastian Ring,Sebastian Ring,se SWE,"MF,FW",PAS Lamia,29,1995,34,26,"2,430",27.0,1,2,3,1,0,0,10,0,0.04,0.07,0.11,0.04,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7dcb8cb2,Andrés Roa,Andrés Roa,co COL,"FW,MF",Panetolikos,31,1993,28,14,"1,363",15.1,1,0,1,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7696cc85,Rodinei,Rodinei,br BRA,"DF,MF",Olympiacos,32,1992,29,26,"2,335",25.9,4,9,13,2,2,2,5,0,0.15,0.35,0.50,0.08,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+24f4b4e5,José Romo,José Romo,ve VEN,FW,Levadiakos,30,1993,32,6,945,10.5,3,1,4,2,1,1,4,0,0.29,0.10,0.38,0.19,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6ee683f5,Lindsay Rose,Lindsay Rose,mu MRI,DF,Aris,32,1992,8,3,370,4.1,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+2e9ddbfb,Llazaros Rota,Llazaros Rota,gr GRE,DF,AEK Athens,26,1997,24,24,"1,888",21.0,0,4,4,0,0,0,6,0,0.00,0.19,0.19,0.00,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6aeb3c53,Fermín Ruiz,Fermín Ruiz,es ESP,DF,Panetolikos,27,1997,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+14813a41,Vajebah Sakor,Vajebah Sakor,no NOR,MF,PAS Lamia,28,1996,13,6,658,7.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+6f3dd1b0,Juan Salazar,Juan Salazar,co COL,"MF,FW",Panserraikos,27,1997,32,29,"2,440",27.1,8,2,10,8,0,1,5,0,0.30,0.07,0.37,0.30,0.37,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+0489bb30,Eddie Salcedo,Eddie Salcedo,it ITA,FW,OFI Crete,22,2001,24,11,"1,003",11.1,5,2,7,4,1,1,3,0,0.45,0.18,0.63,0.36,0.54,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1b8bfd2a,Alexandros Salvanos,Alexandros Salvanos,gr GRE,MF,Panserraikos,18,2006,1,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+dae8623e,Mbwana Samatta,Mbwana Samatta,tz TAN,FW,PAOK,31,1992,12,5,578,6.4,4,2,6,4,0,0,2,0,0.62,0.31,0.93,0.62,0.93,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+bd5fc10e,Salvador Sánchez,Salvador Sánchez,ar ARG,DF,PAS Lamia,29,1995,6,6,435,4.8,0,1,1,0,0,0,0,0,0.00,0.21,0.21,0.00,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+05b00fef,Simon Sandberg,Simon Sandberg,se SWE,DF,PAS Lamia,30,1994,5,2,192,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+77ce47c9,Giorgos Saramantas,Giorgos Saramantas,gr GRE,"MF,DF",PAS Lamia,32,1992,17,10,754,8.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+edead55c,Ioannis Sardelis,Ioannis Sardelis,gr GRE,FW,Kallithea,23,2000,2,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f9acf8bf,Joan Sastre Vanrell,Joan Sastre Vanrell,es ESP,DF,PAOK,27,1997,19,14,"1,228",13.6,1,2,3,1,0,0,1,0,0.07,0.15,0.22,0.07,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1af67930,Kike Saverio,Kike Saverio,es ESP,MF,Aris,25,1999,25,14,"1,346",15.0,2,3,5,2,0,0,2,0,0.13,0.20,0.33,0.13,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e1ceafce,Bart Schenkeveld,Bart Schenkeveld,nl NED,DF,Panathinaikos,32,1991,11,11,958,10.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+da3bf1b3,Stefan Schwab,Stefan Schwab,at AUT,MF,PAOK,33,1990,28,17,"1,458",16.2,5,1,6,0,5,5,4,0,0.31,0.06,0.37,0.00,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+98529579,Valentino Scotta,Valentino Scotta,es ESP,DF,Aris,22,2001,3,1,73,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7d04809f,Jean Sepp Mvondo,Jean Sepp Mvondo,cm CMR,MF,Aris,26,1998,4,0,35,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+96c16b90,Christos Shelis,Christos Shelis,cy CYP,DF,Panetolikos,24,2000,28,27,"2,325",25.8,0,0,0,0,0,0,11,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+d30d3eaf,Levan Shengelia,Levan Shengelia,ge GEO,MF,OFI Crete,28,1995,28,27,"2,256",25.1,2,8,10,2,0,0,4,1,0.08,0.32,0.40,0.08,0.40,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+00f0482f,Shola Shoretire,Shola Shoretire,eng ENG,MF,PAOK,20,2004,18,5,428,4.8,2,0,2,2,0,0,2,0,0.42,0.00,0.42,0.42,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f5cf37f7,Marios Siampanis,Marios Siampanis,gr GRE,GK,Volos N.F.C.,24,1999,15,15,"1,350",15.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,6,40.0,15,15,16,1.07,6,"1,350",0,0,0,,0,,,,2,7,Super League Greece,2024-2025
+c94b4d28,Filip Sidklev,Filip Sidklev,se SWE,GK,Aris,19,2005,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,4,2.00,1,180,0,0,0,,0,,,,0,1,Super League Greece,2024-2025
+9a158620,Jordan Silva,Jordan Silva,mx MEX,DF,OFI Crete,30,1994,22,20,"1,676",18.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+638b2975,Pedro Silva Torrejón,Pedro Silva Torrejón,ar ARG,"DF,MF",Panetolikos,27,1997,16,16,"1,405",15.6,0,2,2,0,0,0,0,0,0.00,0.13,0.13,0.00,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+dbd5b3ca,Panagiotis Simelidis,Panagiotis Simelidis,gr GRE,MF,Levadiakos,31,1992,26,12,"1,127",12.5,2,1,3,2,0,0,8,0,0.16,0.08,0.24,0.16,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+570e6a91,Alberto Simoni,Alberto Simoni,al ALB,FW,PAS Lamia,27,1996,4,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+36a6f28d,Emmanouil Siopis,Emmanouil Siopis,gr GRE,MF,Panathinaikos,30,1994,10,7,654,7.3,0,1,1,0,0,0,1,0,0.00,0.14,0.14,0.00,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+92d38e6c,Dimitris Siovas,Dimitris Siovas,gr GRE,DF,PAS Lamia,35,1988,10,10,784,8.7,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+fd9c4805,Pione Sisto,Pione Sisto,dk DEN,MF,Aris,29,1995,20,12,987,11.0,0,2,2,0,0,0,2,0,0.00,0.18,0.18,0.00,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+45af5134,Simon Skrabb,Simon Skrabb,fi FIN,MF,Volos N.F.C.,29,1995,17,11,999,11.1,1,1,2,1,0,0,4,0,0.09,0.09,0.18,0.09,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+732e0da3,Ian Smeulers,Ian Smeulers,nl NED,DF,Volos N.F.C.,24,2000,4,1,143,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+062fc2e6,Rafa Soares,Rafa Soares,pt POR,DF,PAOK,29,1995,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+51b56045,Marios Sofianos,Marios Sofianos,gr GRE,"MF,FW",Panserraikos,20,2003,17,4,487,5.4,0,1,1,0,0,0,4,0,0.00,0.18,0.18,0.00,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+59671448,Pyry Soiri,Pyry Soiri,fi FIN,"MF,DF",Kallithea,29,1994,32,21,"1,956",21.7,3,2,5,3,0,0,2,0,0.14,0.09,0.23,0.14,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+128a19d7,Carles Soria,Carles Soria,es ESP,"MF,DF",PAS Lamia,27,1996,14,13,"1,201",13.3,0,3,3,0,0,0,4,0,0.00,0.22,0.22,0.00,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+ec9ba655,Giannis Sourdis,Giannis Sourdis,gr GRE,GK,PAS Lamia,22,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,3,3.00,1,90,1,1,0,0.0,0,,,,0,0,Super League Greece,2024-2025
+fec80c5a,Vasileios Sourlis,Vasileios Sourlis,gr GRE,MF,PAS Lamia,21,2002,17,16,"1,266",14.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+688fcea2,Dario Špikić,Dario Špikić,hr CRO,MF,Aris,25,1999,12,10,720,8.0,2,0,2,2,0,0,2,0,0.25,0.00,0.25,0.25,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+878f0921,Andraž Šporar,Andraž Šporar,si SVN,FW,Panathinaikos,30,1994,4,0,87,1.0,1,0,1,1,0,0,1,0,1.03,0.00,1.03,1.03,1.03,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+d3d6d86a,Paschalis Staikos,Paschalis Staikos,gr GRE,MF,Panserraikos,28,1996,30,29,"2,213",24.6,2,0,2,2,0,0,10,1,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7a6ec3de,Nikola Stajić,Nikola Stajić,rs SRB,DF,Panetolikos,22,2001,31,29,"2,497",27.7,1,1,2,1,0,0,5,1,0.04,0.04,0.07,0.04,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+690d1049,Marko Stamenic,Marko Stamenic,nz NZL,MF,Olympiacos,22,2002,14,8,671,7.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+ef64a979,Dimitris Stavropoulos,Dimitris Stavropoulos,gr GRE,DF,Atromitos,27,1997,18,8,772,8.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+339fe0e8,Thomas Strakosha,Thomas Strakosha,al ALB,GK,AEK Athens,29,1995,23,23,"2,070",23.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,12,52.2,23,23,15,0.65,4,"2,070",4,4,0,0.0,0,,,,4,15,Super League Greece,2024-2025
+d94653be,Magomed-Shapi Suleymanov,Magomed-Shapi Suleymanov,ru RUS,"MF,FW",Aris,24,1999,12,9,746,8.3,1,1,2,1,0,0,2,1,0.12,0.12,0.24,0.12,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+141b0bd2,Daniel Sundgren,Daniel Sundgren,se SWE,DF,Volos N.F.C.,33,1990,25,21,"1,894",21.0,2,0,2,2,0,0,4,0,0.10,0.00,0.10,0.10,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+41723204,Karol Świderski,Karol Świderski,pl POL,FW,Panathinaikos,27,1997,11,8,751,8.3,3,3,6,2,1,1,3,0,0.36,0.36,0.72,0.24,0.60,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+cfae654a,Angelos Syritoudis,Angelos Syritoudis,gr GRE,GK,PAS Lamia,24,2000,2,2,179,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,6,3.02,2,179,0,0,0,,0,,,,0,0,Super League Greece,2024-2025
+e935dbbf,Damian Szymański,Damian Szymański,pl POL,"MF,DF",AEK Athens,29,1995,26,20,"1,733",19.3,0,3,3,0,0,0,5,0,0.00,0.16,0.16,0.00,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+c7d3ebaf,Efstathios Tachatos,Efstathios Tachatos,gr GRE,DF,Volos N.F.C.,22,2001,3,0,62,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7272a72a,Taison,Taison,br BRA,MF,PAOK,36,1988,25,18,"1,629",18.1,2,3,5,2,0,0,0,0,0.11,0.17,0.28,0.11,0.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+527a1910,Eleftherios Tasiouras,Eleftherios Tasiouras,gr GRE,"MF,DF",Volos N.F.C.,20,2004,7,2,255,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8b645bf1,Alexandros Tereziou,Alexandros Tereziou,gr GRE,"MF,DF",PAS Lamia,24,2000,6,3,201,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3f67a646,Nikola Terzić,Nikola Terzić,rs SRB,"MF,FW",Panserraikos,23,2000,12,4,315,3.5,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7120a04d,Tetê,Tetê,br BRA,"MF,FW",Panathinaikos,24,2000,31,24,"2,203",24.5,5,3,8,5,0,0,2,0,0.20,0.12,0.33,0.20,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3fadc909,Andrews Tetteh,Andrews Tetteh,gr GRE,FW,Panetolikos,23,2001,13,10,940,10.4,2,3,5,2,0,0,4,0,0.19,0.29,0.48,0.19,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+4847fc62,Dimitris Theodoridis,Dimitris Theodoridis,gr GRE,FW,AEK Athens,21,2002,2,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+82c0b711,Giannis Theodosoulakis,Giannis Theodosoulakis,gr GRE,"MF,FW",OFI Crete,19,2004,15,7,574,6.4,2,0,2,2,0,0,3,0,0.31,0.00,0.31,0.31,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+85879c47,Konstantinos Thymianis,Konstantinos Thymianis,gr GRE,DF,PAOK,23,2001,3,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+4f60a143,Tarik Tissoudali,Tarik Tissoudali,ma MAR,FW,PAOK,31,1993,16,8,759,8.4,2,1,3,2,0,0,1,0,0.24,0.12,0.36,0.24,0.36,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+2d7e7e87,Mathias Tomas,Mathias Tomas,uy URU,"MF,FW",Panserraikos,23,2001,18,16,"1,302",14.5,0,4,4,0,0,0,6,0,0.00,0.28,0.28,0.00,0.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1e2c9501,Konstantinos Triantafyllopoulos,Konstantinos Triantafyllopoulos,gr GRE,DF,Asteras Tripoli,31,1993,26,23,"2,105",23.4,1,1,2,1,0,0,4,1,0.04,0.04,0.09,0.04,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5c38f087,Thanasis Triantafyllou,Thanasis Triantafyllou,gr GRE,FW,Volos N.F.C.,21,2003,2,0,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+1804bbb0,Dimitris Tsakmakis,Dimitris Tsakmakis,gr GRE,DF,Atromitos,25,1999,9,5,532,5.9,1,0,1,1,0,0,2,0,0.17,0.00,0.17,0.17,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+12568a87,Panagiotis Tsantilas,Panagiotis Tsantilas,gr GRE,FW,Atromitos,20,2004,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+d00fc7c0,Triantafyllos Tsapras,Triantafyllos Tsapras,gr GRE,"DF,MF",Levadiakos,22,2001,30,29,"2,542",28.2,3,5,8,3,0,0,5,0,0.11,0.18,0.28,0.11,0.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8ce9cfdd,Aaron Tshibola,Aaron Tshibola,cd COD,MF,PAS Lamia,29,1995,12,10,890,9.9,2,0,2,2,0,0,5,0,0.20,0.00,0.20,0.20,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+81fb8831,Dimitrios Tsiakas,Dimitrios Tsiakas,gr GRE,MF,PAS Lamia,16,2007,4,1,69,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+18cf07bd,Antonis Tsiftsis,Antonis Tsiftsis,gr GRE,GK,PAOK,25,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,50.0,2,2,2,1.00,0,180,1,1,0,0.0,0,,,,0,2,Super League Greece,2024-2025
+a5fb9916,Sotiris Tsiloulis,Sotiris Tsiloulis,gr GRE,"FW,MF",AEK Athens,29,1995,6,0,105,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+906baf89,Theocharis Tsingaras,Theocharis Tsingaras,gr GRE,MF,Atromitos,23,2000,28,24,"2,038",22.6,1,1,2,1,0,0,3,0,0.04,0.04,0.09,0.04,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+705f5269,Panagiotis Tsintotas,Panagiotis Tsintotas,gr GRE,GK,Asteras Tripoli,31,1993,17,16,"1,441",16.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,25.0,17,16,26,1.62,10,"1,441",3,3,0,0.0,0,,,,1,5,Super League Greece,2024-2025
+c86878df,Ioannis Tsivelekidis,Ioannis Tsivelekidis,gr GRE,DF,Kallithea,25,1999,22,17,"1,663",18.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+fe2bfbed,Tasos Tsokanis,Tasos Tsokanis,gr GRE,"MF,DF",Volos N.F.C.,33,1991,19,11,974,10.8,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+4cd2aa87,Alexandros Tsompanidis,Alexandros Tsompanidis,gr GRE,GK,Panserraikos,19,2004,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,2,1.00,2,180,0,0,0,,0,,,,0,0,Super League Greece,2024-2025
+c38760d4,Fanis Tzandaris,Fanis Tzandaris,gr GRE,MF,Asteras Tripoli,31,1993,19,4,576,6.4,0,1,1,0,0,0,3,1,0.00,0.16,0.16,0.00,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+a4a83681,Panagiotis Tzimas,Panagiotis Tzimas,gr GRE,MF,Asteras Tripoli,23,2001,7,0,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+9052e98c,Kostas Tzolakis,Kostas Tzolakis,gr GRE,GK,Olympiacos,21,2002,31,31,"2,790",31.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,16,51.6,31,31,20,0.65,3,"2,790",3,4,0,25.0,1,,,,6,22,Super League Greece,2024-2025
+6991c526,Giorgos Tzovaras,Giorgos Tzovaras,gr GRE,MF,Atromitos,24,1999,14,8,722,8.0,3,1,4,3,0,0,1,0,0.37,0.12,0.50,0.37,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+9c86b2b8,Roberts Uldriķis,Roberts Uldriķis,lv LVA,FW,Kallithea,26,1998,15,7,572,6.4,1,0,1,1,0,0,0,0,0.16,0.00,0.16,0.16,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+12ba7959,Georgios Vagiannidis,Georgios Vagiannidis,gr GRE,DF,Panathinaikos,22,2001,27,26,"2,233",24.8,1,1,2,1,0,0,3,0,0.04,0.04,0.08,0.04,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+7a4cea18,Mathieu Valbuena,Mathieu Valbuena,fr FRA,"MF,FW",Kallithea,39,1984,32,20,"1,692",18.8,3,4,7,2,1,1,3,1,0.16,0.21,0.37,0.11,0.32,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+9ae653b7,Andreas Vasilogiannis,Andreas Vasilogiannis,gr GRE,"MF,FW",Kallithea,33,1991,12,4,355,3.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+c5c1627c,Kristoffer Velde,Kristoffer Velde,no NOR,MF,Olympiacos,24,1999,21,17,"1,260",14.0,4,1,5,4,0,0,3,0,0.29,0.07,0.36,0.29,0.36,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+9d619e08,Fran Vélez,Fran Vélez,es ESP,DF,Aris,33,1991,18,15,"1,231",13.7,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+2ebc1b44,Benjamin Verbič,Benjamin Verbič,si SVN,MF,Levadiakos,30,1993,11,6,546,6.1,2,3,5,1,1,1,1,0,0.33,0.49,0.82,0.16,0.66,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8e923e2e,Konstantinos Verris,Konstantinos Verris,gr GRE,DF,Levadiakos,18,2006,2,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+a5760c4c,Marios Vichos,Marios Vichos,gr GRE,"DF,MF",Levadiakos,24,2000,31,29,"2,659",29.5,3,3,6,3,0,0,3,0,0.10,0.10,0.20,0.10,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3f359b33,Domagoj Vida,Domagoj Vida,hr CRO,DF,AEK Athens,35,1989,26,25,"2,208",24.5,0,2,2,0,0,0,3,0,0.00,0.08,0.08,0.00,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+779fe525,Vieirinha,Vieirinha,pt POR,DF,PAOK,38,1986,10,2,216,2.4,0,2,2,0,0,0,2,0,0.00,0.83,0.83,0.00,0.83,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+c7069d87,Tonny Vilhena,Tonny Vilhena,nl NED,MF,Panathinaikos,29,1995,1,1,59,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+39ab758c,Lucas Villafáñez,Lucas Villafáñez,ar ARG,MF,Volos N.F.C.,32,1991,14,6,530,5.9,0,1,1,0,0,0,5,2,0.00,0.17,0.17,0.00,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3311bd62,Vasilios Vitlis,Vasilios Vitlis,gr GRE,"DF,MF",PAS Lamia,30,1993,17,13,"1,067",11.9,0,0,0,0,0,0,5,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b7e30f6f,Andreas Vlachomitros,Andreas Vlachomitros,gr GRE,FW,PAS Lamia,27,1997,1,1,82,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+e5d2b184,Anestis Vlachomitros,Anestis Vlachomitros,gr GRE,FW,PAS Lamia,22,2001,32,26,"2,085",23.2,6,0,6,4,2,2,5,1,0.26,0.00,0.26,0.17,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8ba2f31d,Georgios Vrakas,Georgios Vrakas,gr GRE,MF,Atromitos,23,2001,7,0,131,1.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8ba2f31d,Georgios Vrakas,Georgios Vrakas,gr GRE,MF,Atromitos,23,2001,7,0,131,1.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8ba2f31d,Georgios Vrakas,Georgios Vrakas,gr GRE,"MF,FW",Kallithea,23,2001,11,8,558,6.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8ba2f31d,Georgios Vrakas,Georgios Vrakas,gr GRE,"MF,FW",Kallithea,23,2001,11,8,558,6.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+808df563,Moussa Wagué,Moussa Wagué,sn SEN,"MF,DF",Panserraikos,25,1998,6,3,283,3.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+901d3e51,Amr Warda,Amr Warda,eg EGY,"MF,FW",Atromitos,30,1993,27,20,"1,938",21.5,4,5,9,0,4,6,1,0,0.19,0.23,0.42,0.00,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+03839569,Tom van Weert,Tom van Weert,nl NED,FW,Atromitos,34,1990,23,8,914,10.2,2,2,4,2,0,1,1,0,0.20,0.20,0.39,0.20,0.39,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+3ecc8c5f,Mateusz Wieteska,Mateusz Wieteska,pl POL,DF,PAOK,27,1997,10,10,900,10.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+8b9ebd03,Willian,Willian,br BRA,MF,Olympiacos,35,1988,6,2,329,3.7,0,1,1,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+474cf8e0,Evgeniy Yablonskiy,Evgeniy Yablonskiy,by BLR,MF,Asteras Tripoli,29,1995,28,18,"1,570",17.4,3,1,4,3,0,0,3,0,0.17,0.06,0.23,0.17,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+cb641b9d,Roman Yaremchuk,Roman Yaremchuk,ua UKR,FW,Olympiacos,28,1995,23,6,676,7.5,4,2,6,4,0,0,5,0,0.53,0.27,0.80,0.53,0.80,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f5c8b425,Yusuf Yazıcı,Yusuf Yazıcı,tr TUR,"FW,MF",Olympiacos,27,1997,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+555ef9b5,Kévin Yoke,Kévin Yoke,,MF,Levadiakos,28,1996,4,1,76,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+d050756d,Álvaro Zamora,Álvaro Zamora,cr CRC,FW,Aris,22,2002,20,2,357,4.0,2,0,2,2,0,0,4,1,0.50,0.00,0.50,0.50,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+335da781,Franco Zanelatto,Franco Zanelatto,pe PER,"FW,MF",OFI Crete,24,2000,4,0,86,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+f15b778f,Zeca,Zeca,gr GRE,MF,Panathinaikos,35,1988,5,2,123,1.4,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+5735673a,Zini,Zini,ao ANG,"FW,MF",Levadiakos,22,2002,29,26,"2,193",24.4,14,2,16,12,2,2,7,0,0.57,0.08,0.66,0.49,0.57,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+321f83a2,Andrija Živković,Andrija Živković,rs SRB,MF,PAOK,28,1996,25,18,"1,717",19.1,8,4,12,8,0,0,5,0,0.42,0.21,0.63,0.42,0.63,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+eea190a7,Nikolaos Zouglis,Nikolaos Zouglis,gr GRE,MF,Asteras Tripoli,20,2003,19,2,335,3.7,0,1,1,0,0,0,2,0,0.00,0.27,0.27,0.00,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+b6a6e0a7,Steven Zuber,Steven Zuber,ch SUI,"FW,MF",AEK Athens,32,1991,3,0,63,0.7,1,0,1,1,0,0,0,0,1.43,0.00,1.43,1.43,1.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025
+eccbe56a,Filip Đuričić,Filip Đuričić,rs SRB,"FW,MF",Panathinaikos,32,1992,28,20,"1,527",17.0,7,1,8,7,0,0,8,0,0.41,0.06,0.47,0.41,0.47,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Super League Greece,2024-2025

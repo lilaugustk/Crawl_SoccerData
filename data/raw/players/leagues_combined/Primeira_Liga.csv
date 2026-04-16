@@ -1,0 +1,620 @@
+﻿PlayerID,Name,player,nationality,position,team,age,birth_year,games,games_starts,minutes,minutes_90s,goals,assists,goals_assists,goals_pens,pens_made,pens_att,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,goals_pens_per90,goals_assists_pens_per90,matches,goals_per_shot,goals_per_shot_on_target,shots,shots_on_target,shots_on_target_pct,shots_on_target_per90,shots_per90,League,Season
+088ae0d1,Rodrigo Abascal,Rodrigo Abascal,uy URU,DF,Boavista,30,1994,29,29,"2,599",28.9,0,0,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,19,5,26.3,0.17,0.66,Primeira Liga,2024-2025
+33f40a36,Nelson Abbey,Nelson Abbey,eng ENG,DF,Rio Ave,20,2003,8,7,635,7.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.28,Primeira Liga,2024-2025
+baa6cdf7,Bilal Abdelrahman Zeeni,Bilal Abdelrahman Zeeni,eg EGY,FW,Estrela,21,2003,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,11.25,11.25,Primeira Liga,2024-2025
+0921a46c,Giorgi Aburjania,Giorgi Aburjania,ge GEO,MF,AVS Futebol,29,1995,9,3,306,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.29,0.29,Primeira Liga,2024-2025
+81053aea,Adriano,Adriano,br BRA,MF,Santa Clara,24,1999,32,31,"2,630",29.2,0,2,2,0,0,0,8,1,0.00,0.07,0.07,0.00,0.07,Matches,0.00,0.00,13,4,30.8,0.14,0.44,Primeira Liga,2024-2025
+8fd083bb,Lucas Áfrico,Lucas Áfrico,br BRA,DF,Farense,29,1995,21,20,"1,757",19.5,1,0,1,1,0,0,6,0,0.05,0.00,0.05,0.05,0.05,Matches,0.06,0.25,16,4,25.0,0.20,0.82,Primeira Liga,2024-2025
+a130741a,Salvador Agra,Salvador Agra,pt POR,"MF,DF",Boavista,32,1991,32,31,"2,731",30.3,1,2,3,1,0,0,9,1,0.03,0.07,0.10,0.03,0.10,Matches,0.03,0.14,33,7,21.2,0.23,1.09,Primeira Liga,2024-2025
+938fa024,Brandon Aguilera,Brandon Aguilera,cr CRC,MF,Rio Ave,21,2003,25,15,"1,378",15.3,3,1,4,3,0,0,4,0,0.20,0.07,0.26,0.20,0.26,Matches,0.13,0.43,24,7,29.2,0.46,1.57,Primeira Liga,2024-2025
+15e09605,Jorge Aguirre,Jorge Aguirre,cu CUB,FW,Gil Vicente FC,24,2000,31,16,"1,354",15.0,3,2,5,3,0,0,2,1,0.20,0.13,0.33,0.20,0.33,Matches,0.11,0.43,28,7,25.0,0.47,1.86,Primeira Liga,2024-2025
+733aab44,Babatunde Akinsola,Babatunde Akinsola,ng NGA,MF,AVS Futebol,21,2003,30,11,"1,170",13.0,2,1,3,2,0,0,1,0,0.15,0.08,0.23,0.15,0.23,Matches,0.07,0.33,27,6,22.2,0.46,2.08,Primeira Liga,2024-2025
+f28659fb,Kerem Aktürkoğlu,Kerem Aktürkoğlu,tr TUR,"FW,MF",Benfica,25,1998,30,25,"2,003",22.3,11,9,20,11,0,0,3,0,0.49,0.40,0.90,0.49,0.90,Matches,0.17,0.38,64,29,45.3,1.30,2.88,Primeira Liga,2024-2025
+963e39b7,Léo Alaba,Léo Alaba,br BRA,DF,AVS Futebol,25,1999,4,4,334,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.81,Primeira Liga,2024-2025
+b35de685,Alan,Alan,br BRA,MF,Moreirense,24,2000,31,31,"2,513",27.9,7,6,13,2,5,5,6,0,0.25,0.21,0.47,0.07,0.29,Matches,0.05,0.10,43,20,46.5,0.72,1.54,Primeira Liga,2024-2025
+198034b2,Gonçalo Almeida,Gonçalo Almeida,pt POR,"DF,MF",Boavista,21,2003,19,9,814,9.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,2,25.0,0.22,0.88,Primeira Liga,2024-2025
+00a2c297,Pedro Álvaro,Pedro Álvaro,pt POR,DF,Estoril,24,2000,31,31,"2,623",29.1,1,1,2,1,0,0,9,0,0.03,0.03,0.07,0.03,0.07,Matches,0.10,0.33,10,3,30.0,0.10,0.34,Primeira Liga,2024-2025
+8dbc3f20,Pedro Amaral,Pedro Amaral,pt POR,"DF,MF",Estoril,26,1997,29,27,"2,395",26.6,0,2,2,0,0,0,4,0,0.00,0.08,0.08,0.00,0.08,Matches,0.00,0.00,9,3,33.3,0.11,0.34,Primeira Liga,2024-2025
+2ee5b0c9,Zeki Amdouni,Zeki Amdouni,ch SUI,"MF,FW",Benfica,23,2000,24,9,854,9.5,7,2,9,7,0,0,1,0,0.74,0.21,0.95,0.74,0.95,Matches,0.17,0.44,42,16,38.1,1.69,4.43,Primeira Liga,2024-2025
+801f3d1d,Artur Jorge Marques Amorim,Artur Jorge Marques Amorim,pt POR,DF,Farense,29,1994,19,15,"1,281",14.2,0,1,1,0,0,0,9,0,0.00,0.07,0.07,0.00,0.07,Matches,0.00,0.00,8,1,12.5,0.07,0.56,Primeira Liga,2024-2025
+40406a00,Andrew,Andrew,br BRA,GK,Gil Vicente FC,23,2001,33,33,"2,970",33.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+6011e63a,Jeremy Antonisse,Jeremy Antonisse,cw CUW,"MF,FW",Moreirense,22,2002,29,7,839,9.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,19,5,26.3,0.54,2.04,Primeira Liga,2024-2025
+eafa6953,Arvin Appiah,Arvin Appiah,eng ENG,"FW,DF",Nacional,23,2001,26,16,"1,384",15.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,15,4,26.7,0.26,0.98,Primeira Liga,2024-2025
+4d3bdda7,Óscar Aranda,Óscar Aranda,es ESP,"MF,FW",Famalicão,22,2002,33,33,"2,599",28.9,9,3,12,5,4,5,5,0,0.31,0.10,0.42,0.17,0.28,Matches,0.07,0.22,70,23,32.9,0.80,2.42,Primeira Liga,2024-2025
+100104d1,Brian Araújo,Brian Araújo,fr FRA,GK,Gil Vicente FC,24,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+353eb529,Henrique Araújo,Henrique Araújo,pt POR,FW,Arouca,22,2002,24,14,"1,107",12.3,6,2,8,3,3,3,3,0,0.49,0.16,0.65,0.24,0.41,Matches,0.12,0.25,26,12,46.2,0.98,2.11,Primeira Liga,2024-2025
+f9ab3f4a,Maximiliano Araújo,Maximiliano Araújo,uy URU,"MF,DF",Sporting CP,24,2000,28,19,"1,771",19.7,3,4,7,3,0,0,7,1,0.15,0.20,0.36,0.15,0.36,Matches,0.18,0.43,17,7,41.2,0.36,0.86,Primeira Liga,2024-2025
+0fa11d7d,Tomás Araújo,Tomás Araújo,pt POR,DF,Benfica,22,2002,28,28,"2,311",25.7,1,2,3,1,0,0,1,0,0.04,0.08,0.12,0.04,0.12,Matches,0.17,0.20,6,5,83.3,0.19,0.23,Primeira Liga,2024-2025
+c692cef2,Telmo Arcanjo,Telmo Arcanjo,cv CPV,"MF,FW",Vitória Guimarães,23,2001,28,17,"1,320",14.7,5,2,7,5,0,0,6,0,0.34,0.14,0.48,0.34,0.48,Matches,0.17,0.45,30,11,36.7,0.75,2.05,Primeira Liga,2024-2025
+37849392,Gboly Ariyibi,Gboly Ariyibi,us USA,"MF,FW",Boavista,29,1995,11,2,343,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.26,0.79,Primeira Liga,2024-2025
+5bdfd0c5,Henrique Arreiol,Henrique Arreiol,pt POR,MF,Sporting CP,19,2005,3,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,3.75,Primeira Liga,2024-2025
+1394bf42,Bright Arrey-Mbi,Bright Arrey-Mbi,de GER,DF,Braga,21,2003,15,13,"1,135",12.6,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.08,0.08,Primeira Liga,2024-2025
+fdf42820,Afonso Assis,Afonso Assis,pt POR,MF,Moreirense,18,2006,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+065c8786,Gustavo Assuncao,Gustavo Assuncao,pt POR,MF,AVS Futebol,24,2000,23,19,"1,577",17.5,2,0,2,0,2,2,13,1,0.11,0.00,0.11,0.00,0.00,Matches,0.00,0.00,14,5,35.7,0.29,0.80,Primeira Liga,2024-2025
+6f22e535,Otavio Ataide,Otavio Ataide,br BRA,DF,Porto,22,2002,20,18,"1,632",18.1,2,0,2,2,0,0,6,0,0.11,0.00,0.11,0.11,0.11,Matches,0.12,0.40,17,5,29.4,0.28,0.94,Primeira Liga,2024-2025
+05a275e0,João Aurélio,João Aurélio,pt POR,"DF,MF",Nacional,35,1988,14,4,409,4.5,1,1,2,1,0,0,1,0,0.22,0.22,0.44,0.22,0.44,Matches,0.25,1.00,4,1,25.0,0.22,0.88,Primeira Liga,2024-2025
+f0677ed7,Fredrik Aursnes,Fredrik Aursnes,no NOR,MF,Benfica,28,1995,29,28,"2,350",26.1,3,5,8,3,0,0,1,0,0.11,0.19,0.31,0.11,0.31,Matches,0.11,0.27,28,11,39.3,0.42,1.07,Primeira Liga,2024-2025
+8b2cba78,Daniel Azevedo,Daniel Azevedo,pt POR,GK,Casa Pia,26,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+bda3b9da,Ibrahima Ba,Ibrahima Ba,sn SEN,DF,Famalicão,19,2005,2,1,103,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.87,Primeira Liga,2024-2025
+b2e208ba,Felix Bacher,Felix Bacher,at AUT,DF,Estoril,23,2000,23,23,"2,070",23.0,2,0,2,2,0,0,6,0,0.09,0.00,0.09,0.09,0.09,Matches,0.50,1.00,4,2,50.0,0.09,0.17,Primeira Liga,2024-2025
+a98f3cbf,Miguel Baeza,Miguel Baeza,es ESP,"MF,FW",Nacional,24,2000,5,2,203,2.3,1,0,1,1,0,0,0,0,0.44,0.00,0.44,0.44,0.44,Matches,0.50,1.00,2,1,50.0,0.44,0.89,Primeira Liga,2024-2025
+78f21137,Alexander Bah,Alexander Bah,dk DEN,DF,Benfica,26,1997,18,17,"1,412",15.7,0,1,1,0,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches,0.00,0.00,11,1,9.1,0.06,0.70,Primeira Liga,2024-2025
+75f3e793,Ney Bahia,Ney Bahia,br BRA,FW,Santa Clara,20,2004,2,0,62,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.45,Primeira Liga,2024-2025
+3eff5888,Adrian Bajrami,Adrian Bajrami,ch SUI,DF,Benfica,22,2002,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+11239a35,Theofanis Bakoulas,Theofanis Bakoulas,gr GRE,MF,Rio Ave,19,2005,10,5,390,4.3,1,0,1,1,0,0,3,0,0.23,0.00,0.23,0.23,0.23,Matches,0.14,1.00,7,1,14.3,0.23,1.62,Primeira Liga,2024-2025
+4a021afe,Elves Baldé,Elves Baldé,gw GNB,"MF,FW",Farense,24,1999,20,12,"1,045",11.6,1,2,3,1,0,0,1,1,0.09,0.17,0.26,0.09,0.26,Matches,0.04,0.14,24,7,29.2,0.60,2.07,Primeira Liga,2024-2025
+562bf675,Mohamed Bamba,Mohamed Bamba,ci CIV,MF,Gil Vicente FC,19,2004,11,11,956,10.6,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches,0.07,0.25,14,4,28.6,0.38,1.32,Primeira Liga,2024-2025
+d4fa7d01,Robson Bambu,Robson Bambu,br BRA,DF,Braga,26,1997,15,10,"1,023",11.4,1,0,1,1,0,0,6,0,0.09,0.00,0.09,0.09,0.09,Matches,0.25,1.00,4,1,25.0,0.09,0.35,Primeira Liga,2024-2025
+c9f58f4d,Chico Banza,Chico Banza,ao ANG,"FW,MF",Estrela,25,1998,13,8,688,7.6,1,0,1,1,0,0,4,0,0.13,0.00,0.13,0.13,0.13,Matches,0.08,0.25,13,4,30.8,0.52,1.70,Primeira Liga,2024-2025
+be47b750,Simon Banza,Simon Banza,cd COD,"FW,MF",Braga,27,1996,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+2a34574e,Rafael Barbosa,Rafael Barbosa,pt POR,MF,Farense,28,1996,7,3,359,4.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,2,28.6,0.50,1.75,Primeira Liga,2024-2025
+00242b75,Leandro Barreiro Martins,Leandro Barreiro Martins,lu LUX,MF,Benfica,24,2000,27,11,"1,211",13.5,3,1,4,3,0,0,5,0,0.22,0.07,0.30,0.22,0.30,Matches,0.19,0.33,16,9,56.3,0.67,1.19,Primeira Liga,2024-2025
+e61bdd69,Gil Bastião Dias,Gil Bastião Dias,pt POR,MF,Famalicão,27,1996,30,13,"1,406",15.6,5,2,7,5,0,0,7,0,0.32,0.13,0.45,0.32,0.45,Matches,0.12,0.28,42,18,42.9,1.15,2.69,Primeira Liga,2024-2025
+20575487,Gabriel Batista,Gabriel Batista,br BRA,GK,Santa Clara,26,1998,34,34,"3,060",34.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+f16755ca,Gilberto Batista,Gilberto Batista,gw GNB,DF,Moreirense,20,2003,5,3,317,3.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+abef8824,Ricardo Batista,Ricardo Batista,pt POR,GK,Casa Pia,37,1986,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+5e6355f8,Yanis Begraoui,Yanis Begraoui,ma MAR,"FW,MF",Estoril,23,2001,34,25,"1,913",21.3,11,3,14,9,2,4,1,0,0.52,0.14,0.66,0.42,0.56,Matches,0.20,0.41,46,22,47.8,1.04,2.16,Primeira Liga,2024-2025
+178f99f2,Gui Beleza,Gui Beleza,pt POR,MF,Gil Vicente FC,17,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+b6cafcad,Bachir Belloumi,Bachir Belloumi,dz ALG,MF,Farense,22,2002,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,5,71.4,1.67,2.33,Primeira Liga,2024-2025
+d705ba44,Andrea Belotti,Andrea Belotti,it ITA,FW,Benfica,30,1993,14,4,457,5.1,3,0,3,3,0,0,0,0,0.59,0.00,0.59,0.59,0.59,Matches,0.12,0.21,26,14,53.8,2.76,5.12,Primeira Liga,2024-2025
+98e19a24,Fahem Benaissa Yahia,Fahem Benaissa Yahia,fr FRA,MF,Casa Pia,22,2002,8,4,386,4.3,1,0,1,1,0,0,1,0,0.23,0.00,0.23,0.23,0.23,Matches,0.50,1.00,2,1,50.0,0.23,0.47,Primeira Liga,2024-2025
+2ca7a245,Beni,Beni,ao ANG,MF,Casa Pia,22,2002,13,7,749,8.3,0,1,1,0,0,0,3,0,0.00,0.12,0.12,0.00,0.12,Matches,0.00,0.00,2,1,50.0,0.12,0.24,Primeira Liga,2024-2025
+2ca7a245,Beni,Beni,ao ANG,MF,Casa Pia,22,2002,13,7,749,8.3,0,1,1,0,0,0,3,0,0.00,0.12,0.12,0.00,0.12,Matches,0.00,0.00,2,1,50.0,0.51,1.02,Primeira Liga,2024-2025
+2ca7a245,Beni,Beni,ao ANG,MF,Vitória Guimarães,22,2002,7,2,177,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.12,0.24,Primeira Liga,2024-2025
+2ca7a245,Beni,Beni,ao ANG,MF,Vitória Guimarães,22,2002,7,2,177,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.51,1.02,Primeira Liga,2024-2025
+d9b180dd,Álex Bermejo,Álex Bermejo,es ESP,"MF,FW",Farense,25,1998,24,4,598,6.6,1,0,1,1,0,0,3,0,0.15,0.00,0.15,0.15,0.15,Matches,0.07,0.25,15,4,26.7,0.60,2.26,Primeira Liga,2024-2025
+d166c007,Sergio Bermejo,Sergio Bermejo,es ESP,"MF,FW",Gil Vicente FC,26,1997,10,6,475,5.3,1,0,1,1,0,0,0,0,0.19,0.00,0.19,0.19,0.19,Matches,0.25,0.33,4,3,75.0,0.57,0.76,Primeira Liga,2024-2025
+d7817a3d,Simão Bertelli,Simão Bertelli,br BRA,GK,AVS Futebol,31,1993,11,11,990,11.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+57382429,Jan-Niklas Beste,Jan-Niklas Beste,de GER,"DF,MF",Benfica,25,1999,13,5,501,5.6,0,1,1,0,0,0,3,0,0.00,0.18,0.18,0.00,0.18,Matches,0.00,0.00,8,3,37.5,0.54,1.44,Primeira Liga,2024-2025
+d37aab95,José Bica,José Bica,pt POR,FW,Vitória Guimarães,21,2003,4,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,3.60,7.20,Primeira Liga,2024-2025
+1cb046cd,Biel,Biel,br BRA,"FW,MF",Sporting CP,23,2001,3,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,6.00,12.00,Primeira Liga,2024-2025
+8f3cbe57,Raúl Blanco,Raúl Blanco,es ESP,FW,Casa Pia,23,2001,5,3,250,2.8,1,0,1,1,0,0,1,0,0.36,0.00,0.36,0.36,0.36,Matches,0.17,1.00,6,1,16.7,0.36,2.16,Primeira Liga,2024-2025
+bc486f0e,Paulinho Bóia,Paulinho Bóia,br BRA,"MF,FW",Nacional,26,1998,15,13,"1,081",12.0,1,2,3,1,0,0,2,0,0.08,0.17,0.25,0.08,0.25,Matches,0.05,0.13,21,8,38.1,0.67,1.75,Primeira Liga,2024-2025
+49cfaf2e,Kévin Boma,Kévin Boma,tg TOG,DF,Estoril,21,2002,29,29,"2,467",27.4,1,0,1,1,0,0,7,0,0.04,0.00,0.04,0.04,0.04,Matches,0.07,0.13,14,8,57.1,0.29,0.51,Primeira Liga,2024-2025
+da6bf022,Pedro Bondo,Pedro Bondo,ao ANG,DF,Famalicão,19,2004,6,2,181,2.0,1,1,2,1,0,0,1,1,0.50,0.50,0.99,0.50,0.99,Matches,0.33,0.50,3,2,66.7,0.99,1.49,Primeira Liga,2024-2025
+eb60757f,Kiko Bondoso,Kiko Bondoso,pt POR,"MF,FW",Rio Ave,28,1995,28,24,"1,949",21.7,2,1,3,2,0,0,1,0,0.09,0.05,0.14,0.09,0.14,Matches,0.11,0.33,18,6,33.3,0.28,0.83,Primeira Liga,2024-2025
+d05eeced,Toni Borevkovic,Toni Borevkovic,hr CRO,DF,Vitória Guimarães,27,1997,27,27,"2,420",26.9,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,11,3,27.3,0.11,0.41,Primeira Liga,2024-2025
+c6c9075b,Daniel Borges,Daniel Borges,br BRA,MF,Santa Clara,21,2003,16,1,194,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,1.86,Primeira Liga,2024-2025
+4d1c4a5d,Gonçalo Borges,Gonçalo Borges,pt POR,"MF,FW",Porto,23,2001,26,6,761,8.5,2,3,5,2,0,0,6,1,0.24,0.35,0.59,0.24,0.59,Matches,0.08,0.33,25,6,24.0,0.71,2.96,Primeira Liga,2024-2025
+ba6cf633,Róbert Boženík,Róbert Boženík,sk SVK,FW,Boavista,24,1999,33,30,"2,753",30.6,5,1,6,4,1,1,7,0,0.16,0.03,0.20,0.13,0.16,Matches,0.05,0.13,87,30,34.5,0.98,2.84,Primeira Liga,2024-2025
+0c152537,Daniel Bragança,Daniel Bragança,pt POR,MF,Sporting CP,25,1999,18,14,"1,077",12.0,3,4,7,3,0,0,3,0,0.25,0.33,0.58,0.25,0.58,Matches,0.10,0.33,31,9,29.0,0.75,2.59,Primeira Liga,2024-2025
+5ccca624,Bruno Brigido,Bruno Brigido,br BRA,GK,Estrela,33,1991,18,18,"1,575",17.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+eac51d7b,Alexandre Brito,Alexandre Brito,pt POR,MF,Sporting CP,19,2005,2,1,89,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.01,Primeira Liga,2024-2025
+447390cc,Rafael Brito,Rafael Brito,pt POR,MF,Casa Pia,22,2002,22,12,"1,011",11.2,0,1,1,0,0,0,5,0,0.00,0.09,0.09,0.00,0.09,Matches,0.00,0.00,9,1,11.1,0.09,0.80,Primeira Liga,2024-2025
+72ed4239,Tiago Brito,Tiago Brito,pt POR,DF,Estoril,20,2004,4,0,97,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.93,Primeira Liga,2024-2025
+5caa62a7,Bruma,Bruma,pt POR,"MF,FW",Braga,29,1994,17,13,"1,208",13.4,7,5,12,4,3,4,1,0,0.52,0.37,0.89,0.30,0.67,Matches,0.09,0.27,43,15,34.9,1.12,3.20,Primeira Liga,2024-2025
+5caa62a7,Bruma,Bruma,pt POR,"MF,FW",Braga,29,1994,17,13,"1,208",13.4,7,5,12,4,3,4,1,0,0.52,0.37,0.89,0.30,0.67,Matches,0.06,0.17,18,6,33.3,1.11,3.33,Primeira Liga,2024-2025
+5caa62a7,Bruma,Bruma,pt POR,"FW,MF",Benfica,29,1994,10,5,487,5.4,1,2,3,1,0,0,0,0,0.18,0.37,0.55,0.18,0.55,Matches,0.09,0.27,43,15,34.9,1.12,3.20,Primeira Liga,2024-2025
+5caa62a7,Bruma,Bruma,pt POR,"FW,MF",Benfica,29,1994,10,5,487,5.4,1,2,3,1,0,0,0,0,0.18,0.37,0.55,0.18,0.55,Matches,0.06,0.17,18,6,33.3,1.11,3.33,Primeira Liga,2024-2025
+39d8474f,Jonathan Buatu Mananga,Jonathan Buatu Mananga,ao ANG,DF,Gil Vicente FC,30,1993,21,20,"1,824",20.3,0,2,2,0,0,0,1,0,0.00,0.10,0.10,0.00,0.10,Matches,0.00,,7,0,0.0,0.00,0.35,Primeira Liga,2024-2025
+c2d7780d,Leonel Bucca,Leonel Bucca,ar ARG,"MF,FW",Estrela,25,1999,30,16,"1,346",15.0,2,2,4,2,0,0,8,0,0.13,0.13,0.27,0.13,0.27,Matches,0.08,0.25,24,8,33.3,0.53,1.60,Primeira Liga,2024-2025
+dee3d535,Leonardo Buta,Leonardo Buta,pt POR,DF,Moreirense,22,2002,7,5,508,5.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.35,Primeira Liga,2024-2025
+505dce2b,Adrián Butzke,Adrián Butzke,es ESP,FW,Nacional,25,1999,10,5,484,5.4,0,1,1,0,0,0,2,0,0.00,0.19,0.19,0.00,0.19,Matches,0.00,0.00,19,5,26.3,0.93,3.53,Primeira Liga,2024-2025
+a820e429,Arthur Cabral,Arthur Cabral,br BRA,FW,Benfica,26,1998,21,2,376,4.2,2,0,2,2,0,1,2,0,0.48,0.00,0.48,0.48,0.48,Matches,0.11,0.20,19,10,52.6,2.39,4.55,Primeira Liga,2024-2025
+c080bb5e,Daniel Cabral,Daniel Cabral,br BRA,MF,Estrela,22,2002,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+e34e086c,Jovane Cabral,Jovane Cabral,cv CPV,"FW,MF",Estrela,26,1998,26,13,"1,154",12.8,2,1,3,2,0,1,4,0,0.16,0.08,0.23,0.16,0.23,Matches,0.07,0.33,27,6,22.2,0.47,2.11,Primeira Liga,2024-2025
+a564fe91,Lucas Calegari,Lucas Calegari,br BRA,DF,Famalicão,22,2002,18,17,"1,489",16.5,0,1,1,0,0,0,1,0,0.00,0.06,0.06,0.00,0.06,Matches,0.00,,2,0,0.0,0.00,0.12,Primeira Liga,2024-2025
+32044ced,Diogo Calila,Diogo Calila,mz MOZ,"MF,DF",Santa Clara,25,1998,31,21,"1,750",19.4,1,2,3,1,0,0,9,0,0.05,0.10,0.15,0.05,0.15,Matches,0.07,0.25,14,4,28.6,0.21,0.72,Primeira Liga,2024-2025
+922f894e,Ibrahima Camará,Ibrahima Camará,gn GUI,"MF,DF",Boavista,25,1999,26,16,"1,332",14.8,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,2,33.3,0.14,0.41,Primeira Liga,2024-2025
+990b680f,André Candeias,André Candeias,pt POR,FW,Farense,21,2003,2,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,5.14,Primeira Liga,2024-2025
+8804949c,Lazar Carević,Lazar Carević,me MNE,GK,Famalicão,25,1999,18,18,"1,620",18.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+8bc1f137,Zé Carlos,Zé Carlos,pt POR,DF,Vitória Guimarães,22,2001,7,1,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.74,0.74,Primeira Liga,2024-2025
+8bc1f137,Zé Carlos,Zé Carlos,pt POR,DF,Vitória Guimarães,22,2001,7,1,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.40,Primeira Liga,2024-2025
+8bc1f137,Zé Carlos,Zé Carlos,pt POR,MF,Farense,22,2001,9,8,670,7.4,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.74,0.74,Primeira Liga,2024-2025
+8bc1f137,Zé Carlos,Zé Carlos,pt POR,MF,Farense,22,2001,9,8,670,7.4,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.40,Primeira Liga,2024-2025
+4e2da7f7,Zé Carlos,Zé Carlos,pt POR,DF,Gil Vicente FC,26,1998,31,31,"2,707",30.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,13,2,15.4,0.07,0.43,Primeira Liga,2024-2025
+33a68b9b,Álvaro Carreras,Álvaro Carreras,es ESP,DF,Benfica,21,2003,32,30,"2,743",30.5,3,1,4,3,0,0,9,0,0.10,0.03,0.13,0.10,0.13,Matches,0.16,0.60,19,5,26.3,0.16,0.62,Primeira Liga,2024-2025
+36b76751,João Carvalho,João Carvalho,pt POR,"FW,MF",Estoril,27,1997,28,27,"2,308",25.6,6,3,9,6,0,0,5,1,0.23,0.12,0.35,0.23,0.35,Matches,0.19,0.50,32,12,37.5,0.47,1.25,Primeira Liga,2024-2025
+c59a4359,Pedro Carvalho,Pedro Carvalho,pt POR,"MF,DF",Estoril,21,2003,19,6,765,8.5,0,2,2,0,0,0,2,0,0.00,0.24,0.24,0.00,0.24,Matches,0.00,0.00,6,1,16.7,0.12,0.71,Primeira Liga,2024-2025
+adc77724,Vitor Carvalho,Vitor Carvalho,br BRA,MF,Braga,27,1997,23,18,"1,501",16.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,20,1,5.0,0.06,1.20,Primeira Liga,2024-2025
+21be17c9,Facundo Cáseres,Facundo Cáseres,ar ARG,MF,Gil Vicente FC,23,2001,20,16,"1,404",15.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,9,1,11.1,0.06,0.58,Primeira Liga,2024-2025
+46fa8966,Cassiano,Cassiano,br BRA,FW,Casa Pia,35,1989,26,24,"1,976",22.0,10,2,12,6,4,4,4,0,0.46,0.09,0.55,0.27,0.36,Matches,0.19,0.33,31,18,58.1,0.82,1.41,Primeira Liga,2024-2025
+957ac8ad,Jesús Castillo,Jesús Castillo,pe PER,MF,Gil Vicente FC,23,2001,15,9,822,9.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,6,0,0.0,0.00,0.66,Primeira Liga,2024-2025
+37d0048f,André Castro,André Castro,pt POR,MF,Moreirense,36,1988,1,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+a3f386fc,Cristian Castro,Cristian Castro,co COL,DF,AVS Futebol,23,2001,32,32,"2,745",30.5,1,1,2,1,0,0,5,0,0.03,0.03,0.07,0.03,0.07,Matches,0.09,0.25,11,4,36.4,0.13,0.36,Primeira Liga,2024-2025
+28cb9f21,Geny Catamo,Geny Catamo,mz MOZ,MF,Sporting CP,23,2001,30,20,"1,911",21.2,5,2,7,5,0,0,3,0,0.24,0.09,0.33,0.24,0.33,Matches,0.08,0.28,62,18,29.0,0.85,2.92,Primeira Liga,2024-2025
+072897aa,Cauê,Cauê,br BRA,FW,Gil Vicente FC,21,2002,15,7,667,7.4,1,0,1,1,0,0,3,1,0.13,0.00,0.13,0.13,0.13,Matches,0.08,0.33,12,3,25.0,0.40,1.62,Primeira Liga,2024-2025
+072897aa,Cauê,Cauê,br BRA,FW,Gil Vicente FC,21,2002,15,7,667,7.4,1,0,1,1,0,0,3,1,0.13,0.00,0.13,0.13,0.13,Matches,0.20,1.00,5,1,20.0,0.26,1.29,Primeira Liga,2024-2025
+072897aa,Cauê,Cauê,br BRA,FW,Casa Pia,21,2002,12,3,349,3.9,1,0,1,1,0,0,2,0,0.26,0.00,0.26,0.26,0.26,Matches,0.08,0.33,12,3,25.0,0.40,1.62,Primeira Liga,2024-2025
+072897aa,Cauê,Cauê,br BRA,FW,Casa Pia,21,2002,12,3,349,3.9,1,0,1,1,0,0,2,0,0.26,0.00,0.26,0.26,0.26,Matches,0.20,1.00,5,1,20.0,0.26,1.29,Primeira Liga,2024-2025
+7f6296b9,César,César,br BRA,GK,Boavista,32,1992,16,16,"1,440",16.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+4e232375,Kaio César,Kaio César,br BRA,"MF,FW",Vitória Guimarães,20,2004,17,16,"1,299",14.4,2,3,5,2,0,0,4,0,0.14,0.21,0.35,0.14,0.35,Matches,0.07,0.18,30,11,36.7,0.76,2.08,Primeira Liga,2024-2025
+f8d7f03b,Tidjany Chabrol,Tidjany Chabrol,fr FRA,"MF,FW",Gil Vicente FC,22,2002,25,13,"1,046",11.6,1,2,3,1,0,0,4,1,0.09,0.17,0.26,0.09,0.26,Matches,0.04,0.11,26,9,34.6,0.77,2.24,Primeira Liga,2024-2025
+b78e7f06,Kevin Chamorro,Kevin Chamorro,cr CRC,GK,Estoril,24,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+f49c41d2,Francisco Chissumba,Francisco Chissumba,pt POR,DF,Braga,19,2005,16,16,"1,429",15.9,0,1,1,0,0,0,3,0,0.00,0.06,0.06,0.00,0.06,Matches,0.00,0.00,11,2,18.2,0.13,0.69,Primeira Liga,2024-2025
+e8b5ad37,Till Cissokho,Till Cissokho,fr FRA,DF,Estrela,24,2000,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.25,0.50,Primeira Liga,2024-2025
+30afd787,Clayton,Clayton,br BRA,DF,AVS Futebol,24,2000,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+b05870de,Clayton,Clayton,br BRA,FW,Rio Ave,25,1999,31,31,"2,707",30.1,14,2,16,11,3,3,13,1,0.47,0.07,0.53,0.37,0.43,Matches,0.12,0.26,89,42,47.2,1.40,2.96,Primeira Liga,2024-2025
+b3f62bfc,Diego Collado,Diego Collado,es ESP,"FW,MF",Gil Vicente FC,23,2001,5,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,3.75,Primeira Liga,2024-2025
+bf0ee949,Semeu Commey,Semeu Commey,gh GHA,DF,Estrela,20,2004,2,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,2.00,Primeira Liga,2024-2025
+6fe4c987,Fábio Conceição,Fábio Conceição,pt POR,"FW,MF",Estrela,23,2001,11,7,680,7.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,2,25.0,0.26,1.06,Primeira Liga,2024-2025
+6fe4c987,Fábio Conceição,Fábio Conceição,pt POR,"FW,MF",Estrela,23,2001,11,7,680,7.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.11,1.00,9,1,11.1,0.21,1.91,Primeira Liga,2024-2025
+6fe4c987,Fábio Conceição,Fábio Conceição,pt POR,MF,Rio Ave,23,2001,12,2,423,4.7,1,1,2,1,0,0,0,0,0.21,0.21,0.43,0.21,0.43,Matches,0.00,0.00,8,2,25.0,0.26,1.06,Primeira Liga,2024-2025
+6fe4c987,Fábio Conceição,Fábio Conceição,pt POR,MF,Rio Ave,23,2001,12,2,423,4.7,1,1,2,1,0,0,0,0,0.21,0.21,0.43,0.21,0.43,Matches,0.11,1.00,9,1,11.1,0.21,1.91,Primeira Liga,2024-2025
+53c0ab99,Leo Cordeiro,Leo Cordeiro,br BRA,MF,Estrela,28,1995,27,19,"1,866",20.7,1,1,2,1,0,0,3,0,0.05,0.05,0.10,0.05,0.10,Matches,0.04,0.50,23,2,8.7,0.10,1.11,Primeira Liga,2024-2025
+c803c92a,Félix Correia,Félix Correia,pt POR,"MF,FW",Gil Vicente FC,23,2001,33,32,"2,892",32.1,9,3,12,6,3,3,3,0,0.28,0.09,0.37,0.19,0.28,Matches,0.13,0.35,47,17,36.2,0.53,1.46,Primeira Liga,2024-2025
+4d36e5ae,Alberto costa,Alberto costa,pt POR,DF,Vitória Guimarães,20,2003,10,7,675,7.5,0,2,2,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches,0.00,,7,0,0.0,0.00,0.93,Primeira Liga,2024-2025
+7b4c1f6e,Bruno Xavier Almeida Costa,Bruno Xavier Almeida Costa,pt POR,MF,Nacional,27,1997,18,11,919,10.2,2,1,3,1,1,1,0,0,0.20,0.10,0.29,0.10,0.20,Matches,0.10,0.33,10,3,30.0,0.29,0.98,Primeira Liga,2024-2025
+93fffbcf,Diogo Costa,Diogo Costa,pt POR,GK,Porto,24,1999,32,32,"2,880",32.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+c1edb1d4,Gonçalo Costa,Gonçalo Costa,pt POR,"MF,DF",Estoril,24,2000,18,3,509,5.7,2,0,2,2,0,0,1,0,0.35,0.00,0.35,0.35,0.35,Matches,0.50,1.00,4,2,50.0,0.35,0.71,Primeira Liga,2024-2025
+f13d02a6,Hélder Costa,Hélder Costa,ao ANG,"FW,MF",Estoril,30,1994,13,8,606,6.7,1,0,1,1,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches,0.25,1.00,4,1,25.0,0.15,0.59,Primeira Liga,2024-2025
+1cd2ca47,João Costa,João Costa,pt POR,FW,Santa Clara,24,2000,24,8,728,8.1,3,0,3,3,0,0,1,0,0.37,0.00,0.37,0.37,0.37,Matches,0.20,0.50,15,6,40.0,0.74,1.85,Primeira Liga,2024-2025
+00225aae,João Paulo Santos Costa,João Paulo Santos Costa,pt POR,GK,Estrela,28,1996,14,14,"1,260",14.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+907aafc4,Michel Costa,Michel Costa,br BRA,MF,Estoril,22,2001,10,7,597,6.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.30,Primeira Liga,2024-2025
+ee43adcd,Rui Costa,Rui Costa,pt POR,FW,Farense,28,1996,15,6,696,7.7,2,1,3,2,0,0,1,0,0.26,0.13,0.39,0.26,0.39,Matches,0.08,0.22,25,9,36.0,1.16,3.23,Primeira Liga,2024-2025
+a657d6ba,Marco Cruz,Marco Cruz,pt POR,MF,Vitória Guimarães,20,2004,2,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+e9543ec7,Sandro Cruz,Sandro Cruz,ao ANG,DF,Gil Vicente FC,23,2001,25,24,"2,082",23.1,0,0,0,0,0,0,11,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,3,37.5,0.13,0.35,Primeira Liga,2024-2025
+0feb3a1c,Augusto Dabo,Augusto Dabo,gw GNB,DF,Boavista,20,2004,13,7,546,6.1,0,1,1,0,0,0,0,0,0.00,0.16,0.16,0.00,0.16,Matches,0.00,0.00,2,1,50.0,0.16,0.33,Primeira Liga,2024-2025
+bbe7d20b,Samuel Dahl,Samuel Dahl,se SWE,"MF,DF",Benfica,21,2003,11,6,595,6.6,0,4,4,0,0,0,0,0,0.00,0.61,0.61,0.00,0.61,Matches,0.00,0.00,4,2,50.0,0.30,0.61,Primeira Liga,2024-2025
+da7f2781,Amadou Dante,Amadou Dante,ml MLI,"DF,MF",Arouca,23,2000,16,12,"1,059",11.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,2,33.3,0.17,0.51,Primeira Liga,2024-2025
+3385fdf4,Mathias De Amorim,Mathias De Amorim,pt POR,MF,Famalicão,19,2004,24,10,"1,072",11.9,1,1,2,1,0,0,4,0,0.08,0.08,0.17,0.08,0.17,Matches,0.06,0.50,17,2,11.8,0.17,1.43,Primeira Liga,2024-2025
+064461b7,Zeno Debast,Zeno Debast,be BEL,"MF,DF",Sporting CP,20,2003,31,23,"2,126",23.6,0,3,3,0,0,0,3,0,0.00,0.13,0.13,0.00,0.13,Matches,0.00,0.00,16,6,37.5,0.25,0.68,Primeira Liga,2024-2025
+0ca4fdab,Depú,Depú,ao ANG,FW,Gil Vicente FC,24,2000,3,0,43,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,2.09,Primeira Liga,2024-2025
+cb1580aa,Derick,Derick,br BRA,"MF,DF",Farense,30,1993,23,17,"1,417",15.7,1,3,4,1,0,0,3,0,0.06,0.19,0.25,0.06,0.25,Matches,0.05,0.11,21,9,42.9,0.57,1.33,Primeira Liga,2024-2025
+19cda00b,Ángel Di María,Ángel Di María,ar ARG,"FW,MF",Benfica,36,1988,25,20,"1,646",18.3,8,5,13,3,5,5,5,0,0.44,0.27,0.71,0.16,0.44,Matches,0.05,0.17,62,18,29.0,0.98,3.39,Primeira Liga,2024-2025
+23c5db70,Abdoulay Diaby,Abdoulay Diaby,ml MLI,"FW,MF",Boavista,33,1991,12,9,894,9.9,1,1,2,1,0,0,1,0,0.10,0.10,0.20,0.10,0.20,Matches,0.05,0.09,19,11,57.9,1.11,1.91,Primeira Liga,2024-2025
+df9a23f6,Matheus Dias,Matheus Dias,br BRA,"MF,DF",Nacional,22,2002,26,20,"1,750",19.4,0,1,1,0,0,0,7,0,0.00,0.05,0.05,0.00,0.05,Matches,0.00,0.00,7,1,14.3,0.05,0.36,Primeira Liga,2024-2025
+b2f12baf,Tiago Dias,Tiago Dias,pt POR,FW,Casa Pia,26,1998,8,0,71,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+394be156,Ousmane Diomande,Ousmane Diomande,ci CIV,DF,Sporting CP,20,2003,31,29,"2,521",28.0,2,0,2,2,0,0,7,2,0.07,0.00,0.07,0.07,0.07,Matches,0.06,0.29,31,7,22.6,0.25,1.11,Primeira Liga,2024-2025
+b2336681,Tiago Djaló,Tiago Djaló,pt POR,DF,Porto,24,2000,8,6,590,6.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,7,0,0.0,0.00,1.07,Primeira Liga,2024-2025
+1fe2c2e0,Maxime Dominguez,Maxime Dominguez,ch SUI,MF,Gil Vicente FC,28,1996,4,3,249,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,4,66.7,1.45,2.17,Primeira Liga,2024-2025
+efd44b24,Issiar Dramé,Issiar Dramé,ml MLI,DF,Estrela,25,1999,21,18,"1,589",17.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,2,28.6,0.11,0.40,Primeira Liga,2024-2025
+5d24ad61,Dudu,Dudu,br BRA,"MF,FW",Nacional,24,1999,21,17,"1,338",14.9,3,2,5,2,1,2,0,0,0.20,0.13,0.34,0.13,0.27,Matches,0.08,0.20,26,10,38.5,0.67,1.75,Primeira Liga,2024-2025
+84be547e,Carlos Eduardo,Carlos Eduardo,br BRA,FW,Gil Vicente FC,21,2002,7,3,244,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.74,Primeira Liga,2024-2025
+57760e66,Marcus Edwards,Marcus Edwards,eng ENG,MF,Sporting CP,25,1998,6,1,111,1.2,1,0,1,1,0,0,0,0,0.81,0.00,0.81,0.81,0.81,Matches,0.20,1.00,5,1,20.0,0.81,4.05,Primeira Liga,2024-2025
+65c081c1,Demir Ege Tıknaz,Demir Ege Tıknaz,tr TUR,MF,Rio Ave,19,2004,28,24,"1,976",22.0,4,2,6,4,0,0,7,0,0.18,0.09,0.27,0.18,0.27,Matches,0.36,0.67,11,6,54.5,0.27,0.50,Primeira Liga,2024-2025
+672f3db0,Marvin Elimbi,Marvin Elimbi,fr FRA,DF,Gil Vicente FC,21,2003,11,5,434,4.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+825ed0d1,Simon Elisor,Simon Elisor,fr FRA,FW,Famalicão,25,1999,15,6,597,6.6,4,0,4,4,0,0,2,0,0.60,0.00,0.60,0.60,0.60,Matches,0.29,0.57,14,7,50.0,1.06,2.11,Primeira Liga,2024-2025
+cddafc92,Úmaro Embaló,Úmaro Embaló,pt POR,MF,Vitória Guimarães,23,2001,7,0,148,1.6,2,0,2,2,0,0,0,0,1.22,0.00,1.22,1.22,1.22,Matches,0.67,1.00,3,2,66.7,1.22,1.82,Primeira Liga,2024-2025
+7afe0cbf,Rui Encarnação,Rui Encarnação,pt POR,GK,Nacional,26,1998,2,1,135,1.5,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+12dcbdcc,Ricardo Esgaio,Ricardo Esgaio,pt POR,DF,Sporting CP,31,1993,9,2,230,2.6,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+9c14a96b,Tiago Esgaio,Tiago Esgaio,pt POR,DF,Arouca,28,1995,25,25,"2,180",24.2,2,1,3,2,0,0,2,0,0.08,0.04,0.12,0.08,0.12,Matches,0.10,0.33,20,6,30.0,0.25,0.83,Primeira Liga,2024-2025
+1e4319ac,Dario Essugo,Dario Essugo,pt POR,MF,Sporting CP,19,2005,2,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+f9ea45ed,Luís Esteves,Luís Esteves,pt POR,MF,Nacional,26,1998,33,31,"2,808",31.2,0,3,3,0,0,0,6,0,0.00,0.10,0.10,0.00,0.10,Matches,0.00,0.00,64,13,20.3,0.42,2.05,Primeira Liga,2024-2025
+577efaec,Stephen Eustáquio,Stephen Eustáquio,ca CAN,"MF,DF",Porto,27,1996,30,22,"1,918",21.3,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,16,6,37.5,0.28,0.75,Primeira Liga,2024-2025
+6f3cc2fe,Evanilson,Evanilson,br BRA,FW,Porto,24,1999,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+56077210,Claudio Falcão,Claudio Falcão,br BRA,"DF,MF",Farense,30,1994,32,32,"2,851",31.7,1,2,3,1,0,0,10,1,0.03,0.06,0.09,0.03,0.09,Matches,0.03,0.14,35,7,20.0,0.22,1.10,Primeira Liga,2024-2025
+c4199604,Eduardo Felicíssimo,Eduardo Felicíssimo,pt POR,MF,Sporting CP,17,2007,6,2,195,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.46,Primeira Liga,2024-2025
+ef0d16c6,Nuno Felix,Nuno Felix,pt POR,MF,Benfica,20,2004,2,0,17,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+716e9ae4,Vando Félix,Vando Félix,gw GNB,MF,Vitória Guimarães,21,2002,16,5,548,6.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,9,3,33.3,0.49,1.48,Primeira Liga,2024-2025
+a17ef4d1,Jorge Filipe Oliveira Fernandes,Jorge Filipe Oliveira Fernandes,pt POR,DF,Vitória Guimarães,27,1997,6,5,415,4.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.22,Primeira Liga,2024-2025
+a109d777,Lucas Fernandes,Lucas Fernandes,br BRA,MF,AVS Futebol,26,1997,8,6,496,5.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.18,Primeira Liga,2024-2025
+901d4aa7,Martim Fernandes,Martim Fernandes,pt POR,DF,Porto,18,2006,25,15,"1,311",14.6,0,6,6,0,0,0,5,0,0.00,0.41,0.41,0.00,0.41,Matches,0.00,0.00,6,4,66.7,0.27,0.41,Primeira Liga,2024-2025
+ef491564,Mateus Fernandes,Mateus Fernandes,pt POR,MF,Sporting CP,20,2004,1,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,3.46,Primeira Liga,2024-2025
+de8f6250,Roger Fernandes,Roger Fernandes,pt POR,MF,Braga,18,2005,28,21,"1,739",19.3,3,3,6,3,0,0,2,0,0.16,0.16,0.31,0.16,0.31,Matches,0.06,0.13,50,24,48.0,1.24,2.59,Primeira Liga,2024-2025
+c6bdf383,Rúben Fernandes,Rúben Fernandes,pt POR,DF,Gil Vicente FC,38,1986,28,28,"2,503",27.8,1,1,2,1,0,0,4,1,0.04,0.04,0.07,0.04,0.07,Matches,0.06,0.25,17,4,23.5,0.14,0.61,Primeira Liga,2024-2025
+c981fc98,Roberto Férnandez,Roberto Férnandez,es ESP,FW,Braga,22,2002,15,5,505,5.6,2,0,2,2,0,0,1,0,0.36,0.00,0.36,0.36,0.36,Matches,0.13,0.67,15,3,20.0,0.53,2.67,Primeira Liga,2024-2025
+d279d762,João Ferreira Barros,João Ferreira Barros,pt POR,MF,Boavista,18,2006,12,2,260,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,2,33.3,0.69,2.08,Primeira Liga,2024-2025
+12f1293b,Filipe Ferreira,Filipe Ferreira,pt POR,DF,Boavista,33,1990,27,26,"2,223",24.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,10,3,30.0,0.12,0.40,Primeira Liga,2024-2025
+ed4fef1c,Fernando Ferreira Fonseca,Fernando Ferreira Fonseca,pt POR,"DF,MF",AVS Futebol,27,1997,26,21,"1,908",21.2,0,0,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,3,37.5,0.14,0.38,Primeira Liga,2024-2025
+fb37a645,João Ferreira,João Ferreira,pt POR,DF,Braga,23,2001,21,13,"1,311",14.6,0,1,1,0,0,0,6,0,0.00,0.07,0.07,0.00,0.07,Matches,0.00,0.00,5,2,40.0,0.14,0.34,Primeira Liga,2024-2025
+15a5e48c,Marcelo dos Santos Ferreira,Marcelo dos Santos Ferreira,br BRA,DF,Moreirense,35,1989,33,33,"2,970",33.0,1,0,1,1,0,0,7,0,0.03,0.00,0.03,0.03,0.03,Matches,0.13,0.50,8,2,25.0,0.06,0.24,Primeira Liga,2024-2025
+fb39d792,Pedro Ferreira,Pedro Ferreira,pt POR,MF,Santa Clara,26,1998,32,20,"1,826",20.3,0,4,4,0,0,0,8,0,0.00,0.20,0.20,0.00,0.20,Matches,0.00,0.00,19,4,21.1,0.20,0.94,Primeira Liga,2024-2025
+a4564423,Tiago Ferreira,Tiago Ferreira,pt POR,FW,Estrela,22,2002,3,1,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.70,Primeira Liga,2024-2025
+f7c68686,Daniel Figueira,Daniel Figueira,pt POR,GK,Estoril,26,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+858cdc27,Sidoine Fogning,Sidoine Fogning,cm CMR,DF,Boavista,22,2001,13,13,"1,170",13.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.23,Primeira Liga,2024-2025
+a951ca82,Tiago Fonseca Morais,Tiago Fonseca Morais,pt POR,"MF,FW",Rio Ave,20,2003,31,18,"1,562",17.4,4,0,4,4,0,1,1,0,0.23,0.00,0.23,0.23,0.23,Matches,0.09,0.24,43,17,39.5,0.98,2.48,Primeira Liga,2024-2025
+1827a42d,José Fontán,José Fontán,es ESP,DF,Arouca,24,2000,29,29,"2,589",28.8,1,0,1,1,0,0,10,0,0.03,0.00,0.03,0.03,0.03,Matches,0.14,1.00,7,1,14.3,0.03,0.24,Primeira Liga,2024-2025
+90f87966,José Fonte,José Fonte,pt POR,DF,Casa Pia,40,1983,25,24,"2,024",22.5,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,10,4,40.0,0.18,0.44,Primeira Liga,2024-2025
+d82f7b3f,Lucas França,Lucas França,br BRA,GK,Nacional,28,1996,33,33,"2,925",32.5,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+86df4d6b,André Franco,André Franco,pt POR,MF,Porto,26,1998,17,4,435,4.8,1,0,1,1,0,0,4,0,0.21,0.00,0.21,0.21,0.21,Matches,0.25,1.00,4,1,25.0,0.21,0.83,Primeira Liga,2024-2025
+f332f667,Afonso Freitas,Afonso Freitas,pt POR,MF,Nacional,24,2000,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+29d0f2ac,Iván Fresneda,Iván Fresneda,es ESP,"MF,DF",Sporting CP,19,2004,18,11,961,10.7,3,0,3,3,0,0,2,0,0.28,0.00,0.28,0.28,0.28,Matches,0.33,0.50,9,6,66.7,0.56,0.84,Primeira Liga,2024-2025
+fb5f19d5,Godfried Frimpong,Godfried Frimpong,nl NED,DF,Moreirense,25,1999,30,29,"2,539",28.2,1,3,4,1,0,0,6,0,0.04,0.11,0.14,0.04,0.14,Matches,0.14,0.33,7,3,42.9,0.11,0.25,Primeira Liga,2024-2025
+be040b84,Kanya Fujimoto,Kanya Fujimoto,jp JPN,MF,Gil Vicente FC,25,1999,30,28,"2,219",24.7,5,5,10,4,1,1,1,0,0.20,0.20,0.41,0.16,0.37,Matches,0.10,0.31,40,13,32.5,0.53,1.62,Primeira Liga,2024-2025
+8441729d,Taichi Fukui,Taichi Fukui,jp JPN,MF,Arouca,20,2004,30,25,"2,183",24.3,0,2,2,0,0,0,5,0,0.00,0.08,0.08,0.00,0.08,Matches,0.00,0.00,17,2,11.8,0.08,0.70,Primeira Liga,2024-2025
+0e92987c,Rúben Furtado,Rúben Furtado,pt POR,MF,Braga,18,2005,4,0,51,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,1.76,3.53,Primeira Liga,2024-2025
+19452285,Tiago Gabriel,Tiago Gabriel,pt POR,DF,Estrela,19,2004,11,11,980,10.9,1,0,1,1,0,0,2,0,0.09,0.00,0.09,0.09,0.09,Matches,0.25,1.00,4,1,25.0,0.09,0.37,Primeira Liga,2024-2025
+5b3d1a7a,Galeno,Galeno,br BRA,"MF,DF",Porto,26,1997,18,17,"1,445",16.1,8,0,8,4,4,6,4,0,0.50,0.00,0.50,0.25,0.25,Matches,0.08,0.16,49,25,51.0,1.56,3.05,Primeira Liga,2024-2025
+d500dac0,Tiago Galletto,Tiago Galletto,uy URU,MF,AVS Futebol,22,2002,3,0,90,1.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.00,Primeira Liga,2024-2025
+d280923b,Nino Galović,Nino Galović,hr CRO,DF,Arouca,32,1992,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+a1d50b27,João Tiago Serrão Garcês,João Tiago Serrão Garcês,pt POR,MF,Nacional,31,1993,1,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,5.29,Primeira Liga,2024-2025
+45d071f4,García,García,br BRA,DF,Nacional,22,2002,33,31,"2,799",31.1,0,3,3,0,0,0,5,0,0.00,0.10,0.10,0.00,0.10,Matches,0.00,0.00,16,5,31.3,0.16,0.51,Primeira Liga,2024-2025
+65ebfa2d,Fabrício Garcia,Fabrício Garcia,cv CPV,"MF,FW",Estoril,23,2001,24,15,"1,269",14.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,20,5,25.0,0.35,1.42,Primeira Liga,2024-2025
+b4b4d0a6,Santiago García,Santiago García,es ESP,MF,Gil Vicente FC,22,2001,27,16,"1,475",16.4,4,2,6,4,0,0,10,0,0.24,0.12,0.37,0.24,0.37,Matches,0.19,0.50,21,8,38.1,0.49,1.28,Primeira Liga,2024-2025
+55ae91f0,Bruno Gaspar,Bruno Gaspar,ao ANG,DF,Vitória Guimarães,31,1993,13,10,918,10.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.10,0.39,Primeira Liga,2024-2025
+ab8b392c,Mory Gbane,Mory Gbane,ci CIV,"MF,DF",Gil Vicente FC,23,2000,18,16,"1,471",16.3,1,0,1,1,0,0,3,0,0.06,0.00,0.06,0.06,0.06,Matches,0.11,0.33,9,3,33.3,0.18,0.55,Primeira Liga,2024-2025
+e1374fb4,Geovanny,Geovanny,pt POR,MF,Farense,20,2004,6,1,164,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,2,100.0,1.10,1.10,Primeira Liga,2024-2025
+35389469,André Geraldes,André Geraldes,pt POR,"MF,DF",Casa Pia,33,1991,26,13,"1,342",14.9,0,1,1,0,0,0,5,0,0.00,0.07,0.07,0.00,0.07,Matches,0.00,0.00,3,1,33.3,0.07,0.20,Primeira Liga,2024-2025
+5b3cfa12,Ismaël Gharbi,Ismaël Gharbi,tn TUN,MF,Braga,20,2004,23,13,"1,058",11.8,4,3,7,4,0,0,2,0,0.34,0.26,0.60,0.34,0.60,Matches,0.14,0.44,29,9,31.0,0.77,2.47,Primeira Liga,2024-2025
+47681787,Marco van Ginkel,Marco van Ginkel,nl NED,"MF,FW",Boavista,31,1992,11,9,682,7.6,1,1,2,0,1,1,2,0,0.13,0.13,0.26,0.00,0.13,Matches,0.00,0.00,13,1,7.7,0.13,1.72,Primeira Liga,2024-2025
+daadeea6,José Gomes,José Gomes,pt POR,DF,Nacional,28,1996,28,27,"2,344",26.0,3,1,4,3,0,0,3,0,0.12,0.04,0.15,0.12,0.15,Matches,0.13,0.38,23,8,34.8,0.31,0.88,Primeira Liga,2024-2025
+05929240,Pedro gomes,Pedro gomes,pt POR,DF,Boavista,21,2003,21,18,"1,452",16.1,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,6,0,0.0,0.00,0.37,Primeira Liga,2024-2025
+6b8cd7dd,Vítor Gomes,Vítor Gomes,pt POR,MF,Rio Ave,36,1987,6,1,93,1.0,0,1,1,0,0,0,0,0,0.00,0.97,0.97,0.00,0.97,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+22675fbb,William Gomes,William Gomes,br BRA,FW,Porto,18,2006,8,0,155,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.58,1.74,Primeira Liga,2024-2025
+b7de5bad,Victor Gomez,Victor Gomez,es ESP,DF,Braga,24,2000,27,21,"1,908",21.2,0,2,2,0,0,0,1,0,0.00,0.09,0.09,0.00,0.09,Matches,0.00,0.00,14,3,21.4,0.14,0.66,Primeira Liga,2024-2025
+c28df63c,Nuno Gonçalo Moreira,Nuno Gonçalo Moreira,pt POR,"FW,MF",Casa Pia,25,1999,21,18,"1,491",16.6,5,5,10,5,0,0,3,1,0.30,0.30,0.60,0.30,0.60,Matches,0.14,0.31,36,16,44.4,0.97,2.17,Primeira Liga,2024-2025
+b66b3a11,Franscisco Gonçalves,Franscisco Gonçalves,pt POR,DF,Nacional,20,2004,1,0,18,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+8b8c0095,João Gonçalves,João Gonçalves,pt POR,GK,Boavista,23,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+c275947b,Pedro Gonçalves,Pedro Gonçalves,pt POR,"MF,FW",Sporting CP,26,1998,14,12,870,9.7,5,4,9,5,0,0,3,0,0.52,0.41,0.93,0.52,0.93,Matches,0.13,0.56,38,9,23.7,0.93,3.93,Primeira Liga,2024-2025
+896b5df2,Cristo González,Cristo González,es ESP,MF,Arouca,26,1997,2,2,180,2.0,0,1,1,0,0,0,0,0,0.00,0.50,0.50,0.00,0.50,Matches,0.00,0.00,4,2,50.0,1.00,2.00,Primeira Liga,2024-2025
+d189e48f,Mario González,Mario González,es ESP,FW,Famalicão,28,1996,16,3,576,6.4,2,2,4,2,0,0,0,0,0.31,0.31,0.62,0.31,0.62,Matches,0.22,0.40,9,5,55.6,0.78,1.41,Primeira Liga,2024-2025
+2c56a792,Nicolás González,Nicolás González,es ESP,MF,Porto,22,2002,17,17,"1,441",16.0,5,3,8,5,0,0,6,1,0.31,0.19,0.50,0.31,0.50,Matches,0.19,0.56,27,9,33.3,0.56,1.69,Primeira Liga,2024-2025
+4e4b59a4,Jean Gorby,Jean Gorby,fr FRA,MF,Braga,22,2002,24,14,"1,217",13.5,1,0,1,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches,0.10,0.33,10,3,30.0,0.22,0.74,Primeira Liga,2024-2025
+7e04dd8e,João Goulart Silva,João Goulart Silva,pt POR,DF,Casa Pia,24,2000,33,32,"2,838",31.5,2,0,2,2,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches,0.12,0.67,17,3,17.6,0.10,0.54,Primeira Liga,2024-2025
+68cf59f0,Tiago Gouveia,Tiago Gouveia,pt POR,MF,Benfica,23,2001,4,0,103,1.1,1,1,2,1,0,0,1,0,0.87,0.87,1.75,0.87,1.75,Matches,0.14,0.25,7,4,57.1,3.50,6.12,Primeira Liga,2024-2025
+f33b6ee6,Pablo Gozalbez,Pablo Gozalbez,es ESP,MF,Arouca,23,2001,17,8,648,7.2,1,0,1,1,0,0,1,0,0.14,0.00,0.14,0.14,0.14,Matches,0.09,0.14,11,7,63.6,0.97,1.53,Primeira Liga,2024-2025
+6772c33e,João Graça,João Graça,pt POR,"MF,FW",Rio Ave,29,1995,16,3,493,5.5,1,0,1,1,0,0,1,0,0.18,0.00,0.18,0.18,0.18,Matches,0.20,1.00,5,1,20.0,0.18,0.91,Primeira Liga,2024-2025
+c5cffd33,Samuel Granada,Samuel Granada,br BRA,FW,AVS Futebol,24,2000,4,3,240,2.7,0,1,1,0,0,0,2,1,0.00,0.37,0.37,0.00,0.37,Matches,0.00,0.00,8,3,37.5,1.13,3.00,Primeira Liga,2024-2025
+fc3d2006,Jaume Grau,Jaume Grau,es ESP,MF,AVS Futebol,27,1997,29,25,"2,119",23.5,2,2,4,2,0,0,13,0,0.08,0.08,0.17,0.08,0.17,Matches,0.14,0.40,14,5,35.7,0.21,0.59,Primeira Liga,2024-2025
+8b8e759d,Marko Grujić,Marko Grujić,rs SRB,MF,Porto,28,1996,2,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+a0c24879,Marko Gudžulić,Marko Gudžulić,rs SRB,GK,Estrela,22,2002,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+7091324a,Rafik Guitane,Rafik Guitane,fr FRA,"FW,MF",Estoril,25,1999,21,9,857,9.5,0,4,4,0,0,0,0,0,0.00,0.42,0.42,0.00,0.42,Matches,0.00,0.00,9,2,22.2,0.21,0.95,Primeira Liga,2024-2025
+7091324a,Rafik Guitane,Rafik Guitane,fr FRA,"FW,MF",Estoril,25,1999,21,9,857,9.5,0,4,4,0,0,0,0,0,0.00,0.42,0.42,0.00,0.42,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+7091324a,Rafik Guitane,Rafik Guitane,fr FRA,"FW,MF",Braga,25,1999,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,9,2,22.2,0.21,0.95,Primeira Liga,2024-2025
+7091324a,Rafik Guitane,Rafik Guitane,fr FRA,"FW,MF",Braga,25,1999,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+f0fb443e,Deniz Gül,Deniz Gül,tr TUR,FW,Porto,20,2004,14,5,444,4.9,1,0,1,1,0,0,0,0,0.20,0.00,0.20,0.20,0.20,Matches,0.10,0.50,10,2,20.0,0.41,2.03,Primeira Liga,2024-2025
+4d5a9185,Viktor Gyökeres,Viktor Gyökeres,se SWE,FW,Sporting CP,26,1998,33,31,"2,804",31.2,39,7,46,27,12,12,4,0,1.25,0.22,1.48,0.87,1.09,Matches,0.19,0.34,139,80,57.6,2.57,4.46,Primeira Liga,2024-2025
+2aa27bb3,Justin de Haas,Justin de Haas,nl NED,DF,Famalicão,24,2000,29,27,"2,468",27.4,2,0,2,1,1,1,5,0,0.07,0.00,0.07,0.04,0.04,Matches,0.07,0.17,14,6,42.9,0.22,0.51,Primeira Liga,2024-2025
+1e329d13,Habraão,Habraão,br BRA,DF,Santa Clara,23,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+bbfb51ed,Tomás Händel,Tomás Händel,pt POR,MF,Vitória Guimarães,23,2000,32,29,"2,516",28.0,2,1,3,2,0,0,5,0,0.07,0.04,0.11,0.07,0.11,Matches,0.11,0.67,18,3,16.7,0.11,0.64,Primeira Liga,2024-2025
+675261f8,Conrad Harder,Conrad Harder,dk DEN,"FW,MF",Sporting CP,19,2005,28,6,784,8.7,5,5,10,5,0,0,0,0,0.57,0.57,1.15,0.57,1.15,Matches,0.11,0.31,45,16,35.6,1.84,5.17,Primeira Liga,2024-2025
+3c960580,Thiago Helguera,Thiago Helguera,uy URU,MF,Braga,18,2006,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+f068fed1,Gustavo Henrique,Gustavo Henrique,br BRA,MF,Estrela,25,1999,4,4,228,2.5,0,1,1,0,0,0,0,0,0.00,0.39,0.39,0.00,0.39,Matches,0.00,,1,0,0.0,0.00,0.39,Primeira Liga,2024-2025
+d4456fb3,Morten Hjulmand,Morten Hjulmand,dk DEN,MF,Sporting CP,25,1999,28,26,"2,214",24.6,2,2,4,1,1,1,11,1,0.08,0.08,0.16,0.04,0.12,Matches,0.06,0.14,17,7,41.2,0.28,0.69,Primeira Liga,2024-2025
+8a6daac3,Jordan Holsgrove,Jordan Holsgrove,sct SCO,MF,Estoril,24,1999,28,26,"2,383",26.5,1,4,5,1,0,0,6,0,0.04,0.15,0.19,0.04,0.19,Matches,0.03,0.10,30,10,33.3,0.38,1.13,Primeira Liga,2024-2025
+cc8312b4,Lukáš Horníček,Lukáš Horníček,cz CZE,GK,Braga,22,2002,17,17,"1,530",17.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+951f1739,André Horta,André Horta,pt POR,MF,Braga,27,1996,12,6,508,5.6,0,4,4,0,0,0,0,0,0.00,0.71,0.71,0.00,0.71,Matches,0.00,0.00,13,3,23.1,0.53,2.30,Primeira Liga,2024-2025
+6603fed7,Ricardo Horta,Ricardo Horta,pt POR,"MF,FW",Braga,29,1994,34,32,"2,837",31.5,10,5,15,10,0,0,2,0,0.32,0.16,0.48,0.32,0.48,Matches,0.19,0.43,52,23,44.2,0.73,1.65,Primeira Liga,2024-2025
+fb19d550,Igor,Igor,br BRA,MF,Estrela,21,2003,13,9,800,8.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,9,2,22.2,0.23,1.01,Primeira Liga,2024-2025
+cc77d69c,André Inácio,André Inácio,br BRA,"MF,FW",Estrela,22,2002,11,7,638,7.1,1,1,2,1,0,0,1,0,0.14,0.14,0.28,0.14,0.28,Matches,0.06,0.14,17,7,41.2,0.99,2.40,Primeira Liga,2024-2025
+cc77d69c,André Inácio,André Inácio,br BRA,"MF,FW",Estrela,22,2002,11,7,638,7.1,1,1,2,1,0,0,1,0,0.14,0.14,0.28,0.14,0.28,Matches,0.04,0.14,27,7,25.9,0.53,2.06,Primeira Liga,2024-2025
+cc77d69c,André Inácio,André Inácio,br BRA,MF,Rio Ave,22,2002,16,13,"1,178",13.1,1,1,2,1,0,0,1,0,0.08,0.08,0.15,0.08,0.15,Matches,0.06,0.14,17,7,41.2,0.99,2.40,Primeira Liga,2024-2025
+cc77d69c,André Inácio,André Inácio,br BRA,MF,Rio Ave,22,2002,16,13,"1,178",13.1,1,1,2,1,0,0,1,0,0.08,0.08,0.15,0.08,0.15,Matches,0.04,0.14,27,7,25.9,0.53,2.06,Primeira Liga,2024-2025
+33651873,Gonçalo Inácio,Gonçalo Inácio,pt POR,DF,Sporting CP,22,2001,28,25,"2,255",25.1,3,2,5,3,0,0,6,0,0.12,0.08,0.20,0.12,0.20,Matches,0.19,0.60,16,5,31.3,0.20,0.64,Primeira Liga,2024-2025
+f689c342,Isaac,Isaac,br BRA,FW,Nacional,20,2004,27,15,"1,233",13.7,3,1,4,3,0,0,3,0,0.22,0.07,0.29,0.22,0.29,Matches,0.12,0.30,26,10,38.5,0.73,1.90,Primeira Liga,2024-2025
+0ea6e37d,Ismael,Ismael,pt POR,MF,Moreirense,25,1999,29,25,"2,021",22.5,1,1,2,1,0,0,6,0,0.04,0.04,0.09,0.04,0.09,Matches,0.09,0.50,11,2,18.2,0.09,0.49,Primeira Liga,2024-2025
+1f994616,Franco Israel,Franco Israel,uy URU,GK,Sporting CP,24,2000,11,11,990,11.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+90ba7fa6,Ivan Jaime Pajuelo,Ivan Jaime Pajuelo,es ESP,MF,Porto,23,2000,9,5,443,4.9,2,2,4,2,0,0,1,0,0.41,0.41,0.81,0.41,0.81,Matches,0.15,0.33,13,6,46.2,1.22,2.64,Primeira Liga,2024-2025
+9038c2a1,Jason,Jason,es ESP,"MF,FW",Arouca,30,1994,32,25,"2,253",25.0,5,1,6,4,1,3,5,0,0.20,0.04,0.24,0.16,0.20,Matches,0.07,0.21,54,19,35.2,0.76,2.16,Primeira Liga,2024-2025
+52479cc2,Jhonatan,Jhonatan,br BRA,GK,Rio Ave,33,1991,8,8,720,8.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+2986e65c,Diederrick Joel,Diederrick Joel,cm CMR,FW,Nacional,30,1993,14,8,860,9.6,2,0,2,2,0,1,1,0,0.21,0.00,0.21,0.21,0.21,Matches,0.11,0.50,18,4,22.2,0.42,1.88,Primeira Liga,2024-2025
+1156c1e8,Joel Jorquera,Joel Jorquera,es ESP,MF,Moreirense,23,2000,12,4,434,4.8,1,0,1,1,0,0,0,0,0.21,0.00,0.21,0.21,0.21,Matches,0.20,0.50,5,2,40.0,0.41,1.04,Primeira Liga,2024-2025
+d0530e29,Luiz Lúcio Reis Júnior,Luiz Lúcio Reis Júnior,br BRA,GK,Famalicão,23,2001,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+8e0658cc,Samuel Justo,Samuel Justo,pt POR,MF,Farense,20,2004,5,2,206,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.44,0.87,Primeira Liga,2024-2025
+c066d1a5,Issa Kaboré,Issa Kaboré,bf BFA,"DF,MF",Benfica,23,2001,3,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+df0ed5d6,Kaique,Kaique,br BRA,GK,Farense,21,2003,6,6,540,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+0aed0751,Osman Kakay,Osman Kakay,sl SLE,DF,Boavista,26,1997,9,6,577,6.4,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.16,Primeira Liga,2024-2025
+fa0adfab,Kali,Kali,ao ANG,DF,Casa Pia,20,2003,1,0,1,0.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+9181fd45,Issiaka Kamate,Issiaka Kamate,fr FRA,"MF,DF",AVS Futebol,19,2004,8,4,350,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.77,Primeira Liga,2024-2025
+e26229d7,Jorge Karse,Jorge Karse,ge GEO,DF,Rio Ave,19,2005,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+7bb033f0,Kazu,Kazu,br BRA,DF,Gil Vicente FC,24,2000,11,6,533,5.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+af6e7c2f,Keliano,Keliano,ao ANG,MF,Estrela,21,2003,21,13,976,10.8,0,1,1,0,0,0,7,0,0.00,0.09,0.09,0.00,0.09,Matches,0.00,0.00,9,1,11.1,0.09,0.83,Primeira Liga,2024-2025
+aea1afc8,Kewin,Kewin,br BRA,GK,Moreirense,28,1995,29,29,"2,610",29.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+055cb86b,Kikas,Kikas,pt POR,FW,Estrela,25,1998,32,23,"2,104",23.4,6,1,7,6,0,0,4,0,0.26,0.04,0.30,0.26,0.30,Matches,0.13,0.32,48,19,39.6,0.81,2.05,Primeira Liga,2024-2025
+0619e470,Gustavo Klismahn,Gustavo Klismahn,br BRA,"FW,MF",Santa Clara,24,1999,17,9,822,9.1,0,3,3,0,0,0,2,0,0.00,0.33,0.33,0.00,0.33,Matches,0.00,0.00,9,3,33.3,0.33,0.99,Primeira Liga,2024-2025
+a8dccedc,Ruben Kluivert,Ruben Kluivert,nl NED,DF,Casa Pia,23,2001,21,13,"1,229",13.7,1,0,1,1,0,0,5,0,0.07,0.00,0.07,0.07,0.07,Matches,0.13,0.50,8,2,25.0,0.15,0.59,Primeira Liga,2024-2025
+9fc2531b,Koka,Koka,eg EGY,FW,Rio Ave,31,1993,9,0,167,1.9,1,0,1,1,0,0,2,0,0.54,0.00,0.54,0.54,0.54,Matches,0.25,0.33,4,3,75.0,1.62,2.16,Primeira Liga,2024-2025
+9bf914b4,Orkun Kökçü,Orkun Kökçü,tr TUR,MF,Benfica,23,2000,33,30,"2,633",29.3,7,7,14,5,2,2,8,0,0.24,0.24,0.48,0.17,0.41,Matches,0.08,0.21,62,24,38.7,0.82,2.12,Primeira Liga,2024-2025
+3ef68782,Moussa Koné,Moussa Koné,sn SEN,"MF,FW",Boavista,27,1996,7,4,311,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,2,25.0,0.58,2.32,Primeira Liga,2024-2025
+ba50b1eb,Konstantinos Kostoulas,Konstantinos Kostoulas,gr GRE,DF,Rio Ave,19,2005,3,2,191,2.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+fa462ff0,Vladan Kovačević,Vladan Kovačević,ba BIH,GK,Sporting CP,26,1998,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+5f1a17d4,Andrian Kraev,Andrian Kraev,bg BUL,MF,Casa Pia,25,1999,26,20,"1,664",18.5,1,0,1,1,0,0,9,0,0.05,0.00,0.05,0.05,0.05,Matches,0.09,0.50,11,2,18.2,0.11,0.59,Primeira Liga,2024-2025
+41e7ef1c,Layvin Kurzawa,Layvin Kurzawa,fr FRA,"MF,DF",Boavista,31,1992,4,2,170,1.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.53,Primeira Liga,2024-2025
+33a4d604,Chiheb Labidi,Chiheb Labidi,tn TUN,MF,Nacional,23,2001,17,4,411,4.6,1,0,1,1,0,0,3,0,0.22,0.00,0.22,0.22,0.22,Matches,0.33,0.50,3,2,66.7,0.44,0.66,Primeira Liga,2024-2025
+be9bcca7,André Lacximicant,André Lacximicant,pt POR,FW,Estoril,23,2001,27,11,993,11.0,5,3,8,5,0,0,4,0,0.45,0.27,0.73,0.45,0.73,Matches,0.15,0.33,33,15,45.5,1.36,2.99,Primeira Liga,2024-2025
+067c8f21,Chico Lamba,Chico Lamba,pt POR,DF,Arouca,21,2003,26,25,"2,265",25.2,1,2,3,1,0,0,6,0,0.04,0.08,0.12,0.04,0.12,Matches,0.10,0.33,10,3,30.0,0.12,0.40,Primeira Liga,2024-2025
+0d690336,Larra,Larra,es ESP,MF,Casa Pia,26,1997,32,26,"2,242",24.9,2,3,5,2,0,0,9,1,0.08,0.12,0.20,0.08,0.20,Matches,0.06,0.33,32,6,18.8,0.24,1.28,Primeira Liga,2024-2025
+b0492e27,Leonardo Lelo,Leonardo Lelo,pt POR,MF,Casa Pia,24,2000,32,32,"2,848",31.6,1,4,5,1,0,0,2,0,0.03,0.13,0.16,0.03,0.16,Matches,0.05,0.14,19,7,36.8,0.22,0.60,Primeira Liga,2024-2025
+3f47ebce,Marcos Leonardo,Marcos Leonardo,br BRA,FW,Benfica,21,2003,3,0,82,0.9,1,0,1,0,1,1,0,0,1.10,0.00,1.10,0.00,0.00,Matches,0.00,0.00,7,2,28.6,2.20,7.68,Primeira Liga,2024-2025
+23cc2e79,Guilherme Liberato,Guilherme Liberato,br BRA,MF,Moreirense,23,2001,4,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+1d932cbe,Otso Liimatta,Otso Liimatta,fi FIN,MF,Famalicão,20,2004,5,1,121,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,2.23,Primeira Liga,2024-2025
+bd9be778,Rúben Lima,Rúben Lima,pt POR,DF,Estrela,34,1989,24,20,"1,778",19.8,0,2,2,0,0,0,3,1,0.00,0.10,0.10,0.00,0.10,Matches,0.00,0.00,3,1,33.3,0.05,0.15,Primeira Liga,2024-2025
+fc045c90,Yan Lincon,Yan Lincon,br BRA,FW,Moreirense,21,2002,8,3,262,2.9,3,0,3,3,0,0,2,0,1.03,0.00,1.03,1.03,1.03,Matches,0.60,1.00,5,3,60.0,1.03,1.72,Primeira Liga,2024-2025
+4f3768f1,Jérémy Livolant,Jérémy Livolant,fr FRA,"FW,MF",Casa Pia,26,1998,26,20,"1,802",20.0,4,4,8,4,0,0,1,1,0.20,0.20,0.40,0.20,0.40,Matches,0.21,0.44,19,9,47.4,0.45,0.95,Primeira Liga,2024-2025
+e9fda01d,Danny Loader,Danny Loader,cm CMR,"FW,MF",Porto,23,2000,29,11,"1,071",11.9,3,1,4,2,1,1,3,0,0.25,0.08,0.34,0.17,0.25,Matches,0.07,0.15,30,13,43.3,1.09,2.52,Primeira Liga,2024-2025
+4863d7b0,Samuel Lobato,Samuel Lobato,pt POR,MF,Famalicão,22,2001,12,0,74,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,1.22,1.22,Primeira Liga,2024-2025
+27b44d5d,Tom van de Looi,Tom van de Looi,nl NED,MF,Famalicão,25,1999,27,18,"1,753",19.5,0,2,2,0,0,0,4,0,0.00,0.10,0.10,0.00,0.10,Matches,0.00,0.00,14,3,21.4,0.15,0.72,Primeira Liga,2024-2025
+258b0d9b,Miguel Lopes,Miguel Lopes,pt POR,DF,Estrela,37,1986,15,13,"1,144",12.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,5,0,0.0,0.00,0.39,Primeira Liga,2024-2025
+7c2965bb,Rony Lopes,Rony Lopes,pt POR,"MF,FW",Farense,28,1995,14,14,"1,128",12.5,1,0,1,1,0,1,4,0,0.08,0.00,0.08,0.08,0.08,Matches,0.03,0.09,30,11,36.7,0.88,2.39,Primeira Liga,2024-2025
+0ff1e31d,Vasco Lopes,Vasco Lopes,cv CPV,"MF,FW",AVS Futebol,24,1999,24,10,"1,047",11.6,2,2,4,2,0,0,6,0,0.17,0.17,0.34,0.17,0.34,Matches,0.07,0.18,27,11,40.7,0.95,2.32,Primeira Liga,2024-2025
+bcfc4473,Mamadou Loum,Mamadou Loum,sn SEN,"MF,DF",Arouca,27,1996,21,7,707,7.9,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,11,1,9.1,0.13,1.40,Primeira Liga,2024-2025
+b04f4533,Jonatan Lucca,Jonatan Lucca,br BRA,MF,AVS Futebol,30,1994,8,2,271,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.33,1.33,Primeira Liga,2024-2025
+881cd6be,Florentino Luís,Florentino Luís,pt POR,MF,Benfica,24,1999,26,24,"1,969",21.9,2,1,3,2,0,0,7,0,0.09,0.05,0.14,0.09,0.14,Matches,0.29,0.67,7,3,42.9,0.14,0.32,Primeira Liga,2024-2025
+520c318f,Zé Luís,Zé Luís,cv CPV,FW,AVS Futebol,33,1991,25,16,"1,384",15.4,3,1,4,1,2,2,4,0,0.20,0.07,0.26,0.07,0.13,Matches,0.03,0.08,33,13,39.4,0.85,2.15,Primeira Liga,2024-2025
+6388eae1,Luismi,Luismi,gq EQG,FW,Moreirense,23,2001,31,13,"1,369",15.2,5,3,8,5,0,0,1,0,0.33,0.20,0.53,0.33,0.53,Matches,0.11,0.25,46,20,43.5,1.31,3.02,Primeira Liga,2024-2025
+22aba139,Vitali Lystsov,Vitali Lystsov,ru RUS,DF,Boavista,29,1995,8,5,474,5.3,1,0,1,1,0,0,2,0,0.19,0.00,0.19,0.19,0.19,Matches,0.50,1.00,2,1,50.0,0.19,0.38,Primeira Liga,2024-2025
+f1cc4c01,Rúben Macedo,Rúben Macedo,pt POR,"MF,FW",Nacional,28,1996,27,10,"1,198",13.3,1,1,2,0,1,1,0,0,0.08,0.08,0.15,0.00,0.08,Matches,0.00,0.00,30,8,26.7,0.60,2.25,Primeira Liga,2024-2025
+1473f103,Tiago Machado,Tiago Machado,pt POR,FW,Boavista,20,2004,11,0,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.74,2.95,Primeira Liga,2024-2025
+ee824bea,Madson,Madson,br BRA,MF,Moreirense,24,1999,19,16,"1,173",13.0,2,1,3,2,0,0,1,0,0.15,0.08,0.23,0.15,0.23,Matches,0.07,0.14,29,14,48.3,1.07,2.23,Primeira Liga,2024-2025
+3ea1862e,Miguel Maga,Miguel Maga,pt POR,DF,Vitória Guimarães,21,2002,18,16,"1,391",15.5,0,1,1,0,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches,0.00,0.00,8,2,25.0,0.13,0.52,Primeira Liga,2024-2025
+b806bc70,Otar Mamageishvili,Otar Mamageishvili,ge GEO,MF,Famalicão,21,2003,4,0,46,0.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.96,Primeira Liga,2024-2025
+f520049f,Eliaquim Mangala,Eliaquim Mangala,fr FRA,DF,Estoril,33,1991,9,4,424,4.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+eef2d8ce,Ricardo Mangas,Ricardo Mangas,pt POR,"FW,MF",Vitória Guimarães,26,1998,4,4,339,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,3,60.0,0.80,1.33,Primeira Liga,2024-2025
+b1a0fe80,Brian Mansilla,Brian Mansilla,uy URU,MF,Arouca,22,2002,12,3,340,3.8,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,12,4,33.3,1.06,3.18,Primeira Liga,2024-2025
+0d48a5bb,Nico Mantl,Nico Mantl,de GER,GK,Arouca,24,2000,29,29,"2,610",29.0,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+bfc37bc8,Manú,Manú,ao ANG,FW,Estrela,18,2005,3,0,41,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+4c2a65a8,Manuel Manu,Manuel Manu,pt POR,MF,Vitória Guimarães,23,2001,15,7,680,7.6,1,1,2,1,0,0,2,0,0.13,0.13,0.26,0.13,0.26,Matches,0.09,1.00,11,1,9.1,0.13,1.46,Primeira Liga,2024-2025
+4c2a65a8,Manuel Manu,Manuel Manu,pt POR,MF,Vitória Guimarães,23,2001,15,7,680,7.6,1,1,2,1,0,0,2,0,0.13,0.13,0.26,0.13,0.26,Matches,0.00,0.00,1,1,100.0,0.66,0.66,Primeira Liga,2024-2025
+4c2a65a8,Manuel Manu,Manuel Manu,pt POR,MF,Benfica,23,2001,3,2,136,1.5,0,1,1,0,0,0,1,0,0.00,0.66,0.66,0.00,0.66,Matches,0.09,1.00,11,1,9.1,0.13,1.46,Primeira Liga,2024-2025
+4c2a65a8,Manuel Manu,Manuel Manu,pt POR,MF,Benfica,23,2001,3,2,136,1.5,0,1,1,0,0,0,1,0,0.00,0.66,0.66,0.00,0.66,Matches,0.00,0.00,1,1,100.0,0.66,0.66,Primeira Liga,2024-2025
+276127e4,Maracás,Maracás,br BRA,DF,Moreirense,30,1994,29,26,"2,393",26.6,1,1,2,1,0,0,6,0,0.04,0.04,0.08,0.04,0.08,Matches,0.09,0.20,11,5,45.5,0.19,0.41,Primeira Liga,2024-2025
+7a20d90a,Iván Marcano,Iván Marcano,es ESP,DF,Porto,37,1987,11,11,941,10.5,1,0,1,1,0,0,0,0,0.10,0.00,0.10,0.10,0.10,Matches,0.14,1.00,7,1,14.3,0.10,0.67,Primeira Liga,2024-2025
+b7f2edff,Adrián Marín,Adrián Marín,es ESP,DF,Braga,27,1997,10,8,711,7.9,0,2,2,0,0,0,0,0,0.00,0.25,0.25,0.00,0.25,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+f0021247,João Mário,João Mário,pt POR,MF,Benfica,31,1993,2,2,154,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,2,66.7,1.17,1.75,Primeira Liga,2024-2025
+82a39b66,João Mário Lopes,João Mário Lopes,pt POR,"MF,DF",Porto,24,2000,27,19,"1,767",19.6,0,3,3,0,0,0,5,0,0.00,0.15,0.15,0.00,0.15,Matches,0.00,0.00,16,3,18.8,0.15,0.81,Primeira Liga,2024-2025
+00f48ee7,Uładzisłaŭ Marozaŭ,Uładzisłaŭ Marozaŭ,by BLR,FW,Arouca,23,2000,11,3,279,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,4,57.1,1.29,2.26,Primeira Liga,2024-2025
+83bc30cc,Alejandro Marqués,Alejandro Marqués,ve VEN,FW,Estoril,23,2000,33,15,"1,692",18.8,11,0,11,7,4,4,1,0,0.59,0.00,0.59,0.37,0.37,Matches,0.19,0.47,36,15,41.7,0.80,1.91,Primeira Liga,2024-2025
+a64baa3b,Alex Marques,Alex Marques,pt POR,DF,Boavista,18,2005,2,1,99,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+f302ebae,João Marques,João Marques,pt POR,FW,Braga,22,2002,3,0,37,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,2.43,Primeira Liga,2024-2025
+f302ebae,João Marques,João Marques,pt POR,FW,Braga,22,2002,3,0,37,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,1,14.3,0.15,1.07,Primeira Liga,2024-2025
+f302ebae,João Marques,João Marques,pt POR,MF,Gil Vicente FC,22,2002,11,6,587,6.5,0,1,1,0,0,0,3,0,0.00,0.15,0.15,0.00,0.15,Matches,0.00,,1,0,0.0,0.00,2.43,Primeira Liga,2024-2025
+f302ebae,João Marques,João Marques,pt POR,MF,Gil Vicente FC,22,2002,11,6,587,6.5,0,1,1,0,0,0,3,0,0.00,0.15,0.15,0.00,0.15,Matches,0.00,0.00,7,1,14.3,0.15,1.07,Primeira Liga,2024-2025
+0c89e00b,Gabri Martínez,Gabri Martínez,es ESP,MF,Braga,21,2003,30,14,"1,542",17.1,4,2,6,4,0,0,4,0,0.23,0.12,0.35,0.23,0.35,Matches,0.11,0.20,36,20,55.6,1.17,2.10,Primeira Liga,2024-2025
+f3945e07,Toni Martínez,Toni Martínez,es ESP,FW,Porto,27,1997,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+a2b07e59,Bernardo Martins,Bernardo Martins,pt POR,"MF,FW",Moreirense,26,1997,31,19,"1,636",18.2,4,3,7,4,0,0,7,0,0.22,0.17,0.39,0.22,0.39,Matches,0.13,0.40,31,10,32.3,0.55,1.71,Primeira Liga,2024-2025
+ef3909cd,Matheus,Matheus,br BRA,GK,Braga,32,1992,17,17,"1,530",17.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+74f5a96d,Matheusinho,Matheusinho,br BRA,MF,Santa Clara,26,1998,9,0,115,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.78,2.35,Primeira Liga,2024-2025
+f1317091,Marco Matias,Marco Matias,pt POR,"FW,MF",Farense,35,1989,27,15,"1,264",14.0,3,3,6,3,0,0,2,0,0.21,0.21,0.43,0.21,0.43,Matches,0.21,0.50,14,6,42.9,0.43,1.00,Primeira Liga,2024-2025
+4887118d,Jordi Mboula,Jordi Mboula,es ESP,"MF,FW",Gil Vicente FC,25,1999,24,12,"1,149",12.8,0,2,2,0,0,0,2,0,0.00,0.16,0.16,0.00,0.16,Matches,0.00,0.00,15,6,40.0,0.47,1.17,Primeira Liga,2024-2025
+a2660293,Tobías Medina,Tobías Medina,ar ARG,MF,Rio Ave,20,2004,3,0,57,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+7d9e24ae,Mauro Meireles Couto,Mauro Meireles Couto,pt POR,FW,Sporting CP,18,2005,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+a671ae50,Francisco Meixedo,Francisco Meixedo,pt POR,GK,Estrela,23,2001,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+ab34351e,Yair Mena Palacios,Yair Mena Palacios,co COL,FW,AVS Futebol,24,2000,10,0,93,1.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.97,Primeira Liga,2024-2025
+efb714d0,João Mendes,João Mendes,pt POR,MF,Vitória Guimarães,29,1994,32,16,"1,536",17.1,4,2,6,4,0,0,4,0,0.23,0.12,0.35,0.23,0.35,Matches,0.11,0.36,35,11,31.4,0.64,2.05,Primeira Liga,2024-2025
+98e292bb,João Mendes,João Mendes,pt POR,DF,Vitória Guimarães,24,2000,32,32,"2,769",30.8,0,0,0,0,0,0,10,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,17,5,29.4,0.16,0.55,Primeira Liga,2024-2025
+f882b0a1,Joe Mendes,Joe Mendes,se SWE,DF,Braga,21,2002,4,2,184,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.49,0.49,Primeira Liga,2024-2025
+ce1ef31c,Gustavo Mendonça,Gustavo Mendonça,pt POR,MF,AVS Futebol,21,2003,18,7,674,7.5,1,0,1,1,0,0,3,0,0.13,0.00,0.13,0.13,0.13,Matches,0.50,1.00,2,1,50.0,0.13,0.27,Primeira Liga,2024-2025
+afacfde1,Miguel Menino,Miguel Menino,pt POR,MF,Farense,21,2003,27,22,"1,830",20.3,2,0,2,2,0,0,3,0,0.10,0.00,0.10,0.10,0.10,Matches,0.10,0.25,20,8,40.0,0.39,0.98,Primeira Liga,2024-2025
+d97831ad,John Mercado,John Mercado,ec ECU,"MF,FW",AVS Futebol,22,2002,33,28,"2,341",26.0,3,1,4,3,0,0,2,0,0.12,0.04,0.15,0.12,0.15,Matches,0.06,0.38,48,8,16.7,0.31,1.85,Primeira Liga,2024-2025
+49000148,Mehdi Merghem,Mehdi Merghem,dz ALG,"MF,FW",Farense,27,1997,12,5,460,5.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,9,1,11.1,0.20,1.76,Primeira Liga,2024-2025
+650f01e0,Bruno Messi,Bruno Messi,pt POR,MF,Santa Clara,27,1996,7,0,113,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,1.59,3.19,Primeira Liga,2024-2025
+22018f21,Michel,Michel,br BRA,DF,Moreirense,21,2003,5,3,249,2.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+deeec1df,Dieu-Merci Michel,Dieu-Merci Michel,ca CAN,FW,Vitória Guimarães,20,2004,9,4,371,4.1,2,0,2,2,0,0,0,0,0.49,0.00,0.49,0.49,0.49,Matches,0.25,1.00,8,2,25.0,0.49,1.94,Primeira Liga,2024-2025
+29c28f01,Enea Mihaj,Enea Mihaj,al ALB,DF,Famalicão,26,1998,29,29,"2,533",28.1,0,1,1,0,0,0,8,0,0.00,0.04,0.04,0.00,0.04,Matches,0.00,0.00,10,4,40.0,0.14,0.36,Primeira Liga,2024-2025
+d74a54d1,Mika,Mika,pt POR,GK,Moreirense,33,1991,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+29ad0dd4,Álex Millán,Álex Millán,es ESP,"FW,MF",Farense,24,1999,9,4,403,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.22,Primeira Liga,2024-2025
+c0d7bb65,Juan Mina,Juan Mina,co COL,DF,Estrela,20,2004,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,6.43,Primeira Liga,2024-2025
+b9139383,Cezary Miszta,Cezary Miszta,pl POL,GK,Rio Ave,22,2001,26,26,"2,325",25.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+04ccaee7,Iyad Mohamed,Iyad Mohamed,km COM,MF,Casa Pia,23,2001,10,5,487,5.4,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+1f557c13,Isaac Monteiro,Isaac Monteiro,pt POR,DF,Casa Pia,20,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+fc94b80c,Rodrigo Mora,Rodrigo Mora,pt POR,"MF,FW",Porto,17,2007,23,16,"1,370",15.2,10,4,14,10,0,0,3,0,0.66,0.26,0.92,0.66,0.92,Matches,0.23,0.59,44,17,38.6,1.12,2.89,Primeira Liga,2024-2025
+0f41e2ee,Morato,Morato,br BRA,DF,Benfica,23,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,2.00,Primeira Liga,2024-2025
+7f3f5aa6,Afonso Moreira,Afonso Moreira,pt POR,FW,Sporting CP,19,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+db4c8df7,Paulo Moreira,Paulo Moreira,pt POR,MF,Estrela,24,2000,26,14,"1,297",14.4,1,0,1,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches,0.14,0.33,7,3,42.9,0.21,0.49,Primeira Liga,2024-2025
+9602ef3b,Marco Moreno,Marco Moreno,es ESP,DF,Farense,23,2001,25,24,"2,044",22.7,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,13,7,53.8,0.31,0.57,Primeira Liga,2024-2025
+766a2d58,Dani Morer,Dani Morer,es ESP,DF,Moreirense,26,1998,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+a650c75b,Hidemasa Morita,Hidemasa Morita,jp JPN,MF,Sporting CP,29,1995,23,13,"1,294",14.4,2,3,5,2,0,0,1,0,0.14,0.21,0.35,0.14,0.35,Matches,0.14,0.40,14,5,35.7,0.35,0.97,Primeira Liga,2024-2025
+d51d1d9d,Moura,Moura,pt POR,DF,Famalicão,24,1999,4,4,360,4.0,0,1,1,0,0,0,0,0,0.00,0.25,0.25,0.00,0.25,Matches,0.00,0.00,1,1,100.0,0.25,0.25,Primeira Liga,2024-2025
+d51d1d9d,Moura,Moura,pt POR,DF,Famalicão,24,1999,4,4,360,4.0,0,1,1,0,0,0,0,0,0.00,0.25,0.25,0.00,0.25,Matches,0.43,0.75,7,4,57.1,0.16,0.29,Primeira Liga,2024-2025
+d51d1d9d,Moura,Moura,pt POR,"MF,DF",Porto,24,1999,27,26,"2,210",24.6,3,9,12,3,0,0,2,0,0.12,0.37,0.49,0.12,0.49,Matches,0.00,0.00,1,1,100.0,0.25,0.25,Primeira Liga,2024-2025
+d51d1d9d,Moura,Moura,pt POR,"MF,DF",Porto,24,1999,27,26,"2,210",24.6,3,9,12,3,0,0,2,0,0.12,0.37,0.49,0.12,0.49,Matches,0.43,0.75,7,4,57.1,0.16,0.29,Primeira Liga,2024-2025
+f5a00fa4,João Moutinho,João Moutinho,pt POR,MF,Braga,37,1986,22,19,"1,666",18.5,1,2,3,1,0,0,8,2,0.05,0.11,0.16,0.05,0.16,Matches,0.08,1.00,12,1,8.3,0.05,0.65,Primeira Liga,2024-2025
+2ad9cabf,MT,MT,br BRA,"DF,MF",Santa Clara,23,2001,33,32,"2,789",31.0,1,1,2,1,0,0,5,0,0.03,0.03,0.06,0.03,0.06,Matches,0.05,0.33,20,3,15.0,0.10,0.65,Primeira Liga,2024-2025
+0a7f5683,Jonathan Mutombo,Jonathan Mutombo,fr FRA,DF,Gil Vicente FC,21,2002,15,7,769,8.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.12,0.70,Primeira Liga,2024-2025
+d41a383d,Manuel Namora,Manuel Namora,pt POR,"MF,FW",Boavista,26,1998,8,4,307,3.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,2,66.7,0.59,0.88,Primeira Liga,2024-2025
+bc06b90d,Dylan Nandín,Dylan Nandín,uy URU,FW,Arouca,22,2002,15,5,657,7.3,3,1,4,3,0,0,2,0,0.41,0.14,0.55,0.41,0.55,Matches,0.20,0.33,15,9,60.0,1.23,2.05,Primeira Liga,2024-2025
+15e9c7e6,Nani,Nani,pt POR,"MF,FW",Estrela,37,1986,9,4,465,5.2,1,0,1,1,0,0,3,0,0.19,0.00,0.19,0.19,0.19,Matches,0.20,1.00,5,1,20.0,0.19,0.97,Primeira Liga,2024-2025
+02a5618e,Fran Navarro,Fran Navarro,es ESP,FW,Porto,26,1998,4,1,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.99,1.98,Primeira Liga,2024-2025
+02a5618e,Fran Navarro,Fran Navarro,es ESP,FW,Porto,26,1998,4,1,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.27,0.43,11,7,63.6,0.94,1.48,Primeira Liga,2024-2025
+02a5618e,Fran Navarro,Fran Navarro,es ESP,FW,Braga,26,1998,10,10,669,7.4,4,0,4,3,1,1,1,0,0.54,0.00,0.54,0.40,0.40,Matches,0.00,0.00,2,1,50.0,0.99,1.98,Primeira Liga,2024-2025
+02a5618e,Fran Navarro,Fran Navarro,es ESP,FW,Braga,26,1998,10,10,669,7.4,4,0,4,3,1,1,1,0,0.54,0.00,0.54,0.40,0.40,Matches,0.27,0.43,11,7,63.6,0.94,1.48,Primeira Liga,2024-2025
+b3ec13e0,Christian Neiva Afonso,Christian Neiva Afonso,pt POR,"DF,MF",AVS Futebol,29,1994,26,21,"1,619",18.0,1,2,3,1,0,0,5,1,0.06,0.11,0.17,0.06,0.17,Matches,0.07,1.00,15,1,6.7,0.06,0.83,Primeira Liga,2024-2025
+fbd40d07,Nenê,Nenê,br BRA,FW,AVS Futebol,41,1983,18,8,867,9.6,4,1,5,4,0,1,3,0,0.42,0.10,0.52,0.42,0.52,Matches,0.11,0.50,35,8,22.9,0.83,3.63,Primeira Liga,2024-2025
+ad5f543d,Neto,Neto,br BRA,MF,Farense,32,1991,24,22,"1,761",19.6,2,0,2,1,1,1,9,0,0.10,0.00,0.10,0.05,0.05,Matches,0.08,0.50,13,2,15.4,0.10,0.66,Primeira Liga,2024-2025
+f98c4f0a,Martim Neto,Martim Neto,pt POR,MF,Rio Ave,21,2003,24,15,"1,371",15.2,2,1,3,2,0,0,6,1,0.13,0.07,0.20,0.13,0.20,Matches,0.17,0.67,12,3,25.0,0.20,0.79,Primeira Liga,2024-2025
+e30ffc05,Renato Nhaga,Renato Nhaga,gw GNB,MF,Casa Pia,17,2007,3,1,98,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+8eef18aa,Sikou Niakaté,Sikou Niakaté,ml MLI,DF,Braga,25,1999,24,22,"1,961",21.8,1,1,2,1,0,0,4,0,0.05,0.05,0.09,0.05,0.09,Matches,0.08,0.33,12,3,25.0,0.14,0.55,Primeira Liga,2024-2025
+51f22984,Yusupha Njie,Yusupha Njie,gm GAM,"FW,MF",Farense,30,1994,14,7,633,7.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,22,5,22.7,0.71,3.13,Primeira Liga,2024-2025
+9cc33204,Miguel Nóbrega,Miguel Nóbrega,pt POR,DF,Rio Ave,24,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+5187c3c2,Jonatás Noro,Jonatás Noro,pt POR,DF,Braga,19,2005,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,6.92,Primeira Liga,2024-2025
+282faa70,João Novais,João Novais,pt POR,MF,Rio Ave,31,1993,30,15,"1,402",15.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,26,7,26.9,0.45,1.67,Primeira Liga,2024-2025
+56bcde74,Andreas Ntoi,Andreas Ntoi,gr GRE,DF,Rio Ave,21,2003,16,15,"1,364",15.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,2,25.0,0.13,0.53,Primeira Liga,2024-2025
+6b846bd8,Samuel Obeng,Samuel Obeng,gh GHA,FW,Casa Pia,27,1997,11,4,369,4.1,1,0,1,1,0,0,0,0,0.24,0.00,0.24,0.24,0.24,Matches,0.14,0.50,7,2,28.6,0.49,1.71,Primeira Liga,2024-2025
+1e9bde92,Guillermo Ochoa,Guillermo Ochoa,mx MEX,GK,AVS Futebol,39,1985,23,23,"2,070",23.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+643d81ad,Lawrence Ofori,Lawrence Ofori,gh GHA,MF,Moreirense,26,1998,25,20,"1,780",19.8,1,1,2,1,0,0,1,0,0.05,0.05,0.10,0.05,0.10,Matches,0.17,0.50,6,2,33.3,0.10,0.30,Primeira Liga,2024-2025
+05af9d67,Leonardo Oliveira,Leonardo Oliveira,pt POR,FW,Famalicão,19,2005,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+f716e4e4,Nélson Oliveira,Nélson Oliveira,pt POR,FW,Vitória Guimarães,32,1991,31,21,"1,776",19.7,3,4,7,3,0,0,5,0,0.15,0.20,0.35,0.15,0.35,Matches,0.07,0.20,45,15,33.3,0.76,2.28,Primeira Liga,2024-2025
+a8fbae1d,Paulo Oliveira,Paulo Oliveira,pt POR,DF,Braga,32,1992,21,21,"1,710",19.0,1,0,1,1,0,0,5,0,0.05,0.00,0.05,0.05,0.05,Matches,0.07,0.17,15,6,40.0,0.32,0.79,Primeira Liga,2024-2025
+a3495146,Talys Oliveira,Talys Oliveira,br BRA,DF,Farense,25,1999,3,3,250,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.36,Primeira Liga,2024-2025
+dc44b03c,Samu Omorodion,Samu Omorodion,es ESP,FW,Porto,20,2004,30,23,"2,263",25.1,19,3,22,15,4,4,3,1,0.76,0.12,0.87,0.60,0.72,Matches,0.18,0.45,82,33,40.2,1.31,3.26,Primeira Liga,2024-2025
+0006e160,Bruno Onyemaechi,Bruno Onyemaechi,ng NGA,"DF,MF",Boavista,25,1999,18,17,"1,566",17.4,3,1,4,3,0,0,5,0,0.17,0.06,0.23,0.17,0.23,Matches,0.16,0.50,19,6,31.6,0.34,1.09,Primeira Liga,2024-2025
+693e93f1,Jandro Orellana,Jandro Orellana,es ESP,MF,Estoril,23,2000,23,11,"1,018",11.3,1,1,2,1,0,0,3,0,0.09,0.09,0.18,0.09,0.18,Matches,0.11,0.25,9,4,44.4,0.35,0.80,Primeira Liga,2024-2025
+a869ba74,Korede Osundina,Korede Osundina,us USA,FW,Casa Pia,20,2004,7,2,169,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.53,1.07,Primeira Liga,2024-2025
+0d267745,Nicolás Otamendi,Nicolás Otamendi,ar ARG,DF,Benfica,36,1988,31,30,"2,706",30.1,6,2,8,6,0,0,4,0,0.20,0.07,0.27,0.20,0.27,Matches,0.20,0.46,30,13,43.3,0.43,1.00,Primeira Liga,2024-2025
+e5236aa9,Amine El Ouazzani,Amine El Ouazzani,ma MAR,FW,Braga,23,2001,33,15,"1,604",17.8,7,1,8,7,0,0,1,0,0.39,0.06,0.45,0.39,0.45,Matches,0.18,0.33,38,21,55.3,1.18,2.13,Primeira Liga,2024-2025
+49c9c79a,Amine Oudrhiri,Amine Oudrhiri,ma MAR,MF,Rio Ave,31,1992,13,8,650,7.2,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.14,Primeira Liga,2024-2025
+49c9c79a,Amine Oudrhiri,Amine Oudrhiri,ma MAR,MF,Rio Ave,31,1992,13,8,650,7.2,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.37,Primeira Liga,2024-2025
+49c9c79a,Amine Oudrhiri,Amine Oudrhiri,ma MAR,MF,Estrela,31,1992,11,9,722,8.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.14,Primeira Liga,2024-2025
+49c9c79a,Amine Oudrhiri,Amine Oudrhiri,ma MAR,MF,Estrela,31,1992,11,9,722,8.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.37,Primeira Liga,2024-2025
+866ba412,Pablo,Pablo,br BRA,FW,Gil Vicente FC,20,2004,20,8,802,8.9,5,0,5,5,0,0,2,0,0.56,0.00,0.56,0.56,0.56,Matches,0.31,0.63,16,8,50.0,0.90,1.80,Primeira Liga,2024-2025
+802fee45,Renato Pantalon,Renato Pantalon,hr CRO,DF,Rio Ave,26,1997,9,7,695,7.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,0.26,0.52,Primeira Liga,2024-2025
+802fee45,Renato Pantalon,Renato Pantalon,hr CRO,DF,Rio Ave,26,1997,9,7,695,7.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+802fee45,Renato Pantalon,Renato Pantalon,hr CRO,DF,Estrela,26,1997,12,7,705,7.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,0.26,0.52,Primeira Liga,2024-2025
+802fee45,Renato Pantalon,Renato Pantalon,hr CRO,DF,Estrela,26,1997,12,7,705,7.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+c795c408,Jonathan Panzo,Jonathan Panzo,eng ENG,DF,Rio Ave,23,2000,18,15,"1,292",14.4,1,0,1,1,0,0,4,1,0.07,0.00,0.07,0.07,0.07,Matches,0.14,0.50,7,2,28.6,0.14,0.49,Primeira Liga,2024-2025
+f95de5ef,Tiago Parente,Tiago Parente,pt POR,DF,Estoril,20,2004,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+e3510f7e,David Pastor,David Pastor,br BRA,"DF,MF",Farense,24,2000,31,30,"2,602",28.9,0,2,2,0,0,0,4,0,0.00,0.07,0.07,0.00,0.07,Matches,0.00,0.00,9,1,11.1,0.03,0.31,Primeira Liga,2024-2025
+df6d42ee,Afonso Patrão,Afonso Patrão,pt POR,FW,Braga,17,2007,7,3,243,2.7,1,1,2,1,0,0,0,0,0.37,0.37,0.74,0.37,0.74,Matches,0.33,1.00,3,1,33.3,0.37,1.11,Primeira Liga,2024-2025
+e857a755,Patrick,Patrick,br BRA,DF,Rio Ave,27,1997,13,11,995,11.1,1,0,1,1,0,0,5,1,0.09,0.00,0.09,0.09,0.09,Matches,0.20,0.50,5,2,40.0,0.18,0.45,Primeira Liga,2024-2025
+d578db11,Vangelis Pavlidis,Vangelis Pavlidis,gr GRE,FW,Benfica,25,1998,34,27,"2,257",25.1,19,7,26,16,3,3,3,0,0.76,0.28,1.04,0.64,0.92,Matches,0.19,0.42,84,38,45.2,1.52,3.35,Primeira Liga,2024-2025
+2063e21d,Zé Pedro Figueiredo,Zé Pedro Figueiredo,pt POR,DF,Porto,27,1997,20,16,"1,497",16.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,2,28.6,0.12,0.42,Primeira Liga,2024-2025
+63d989ca,João Pedro,João Pedro,br BRA,DF,Rio Ave,21,2003,5,2,274,3.0,0,1,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,0.00,,1,0,0.0,0.00,0.33,Primeira Liga,2024-2025
+ce3fc55d,Daniel Penha,Daniel Penha,br BRA,MF,Nacional,25,1998,30,18,"1,488",16.5,4,1,5,4,0,0,2,0,0.24,0.06,0.30,0.24,0.30,Matches,0.09,0.24,47,17,36.2,1.03,2.84,Primeira Liga,2024-2025
+fc4e7637,Pepê,Pepê,br BRA,"MF,FW",Porto,27,1997,31,25,"1,991",22.1,3,2,5,3,0,0,4,0,0.14,0.09,0.23,0.14,0.23,Matches,0.10,0.21,30,14,46.7,0.63,1.36,Primeira Liga,2024-2025
+6e102532,Diogo Pereira,Diogo Pereira,pt POR,MF,Gil Vicente FC,21,2003,2,0,76,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+526d48b5,Francisco Pereira,Francisco Pereira,pt POR,MF,Estoril,22,2002,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+08a7fa92,Henrique Pereira,Henrique Pereira,pt POR,"FW,MF",Casa Pia,22,2002,24,7,756,8.4,1,1,2,1,0,0,1,0,0.12,0.12,0.24,0.12,0.24,Matches,0.17,0.25,6,4,66.7,0.48,0.71,Primeira Liga,2024-2025
+ac903694,Matheus Pereira,Matheus Pereira,br BRA,"MF,DF",Santa Clara,23,2000,28,18,"1,723",19.1,0,4,4,0,0,0,12,1,0.00,0.21,0.21,0.00,0.21,Matches,0.00,0.00,16,6,37.5,0.31,0.84,Primeira Liga,2024-2025
+42a833ab,Sebastián Pérez Cardona,Sebastián Pérez Cardona,co COL,MF,Boavista,31,1993,29,24,"2,024",22.5,1,0,1,1,0,0,8,2,0.04,0.00,0.04,0.04,0.04,Matches,0.08,0.33,13,3,23.1,0.13,0.58,Primeira Liga,2024-2025
+f7c491f1,Nehuén Pérez,Nehuén Pérez,ar ARG,DF,Porto,24,2000,25,24,"2,069",23.0,1,2,3,1,0,0,11,1,0.04,0.09,0.13,0.04,0.13,Matches,0.08,0.20,13,5,38.5,0.22,0.57,Primeira Liga,2024-2025
+ae067682,Tomás Pérez,Tomás Pérez,ar ARG,DF,Porto,18,2005,6,1,155,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+c6a9b5eb,Francisco Petrasso,Francisco Petrasso,ar ARG,DF,Rio Ave,22,2002,7,5,412,4.6,1,0,1,1,0,0,2,0,0.22,0.00,0.22,0.22,0.22,Matches,0.20,0.50,5,2,40.0,0.44,1.09,Primeira Liga,2024-2025
+9943597e,Petterson,Petterson,br BRA,FW,Estrela,20,2004,3,0,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,3.91,Primeira Liga,2024-2025
+f201798c,Lucas Piazon,Lucas Piazon,br BRA,"MF,FW",AVS Futebol,30,1994,30,27,"2,377",26.4,0,3,3,0,0,0,3,0,0.00,0.11,0.11,0.00,0.11,Matches,0.00,0.00,27,9,33.3,0.34,1.02,Primeira Liga,2024-2025
+9bf22b95,Wagner Pina,Wagner Pina,cv CPV,"MF,DF",Estoril,21,2002,30,28,"2,368",26.3,2,4,6,2,0,0,5,1,0.08,0.15,0.23,0.08,0.23,Matches,0.11,0.33,18,6,33.3,0.23,0.68,Primeira Liga,2024-2025
+95cfdf36,Rodrigo Pinheiro,Rodrigo Pinheiro,pt POR,DF,Famalicão,21,2002,29,21,"1,999",22.2,0,2,2,0,0,0,5,0,0.00,0.09,0.09,0.00,0.09,Matches,0.00,0.00,12,1,8.3,0.05,0.54,Primeira Liga,2024-2025
+5db20508,Rodrigo Pinho,Rodrigo Pinho,br BRA,FW,Estrela,33,1991,33,18,"1,665",18.5,5,0,5,4,1,2,6,0,0.27,0.00,0.27,0.22,0.22,Matches,0.08,0.22,51,18,35.3,0.97,2.76,Primeira Liga,2024-2025
+b05d8d93,Alexandre Pinto,Alexandre Pinto,pt POR,DF,Arouca,26,1998,14,9,823,9.1,0,1,1,0,0,0,4,0,0.00,0.11,0.11,0.00,0.11,Matches,0.00,0.00,3,2,66.7,0.22,0.33,Primeira Liga,2024-2025
+a968014d,Dinis Pinto,Dinis Pinto,pt POR,DF,Moreirense,23,2000,27,24,"2,171",24.1,2,1,3,2,0,0,8,0,0.08,0.04,0.12,0.08,0.12,Matches,0.08,0.29,24,7,29.2,0.29,0.99,Primeira Liga,2024-2025
+9a41983c,Jaime Pinto,Jaime Pinto,pt POR,MF,Farense,26,1997,8,1,231,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,1.56,Primeira Liga,2024-2025
+9a664b1e,João Pinto,João Pinto,pt POR,FW,Gil Vicente FC,21,2002,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+822b83e8,Ole Pohlmann,Ole Pohlmann,de GER,"MF,FW",Rio Ave,23,2001,28,20,"1,594",17.7,1,2,3,1,0,0,1,0,0.06,0.11,0.17,0.06,0.17,Matches,0.05,0.33,19,3,15.8,0.17,1.07,Primeira Liga,2024-2025
+b1579026,Carlos Ponck,Carlos Ponck,cv CPV,DF,Moreirense,29,1995,9,5,485,5.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.19,0.19,Primeira Liga,2024-2025
+8f3b1b5d,Boris Popović,Boris Popović,rs SRB,DF,Arouca,24,2000,16,10,898,10.0,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.30,Primeira Liga,2024-2025
+cbdf7d5c,Darío Poveda,Darío Poveda,es ESP,FW,Farense,27,1997,22,11,991,11.0,4,1,5,4,0,0,2,0,0.36,0.09,0.45,0.36,0.45,Matches,0.17,0.67,24,6,25.0,0.54,2.18,Primeira Liga,2024-2025
+d203fb17,Gianluca Prestianni,Gianluca Prestianni,ar ARG,MF,Benfica,18,2006,8,4,287,3.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,14,1,7.1,0.31,4.39,Primeira Liga,2024-2025
+840ceefa,Diogo Prioste,Diogo Prioste,pt POR,MF,Benfica,20,2004,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+3d1f1458,Miguel Puche García,Miguel Puche García,es ESP,MF,Arouca,23,2001,22,4,519,5.8,2,0,2,2,0,0,1,0,0.35,0.00,0.35,0.35,0.35,Matches,0.17,0.50,12,4,33.3,0.69,2.08,Primeira Liga,2024-2025
+b7734738,Quaresma,Quaresma,br BRA,DF,Arouca,27,1996,3,0,78,0.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.15,Primeira Liga,2024-2025
+7ec723b7,Eduardo Quaresma,Eduardo Quaresma,pt POR,DF,Sporting CP,22,2002,20,18,"1,391",15.5,1,0,1,1,0,0,2,0,0.06,0.00,0.06,0.06,0.06,Matches,0.50,1.00,2,1,50.0,0.06,0.13,Primeira Liga,2024-2025
+19f53b56,Geovany Quenda,Geovany Quenda,pt POR,MF,Sporting CP,17,2007,34,26,"2,253",25.0,2,4,6,2,0,0,2,0,0.08,0.16,0.24,0.08,0.24,Matches,0.05,0.15,44,13,29.5,0.52,1.76,Primeira Liga,2024-2025
+faed84db,Uroš Račić,Uroš Račić,rs SRB,MF,Braga,26,1998,14,8,721,8.0,3,1,4,3,0,0,5,0,0.37,0.12,0.50,0.37,0.50,Matches,0.20,0.60,15,5,33.3,0.62,1.87,Primeira Liga,2024-2025
+b5bae034,Rafinha,Rafinha,pt POR,MF,Farense,18,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+89d1f3ba,Jesús Ramírez,Jesús Ramírez,ve VEN,FW,Vitória Guimarães,26,1998,25,6,732,8.1,3,2,5,3,0,0,2,0,0.37,0.25,0.61,0.37,0.61,Matches,0.08,0.38,40,8,20.0,0.98,4.92,Primeira Liga,2024-2025
+23505094,Cláudio Ramos,Cláudio Ramos,pt POR,GK,Porto,32,1991,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+df9c3473,Guilherme Ramos,Guilherme Ramos,pt POR,DF,Santa Clara,26,1997,6,4,331,3.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.27,0.54,Primeira Liga,2024-2025
+57701cbd,Leonardo Realpe,Leonardo Realpe,ec ECU,DF,Famalicão,23,2001,5,5,450,5.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.20,0.80,Primeira Liga,2024-2025
+24c4694a,João Rêgo,João Rêgo,pt POR,MF,Benfica,19,2005,3,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+4b3c863f,Francisco Reis Ferreira,Francisco Reis Ferreira,pt POR,DF,Estrela,27,1997,18,16,"1,410",15.7,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.06,0.38,Primeira Liga,2024-2025
+ae1159bf,Matheus Reis,Matheus Reis,br BRA,"DF,MF",Sporting CP,29,1995,30,14,"1,319",14.7,0,2,2,0,0,0,5,1,0.00,0.14,0.14,0.00,0.14,Matches,0.00,,7,0,0.0,0.00,0.48,Primeira Liga,2024-2025
+4103c264,Tiago Reis,Tiago Reis,br BRA,FW,Nacional,24,1999,7,3,231,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,3,37.5,1.17,3.12,Primeira Liga,2024-2025
+61d340fb,Miguel Reisinho,Miguel Reisinho,pt POR,"MF,FW",Boavista,25,1999,29,23,"2,172",24.1,5,0,5,0,5,5,11,1,0.21,0.00,0.21,0.00,0.00,Matches,0.00,0.00,41,12,29.3,0.50,1.70,Primeira Liga,2024-2025
+15c259f4,Filipe Relvas,Filipe Relvas,pt POR,DF,Vitória Guimarães,24,1999,11,9,843,9.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,9,1,11.1,0.11,0.96,Primeira Liga,2024-2025
+c77f9b70,Marco Ribeiro,Marco Ribeiro,pt POR,"MF,FW",Boavista,19,2005,11,3,344,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.52,Primeira Liga,2024-2025
+484a3eae,Rodrigo Ribeiro,Rodrigo Ribeiro,pt POR,FW,AVS Futebol,19,2005,20,11,990,11.0,1,0,1,1,0,0,0,0,0.09,0.00,0.09,0.09,0.09,Matches,0.04,0.25,27,4,14.8,0.36,2.45,Primeira Liga,2024-2025
+484a3eae,Rodrigo Ribeiro,Rodrigo Ribeiro,pt POR,FW,AVS Futebol,19,2005,20,11,990,11.0,1,0,1,1,0,0,0,0,0.09,0.00,0.09,0.09,0.09,Matches,0.00,,1,0,0.0,0.00,45.00,Primeira Liga,2024-2025
+484a3eae,Rodrigo Ribeiro,Rodrigo Ribeiro,pt POR,FW,Sporting CP,19,2005,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.04,0.25,27,4,14.8,0.36,2.45,Primeira Liga,2024-2025
+484a3eae,Rodrigo Ribeiro,Rodrigo Ribeiro,pt POR,FW,Sporting CP,19,2005,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,45.00,Primeira Liga,2024-2025
+6603fa16,Tomás Ribeiro,Tomás Ribeiro,pt POR,DF,Vitória Guimarães,25,1999,4,3,315,3.5,1,0,1,1,0,0,0,0,0.29,0.00,0.29,0.29,0.29,Matches,0.50,1.00,2,1,50.0,0.29,0.57,Primeira Liga,2024-2025
+6603fa16,Tomás Ribeiro,Tomás Ribeiro,pt POR,DF,Vitória Guimarães,25,1999,4,3,315,3.5,1,0,1,1,0,0,0,0,0.29,0.00,0.29,0.29,0.29,Matches,0.33,0.33,3,3,100.0,0.42,0.42,Primeira Liga,2024-2025
+6603fa16,Tomás Ribeiro,Tomás Ribeiro,pt POR,DF,Farense,25,1999,9,8,645,7.2,1,0,1,1,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matches,0.50,1.00,2,1,50.0,0.29,0.57,Primeira Liga,2024-2025
+6603fa16,Tomás Ribeiro,Tomás Ribeiro,pt POR,DF,Farense,25,1999,9,8,645,7.2,1,0,1,1,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matches,0.33,0.33,3,3,100.0,0.42,0.42,Primeira Liga,2024-2025
+284f2ce6,Yuri Ribeiro,Yuri Ribeiro,pt POR,"MF,DF",Braga,27,1997,9,6,460,5.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.39,Primeira Liga,2024-2025
+e472d4da,Ricardinho,Ricardinho,pt POR,"FW,MF",Santa Clara,25,1998,28,10,"1,246",13.8,7,0,7,7,0,0,5,0,0.51,0.00,0.51,0.51,0.51,Matches,0.27,0.54,26,13,50.0,0.94,1.88,Primeira Liga,2024-2025
+9c026a2f,Riccieli,Riccieli,br BRA,DF,Famalicão,25,1998,8,6,586,6.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.15,0.46,Primeira Liga,2024-2025
+f9b1b7bf,Omar Richards,Omar Richards,eng ENG,"DF,MF",Rio Ave,26,1998,26,24,"1,989",22.1,0,1,1,0,0,0,4,0,0.00,0.05,0.05,0.00,0.05,Matches,0.00,0.00,4,1,25.0,0.05,0.18,Primeira Liga,2024-2025
+1316f065,Rivaldo,Rivaldo,,DF,Farense,23,2000,7,4,451,5.0,0,1,1,0,0,0,0,0,0.00,0.20,0.20,0.00,0.20,Matches,0.00,,5,0,0.0,0.00,1.00,Primeira Liga,2024-2025
+d0ef8835,Óscar Rivas,Óscar Rivas,es ESP,DF,Vitória Guimarães,24,2000,10,9,797,8.9,1,0,1,1,0,0,4,0,0.11,0.00,0.11,0.11,0.11,Matches,0.20,0.33,5,3,60.0,0.34,0.56,Primeira Liga,2024-2025
+880d2226,Pablo Roberto,Pablo Roberto,br BRA,"MF,FW",Casa Pia,24,1999,23,12,"1,113",12.4,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,19,5,26.3,0.40,1.54,Primeira Liga,2024-2025
+cda0b317,Joel Robles,Joel Robles,es ESP,GK,Estoril,34,1990,29,29,"2,610",29.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+62c5ba1b,Matí­as Rocha,Matí­as Rocha,uy URU,DF,Arouca,23,2001,5,3,301,3.3,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.60,Primeira Liga,2024-2025
+c738a5ec,Rochinha,Rochinha,pt POR,MF,Famalicão,29,1995,22,12,902,10.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,15,2,13.3,0.20,1.50,Primeira Liga,2024-2025
+f6d99a01,Afonso Rodrigues,Afonso Rodrigues,pt POR,FW,Famalicão,21,2002,3,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,10.00,Primeira Liga,2024-2025
+0b6c3214,Diego Rodrigues,Diego Rodrigues,pt POR,MF,Braga,19,2005,8,0,162,1.8,0,1,1,0,0,0,0,0,0.00,0.56,0.56,0.00,0.56,Matches,0.00,0.00,6,1,16.7,0.56,3.33,Primeira Liga,2024-2025
+3814b753,Gerson Rodrigues,Gerson Rodrigues,lu LUX,FW,AVS Futebol,29,1995,5,2,190,2.1,1,0,1,1,0,0,0,0,0.47,0.00,0.47,0.47,0.47,Matches,0.13,0.50,8,2,25.0,0.95,3.79,Primeira Liga,2024-2025
+fb6c0681,Ivo Rodrigues,Ivo Rodrigues,pt POR,MF,Moreirense,29,1995,13,8,753,8.4,1,1,2,1,0,0,2,0,0.12,0.12,0.24,0.12,0.24,Matches,0.14,0.50,7,2,28.6,0.24,0.84,Primeira Liga,2024-2025
+fb6c0681,Ivo Rodrigues,Ivo Rodrigues,pt POR,MF,Moreirense,29,1995,13,8,753,8.4,1,1,2,1,0,0,2,0,0.12,0.12,0.24,0.12,0.24,Matches,0.00,0.00,9,3,33.3,0.42,1.26,Primeira Liga,2024-2025
+fb6c0681,Ivo Rodrigues,Ivo Rodrigues,pt POR,"MF,FW",Arouca,29,1995,11,8,641,7.1,0,1,1,0,0,0,4,0,0.00,0.14,0.14,0.00,0.14,Matches,0.14,0.50,7,2,28.6,0.24,0.84,Primeira Liga,2024-2025
+fb6c0681,Ivo Rodrigues,Ivo Rodrigues,pt POR,"MF,FW",Arouca,29,1995,11,8,641,7.1,0,1,1,0,0,0,4,0,0.00,0.14,0.14,0.00,0.14,Matches,0.00,0.00,9,3,33.3,0.42,1.26,Primeira Liga,2024-2025
+2ba08f4e,Luís Carlos Rocha Rodrigues,Luís Carlos Rocha Rodrigues,pt POR,DF,Santa Clara,37,1986,29,29,"2,578",28.6,0,0,0,0,0,0,10,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,12,4,33.3,0.14,0.42,Primeira Liga,2024-2025
+01f6298a,Rafael Rodrigues,Rafael Rodrigues,pt POR,"DF,MF",AVS Futebol,22,2002,21,10,"1,033",11.5,1,0,1,1,0,0,5,0,0.09,0.00,0.09,0.09,0.09,Matches,0.17,0.50,6,2,33.3,0.17,0.52,Primeira Liga,2024-2025
+20b9950f,Rodrigo Rodrigues,Rodrigo Rodrigues,pt POR,FW,Gil Vicente FC,16,2007,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+33cbe65e,Ignacio Rodríguez,Ignacio Rodríguez,uy URU,DF,AVS Futebol,20,2003,16,12,"1,188",13.2,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.08,0.15,Primeira Liga,2024-2025
+e8c4a824,Benjamín Rollheiser,Benjamín Rollheiser,ar ARG,MF,Benfica,24,2000,9,1,139,1.5,1,1,2,1,0,0,1,0,0.65,0.65,1.29,0.65,1.29,Matches,0.50,1.00,2,1,50.0,0.65,1.29,Primeira Liga,2024-2025
+51fbdbad,Baptiste Roux,Baptiste Roux,fr FRA,DF,AVS Futebol,24,1999,23,22,"1,863",20.7,1,1,2,1,0,0,4,0,0.05,0.05,0.10,0.05,0.10,Matches,0.20,1.00,5,1,20.0,0.05,0.24,Primeira Liga,2024-2025
+8fe2101a,Alan Ruiz,Alan Ruiz,ar ARG,"MF,FW",Estrela,30,1993,27,18,"1,470",16.3,1,2,3,0,1,1,13,0,0.06,0.12,0.18,0.00,0.12,Matches,0.00,0.00,21,5,23.8,0.31,1.29,Primeira Liga,2024-2025
+29d68ea8,Gustavo sá,Gustavo sá,pt POR,MF,Famalicão,19,2004,33,32,"2,520",28.0,4,6,10,4,0,0,7,0,0.14,0.21,0.36,0.14,0.36,Matches,0.11,0.31,36,13,36.1,0.46,1.29,Primeira Liga,2024-2025
+a72c139d,Josué Sá,Josué Sá,pt POR,DF,Gil Vicente FC,32,1992,18,15,"1,290",14.3,1,0,1,1,0,0,2,0,0.07,0.00,0.07,0.07,0.07,Matches,0.20,0.50,5,2,40.0,0.14,0.35,Primeira Liga,2024-2025
+bac8e258,Safira,Safira,br BRA,FW,Santa Clara,29,1995,16,12,987,11.0,2,2,4,1,1,2,7,0,0.18,0.18,0.36,0.09,0.27,Matches,0.05,0.14,21,7,33.3,0.64,1.91,Primeira Liga,2024-2025
+3b68a682,Sala,Sala,es ESP,FW,Estoril,21,2003,12,0,169,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.53,3.20,Primeira Liga,2024-2025
+29b161e8,Samu,Samu,pt POR,MF,Vitória Guimarães,28,1996,31,20,"1,743",19.4,2,1,3,2,0,0,3,0,0.10,0.05,0.15,0.10,0.15,Matches,0.06,0.17,36,12,33.3,0.62,1.86,Primeira Liga,2024-2025
+032f894e,Renato Sanches,Renato Sanches,pt POR,MF,Benfica,26,1997,10,1,201,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+924efb1e,Caio Santana,Caio Santana,br BRA,FW,Estrela,20,2004,8,1,178,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.51,0.51,Primeira Liga,2024-2025
+847e4cd8,Aderlan Santos,Aderlan Santos,br BRA,DF,AVS Futebol,35,1989,10,8,598,6.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.15,Primeira Liga,2024-2025
+847e4cd8,Aderlan Santos,Aderlan Santos,br BRA,DF,AVS Futebol,35,1989,10,8,598,6.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,11,1,9.1,0.06,0.63,Primeira Liga,2024-2025
+847e4cd8,Aderlan Santos,Aderlan Santos,br BRA,DF,Rio Ave,35,1989,18,18,"1,580",17.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.15,Primeira Liga,2024-2025
+847e4cd8,Aderlan Santos,Aderlan Santos,br BRA,DF,Rio Ave,35,1989,18,18,"1,580",17.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,11,1,9.1,0.06,0.63,Primeira Liga,2024-2025
+c54ed705,Bruno Santos,Bruno Santos,pt POR,FW,Farense,21,2003,3,0,57,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+394b4db4,Gabriel Santos,Gabriel Santos,br BRA,FW,Nacional,25,1999,3,0,89,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,3.03,Primeira Liga,2024-2025
+37b15b11,Hevertton Santos,Hevertton Santos,br BRA,DF,Vitória Guimarães,23,2001,6,2,261,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.34,0.69,Primeira Liga,2024-2025
+6ef8177e,Leandro Santos,Leandro Santos,pt POR,MF,Benfica,18,2005,3,3,265,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.34,Primeira Liga,2024-2025
+fa5f51c8,Léo Santos,Léo Santos,br BRA,DF,Nacional,25,1998,16,8,774,8.6,1,0,1,1,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches,0.17,0.50,6,2,33.3,0.23,0.70,Primeira Liga,2024-2025
+6fc57554,Nuno Santos,Nuno Santos,pt POR,"MF,FW",Vitória Guimarães,25,1999,33,21,"1,907",21.2,3,4,7,3,0,0,5,0,0.14,0.19,0.33,0.14,0.33,Matches,0.06,0.17,48,18,37.5,0.85,2.27,Primeira Liga,2024-2025
+a6ee4f55,Nuno Santos,Nuno Santos,pt POR,MF,Sporting CP,29,1995,7,4,354,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,1,12.5,0.25,2.03,Primeira Liga,2024-2025
+b30b0a0b,Pedro Santos,Pedro Santos,pt POR,MF,Arouca,23,2000,31,14,"1,526",17.0,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,11,1,9.1,0.06,0.65,Primeira Liga,2024-2025
+e65748d2,Pedro Santos,Pedro Santos,pt POR,"MF,FW",Moreirense,21,2003,21,5,560,6.2,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,5,0,0.0,0.00,0.80,Primeira Liga,2024-2025
+24051310,Zaidu Sanusi,Zaidu Sanusi,ng NGA,DF,Porto,27,1997,3,0,56,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.61,Primeira Liga,2024-2025
+6b074beb,Guilherme Schettine,Guilherme Schettine,br BRA,FW,Moreirense,28,1995,30,19,"1,699",18.9,5,4,9,5,0,0,4,1,0.26,0.21,0.48,0.26,0.48,Matches,0.12,0.25,43,20,46.5,1.06,2.28,Primeira Liga,2024-2025
+a427724f,Andreas Schjelderup,Andreas Schjelderup,no NOR,FW,Benfica,20,2004,20,3,524,5.8,1,3,4,1,0,0,0,0,0.17,0.52,0.69,0.17,0.69,Matches,0.06,0.13,18,8,44.4,1.37,3.09,Primeira Liga,2024-2025
+0467df63,Caio Secco,Caio Secco,br BRA,GK,Moreirense,33,1990,5,5,447,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+9142b22f,Telasco Segovia,Telasco Segovia,ve VEN,MF,Casa Pia,21,2003,15,10,905,10.1,2,0,2,2,0,0,3,0,0.20,0.00,0.20,0.20,0.20,Matches,0.17,0.67,12,3,25.0,0.30,1.19,Primeira Liga,2024-2025
+fde5fc24,Václav Sejk,Václav Sejk,cz CZE,FW,Famalicão,22,2002,16,10,858,9.5,3,1,4,3,0,0,0,1,0.31,0.10,0.42,0.31,0.42,Matches,0.18,0.50,17,6,35.3,0.63,1.78,Primeira Liga,2024-2025
+6f21e773,Patrick Sequeira,Patrick Sequeira,cr CRC,GK,Casa Pia,25,1999,32,32,"2,880",32.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+53825020,Serginho,Serginho,pt POR,MF,Santa Clara,24,1999,29,15,"1,302",14.5,2,1,3,2,0,0,5,0,0.14,0.07,0.21,0.14,0.21,Matches,0.13,0.33,15,6,40.0,0.41,1.04,Primeira Liga,2024-2025
+05c43608,Guilherme Serrão,Guilherme Serrão,pt POR,"MF,DF",Estrela,20,2003,11,9,748,8.3,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.12,Primeira Liga,2024-2025
+c1d28ab4,André Seruca,André Seruca,pt POR,MF,Farense,23,2000,3,0,22,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+e0c5a083,Naziru Shuabiu,Naziru Shuabiu,ng NGA,FW,Rio Ave,20,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+5350c0dc,Sidney,Sidney,br BRA,DF,Santa Clara,27,1997,31,26,"2,386",26.5,3,1,4,3,0,0,12,2,0.11,0.04,0.15,0.11,0.15,Matches,0.17,0.43,18,7,38.9,0.26,0.68,Primeira Liga,2024-2025
+08f087c4,Alysson Silva,Alysson Silva,br BRA,DF,Santa Clara,21,2002,2,2,163,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+8f0435c7,António Silva,António Silva,pt POR,DF,Benfica,20,2003,23,22,"2,037",22.6,1,2,3,1,0,0,2,0,0.04,0.09,0.13,0.04,0.13,Matches,0.09,0.33,11,3,27.3,0.13,0.49,Primeira Liga,2024-2025
+57b28984,Gustavo da Silva,Gustavo da Silva,br BRA,"MF,FW",Vitória Guimarães,25,1999,21,9,871,9.7,7,0,7,7,0,0,4,0,0.72,0.00,0.72,0.72,0.72,Matches,0.27,0.54,26,13,50.0,1.34,2.69,Primeira Liga,2024-2025
+6deb1eab,Joel silva,Joel silva,pt POR,"MF,FW",Boavista,21,2003,30,27,"2,397",26.6,2,1,3,2,0,0,4,0,0.08,0.04,0.11,0.08,0.11,Matches,0.10,0.29,21,7,33.3,0.26,0.79,Primeira Liga,2024-2025
+5c1c6bcf,José Silva,José Silva,pt POR,DF,Sporting CP,18,2005,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+d28c83be,Luís Manuel Costa Silva,Luís Manuel Costa Silva,pt POR,MF,AVS Futebol,31,1992,8,6,464,5.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.58,Primeira Liga,2024-2025
+b3aed40d,Raul Silva,Raul Silva,br BRA,DF,Farense,34,1989,10,5,479,5.3,1,0,1,1,0,0,4,0,0.19,0.00,0.19,0.19,0.19,Matches,0.20,0.50,5,2,40.0,0.38,0.94,Primeira Liga,2024-2025
+ea83bfa6,Rui Silva,Rui Silva,pt POR,GK,Sporting CP,30,1994,17,17,"1,530",17.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+44d0de01,Tiago Silva,Tiago Silva,pt POR,MF,Vitória Guimarães,31,1993,30,27,"2,326",25.8,5,4,9,2,3,3,6,1,0.19,0.15,0.35,0.08,0.23,Matches,0.07,0.15,27,13,48.1,0.50,1.04,Primeira Liga,2024-2025
+bce258f0,Tomás Silva,Tomás Silva,pt POR,DF,Boavista,18,2006,5,0,88,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.02,Primeira Liga,2024-2025
+fcef3903,David Simão,David Simão,pt POR,MF,Arouca,34,1990,24,23,"1,772",19.7,1,0,1,1,0,0,8,0,0.05,0.00,0.05,0.05,0.05,Matches,0.09,0.50,11,2,18.2,0.10,0.56,Primeira Liga,2024-2025
+9c6601c4,João Simões,João Simões,pt POR,MF,Sporting CP,17,2007,9,4,397,4.4,1,0,1,1,0,0,0,0,0.23,0.00,0.23,0.23,0.23,Matches,0.17,1.00,6,1,16.7,0.23,1.36,Primeira Liga,2024-2025
+33bcd4b3,Sphephelo Sithole,Sphephelo Sithole,za RSA,MF,Gil Vicente FC,25,1999,2,0,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+c6a3b58d,Filipe Soares,Filipe Soares,pt POR,MF,Farense,25,1999,21,6,607,6.7,1,1,2,1,0,0,5,0,0.15,0.15,0.30,0.15,0.30,Matches,0.11,1.00,9,1,11.1,0.15,1.33,Primeira Liga,2024-2025
+bc38978e,Lucas Soares,Lucas Soares,br BRA,"MF,DF",Santa Clara,26,1998,30,18,"1,660",18.4,0,1,1,0,0,0,8,1,0.00,0.05,0.05,0.00,0.05,Matches,0.00,0.00,18,7,38.9,0.38,0.98,Primeira Liga,2024-2025
+062fc2e6,Rafa Soares,Rafa Soares,pt POR,DF,Famalicão,29,1995,26,24,"2,085",23.2,0,2,2,0,0,0,5,0,0.00,0.09,0.09,0.00,0.09,Matches,0.00,0.00,8,2,25.0,0.09,0.35,Primeira Liga,2024-2025
+244ff834,Samuel Soares,Samuel Soares,pt POR,GK,Benfica,22,2002,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+8658cb7c,Alex Sola,Alex Sola,ao ANG,MF,Estrela,20,2003,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+9bac437a,Djibril Soumaré,Djibril Soumaré,sn SEN,MF,Nacional,21,2003,23,21,"1,882",20.9,1,1,2,1,0,0,9,1,0.05,0.05,0.10,0.05,0.10,Matches,0.04,0.14,24,7,29.2,0.33,1.15,Primeira Liga,2024-2025
+0f7d5ec6,André Sousa,André Sousa,pt POR,MF,Nacional,34,1990,13,1,199,2.2,1,0,1,1,0,0,3,0,0.45,0.00,0.45,0.45,0.45,Matches,0.33,1.00,3,1,33.3,0.45,1.36,Primeira Liga,2024-2025
+e4738e91,Dyego Sousa,Dyego Sousa,pt POR,FW,Nacional,34,1989,7,0,149,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.60,1.21,Primeira Liga,2024-2025
+a8344b5b,Gerson Sousa,Gerson Sousa,pt POR,MF,Estrela,22,2002,6,0,62,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,1.45,2.90,Primeira Liga,2024-2025
+ee784cc2,Miguel Sousa,Miguel Sousa,pt POR,"MF,FW",Casa Pia,25,1998,24,12,"1,049",11.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,14,2,14.3,0.17,1.20,Primeira Liga,2024-2025
+d18a892a,Valentim Sousa,Valentim Sousa,pt POR,FW,Rio Ave,19,2005,5,0,85,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,1.06,1.06,Primeira Liga,2024-2025
+fe55eba7,Vasco Sousa,Vasco Sousa,pt POR,MF,Porto,21,2003,12,5,421,4.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,2,28.6,0.43,1.50,Primeira Liga,2024-2025
+f5e7fdf9,Fabiano Souza,Fabiano Souza,br BRA,DF,Moreirense,24,2000,11,8,704,7.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.38,Primeira Liga,2024-2025
+71d803dc,Gabriel Airton de Souza,Gabriel Airton de Souza,br BRA,MF,Moreirense,28,1996,18,8,910,10.1,3,1,4,3,0,0,1,0,0.30,0.10,0.40,0.30,0.40,Matches,0.18,0.60,17,5,29.4,0.49,1.68,Primeira Liga,2024-2025
+90339309,Jerry St. Juste,Jerry St. Juste,nl NED,DF,Sporting CP,27,1996,14,5,581,6.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.46,Primeira Liga,2024-2025
+cf603737,Max Svensson,Max Svensson,es ESP,"FW,MF",Casa Pia,22,2001,24,8,844,9.4,1,3,4,1,0,0,3,0,0.11,0.32,0.43,0.11,0.43,Matches,0.03,0.08,38,12,31.6,1.28,4.05,Primeira Liga,2024-2025
+81408674,Morlaye Sylla,Morlaye Sylla,gn GUI,MF,Arouca,26,1998,32,27,"2,363",26.3,2,1,3,2,0,0,5,0,0.08,0.04,0.11,0.08,0.11,Matches,0.03,0.11,64,18,28.1,0.69,2.44,Primeira Liga,2024-2025
+3add8ed8,Sidnei Tavares,Sidnei Tavares,,MF,Moreirense,22,2001,29,15,"1,296",14.4,1,1,2,1,0,0,8,1,0.07,0.07,0.14,0.07,0.14,Matches,0.10,0.50,10,2,20.0,0.14,0.69,Primeira Liga,2024-2025
+0dce3356,Tomás Tavares,Tomás Tavares,pt POR,"DF,MF",AVS Futebol,23,2001,11,9,789,8.8,0,1,1,0,0,0,1,0,0.00,0.11,0.11,0.00,0.11,Matches,0.00,,1,0,0.0,0.00,0.11,Primeira Liga,2024-2025
+75926036,Duplexe Tchamba,Duplexe Tchamba,cm CMR,DF,Casa Pia,26,1998,21,21,"1,814",20.2,2,1,3,2,0,0,5,0,0.10,0.05,0.15,0.10,0.15,Matches,0.20,0.67,10,3,30.0,0.15,0.50,Primeira Liga,2024-2025
+83fd9572,Cédric Teguia,Cédric Teguia,es ESP,MF,Moreirense,22,2001,13,11,906,10.1,2,1,3,2,0,0,1,0,0.20,0.10,0.30,0.20,0.30,Matches,0.13,0.33,15,6,40.0,0.60,1.49,Primeira Liga,2024-2025
+473f0f03,João Teixeira,João Teixeira,pt POR,MF,Gil Vicente FC,30,1994,17,2,335,3.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,1,14.3,0.27,1.88,Primeira Liga,2024-2025
+e54d4317,Jorge Teixeira,Jorge Teixeira,pt POR,DF,AVS Futebol,37,1986,13,7,755,8.4,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,2,25.0,0.24,0.95,Primeira Liga,2024-2025
+b7f90e05,Matheus Teixeira,Matheus Teixeira,br BRA,GK,Rio Ave,25,1999,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+982cec7f,Nigel Thomas,Nigel Thomas,nl NED,"FW,MF",Nacional,23,2001,9,8,629,7.0,1,0,1,1,0,0,3,0,0.14,0.00,0.14,0.14,0.14,Matches,0.17,0.33,6,3,50.0,0.43,0.86,Primeira Liga,2024-2025
+c2604e3c,Tomané,Tomané,pt POR,FW,Farense,31,1992,24,18,"1,659",18.4,3,0,3,2,1,1,1,0,0.16,0.00,0.16,0.11,0.11,Matches,0.07,0.20,30,10,33.3,0.54,1.63,Primeira Liga,2024-2025
+a2c06be8,Tomé,Tomé,pt POR,GK,Boavista,17,2006,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+d09208bb,João Tomé,João Tomé,pt POR,"DF,MF",Rio Ave,21,2003,16,9,772,8.6,0,1,1,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+3a7d547a,Mirko Topić,Mirko Topić,rs SRB,MF,Famalicão,23,2001,33,25,"2,321",25.8,1,0,1,1,0,0,3,0,0.04,0.00,0.04,0.04,0.04,Matches,0.05,0.25,21,4,19.0,0.16,0.81,Primeira Liga,2024-2025
+6c65e573,Diogo Travassos,Diogo Travassos,pt POR,"MF,DF",Estrela,20,2004,24,18,"1,726",19.2,1,0,1,1,0,0,5,0,0.05,0.00,0.05,0.05,0.05,Matches,0.06,0.25,16,4,25.0,0.21,0.83,Primeira Liga,2024-2025
+e1000218,Alfonso Trezza,Alfonso Trezza,uy URU,"MF,FW",Arouca,25,1999,33,28,"2,420",26.9,5,2,7,5,0,0,4,1,0.19,0.07,0.26,0.19,0.26,Matches,0.11,0.28,44,18,40.9,0.67,1.64,Primeira Liga,2024-2025
+77e39b04,Francisco Trincão,Francisco Trincão,pt POR,"MF,FW",Sporting CP,24,1999,34,34,"2,936",32.6,9,14,23,9,0,0,1,0,0.28,0.43,0.71,0.28,0.71,Matches,0.08,0.26,106,35,33.0,1.07,3.25,Primeira Liga,2024-2025
+41f0b196,Anatolii Trubin,Anatolii Trubin,ua UKR,GK,Benfica,22,2001,32,32,"2,880",32.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+a0b9e0cb,Ulisses,Ulisses,br BRA,DF,Nacional,24,1999,29,29,"2,559",28.4,2,0,2,2,0,0,5,1,0.07,0.00,0.07,0.07,0.07,Matches,0.09,0.40,22,5,22.7,0.18,0.77,Primeira Liga,2024-2025
+7b456af7,Tomáš Vaclík,Tomáš Vaclík,cz CZE,GK,Boavista,35,1989,12,12,"1,080",12.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+beb1317c,João Valido,João Valido,pt POR,GK,Arouca,24,2000,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+9ffb2ce6,Alan Varela,Alan Varela,ar ARG,MF,Porto,23,2001,31,26,"2,198",24.4,0,2,2,0,0,0,8,0,0.00,0.08,0.08,0.00,0.08,Matches,0.00,0.00,15,5,33.3,0.20,0.61,Primeira Liga,2024-2025
+2bea06e0,Bruno Varela,Bruno Varela,cv CPV,GK,Vitória Guimarães,29,1994,34,34,"3,060",34.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.03,Primeira Liga,2024-2025
+c5c22733,Nilton Varela,Nilton Varela,pt POR,"MF,DF",Estrela,23,2001,28,26,"2,209",24.5,0,2,2,0,0,0,4,0,0.00,0.08,0.08,0.00,0.08,Matches,0.00,0.00,9,2,22.2,0.08,0.37,Primeira Liga,2024-2025
+36b9ac56,João Vasconcelos,João Vasconcelos,pt POR,MF,Braga,19,2005,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+cc094532,Danilo Veiga,Danilo Veiga,pt POR,"MF,DF",Estrela,21,2002,15,14,"1,280",14.2,0,2,2,0,0,0,5,1,0.00,0.14,0.14,0.00,0.14,Matches,0.00,,2,0,0.0,0.00,0.14,Primeira Liga,2024-2025
+4f319034,Eric Veiga,Eric Veiga,lu LUX,"MF,DF",AVS Futebol,27,1997,8,4,371,4.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.24,0.24,Primeira Liga,2024-2025
+a28e5005,Jhon Velásquez,Jhon Velásquez,co COL,MF,Farense,29,1995,2,0,15,0.2,0,1,1,0,0,0,0,0,0.00,6.00,6.00,0.00,6.00,Matches,0.00,0.00,1,1,100.0,6.00,6.00,Primeira Liga,2024-2025
+23d16052,Ricardo Velho,Ricardo Velho,pt POR,GK,Farense,25,1998,28,28,"2,520",28.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+0adc7748,Frederico Venâncio,Frederico Venâncio,pt POR,DF,Santa Clara,31,1993,26,21,"1,807",20.1,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,2,40.0,0.10,0.25,Primeira Liga,2024-2025
+cc54abe5,Paulo Victor,Paulo Victor,br BRA,"DF,MF",Farense,23,2001,24,18,"1,620",18.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,2,40.0,0.11,0.28,Primeira Liga,2024-2025
+6412cc03,Fabio Vieira,Fabio Vieira,pt POR,MF,Porto,24,2000,26,21,"1,840",20.4,4,4,8,4,0,0,7,0,0.20,0.20,0.39,0.20,0.39,Matches,0.09,0.27,46,15,32.6,0.73,2.25,Primeira Liga,2024-2025
+63904ba9,Gabriel Vieira,Gabriel Vieira,br BRA,FW,Santa Clara,22,2002,33,32,"2,787",31.0,6,3,9,5,1,1,2,0,0.19,0.10,0.29,0.16,0.26,Matches,0.06,0.19,87,26,29.9,0.84,2.81,Primeira Liga,2024-2025
+65f90a76,Mikel Villanueva,Mikel Villanueva,ve VEN,DF,Vitória Guimarães,31,1993,19,15,"1,342",14.9,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,4,57.1,0.27,0.47,Primeira Liga,2024-2025
+e816a8ee,Marcos Vinicios Sorriso,Marcos Vinicios Sorriso,br BRA,MF,Famalicão,23,2001,29,24,"2,020",22.4,8,4,12,8,0,0,1,0,0.36,0.18,0.53,0.36,0.53,Matches,0.15,0.38,52,21,40.4,0.94,2.32,Primeira Liga,2024-2025
+ecce7383,Vinícius,Vinícius,br BRA,"FW,MF",Santa Clara,25,1999,33,29,"2,237",24.9,8,1,9,8,0,1,8,0,0.32,0.04,0.36,0.32,0.36,Matches,0.15,0.44,54,18,33.3,0.72,2.17,Primeira Liga,2024-2025
+3264a506,Bernardo Vital,Bernardo Vital,pt POR,DF,Estoril,23,2000,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,2.90,Primeira Liga,2024-2025
+2008d453,Zé Vitor,Zé Vitor,br BRA,DF,Nacional,23,2001,31,31,"2,741",30.5,2,0,2,2,0,0,12,1,0.07,0.00,0.07,0.07,0.07,Matches,0.05,0.20,38,10,26.3,0.33,1.25,Primeira Liga,2024-2025
+9bc450e6,Steven Vitória,Steven Vitória,ca CAN,DF,Boavista,37,1987,8,2,219,2.4,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.41,1.64,Primeira Liga,2024-2025
+d2795011,Marious Vrousai,Marious Vrousai,gr GRE,"DF,MF",Rio Ave,26,1998,31,28,"2,547",28.3,1,3,4,1,0,0,5,0,0.04,0.11,0.14,0.04,0.14,Matches,0.03,0.09,33,11,33.3,0.39,1.17,Primeira Liga,2024-2025
+8ff37fd4,Ilija Vukotić,Ilija Vukotić,me MNE,MF,Boavista,25,1999,26,21,"1,757",19.5,3,0,3,3,0,0,4,1,0.15,0.00,0.15,0.15,0.15,Matches,0.16,0.38,19,8,42.1,0.41,0.97,Primeira Liga,2024-2025
+44fd892e,Wendel,Wendel,br BRA,FW,Santa Clara,23,2000,6,2,235,2.6,2,0,2,2,0,0,1,0,0.77,0.00,0.77,0.77,0.77,Matches,0.50,0.50,4,4,100.0,1.53,1.53,Primeira Liga,2024-2025
+f9acca3a,Wendell,Wendell,br BRA,"DF,MF",Porto,31,1993,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,3.91,Primeira Liga,2024-2025
+b9829bf7,Weverson,Weverson,br BRA,DF,Arouca,24,2000,26,22,"1,871",20.8,1,2,3,1,0,0,4,0,0.05,0.10,0.14,0.05,0.14,Matches,0.09,0.50,11,2,18.2,0.10,0.53,Primeira Liga,2024-2025
+f3600c02,Xeka,Xeka,pt POR,MF,Estoril,29,1994,14,12,939,10.4,1,1,2,1,0,0,6,0,0.10,0.10,0.19,0.10,0.19,Matches,0.07,0.33,14,3,21.4,0.29,1.34,Primeira Liga,2024-2025
+7f5a2470,Güven Yalçın,Güven Yalçın,tr TUR,FW,Arouca,25,1999,23,8,762,8.5,3,1,4,1,2,2,5,1,0.35,0.12,0.47,0.12,0.24,Matches,0.04,0.09,27,11,40.7,1.30,3.19,Primeira Liga,2024-2025
+b54e6c69,Fūki Yamada,Fūki Yamada,jp JPN,"MF,FW",Nacional,23,2001,13,7,493,5.5,1,2,3,1,0,0,2,1,0.18,0.37,0.55,0.18,0.55,Matches,0.10,0.33,10,3,30.0,0.55,1.83,Primeira Liga,2024-2025
+e2f9bb5f,Zaydou Youssouf,Zaydou Youssouf,km COM,MF,Famalicão,25,1999,17,17,"1,336",14.8,2,0,2,2,0,0,4,0,0.13,0.00,0.13,0.13,0.13,Matches,0.11,0.29,18,7,38.9,0.47,1.21,Primeira Liga,2024-2025
+5b17d985,Yassir Zabiri,Yassir Zabiri,ma MAR,MF,Famalicão,19,2005,5,0,58,0.6,1,0,1,1,0,0,0,0,1.55,0.00,1.55,1.55,1.55,Matches,1.00,1.00,1,1,100.0,1.55,1.55,Primeira Liga,2024-2025
+fc3697dd,Rodrigo Zalazar,Rodrigo Zalazar,uy URU,MF,Braga,24,1999,19,17,"1,390",15.4,4,5,9,3,1,1,4,0,0.26,0.32,0.58,0.19,0.52,Matches,0.07,0.33,43,9,20.9,0.58,2.78,Primeira Liga,2024-2025
+27457e83,Vinícius Zanocelo,Vinícius Zanocelo,br BRA,MF,Estoril,23,2001,30,23,"2,075",23.1,2,0,2,2,0,0,8,0,0.09,0.00,0.09,0.09,0.09,Matches,0.07,0.25,29,8,27.6,0.35,1.26,Primeira Liga,2024-2025
+d8fe652c,Ivan Zlobin,Ivan Zlobin,ru RUS,GK,Famalicão,27,1997,15,15,"1,350",15.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+fffaf441,Karem Zoabi,Karem Zoabi,il ISR,FW,Rio Ave,18,2006,12,2,222,2.5,0,2,2,0,0,0,1,0,0.00,0.81,0.81,0.00,0.81,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025
+3b69e95f,Nermin Zolotić,Nermin Zolotić,ba BIH,DF,Casa Pia,31,1993,7,7,626,7.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,Primeira Liga,2024-2025

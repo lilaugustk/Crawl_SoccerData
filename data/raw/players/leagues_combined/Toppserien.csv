@@ -1,0 +1,474 @@
+﻿PlayerID,Name,player,nationality,position,team,age,birth_year,games,games_starts,minutes,minutes_90s,goals,assists,goals_assists,goals_pens,pens_made,pens_att,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,goals_pens_per90,goals_assists_pens_per90,matches,goals_per_shot,goals_per_shot_on_target,shots,shots_on_target,shots_on_target_pct,shots_on_target_per90,shots_per90,gk_clean_sheets,gk_clean_sheets_pct,gk_games,gk_games_starts,gk_goals_against,gk_goals_against_per90,gk_losses,gk_minutes,gk_pens_allowed,gk_pens_att,gk_pens_missed,gk_pens_save_pct,gk_pens_saved,gk_save_pct,gk_saves,gk_shots_on_target_against,gk_ties,gk_wins,League,Season
+8f5fa9e1,Anna Aahjem,Anna Aahjem,no NOR,MF,Brann,26-085,2000,3,0,38,0.4,1,0,1,1,0,0,0,0,2.37,0.00,2.37,2.37,2.37,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+fa364baa,Vilde Aasprang,Vilde Aasprang,no NOR,MF,Lyn,22-076,2004,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+89e9beca,Carina Alfredsen,Carina Alfredsen,no NOR,MF,Brann,19-197,2006,3,0,59,0.7,1,1,2,1,0,0,0,0,1.53,1.53,3.05,1.53,3.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+1ba0265f,Eline Amlie,Eline Amlie,no NOR,MF,Røa,20-263,2005,3,2,149,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+8c084de2,Emma Amundsen,Emma Amundsen,no NOR,DF,Hønefoss,22-318,2003,1,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+cfa0b773,Andrea Anderdal,Andrea Anderdal,no NOR,MF,Hønefoss,30-018,1996,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+52503c88,Tilde Andersson,Tilde Andersson,no NOR,MF,LSK Kvinner,18-231,2007,3,1,92,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+6b17c881,Ina Andreassen,Ina Andreassen,no NOR,DF,Lyn,19-039,2007,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+508e60fe,Ronja Arnesen,Ronja Arnesen,no NOR,MF,LSK Kvinner,19-222,2006,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+05443947,Ronja Aronsson,Ronja Aronsson,se SWE,DF,Vålerenga,28-115,1997,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+d67759d6,Synne Aunehaugen,Synne Aunehaugen,no NOR,DF,Rosenborg,22-072,2004,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+556e6b01,Frida Aursland,Frida Aursland,no NOR,GK,Haugesund,19-118,2006,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,3,3,6,2.00,1,270,2,2,0,0.0,0,,,,1,1,Toppserien,2026
+a75e514a,Mia Authen,Mia Authen,no NOR,FW,Brann,23-308,2002,3,3,259,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+0734b5bb,Mathea Berg-Solemdal,Mathea Berg-Solemdal,no NOR,MF,Stabæk,19-310,2006,3,3,245,2.7,0,1,1,0,0,0,0,0,0.00,0.37,0.37,0.00,0.37,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+f7130374,Mathea Berget,Mathea Berget,no NOR,MF,Lyn,24-023,2002,3,2,219,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+6799e73d,Elisa Berisha,Elisa Berisha,no NOR,MF,Røa,17-082,2009,3,0,72,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+c216ad18,Ine Berre,Ine Berre,no NOR,FW,Rosenborg,22-339,2003,3,1,160,1.8,0,1,1,0,0,0,0,0,0.00,0.56,0.56,0.00,0.56,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+21527e47,Mari Bersås,Mari Bersås,no NOR,DF,Molde,16-026,2010,3,1,106,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+5189c8fd,Ina Birkelund,Ina Birkelund,no NOR,FW,Lyn,21-318,2004,3,3,260,2.9,1,0,1,1,0,0,0,0,0.35,0.00,0.35,0.35,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+eaf1424a,Josefine Birkelund,Josefine Birkelund,no NOR,DF,Brann,21-250,2004,2,2,111,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+b387d4f4,Hilde Bjåstad,Hilde Bjåstad,no NOR,DF,Molde,20-317,2005,3,3,250,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+459b2800,Sara Bjerksæter,Sara Bjerksæter,no NOR,FW,Hønefoss,29-300,1996,3,3,196,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+4fb39837,Silje Bjørneboe,Silje Bjørneboe,no NOR,DF,Stabæk,26-048,2000,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+61fd8d8e,Sigrid Bloch-Hansen,Sigrid Bloch-Hansen,no NOR,DF,Røa,26-355,1999,3,2,199,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+4b6110eb,Solfrid Bråthen,Solfrid Bråthen,no NOR,FW,Haugesund,23-193,2002,3,3,270,3.0,0,1,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+dd0075a4,Stine Brekken,Stine Brekken,no NOR,MF,Vålerenga,21-116,2004,3,2,173,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+6daa1dfc,Kristina Brudvik,Kristina Brudvik,no NOR,FW,Bodø/Glimt,25-136,2000,3,3,252,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+8b5d5c21,Lauren Bruno,Lauren Bruno,us USA,DF,Haugesund,22-344,2003,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+db21e9e0,Synne Brønstad,Synne Brønstad,no NOR,FW,Rosenborg,22-297,2003,3,1,140,1.6,1,0,1,1,0,0,0,0,0.64,0.00,0.64,0.64,0.64,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+6f1efbd3,Andrea Buberg,Andrea Buberg,no NOR,MF,Rosenborg,19-052,2007,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+7d7a2349,Tale Buvarp,Tale Buvarp,no NOR,DF,Røa,20-148,2005,1,1,59,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+cd6a7d35,Emilie Bølviken,Emilie Bølviken,no NOR,DF,Stabæk,25-327,2000,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+876eae35,Claudia Cagnina,Claudia Cagnina,pe PER,MF,Bodø/Glimt,28-216,1997,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+6dc69b49,Kenna Caldwell,Kenna Caldwell,us USA,GK,Molde,25-228,2000,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,33.3,3,3,8,2.67,2,270,1,1,0,0.0,0,,,,1,0,Toppserien,2026
+15b6e91c,Emma Christensen,Emma Christensen,no NOR,MF,Bodø/Glimt,18-263,2007,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+1e05af23,Lene Christensen,Lene Christensen,dk DEN,GK,Rosenborg,26-069,2000,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,2,1.00,0,180,0,0,0,,0,,,,2,0,Toppserien,2026
+831620fc,Anya de Courcy,Anya de Courcy,tt TRI,FW,Røa,28-252,1997,3,3,270,3.0,1,1,2,1,0,0,0,0,0.33,0.33,0.67,0.33,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+001e9808,Hanna Dahl,Hanna Dahl,no NOR,MF,Haugesund,31-056,1995,3,3,243,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+4cbd25c8,Lauren Davidson,Lauren Davidson,sct SCO,FW,Brann,24-195,2001,3,3,270,3.0,2,0,2,2,0,0,0,0,0.67,0.00,0.67,0.67,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+3ea6fec0,Irene Dirdal,Irene Dirdal,no NOR,MF,Rosenborg,22-204,2003,3,2,167,1.9,1,0,1,1,0,0,0,0,0.54,0.00,0.54,0.54,0.54,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+bea4516b,Lise Dissing,Lise Dissing,dk DEN,FW,Bodø/Glimt,24-125,2001,3,2,150,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a669f6bd,Malene Dunsby,Malene Dunsby,no NOR,MF,Hønefoss,22-007,2004,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.00,0.33,0.33,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+c76b0849,Siw Døvle,Siw Døvle,no NOR,FW,Røa,27-351,1998,3,1,120,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+7854e6cf,Noor Eckhoff,Noor Eckhoff,no NOR,MF,Vålerenga,26-129,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+f9ee8fc0,Sara Eggesvik,Sara Eggesvik,ph PHI,MF,LSK Kvinner,28-350,1997,3,2,202,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a7386190,Madelen Eid,Madelen Eid,no NOR,MF,Aalesund,21-014,2005,3,3,254,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+e9c71e6d,Amalie Eikeland,Amalie Eikeland,no NOR,"FW,MF",Brann,30-231,1995,3,3,224,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+c2d7644a,Arna Eiríksdóttir,Arna Eiríksdóttir,is ISL,DF,Vålerenga,23-212,2002,3,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+09dc9a49,Hanna Ellingsen,Hanna Ellingsen,no NOR,MF,Røa,23-266,2002,3,3,242,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+322314e6,Tove Enblom,Tove Enblom,se SWE,GK,Vålerenga,31-145,1994,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,33.3,3,3,4,1.33,1,270,1,1,0,0.0,0,,,,0,2,Toppserien,2026
+55b17a80,Tomine Enger,Tomine Enger,no NOR,MF,Vålerenga,18-002,2008,3,2,169,1.9,1,1,2,1,0,0,0,0,0.53,0.53,1.07,0.53,1.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a4a8c6da,Thiril Erichsen,Thiril Erichsen,no NOR,GK,Aalesund,22-019,2004,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,33.3,3,3,5,1.67,1,270,0,0,0,,0,,,,1,1,Toppserien,2026
+01918077,Siri Ervik,Siri Ervik,no NOR,GK,Hønefoss,30-339,1995,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,33.3,3,3,3,1.00,1,270,0,0,0,,0,,,,1,1,Toppserien,2026
+9eae987f,Tuva Espås,Tuva Espås,no NOR,FW,Vålerenga,27-023,1999,3,3,182,2.0,2,0,2,2,0,0,1,0,0.99,0.00,0.99,0.99,0.99,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+b3cd2f6f,Lee Eunyoung,Lee Eunyoung,kr KOR,DF,Molde,24-014,2002,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+c38e5a52,Cecilie Falch,Cecilie Falch,no NOR,FW,Bodø/Glimt,29-147,1996,3,2,169,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+f93b1aad,Maria Fink,Maria Fink,no NOR,DF,Lyn,22-079,2004,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+c4d62574,Cornelia Fladberg,Cornelia Fladberg,no NOR,MF,Lyn,25-065,2001,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+e6dd0a9a,Mille Flø,Mille Flø,no NOR,DF,Stabæk,17-222,2008,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+fc843bf0,Sarah Foley,Sarah Foley,us USA,FW,Bodø/Glimt,22-203,2003,2,0,58,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+b2105978,Mina Folland,Mina Folland,no NOR,MF,Røa,20-254,2005,3,3,261,2.9,0,2,2,0,0,0,0,0,0.00,0.69,0.69,0.00,0.69,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+8295c691,Maren Fuglås,Maren Fuglås,no NOR,MF,Rosenborg,17-210,2008,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+0e02f970,Sigrid Gamst,Sigrid Gamst,no NOR,MF,Molde,16-198,2009,2,2,180,2.0,1,0,1,1,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+7c5f2020,Laura Gashi,Laura Gashi,no NOR,MF,Aalesund,23-327,2002,3,3,257,2.9,0,2,2,0,0,0,1,0,0.00,0.70,0.70,0.00,0.70,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+9c280ed0,Hanna Gravem,Hanna Gravem,no NOR,MF,Haugesund,21-190,2004,3,1,96,1.1,1,0,1,1,0,0,0,0,0.94,0.00,0.94,0.94,0.94,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+2f031e78,Anna Grindhaug,Anna Grindhaug,no NOR,MF,Stabæk,20-053,2006,2,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+7d9f033c,Vilde Grøseth,Vilde Grøseth,no NOR,MF,Rosenborg,21-033,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+4c450483,Emilie Guddal,Emilie Guddal,no NOR,MF,Haugesund,18-337,2007,2,0,56,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+efa9292a,Kristin Gumaer,Kristin Gumaer,no NOR,FW,Stabæk,24-112,2001,2,2,109,1.2,1,0,1,1,0,0,0,0,0.83,0.00,0.83,0.83,0.83,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a63db8fe,Daniela Guðnadóttir,Daniela Guðnadóttir,is ISL,DF,Aalesund,25-104,2000,3,3,202,2.2,0,1,1,0,0,0,1,0,0.00,0.45,0.45,0.00,0.45,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+91ad876e,Ida Habbestad,Ida Habbestad,no NOR,MF,Lyn,21-288,2004,3,1,125,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+01f3d607,Libe Haftorsen-Brakstad,Libe Haftorsen-Brakstad,no NOR,DF,Haugesund,19-339,2006,3,3,209,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+85dfa74d,Sofia Hagman,Sofia Hagman,se SWE,MF,Bodø/Glimt,29-024,1997,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+91149117,Celia Halvorsen,Celia Halvorsen,no NOR,MF,Stabæk,18-087,2008,3,3,225,2.5,0,1,1,0,0,0,0,0,0.00,0.40,0.40,0.00,0.40,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a31c14a6,Synne Hamborg,Synne Hamborg,no NOR,MF,Hønefoss,25-115,2000,3,2,163,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+c605c210,Guro Hammer Røn,Guro Hammer Røn,no NOR,FW,Stabæk,21-160,2004,3,2,184,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+bc35d412,Venil Haugen,Venil Haugen,,DF,Molde,,,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+9fd10a3b,Eline Hegg,Eline Hegg,no NOR,MF,Vålerenga,24-304,2001,3,3,240,2.7,1,0,1,1,0,0,0,0,0.37,0.00,0.37,0.37,0.37,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+57620ccb,Karoline Heimvik Haugland,Karoline Heimvik Haugland,no NOR,MF,Brann,28-050,1998,3,3,270,3.0,1,1,2,1,0,0,1,0,0.33,0.33,0.67,0.33,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+dbf925d5,Christina Herseth,Christina Herseth,no NOR,MF,LSK Kvinner,17-216,2008,3,3,221,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+b3851f21,Kaia Hjelmhaug,Kaia Hjelmhaug,no NOR,MF,LSK Kvinner,19-192,2006,3,3,270,3.0,0,1,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+6c833e8d,Tuva Hodne,Tuva Hodne,no NOR,MF,Lyn,22-112,2003,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+12f5119c,Mie Hoem,Mie Hoem,no NOR,FW,Stabæk,16-248,2009,2,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+cd04c640,Kristin Holmen,Kristin Holmen,no NOR,MF,Lyn,25-226,2000,2,2,124,1.4,1,0,1,1,0,0,0,0,0.73,0.00,0.73,0.73,0.73,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+e532dae6,Andrea Holmstrøm,Andrea Holmstrøm,no NOR,DF,LSK Kvinner,26-298,1999,3,0,105,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+268bb48b,Rebecka Holum,Rebecka Holum,no NOR,MF,Rosenborg,29-145,1996,3,3,180,2.0,1,0,1,1,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+17ad3dde,Anastasia Høgevold,Anastasia Høgevold,no NOR,MF,Stabæk,21-211,2004,2,0,34,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+3dc010b5,Karen Ims,Karen Ims,no NOR,FW,Molde,20-008,2006,2,1,108,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+ce73af03,Naina Inauen,Naina Inauen,ch SUI,MF,Vålerenga,25-150,2000,3,2,196,2.2,1,0,1,1,0,0,1,0,0.46,0.00,0.46,0.46,0.46,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+5b8f1d01,Monica Isaksen,Monica Isaksen,no NOR,FW,Brann,22-280,2003,3,1,121,1.3,0,1,1,0,0,0,0,0,0.00,0.74,0.74,0.00,0.74,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+878d5fd5,Ingrid Jåstad,Ingrid Jåstad,no NOR,MF,Aalesund,24-031,2002,3,3,197,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a3656d18,Marie Johannsdottir,Marie Johannsdottir,no NOR,FW,Molde,22-300,2003,3,3,254,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+b99ec83d,Anna Johansen,Anna Johansen,no NOR,FW,Bodø/Glimt,24-154,2001,3,3,180,2.0,0,1,1,0,0,0,1,0,0.00,0.50,0.50,0.00,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+33b68c80,Gerd Johansen,Gerd Johansen,no NOR,FW,Bodø/Glimt,19-038,2007,3,1,149,1.7,1,0,1,1,0,0,0,0,0.60,0.00,0.60,0.60,0.60,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+05f591ed,Erle Jonsson,Erle Jonsson,no NOR,MF,Røa,16-230,2009,3,2,153,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+88758e9c,Ane Jørgensen,Ane Jørgensen,no NOR,DF,Hønefoss,20-030,2006,3,3,262,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+dbbb4c10,Nelli Kalske,Nelli Kalske,fi FIN,DF,LSK Kvinner,20-128,2005,3,3,187,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+fc08a9cd,Lina Klech,Lina Klech,no NOR,DF,Vålerenga,21-285,2004,2,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a2af3ccd,Milena Kokosz,Milena Kokosz,pl POL,MF,Rosenborg,24-241,2001,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+55cbca5e,Mari Kristine Vik,Mari Kristine Vik,no NOR,DF,Rosenborg,22-361,2003,2,1,63,0.7,0,1,1,0,0,0,0,0,0.00,1.43,1.43,0.00,1.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+6e73a3fd,Ida Kroken,Ida Kroken,no NOR,MF,Aalesund,27-136,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+ae604515,Maria Kroken,Maria Kroken,no NOR,GK,Lyn,18-087,2008,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,50.0,2,2,1,0.50,0,180,0,0,0,,0,,,,1,1,Toppserien,2026
+db801ba3,Sofia Krossøy,Sofia Krossøy,no NOR,MF,Røa,26-247,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+8132ab31,Yūka Kurosaki,Yūka Kurosaki,jp JPN,MF,Bodø/Glimt,28-306,1997,3,3,270,3.0,1,0,1,1,0,0,1,0,0.33,0.00,0.33,0.33,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+68978762,Rachel Kutella,Rachel Kutella,us USA,DF,Bodø/Glimt,23-242,2002,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+9d8d9f54,Cecilie Kvamme,Cecilie Kvamme,no NOR,DF,Brann,30-156,1995,3,1,127,1.4,1,0,1,1,0,0,0,0,0.71,0.00,0.71,0.71,0.71,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+9e76e96d,Fanny Lång,Fanny Lång,se SWE,DF,Hønefoss,29-215,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+7d760f99,Henriette de Lange,Henriette de Lange,no NOR,DF,Stabæk,19-127,2006,3,3,255,2.8,1,0,1,1,0,0,0,0,0.35,0.00,0.35,0.35,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+e38c8492,Una Langkås,Una Langkås,no NOR,GK,Røa,22-272,2003,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,3,3,6,2.00,1,270,0,0,0,,0,,,,1,1,Toppserien,2026
+4dde230b,Celine Larsen,Celine Larsen,no NOR,FW,Hønefoss,24-302,2001,3,2,199,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+e7e8f037,Nea Lehtola,Nea Lehtola,fi FIN,DF,Brann,27-172,1998,3,3,261,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+1c8745ce,Sanne Lekven,Sanne Lekven,no NOR,FW,Aalesund,24-279,2001,2,0,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a42bdc5a,Sara Lepore,Sara Lepore,no NOR,MF,LSK Kvinner,17-047,2009,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+f875fa11,Tuva Lindvik,Tuva Lindvik,no NOR,DF,Lyn,19-018,2007,2,0,18,0.2,0,1,1,0,0,0,0,0,0.00,5.00,5.00,0.00,5.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a73dc07b,Thea Loennecken,Thea Loennecken,no NOR,MF,Aalesund,24-053,2002,3,3,237,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+fdd81a25,Brenna Lovera,Brenna Lovera,us USA,FW,Brann,29-033,1997,3,3,241,2.7,2,0,2,2,0,0,0,0,0.75,0.00,0.75,0.75,0.75,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+692a8fce,Matilde Lundorf,Matilde Lundorf,dk DEN,DF,Vålerenga,27-085,1999,3,3,252,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+1c9e31ec,Casandra Luthcke,Casandra Luthcke,no NOR,MF,Aalesund,23-096,2003,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+6a6cdb7c,Ingeborg Lye Skretting,Ingeborg Lye Skretting,no NOR,FW,Aalesund,23-095,2003,3,0,89,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+4dabb464,Aada Mäkelä,Aada Mäkelä,fi FIN,MF,LSK Kvinner,19-054,2007,3,3,209,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a3a55124,Anna Malmin,Anna Malmin,no NOR,FW,Stabæk,18-188,2007,3,1,110,1.2,2,0,2,2,0,0,0,0,1.64,0.00,1.64,1.64,1.64,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+28a7ed92,Jasmin Mansaray,Jasmin Mansaray,fi FIN,DF,LSK Kvinner,21-108,2004,3,2,203,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+114baaf0,Gesa Marashi,Gesa Marashi,eng ENG,MF,LSK Kvinner,19-275,2006,3,1,107,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a77da993,Beate Marcussen,Beate Marcussen,dk DEN,MF,Rosenborg,26-204,1999,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.00,0.33,0.33,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+b85b5cb9,Synne Masdal,Synne Masdal,no NOR,DF,Hønefoss,25-049,2001,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.00,0.33,0.33,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+90cb30a4,Maia Melgård,Maia Melgård,no NOR,FW,Lyn,17-024,2009,2,1,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+33217bf7,Sofia Mendelin-Norebø,Sofia Mendelin-Norebø,no NOR,MF,LSK Kvinner,16-134,2009,3,2,187,2.1,1,0,1,1,0,0,1,0,0.48,0.00,0.48,0.48,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+5ffb6b3d,Thea Mikkelsen,Thea Mikkelsen,no NOR,MF,Lyn,22-352,2003,3,3,262,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+e4bf4bbd,Cecilie Mjelde,Cecilie Mjelde,no NOR,MF,Haugesund,22-363,2003,3,3,265,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+5d533b95,Michaela Moran,Michaela Moran,us USA,GK,Bodø/Glimt,26-001,2000,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,33.3,3,3,5,1.67,1,270,0,0,0,,0,,,,2,0,Toppserien,2026
+c5b4ec01,Mette Muri,Mette Muri,no NOR,DF,Aalesund,29-044,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+6cd13242,Ida Natvik,Ida Natvik,no NOR,FW,Stabæk,20-150,2005,3,1,136,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+d2e12991,Ida Neset,Ida Neset,no NOR,MF,Bodø/Glimt,22-316,2003,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+727bfae1,Cille Nilsen,Cille Nilsen,no NOR,MF,Rosenborg,20-097,2006,3,3,245,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+8635628c,Eline Njøsen,Eline Njøsen,no NOR,DF,Haugesund,18-014,2008,1,0,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+305923f7,Mimmi Nurmela,Mimmi Nurmela,fi FIN,DF,LSK Kvinner,29-254,1996,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a06a7ceb,Kristine Nybru,Kristine Nybru,no NOR,DF,Haugesund,20-163,2005,3,3,270,3.0,2,1,3,2,0,0,0,0,0.67,0.33,1.00,0.67,1.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+b129d076,Rikke Nygård,Rikke Nygård,no NOR,MF,Aalesund,25-327,2000,2,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+c20dd945,Silje Nyhagen,Silje Nyhagen,no NOR,FW,Hønefoss,32-069,1994,3,3,269,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+28e8d903,Ingrid Nødland,Ingrid Nødland,no NOR,MF,Aalesund,23-316,2002,3,3,259,2.9,1,0,1,1,0,0,0,0,0.35,0.00,0.35,0.35,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+359eef03,Nora Nøss,Nora Nøss,no NOR,MF,Stabæk,20-165,2005,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+9ad61216,Tora Ose,Tora Ose,no NOR,FW,Molde,22-339,2003,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+0fb8146e,Persis Oteng,Persis Oteng,nl NED,FW,Molde,20-162,2005,1,1,67,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+7ce1314d,Andrine Outzen,Andrine Outzen,no NOR,MF,Molde,27-358,1998,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+cb3c5dd4,Sandra Pallesen-Nygård,Sandra Pallesen-Nygård,no NOR,DF,Stabæk,17-359,2008,2,2,174,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+3fd3c184,Selma Panengstuen,Selma Panengstuen,no NOR,GK,Brann,23-040,2003,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,33.3,3,3,2,0.67,0,270,0,0,0,,0,,,,1,2,Toppserien,2026
+a073be3d,Kajsa Pettersen,Kajsa Pettersen,no NOR,FW,Lyn,19-105,2006,3,1,99,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+7b5ece5f,Emma Peuhkurinen,Emma Peuhkurinen,fi FIN,MF,Brann,26-135,1999,3,3,248,2.8,0,1,1,0,0,0,0,0,0.00,0.36,0.36,0.00,0.36,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a6ba91a9,Mille Prestegaard,Mille Prestegaard,no NOR,MF,Lyn,18-048,2008,3,2,144,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+3515378a,Marie Preus,Marie Preus,no NOR,DF,Vålerenga,17-230,2008,3,0,88,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+40926fc2,Joshualyn Reeves,Joshualyn Reeves,no NOR,FW,Lyn,23-302,2002,3,2,171,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+59186ca9,Katja Rengård,Katja Rengård,no NOR,MF,Bodø/Glimt,19-029,2007,3,2,191,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+133607db,Rakel Renolen,Rakel Renolen,no NOR,DF,Aalesund,21-311,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+1124eaeb,Emma Reshane,Emma Reshane,no NOR,DF,LSK Kvinner,20-148,2005,3,3,270,3.0,1,1,2,1,0,0,0,0,0.33,0.33,0.67,0.33,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+79583715,Kaja Rosenlund,Kaja Rosenlund,no NOR,MF,Røa,21-323,2004,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+ac8b920a,Malin Rovelstad,Malin Rovelstad,no NOR,MF,Hønefoss,21-275,2004,3,1,151,1.7,0,1,1,0,0,0,0,0,0.00,0.60,0.60,0.00,0.60,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a07e3884,Rugile Rulyte,Rugile Rulyte,no NOR,GK,Rosenborg,23-281,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,100.0,1,1,0,0.00,0,90,0,0,0,,0,,,,0,1,Toppserien,2026
+dde8447b,Sædís Rún Heiðarsdóttir,Sædís Rún Heiðarsdóttir,is ISL,DF,Vålerenga,21-210,2004,3,3,265,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+f56bafad,Emilia Ruud,Emilia Ruud,no NOR,MF,Hønefoss,26-266,1999,3,3,270,3.0,1,0,1,0,1,1,0,0,0.33,0.00,0.33,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+280fe48c,Tiril Røkke,Tiril Røkke,no NOR,MF,Lyn,20-263,2005,3,1,100,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+e69c9e23,Amie Sannes,Amie Sannes,no NOR,DF,Bodø/Glimt,21-093,2005,2,2,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+5f3f3be6,Kirvil Schau Odden,Kirvil Schau Odden,no NOR,GK,Lyn,33-259,1992,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,100.0,1,1,0,0.00,0,90,0,0,0,,0,,,,1,0,Toppserien,2026
+5018ec91,Meryll Serrano,Meryll Serrano,ph PHI,MF,Haugesund,28-268,1997,3,3,241,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+fe95f168,Mia Settemsdal,Mia Settemsdal,no NOR,FW,Molde,21-147,2004,3,0,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+4d91d84c,Sunniva Skoglund,Sunniva Skoglund,no NOR,GK,Stabæk,23-327,2002,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,33.3,3,3,3,1.00,1,270,0,0,0,,0,,,,1,1,Toppserien,2026
+723da665,Klara Sporsem,Klara Sporsem,no NOR,GK,LSK Kvinner,28-151,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,3,3,7,2.33,2,270,0,0,0,,0,,,,1,0,Toppserien,2026
+bb96ea14,Oda Stålesen,Oda Stålesen,no NOR,MF,Hønefoss,25-111,2000,3,1,72,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+7c65cd74,Julie Steen,Julie Steen,no NOR,FW,Røa,17-328,2008,3,3,199,2.2,2,0,2,2,0,0,0,0,0.90,0.00,0.90,0.90,0.90,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+d3b4186b,Ingrid Stenevik,Ingrid Stenevik,no NOR,DF,Brann,31-201,1994,2,0,43,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+c5113908,Jenny Storsletten,Jenny Storsletten,no NOR,DF,Bodø/Glimt,17-078,2009,2,0,63,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+3d6f8eda,Sherifatu Sumaila,Sherifatu Sumaila,gh GHA,FW,Haugesund,29-135,1996,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+dc5ec9f2,Katarina Sunde,Katarina Sunde,no NOR,FW,Aalesund,28-151,1997,3,3,270,3.0,4,0,4,2,2,2,1,0,1.33,0.00,1.33,0.67,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+f81ef139,Sarah Suphellen,Sarah Suphellen,no NOR,DF,Røa,27-278,1998,3,3,251,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+944628e5,Kristina Svandal,Kristina Svandal,no NOR,FW,Haugesund,22-011,2004,3,3,269,3.0,1,1,2,1,0,0,2,0,0.33,0.33,0.67,0.33,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+b05bfefb,Karoline Svanes,Karoline Svanes,no NOR,DF,Rosenborg,22-046,2004,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+0458fb4f,Heidi Svang,Heidi Svang,no NOR,DF,Hønefoss,19-284,2006,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+b6c34490,Ragne Svastuen,Ragne Svastuen,no NOR,MF,Røa,25-148,2000,3,3,257,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+b2a4e076,Tomine Svendheim,Tomine Svendheim,no NOR,MF,Brann,20-043,2006,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+f2b881d9,Sara Svendsen,Sara Svendsen,no NOR,MF,Molde,18-163,2007,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+cdeef388,Marie Sæterøy,Marie Sæterøy,no NOR,DF,Aalesund,16-122,2009,2,0,49,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+c5a59c4e,Emma Sæther,Emma Sæther,no NOR,DF,Molde,18-338,2007,2,1,106,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+45e2a2e1,Karina Sævik,Karina Sævik,no NOR,"FW,MF",Vålerenga,30-021,1996,3,3,265,2.9,3,2,5,2,1,1,0,0,1.02,0.68,1.70,0.68,1.36,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+1267c7d4,Karna Sødahl,Karna Sødahl,no NOR,MF,Rosenborg,17-134,2008,3,1,125,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+a40bb336,Mathea Theting,Mathea Theting,no NOR,MF,Bodø/Glimt,19-357,2006,3,3,257,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+8238edd4,Ragne Thorleifsson,Ragne Thorleifsson,no NOR,FW,Stabæk,15-155,2010,2,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+1e8785ee,Sarah Tofft,Sarah Tofft,dk DEN,DF,LSK Kvinner,20-270,2005,2,1,101,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+8c3155f7,Daniela Tolonen,Daniela Tolonen,fi FIN,MF,Haugesund,21-262,2004,3,3,269,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+d9d91ef0,Silja Tuominen,Silja Tuominen,fi FIN,MF,Molde,26-181,1999,3,3,270,3.0,0,1,1,0,0,0,1,0,0.00,0.33,0.33,0.00,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+084037e0,Joanna Tynnilä,Joanna Tynnilä,fi FIN,DF,Brann,24-225,2001,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.00,0.33,0.33,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+3977ae4a,Elle Ulstein,Elle Ulstein,no NOR,MF,Røa,18-328,2007,3,1,131,1.5,1,0,1,1,0,0,0,0,0.69,0.00,0.69,0.69,0.69,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+f76790b0,Eivor Ulvund,Eivor Ulvund,no NOR,FW,Rosenborg,22-010,2004,3,3,263,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+c7d03314,Helmi Vapola,Helmi Vapola,fi FIN,DF,Molde,23-290,2002,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+58834d53,Karna Vestavik,Karna Vestavik,no NOR,MF,Molde,17-151,2008,3,2,189,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+955ee74c,Linn Vickius,Linn Vickius,se SWE,MF,Vålerenga,26-011,2000,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+e0757fa3,Karen Vistnes,Karen Vistnes,no NOR,DF,Stabæk,26-255,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+249ab215,Ilona Walta,Ilona Walta,fi FIN,MF,Molde,20-099,2006,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+1f98393f,Linnea Wang,Linnea Wang,no NOR,MF,Vålerenga,18-198,2007,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+15f935e4,Ida Warvik,Ida Warvik,no NOR,FW,Molde,19-279,2006,2,2,106,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+cac1a6e0,Martine Wæhler,Martine Wæhler,no NOR,FW,Røa,15-200,2010,2,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+bd858485,Diljá Zomers,Diljá Zomers,is ISL,FW,Brann,24-154,2001,3,2,149,1.7,1,2,3,1,0,0,0,0,0.60,1.21,1.81,0.60,1.81,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+56b9e4bb,Sandra Østenstad,Sandra Østenstad,no NOR,MF,Haugesund,22-043,2004,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2026
+8f5fa9e1,Anna Aahjem,Anna Aahjem,no NOR,MF,Brann,25,2000,5,5,291,3.2,5,0,5,4,1,1,0,0,1.55,0.00,1.55,1.24,1.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+fa364baa,Vilde Aasprang,Vilde Aasprang,no NOR,MF,Lyn,21,2004,27,27,"2,430",27.0,1,1,2,1,0,0,2,0,0.04,0.04,0.07,0.04,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+89e9beca,Carina Alfredsen,Carina Alfredsen,no NOR,MF,LSK Kvinner,18,2006,26,19,"1,790",19.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+cacecdd6,Malene Alfredsen,Malene Alfredsen,no NOR,FW,Røa,20,2004,3,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+8c084de2,Emma Amundsen,Emma Amundsen,no NOR,DF,Lyn,21,2003,17,8,818,9.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+cfa0b773,Andrea Anderdal,Andrea Anderdal,no NOR,MF,Stabæk,28,1996,26,8,977,10.9,1,1,2,1,0,0,0,0,0.09,0.09,0.18,0.09,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+52503c88,Tilde Andersson,Tilde Andersson,no NOR,MF,LSK Kvinner,17,2007,9,0,189,2.1,1,2,3,1,0,0,0,0,0.48,0.95,1.43,0.48,1.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b9d1f41c,Liz Anton,Liz Anton,nz NZL,DF,Kolbotn,26,1998,25,25,"2,250",25.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+508e60fe,Ronja Arnesen,Ronja Arnesen,no NOR,MF,LSK Kvinner,18,2006,7,7,601,6.7,2,2,4,2,0,0,0,0,0.30,0.30,0.60,0.30,0.60,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+05443947,Ronja Aronsson,Ronja Aronsson,se SWE,DF,Vålerenga,27,1997,20,10,926,10.3,3,3,6,3,0,0,0,0,0.29,0.29,0.58,0.29,0.58,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+6e36d969,Marie Aspenes,Marie Aspenes,no NOR,GK,Bodø/Glimt,25,1999,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,4,4,14,3.50,4,360,3,3,0,0.0,0,,,,0,0,Toppserien,2025
+d67759d6,Synne Aunehaugen,Synne Aunehaugen,no NOR,DF,Rosenborg,20,2004,26,26,"2,340",26.0,3,1,4,2,1,1,4,0,0.12,0.04,0.15,0.08,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a75e514a,Mia Authen,Mia Authen,no NOR,FW,Brann,22,2002,26,25,"2,142",23.8,0,1,1,0,0,0,0,0,0.00,0.04,0.04,0.00,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+3edd296f,Anja Avdal,Anja Avdal,no NOR,MF,Hønefoss,26,1998,12,1,160,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+12590293,Emma Behrns,Emma Behrns,no NOR,GK,Bodø/Glimt,20,2004,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,5,2.50,2,180,0,0,0,,0,,,,0,0,Toppserien,2025
+4cdda8e0,Aida Berg,Aida Berg,no NOR,MF,Kolbotn,16,2008,16,11,990,11.0,1,0,1,1,0,0,1,0,0.09,0.00,0.09,0.09,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+67e414a5,Sara Berg,Sara Berg,no NOR,MF,Bodø/Glimt,22,2002,12,7,728,8.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+0734b5bb,Mathea Berg-Solemdal,Mathea Berg-Solemdal,no NOR,MF,Stabæk,18,2006,26,23,"1,882",20.9,0,3,3,0,0,0,1,0,0.00,0.14,0.14,0.00,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+f7130374,Mathea Berget,Mathea Berget,no NOR,MF,Lyn,22,2002,2,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+95ce8d1a,Anna Bergman-Lundin,Anna Bergman-Lundin,se SWE,MF,Vålerenga,25,1999,7,3,291,3.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+6799e73d,Elisa Berisha,Elisa Berisha,no NOR,MF,Røa,16,2009,17,6,634,7.0,2,0,2,2,0,0,0,0,0.28,0.00,0.28,0.28,0.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+c216ad18,Ine Berre,Ine Berre,no NOR,FW,Rosenborg,21,2003,19,13,"1,029",11.4,4,5,9,4,0,0,0,0,0.35,0.44,0.79,0.35,0.79,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+eaf1424a,Josefine Birkelund,Josefine Birkelund,no NOR,DF,Lyn,20,2004,13,11,946,10.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+eaf1424a,Josefine Birkelund,Josefine Birkelund,no NOR,DF,Lyn,20,2004,13,11,946,10.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+eaf1424a,Josefine Birkelund,Josefine Birkelund,no NOR,DF,Brann,20,2004,7,4,466,5.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+eaf1424a,Josefine Birkelund,Josefine Birkelund,no NOR,DF,Brann,20,2004,7,4,466,5.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b1062904,Thea Bjelde,Thea Bjelde,no NOR,DF,Vålerenga,24,2000,12,12,870,9.7,2,0,2,2,0,0,0,0,0.21,0.00,0.21,0.21,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+459b2800,Sara Bjerksæter,Sara Bjerksæter,no NOR,FW,LSK Kvinner,28,1996,16,2,448,5.0,2,4,6,2,0,0,0,0,0.40,0.80,1.21,0.40,1.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+4fb39837,Silje Bjørneboe,Silje Bjørneboe,no NOR,DF,Stabæk,24,2000,25,22,"1,996",22.2,1,1,2,1,0,0,0,0,0.05,0.05,0.09,0.05,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+61fd8d8e,Sigrid Bloch-Hansen,Sigrid Bloch-Hansen,no NOR,DF,Røa,25,1999,11,7,679,7.5,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+380e061e,Cassandra Bogere,Cassandra Bogere,no NOR,MF,Brann,19,2005,22,13,"1,176",13.1,2,0,2,2,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+aec0bd28,Signe Boysen,Signe Boysen,dk DEN,MF,Røa,28,1996,9,4,381,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+de0fa0ff,Erla Braathen,Erla Braathen,no NOR,GK,Hønefoss,15,2009,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,3,3.00,1,90,1,1,0,0.0,0,,,,0,0,Toppserien,2025
+dd0075a4,Stine Brekken,Stine Brekken,no NOR,MF,Vålerenga,20,2004,19,11,941,10.5,0,2,2,0,0,0,0,0,0.00,0.19,0.19,0.00,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+12205559,Iselin Brualøkken,Iselin Brualøkken,no NOR,FW,Kolbotn,17,2007,9,1,110,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+6daa1dfc,Kristina Brudvik,Kristina Brudvik,no NOR,FW,Bodø/Glimt,24,2000,27,27,"2,378",26.4,2,1,3,2,0,0,1,0,0.08,0.04,0.11,0.08,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+17022475,Emma Brunes,Emma Brunes,no NOR,DF,LSK Kvinner,21,2003,13,12,"1,097",12.2,1,0,1,1,0,0,1,0,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+db21e9e0,Synne Brønstad,Synne Brønstad,no NOR,FW,Rosenborg,21,2003,19,6,777,8.6,1,2,3,1,0,0,1,0,0.12,0.23,0.35,0.12,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+6f1efbd3,Andrea Buberg,Andrea Buberg,no NOR,MF,Rosenborg,17,2007,21,18,"1,584",17.6,0,1,1,0,0,0,0,0,0.00,0.06,0.06,0.00,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+7d7a2349,Tale Buvarp,Tale Buvarp,no NOR,DF,Røa,19,2005,11,0,147,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+cd6a7d35,Emilie Bølviken,Emilie Bølviken,no NOR,DF,Stabæk,24,2000,27,27,"2,419",26.9,2,2,4,2,0,0,3,0,0.07,0.07,0.15,0.07,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+876eae35,Claudia Cagnina,Claudia Cagnina,pe PER,MF,Bodø/Glimt,27,1997,27,25,"2,298",25.5,2,1,3,2,0,0,3,0,0.08,0.04,0.12,0.08,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+e9a94833,Olivia Chance,Olivia Chance,nz NZL,"FW,MF",Kolbotn,31,1993,26,24,"2,036",22.6,0,3,3,0,0,0,3,0,0.00,0.13,0.13,0.00,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+15b6e91c,Emma Christensen,Emma Christensen,no NOR,MF,Bodø/Glimt,17,2007,4,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+1e05af23,Lene Christensen,Lene Christensen,dk DEN,GK,Rosenborg,24,2000,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,40.0,5,5,4,0.80,0,450,0,0,0,,0,,,,0,5,Toppserien,2025
+bbd8912f,Mille Christensen,Mille Christensen,no NOR,MF,LSK Kvinner,20,2004,17,14,"1,221",13.6,6,2,8,4,2,2,1,0,0.44,0.15,0.59,0.29,0.44,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b9222d3c,Aubrei Corder,Aubrei Corder,us USA,GK,Bodø/Glimt,26,1998,21,21,"1,890",21.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,19.0,21,21,44,2.10,13,"1,890",1,1,0,0.0,0,,,,2,6,Toppserien,2025
+84fe1274,Luana Cotrau,Luana Cotrau,no NOR,FW,LSK Kvinner,17,2007,2,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+831620fc,Anya de Courcy,Anya de Courcy,tt TRI,FW,Røa,27,1997,27,24,"2,188",24.3,1,0,1,1,0,0,3,0,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ccb2b7ef,Jeong Dabin,Jeong Dabin,kr KOR,FW,Stabæk,19,2005,3,3,223,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+001e9808,Hanna Dahl,Hanna Dahl,no NOR,MF,Rosenborg,29,1995,17,9,924,10.3,1,3,4,1,0,0,3,0,0.10,0.29,0.39,0.10,0.39,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+4cbd25c8,Lauren Davidson,Lauren Davidson,sct SCO,FW,Brann,23,2001,25,24,"2,047",22.7,15,14,29,13,2,2,2,0,0.66,0.62,1.28,0.57,1.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+bea4516b,Lise Dissing,Lise Dissing,dk DEN,FW,Bodø/Glimt,23,2001,25,22,"1,756",19.5,4,0,4,4,0,0,1,0,0.21,0.00,0.21,0.21,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+99b976aa,Savanna Duffy,Savanna Duffy,no NOR,GK,Kolbotn,20,2004,27,27,"2,421",26.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,11.1,27,27,68,2.53,20,"2,421",4,4,0,0.0,0,,,,2,5,Toppserien,2025
+a669f6bd,Malene Dunsby,Malene Dunsby,no NOR,MF,Hønefoss,20,2004,27,23,"1,712",19.0,2,0,2,2,0,0,0,0,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+c76b0849,Siw Døvle,Siw Døvle,no NOR,FW,Røa,26,1998,3,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+f9ee8fc0,Sara Eggesvik,Sara Eggesvik,ph PHI,MF,LSK Kvinner,27,1997,13,6,604,6.7,1,0,1,1,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+8bf68447,Nora Eide Lie,Nora Eide Lie,no NOR,MF,Brann,27,1997,7,6,388,4.3,4,1,5,4,0,0,1,0,0.93,0.23,1.16,0.93,1.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+e9c71e6d,Amalie Eikeland,Amalie Eikeland,no NOR,"FW,MF",Brann,29,1995,26,23,"1,919",21.3,11,10,21,11,0,0,0,0,0.52,0.47,0.98,0.52,0.98,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+c2d7644a,Arna Eiríksdóttir,Arna Eiríksdóttir,is ISL,DF,Vålerenga,22,2002,7,6,516,5.7,1,0,1,1,0,0,0,0,0.17,0.00,0.17,0.17,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+09dc9a49,Hanna Ellingsen,Hanna Ellingsen,no NOR,MF,Røa,22,2002,20,18,"1,604",17.8,0,1,1,0,0,0,3,0,0.00,0.06,0.06,0.00,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+8bf60ef6,Heidi Ellingsen,Heidi Ellingsen,no NOR,MF,Brann,26,1998,16,1,344,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+c7394ff5,Lea Ellingsen,Lea Ellingsen,no NOR,DF,Kolbotn,16,2008,23,22,"1,888",21.0,2,0,2,2,0,0,0,0,0.10,0.00,0.10,0.10,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+19781019,Kaia Elverum,Kaia Elverum,no NOR,MF,Røa,19,2005,1,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+322314e6,Tove Enblom,Tove Enblom,se SWE,GK,Vålerenga,30,1994,20,20,"1,800",20.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,11,55.0,20,20,17,0.85,4,"1,800",0,0,0,,0,,,,1,15,Toppserien,2025
+dabf0cdb,Solveig Engås,Solveig Engås,no NOR,DF,Røa,23,2001,27,27,"2,359",26.2,2,1,3,0,2,2,3,0,0.08,0.04,0.11,0.00,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+55b17a80,Tomine Enger,Tomine Enger,no NOR,MF,Vålerenga,16,2008,10,1,274,3.0,0,1,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a4a8c6da,Thiril Erichsen,Thiril Erichsen,no NOR,GK,Vålerenga,20,2004,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,5,71.4,7,7,2,0.29,0,630,0,0,0,,0,,,,0,7,Toppserien,2025
+d88ad730,Tonje Erikstein,Tonje Erikstein,no NOR,MF,LSK Kvinner,30,1994,24,17,"1,518",16.9,3,6,9,3,0,0,1,0,0.18,0.36,0.53,0.18,0.53,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+01918077,Siri Ervik,Siri Ervik,no NOR,GK,Hønefoss,29,1995,26,26,"2,340",26.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,15.4,26,26,53,2.04,14,"2,340",2,2,0,0.0,0,,,,5,7,Toppserien,2025
+c38e5a52,Cecilie Falch,Cecilie Falch,no NOR,FW,Bodø/Glimt,28,1996,25,22,"1,882",20.9,3,3,6,3,0,0,0,0,0.14,0.14,0.29,0.14,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+badff2f7,Martine Falkeid,Martine Falkeid,no NOR,DF,Hønefoss,25,1999,21,3,619,6.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+657f6eb5,Regina Fiabema,Regina Fiabema,no NOR,FW,Bodø/Glimt,25,1999,7,5,420,4.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+f93b1aad,Maria Fink,Maria Fink,no NOR,DF,Lyn,21,2004,25,21,"1,862",20.7,1,0,1,1,0,0,1,0,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+8444cfea,Emilie Finnevolden,Emilie Finnevolden,no NOR,FW,Røa,32,1992,3,0,51,0.6,1,0,1,1,0,0,0,0,1.76,0.00,1.76,1.76,1.76,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+c4d62574,Cornelia Fladberg,Cornelia Fladberg,no NOR,MF,Lyn,23,2001,27,23,"2,164",24.0,3,0,3,3,0,0,1,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+5f74615c,Tiril Flokketveit,Tiril Flokketveit,no NOR,DF,Stabæk,21,2003,3,3,265,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+e6dd0a9a,Mille Flø,Mille Flø,no NOR,DF,Stabæk,16,2008,23,23,"2,070",23.0,4,0,4,4,0,0,1,0,0.17,0.00,0.17,0.17,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b2105978,Mina Folland,Mina Folland,no NOR,MF,Røa,19,2005,25,25,"2,033",22.6,3,1,4,3,0,0,1,0,0.13,0.04,0.18,0.13,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+8295c691,Maren Fuglås,Maren Fuglås,no NOR,MF,Rosenborg,16,2008,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+2f7ef93a,Oline Fuglem,Oline Fuglem,no NOR,MF,Rosenborg,23,2001,26,26,"2,308",25.6,7,1,8,7,0,0,1,0,0.27,0.04,0.31,0.27,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+c640d632,Luisa Galteland,Luisa Galteland,no NOR,MF,Lyn,17,2007,19,8,780,8.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+0e02f970,Sigrid Gamst,Sigrid Gamst,no NOR,MF,Kolbotn,15,2009,20,20,"1,747",19.4,2,3,5,2,0,0,2,0,0.10,0.15,0.26,0.10,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+2cdb3ea1,Leah Garen,Leah Garen,no NOR,MF,Brann,18,2006,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+e3287bb5,Signe Gaupset,Signe Gaupset,no NOR,MF,Brann,19,2005,26,25,"2,091",23.2,15,14,29,14,1,1,4,0,0.65,0.60,1.25,0.60,1.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+2f031e78,Anna Grindhaug,Anna Grindhaug,no NOR,MF,Stabæk,18,2006,5,0,85,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+efa9292a,Kristin Gumaer,Kristin Gumaer,no NOR,FW,Hønefoss,23,2001,25,24,"2,158",24.0,2,2,4,2,0,0,5,1,0.08,0.08,0.17,0.08,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+91ad876e,Ida Habbestad,Ida Habbestad,no NOR,MF,Lyn,20,2004,13,3,395,4.4,1,0,1,1,0,0,2,0,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+8d48cdbc,Tiril Haga,Tiril Haga,no NOR,FW,Kolbotn,27,1998,27,25,"2,151",23.9,4,3,7,4,0,0,1,0,0.17,0.13,0.29,0.17,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a253c758,Nora Håheim,Nora Håheim,no NOR,FW,Lyn,22,2002,18,18,"1,503",16.7,0,7,7,0,0,0,3,1,0.00,0.42,0.42,0.00,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+d63cf928,Heidi Halbmayr,Heidi Halbmayr,no NOR,FW,Brann,16,2008,2,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+91149117,Celia Halvorsen,Celia Halvorsen,no NOR,MF,Stabæk,17,2008,15,6,571,6.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a31c14a6,Synne Hamborg,Synne Hamborg,no NOR,MF,Hønefoss,24,2000,26,26,"2,300",25.6,3,7,10,2,1,1,2,0,0.12,0.27,0.39,0.08,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+beb934a9,Lærke Hammer,Lærke Hammer,dk DEN,DF,Bodø/Glimt,22,2003,24,18,"1,680",18.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+c605c210,Guro Hammer Røn,Guro Hammer Røn,no NOR,FW,Stabæk,20,2004,26,20,"1,744",19.4,6,2,8,6,0,0,1,0,0.31,0.10,0.41,0.31,0.41,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+2de15ed7,Jacqui Hand,Jacqui Hand,nz NZL,FW,Kolbotn,25,1999,12,12,"1,015",11.3,4,2,6,4,0,0,3,0,0.35,0.18,0.53,0.35,0.53,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+5e23b0e1,Lena Hansen,Lena Hansen,no NOR,DF,Stabæk,30,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+3a9aa6a1,Synne Hansen,Synne Hansen,no NOR,MF,Vålerenga,29,1995,9,6,481,5.3,1,1,2,1,0,0,0,0,0.19,0.19,0.37,0.19,0.37,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+cce9dcf1,Ida Hasselgård,Ida Hasselgård,no NOR,MF,Røa,22,2002,26,26,"2,234",24.8,3,2,5,2,1,1,1,0,0.12,0.08,0.20,0.08,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b4e22068,Carol Haug,Carol Haug,no NOR,MF,Hønefoss,14,2010,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ae427ec9,Ingrid Haug,Ingrid Haug,no NOR,DF,Hønefoss,23,2001,24,9,858,9.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+885a8f3a,Thale Hauge,Thale Hauge,no NOR,DF,Bodø/Glimt,17,2007,10,3,254,2.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+644da5e4,Ingrid Haugen,Ingrid Haugen,no NOR,DF,Kolbotn,17,2007,7,2,225,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+9fd10a3b,Eline Hegg,Eline Hegg,no NOR,MF,Vålerenga,23,2001,27,20,"1,787",19.9,1,4,5,1,0,0,0,0,0.05,0.20,0.25,0.05,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+57620ccb,Karoline Heimvik Haugland,Karoline Heimvik Haugland,no NOR,MF,Brann,26,1998,25,25,"1,965",21.8,2,4,6,2,0,0,3,0,0.09,0.18,0.27,0.09,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b1d089f9,Silje Helgesen,Silje Helgesen,no NOR,DF,Stabæk,20,2004,24,24,"2,149",23.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a5a0d4c0,Selma Hernes,Selma Hernes,no NOR,MF,Stabæk,24,2000,13,8,718,8.0,0,1,1,0,0,0,0,0,0.00,0.13,0.13,0.00,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+dbf925d5,Christina Herseth,Christina Herseth,no NOR,MF,LSK Kvinner,16,2008,16,3,455,5.1,3,0,3,3,0,0,1,0,0.59,0.00,0.59,0.59,0.59,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b61d786c,Diana Hilhorst,Diana Hilhorst,nl NED,DF,Kolbotn,20,2004,7,5,426,4.7,0,1,1,0,0,0,0,0,0.00,0.21,0.21,0.00,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b3851f21,Kaia Hjelmhaug,Kaia Hjelmhaug,no NOR,MF,LSK Kvinner,18,2006,26,17,"1,333",14.8,4,4,8,4,0,0,1,0,0.27,0.27,0.54,0.27,0.54,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+151789eb,Marte Hjelmhaug,Marte Hjelmhaug,no NOR,DF,LSK Kvinner,25,1999,24,22,"1,815",20.2,1,0,1,1,0,0,2,0,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+6c833e8d,Tuva Hodne,Tuva Hodne,no NOR,MF,Røa,21,2003,5,5,405,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+12f5119c,Mie Hoem,Mie Hoem,no NOR,FW,Stabæk,15,2009,4,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+cd04c640,Kristin Holmen,Kristin Holmen,no NOR,MF,Lyn,24,2000,25,25,"2,193",24.4,1,3,4,1,0,0,4,0,0.04,0.12,0.16,0.04,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+e532dae6,Andrea Holmstrøm,Andrea Holmstrøm,no NOR,DF,LSK Kvinner,25,1999,12,11,927,10.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+268bb48b,Rebecka Holum,Rebecka Holum,no NOR,MF,Rosenborg,28,1996,27,23,"1,882",20.9,6,8,14,6,0,0,3,0,0.29,0.38,0.67,0.29,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+1b880004,Camilla Huseby,Camilla Huseby,no NOR,DF,Kolbotn,25,1999,14,14,"1,221",13.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+d0b04c94,Linn Huseby,Linn Huseby,no NOR,MF,Kolbotn,25,1999,16,12,"1,134",12.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+17ad3dde,Anastasia Høgevold,Anastasia Høgevold,no NOR,MF,Stabæk,20,2004,4,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+781174de,Sara Hørte,Sara Hørte,no NOR,DF,Vålerenga,24,2000,20,18,"1,597",17.7,4,2,6,4,0,0,1,0,0.23,0.11,0.34,0.23,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ce73af03,Naina Inauen,Naina Inauen,ch SUI,MF,Lyn,24,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ce73af03,Naina Inauen,Naina Inauen,ch SUI,MF,Lyn,24,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ce73af03,Naina Inauen,Naina Inauen,ch SUI,MF,Vålerenga,24,2000,25,17,"1,568",17.4,1,2,3,1,0,0,3,0,0.06,0.11,0.17,0.06,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ce73af03,Naina Inauen,Naina Inauen,ch SUI,MF,Vålerenga,24,2000,25,17,"1,568",17.4,1,2,3,1,0,0,3,0,0.06,0.11,0.17,0.06,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+5b8f1d01,Monica Isaksen,Monica Isaksen,no NOR,FW,Brann,21,2003,26,15,"1,402",15.6,10,7,17,10,0,0,1,0,0.64,0.45,1.09,0.64,1.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+780cfb00,Imani Jenkins,Imani Jenkins,us USA,FW,Bodø/Glimt,22,2002,13,10,795,8.8,3,0,3,3,0,0,2,0,0.34,0.00,0.34,0.34,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b99ec83d,Anna Johansen,Anna Johansen,no NOR,FW,Bodø/Glimt,23,2001,27,22,"1,954",21.7,1,1,2,1,0,1,1,0,0.05,0.05,0.09,0.05,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+33b68c80,Gerd Johansen,Gerd Johansen,no NOR,FW,Bodø/Glimt,17,2007,27,10,"1,078",12.0,2,1,3,2,0,0,0,0,0.17,0.08,0.25,0.17,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+f8b9aea1,Oda Johansen,Oda Johansen,no NOR,MF,LSK Kvinner,20,2004,14,14,"1,204",13.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+08d57748,Maren Johnsen,Maren Johnsen,no NOR,FW,Brann,17,2007,8,0,112,1.2,4,0,4,4,0,0,0,0,3.21,0.00,3.21,3.21,3.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+aa283259,Amanda Johnsson Haahr,Amanda Johnsson Haahr,se SWE,MF,LSK Kvinner,28,1996,14,11,914,10.2,3,2,5,3,0,0,3,0,0.30,0.20,0.49,0.30,0.49,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+aa283259,Amanda Johnsson Haahr,Amanda Johnsson Haahr,se SWE,MF,LSK Kvinner,28,1996,14,11,914,10.2,3,2,5,3,0,0,3,0,0.30,0.20,0.49,0.30,0.49,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+aa283259,Amanda Johnsson Haahr,Amanda Johnsson Haahr,se SWE,MF,Stabæk,28,1996,11,8,660,7.3,2,2,4,2,0,0,0,0,0.27,0.27,0.55,0.27,0.55,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+aa283259,Amanda Johnsson Haahr,Amanda Johnsson Haahr,se SWE,MF,Stabæk,28,1996,11,8,660,7.3,2,2,4,2,0,0,0,0,0.27,0.27,0.55,0.27,0.55,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+05f591ed,Erle Jonsson,Erle Jonsson,no NOR,MF,Røa,15,2009,8,3,378,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+6839d2b2,Selma Jordfald,Selma Jordfald,no NOR,DF,Røa,17,2007,3,0,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+88758e9c,Ane Jørgensen,Ane Jørgensen,no NOR,DF,Hønefoss,18,2006,24,22,"1,820",20.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+2981d824,Linea Kessler-Hansen,Linea Kessler-Hansen,no NOR,MF,Kolbotn,16,2009,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+fc08a9cd,Lina Klech,Lina Klech,no NOR,DF,Vålerenga,20,2004,2,0,48,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a2af3ccd,Milena Kokosz,Milena Kokosz,pl POL,MF,Rosenborg,23,2001,13,12,979,10.9,1,2,3,1,0,0,1,0,0.09,0.18,0.28,0.09,0.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+013cfd30,Elida Kolbjørnsen,Elida Kolbjørnsen,no NOR,MF,Stabæk,16,2008,4,0,52,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ef77e0dd,Michaela Kovacs,Michaela Kovacs,us USA,DF,Vålerenga,27,1997,26,23,"2,009",22.3,3,0,3,3,0,0,0,0,0.13,0.00,0.13,0.13,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ae604515,Maria Kroken,Maria Kroken,no NOR,GK,Lyn,17,2008,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,5,2.50,1,180,0,0,0,,0,,,,1,0,Toppserien,2025
+db801ba3,Sofia Krossøy,Sofia Krossøy,no NOR,MF,Røa,25,1999,27,27,"2,417",26.9,2,0,2,2,0,0,2,0,0.07,0.00,0.07,0.07,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+6528eefd,Mathilde Kruse,Mathilde Kruse,dk DEN,MF,Brann,29,1996,14,2,555,6.2,1,0,1,1,0,0,0,0,0.16,0.00,0.16,0.16,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+9d8d9f54,Cecilie Kvamme,Cecilie Kvamme,no NOR,DF,Brann,29,1995,9,5,454,5.0,0,3,3,0,0,0,0,0,0.00,0.59,0.59,0.00,0.59,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b119eb29,Thea Kyvåg,Thea Kyvåg,no NOR,MF,LSK Kvinner,21,2004,19,19,"1,693",18.8,4,5,9,4,0,0,1,0,0.21,0.27,0.48,0.21,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+9e76e96d,Fanny Lång,Fanny Lång,se SWE,DF,Stabæk,28,1996,5,3,237,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+7d760f99,Henriette de Lange,Henriette de Lange,no NOR,DF,Stabæk,18,2006,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+e38c8492,Una Langkås,Una Langkås,no NOR,GK,Røa,21,2003,5,5,450,5.0,0,1,1,0,0,0,1,0,0.00,0.20,0.20,0.00,0.20,Matches,,,,,,,,3,42.9,7,7,11,1.57,4,630,1,2,1,0.0,0,,,,2,1,Toppserien,2025
+e38c8492,Una Langkås,Una Langkås,no NOR,GK,Røa,21,2003,5,5,450,5.0,0,1,1,0,0,0,1,0,0.00,0.20,0.20,0.00,0.20,Matches,,,,,,,,0,0.0,5,5,10,2.00,4,450,0,0,0,,0,,,,0,1,Toppserien,2025
+e38c8492,Una Langkås,Una Langkås,no NOR,GK,Røa,21,2003,5,5,450,5.0,0,1,1,0,0,0,1,0,0.00,0.20,0.20,0.00,0.20,Matches,,,,,,,,3,42.9,7,7,11,1.57,4,630,1,2,1,0.0,0,,,,2,1,Toppserien,2025
+e38c8492,Una Langkås,Una Langkås,no NOR,GK,Røa,21,2003,5,5,450,5.0,0,1,1,0,0,0,1,0,0.00,0.20,0.20,0.00,0.20,Matches,,,,,,,,0,0.0,5,5,10,2.00,4,450,0,0,0,,0,,,,0,1,Toppserien,2025
+e38c8492,Una Langkås,Una Langkås,no NOR,GK,Lyn,21,2003,7,7,630,7.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,42.9,7,7,11,1.57,4,630,1,2,1,0.0,0,,,,2,1,Toppserien,2025
+e38c8492,Una Langkås,Una Langkås,no NOR,GK,Lyn,21,2003,7,7,630,7.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,5,5,10,2.00,4,450,0,0,0,,0,,,,0,1,Toppserien,2025
+e38c8492,Una Langkås,Una Langkås,no NOR,GK,Lyn,21,2003,7,7,630,7.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,42.9,7,7,11,1.57,4,630,1,2,1,0.0,0,,,,2,1,Toppserien,2025
+e38c8492,Una Langkås,Una Langkås,no NOR,GK,Lyn,21,2003,7,7,630,7.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,5,5,10,2.00,4,450,0,0,0,,0,,,,0,1,Toppserien,2025
+4dde230b,Celine Larsen,Celine Larsen,no NOR,FW,Hønefoss,23,2001,10,1,224,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+0890f214,Josefine Lefdal,Josefine Lefdal,no NOR,FW,Kolbotn,17,2007,15,7,714,7.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+e7e8f037,Nea Lehtola,Nea Lehtola,fi FIN,DF,Brann,26,1998,27,26,"2,037",22.6,4,7,11,4,0,0,1,0,0.18,0.31,0.49,0.18,0.49,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+c125174e,Kristine Leine,Kristine Leine,no NOR,DF,Rosenborg,28,1996,12,9,819,9.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a42bdc5a,Sara Lepore,Sara Lepore,no NOR,MF,LSK Kvinner,15,2009,3,0,17,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+cf1be2f4,Amalie Lia,Amalie Lia,no NOR,DF,Kolbotn,16,2008,19,7,765,8.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+c8a2818f,Selma Lie,Selma Lie,no NOR,MF,Stabæk,17,2007,5,2,130,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+898c051e,Mali Lilleås Næss,Mali Lilleås Næss,no NOR,DF,Rosenborg,30,1994,11,4,483,5.4,1,1,2,1,0,0,1,0,0.19,0.19,0.37,0.19,0.37,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+48ed420a,Camilla Linberg,Camilla Linberg,no NOR,MF,Kolbotn,25,1999,19,17,"1,538",17.1,9,2,11,8,1,1,4,0,0.53,0.12,0.64,0.47,0.59,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+cc27a51a,Tilde Lindwall,Tilde Lindwall,se SWE,MF,Vålerenga,23,2001,10,4,376,4.2,2,1,3,2,0,0,0,0,0.48,0.24,0.72,0.48,0.72,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a73dc07b,Thea Loennecken,Thea Loennecken,no NOR,MF,Stabæk,22,2002,15,13,"1,189",13.2,0,3,3,0,0,0,0,0,0.00,0.23,0.23,0.00,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+fdd81a25,Brenna Lovera,Brenna Lovera,us USA,FW,Brann,27,1997,13,8,782,8.7,13,2,15,13,0,0,0,0,1.50,0.23,1.73,1.50,1.73,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+692a8fce,Matilde Lundorf,Matilde Lundorf,dk DEN,DF,Vålerenga,26,1999,2,2,158,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+3533e969,Margaux Lægreid,Margaux Lægreid,no NOR,GK,Kolbotn,22,2002,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,,1,0,0,0.00,0,9,0,0,0,,0,,,,0,0,Toppserien,2025
+e3948285,Milla-Maj Majasaari,Milla-Maj Majasaari,fi FIN,GK,Røa,25,1999,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,5,5,11,2.20,4,450,3,3,0,0.0,0,,,,1,0,Toppserien,2025
+4dabb464,Aada Mäkelä,Aada Mäkelä,fi FIN,MF,LSK Kvinner,17,2007,13,12,946,10.5,4,2,6,4,0,0,0,0,0.38,0.19,0.57,0.38,0.57,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+0c993cdb,Liliana Malloul,Liliana Malloul,no NOR,MF,Kolbotn,17,2007,18,11,"1,090",12.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a3a55124,Anna Malmin,Anna Malmin,no NOR,FW,Stabæk,17,2007,21,3,462,5.1,1,1,2,1,0,0,0,0,0.19,0.19,0.39,0.19,0.39,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+28a7ed92,Jasmin Mansaray,Jasmin Mansaray,fi FIN,DF,LSK Kvinner,20,2004,13,13,"1,130",12.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a77da993,Beate Marcussen,Beate Marcussen,dk DEN,MF,Rosenborg,25,1999,26,21,"1,909",21.2,4,4,8,4,0,0,2,0,0.19,0.19,0.38,0.19,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b85b5cb9,Synne Masdal,Synne Masdal,no NOR,DF,Hønefoss,23,2001,27,24,"2,153",23.9,4,0,4,4,0,0,3,0,0.17,0.00,0.17,0.17,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+aeac8681,Kanna Matsuhisa,Kanna Matsuhisa,jp JPN,MF,Kolbotn,22,2002,23,23,"2,032",22.6,4,1,5,3,1,1,5,0,0.18,0.04,0.22,0.13,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+90cb30a4,Maia Melgård,Maia Melgård,no NOR,FW,Lyn,15,2009,14,8,606,6.7,1,2,3,1,0,0,0,0,0.15,0.30,0.45,0.15,0.45,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+33217bf7,Sofia Mendelin-Norebø,Sofia Mendelin-Norebø,no NOR,MF,LSK Kvinner,15,2009,3,0,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+5ffb6b3d,Thea Mikkelsen,Thea Mikkelsen,no NOR,MF,Lyn,21,2003,25,15,"1,465",16.3,1,1,2,1,0,0,2,0,0.06,0.06,0.12,0.06,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+14ce2b2b,Synne Moe,Synne Moe,no NOR,MF,Bodø/Glimt,22,2002,26,24,"2,037",22.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+bdb26995,Marwa El Mrizak,Marwa El Mrizak,no NOR,MF,Kolbotn,21,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+6cd13242,Ida Natvik,Ida Natvik,no NOR,FW,Stabæk,19,2005,26,18,"1,476",16.4,3,1,4,3,0,0,4,0,0.18,0.06,0.24,0.18,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+142f80d3,Celine Nergård,Celine Nergård,no NOR,FW,Rosenborg,25,1999,24,17,"1,557",17.3,11,2,13,11,0,0,0,0,0.64,0.12,0.75,0.64,0.75,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+d2e12991,Ida Neset,Ida Neset,no NOR,MF,Bodø/Glimt,21,2003,13,11,922,10.2,1,3,4,1,0,0,0,0,0.10,0.29,0.39,0.10,0.39,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+450ca780,Martine Ness,Martine Ness,no NOR,MF,Hønefoss,24,2000,3,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+727bfae1,Cille Nilsen,Cille Nilsen,no NOR,MF,Rosenborg,19,2006,11,8,658,7.3,4,1,5,3,1,1,0,0,0.55,0.14,0.68,0.41,0.55,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+91898ed1,Ebba Niss,Ebba Niss,no NOR,MF,Kolbotn,16,2008,21,16,"1,457",16.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+2b776577,Agnes Nyberg,Agnes Nyberg,se SWE,MF,Rosenborg,24,2000,16,15,"1,266",14.1,1,3,4,1,0,0,6,1,0.07,0.21,0.28,0.07,0.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b129d076,Rikke Nygård,Rikke Nygård,no NOR,MF,LSK Kvinner,24,2000,7,3,347,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+7361d372,Mari Nyhagen,Mari Nyhagen,no NOR,FW,LSK Kvinner,20,2004,27,26,"2,011",22.3,8,8,16,8,0,0,2,0,0.36,0.36,0.72,0.36,0.72,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+c20dd945,Silje Nyhagen,Silje Nyhagen,no NOR,FW,Hønefoss,30,1994,27,26,"2,286",25.4,8,3,11,8,0,0,1,0,0.31,0.12,0.43,0.31,0.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+359eef03,Nora Nøss,Nora Nøss,no NOR,MF,Stabæk,19,2005,9,9,692,7.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+63ffa251,Selma Olderheim,Selma Olderheim,no NOR,FW,Hønefoss,19,2005,13,2,240,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+71cd834b,Iselin Olsen,Iselin Olsen,no NOR,DF,Vålerenga,26,1998,10,8,768,8.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ef9925c7,Jenny Olsen,Jenny Olsen,no NOR,FW,Lyn,24,2000,27,26,"2,293",25.5,11,1,12,9,2,2,0,0,0.43,0.04,0.47,0.35,0.39,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+640ec46e,Iris Omarsdottir,Iris Omarsdottir,no NOR,FW,Stabæk,21,2003,18,18,"1,587",17.6,6,3,9,5,1,1,1,0,0.34,0.17,0.51,0.28,0.45,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+cb3c5dd4,Sandra Pallesen-Nygård,Sandra Pallesen-Nygård,no NOR,DF,Stabæk,16,2008,4,2,190,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ca957632,Anna Palm,Anna Palm,no NOR,MF,Lyn,25,1999,27,27,"2,408",26.8,1,2,3,1,0,0,0,0,0.04,0.07,0.11,0.04,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+3fd3c184,Selma Panengstuen,Selma Panengstuen,no NOR,GK,Brann,21,2003,27,27,"2,430",27.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,18,66.7,27,27,11,0.41,1,"2,430",0,0,0,,0,,,,2,24,Toppserien,2025
+7d5e76d9,Mina Pedersen,Mina Pedersen,no NOR,DF,Hønefoss,23,2002,4,4,320,3.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+5ffe4dfc,Anna Pettersen,Anna Pettersen,no NOR,DF,Kolbotn,16,2008,19,12,"1,105",12.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a073be3d,Kajsa Pettersen,Kajsa Pettersen,no NOR,FW,Lyn,18,2006,23,4,617,6.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+5f8d27bd,Selma Pettersen,Selma Pettersen,no NOR,DF,Vålerenga,21,2003,14,12,"1,006",11.2,0,1,1,0,0,0,1,0,0.00,0.09,0.09,0.00,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+7b5ece5f,Emma Peuhkurinen,Emma Peuhkurinen,fi FIN,MF,LSK Kvinner,25,1999,13,12,"1,027",11.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+7b5ece5f,Emma Peuhkurinen,Emma Peuhkurinen,fi FIN,MF,LSK Kvinner,25,1999,13,12,"1,027",11.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+7b5ece5f,Emma Peuhkurinen,Emma Peuhkurinen,fi FIN,MF,Brann,25,1999,7,6,535,5.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+7b5ece5f,Emma Peuhkurinen,Emma Peuhkurinen,fi FIN,MF,Brann,25,1999,7,6,535,5.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a6ba91a9,Mille Prestegaard,Mille Prestegaard,no NOR,MF,Lyn,16,2008,6,1,146,1.6,1,1,2,1,0,0,0,0,0.62,0.62,1.23,0.62,1.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+3515378a,Marie Preus,Marie Preus,no NOR,DF,Vålerenga,16,2008,13,7,725,8.1,3,1,4,3,0,0,0,0,0.37,0.12,0.50,0.37,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+40926fc2,Joshualyn Reeves,Joshualyn Reeves,no NOR,FW,Lyn,22,2002,22,19,"1,443",16.0,5,4,9,4,1,1,1,0,0.31,0.25,0.56,0.25,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+1e75b124,Tuva Reiertsen,Tuva Reiertsen,no NOR,DF,Bodø/Glimt,18,2006,13,2,251,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+59186ca9,Katja Rengård,Katja Rengård,no NOR,MF,Bodø/Glimt,17,2007,12,0,103,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+2d1c8f98,Johanna Renmark,Johanna Renmark,se SWE,MF,Brann,21,2003,23,7,880,9.8,2,1,3,2,0,0,0,0,0.20,0.10,0.31,0.20,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+1124eaeb,Emma Reshane,Emma Reshane,no NOR,DF,LSK Kvinner,19,2005,25,15,"1,452",16.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+442423a9,Matilde Rogde,Matilde Rogde,no NOR,DF,Rosenborg,24,2000,27,23,"1,857",20.6,2,0,2,2,0,0,2,0,0.10,0.00,0.10,0.10,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+79583715,Kaja Rosenlund,Kaja Rosenlund,no NOR,MF,Røa,20,2004,26,22,"1,609",17.9,3,1,4,3,0,0,3,0,0.17,0.06,0.22,0.17,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ac8b920a,Malin Rovelstad,Malin Rovelstad,no NOR,MF,Hønefoss,20,2004,27,27,"2,344",26.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a07e3884,Rugile Rulyte,Rugile Rulyte,no NOR,GK,Rosenborg,22,2002,22,22,"1,980",22.0,0,1,1,0,0,0,1,0,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,9,40.9,22,22,22,1.00,5,"1,980",0,0,0,,0,,,,4,13,Toppserien,2025
+dde8447b,Sædís Rún Heiðarsdóttir,Sædís Rún Heiðarsdóttir,is ISL,DF,Vålerenga,20,2004,25,19,"1,647",18.3,3,4,7,3,0,0,1,0,0.16,0.22,0.38,0.16,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+f56bafad,Emilia Ruud,Emilia Ruud,no NOR,MF,Hønefoss,25,1999,23,23,"1,898",21.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a2784cfc,Ragnhild Salterød,Ragnhild Salterød,no NOR,DF,Stabæk,18,2006,2,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+e69c9e23,Amie Sannes,Amie Sannes,no NOR,DF,Bodø/Glimt,20,2005,25,13,"1,151",12.8,1,1,2,1,0,0,1,1,0.08,0.08,0.16,0.08,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+5f3f3be6,Kirvil Schau Odden,Kirvil Schau Odden,no NOR,GK,Lyn,32,1992,18,18,"1,620",18.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,11.1,18,18,36,2.00,9,"1,620",2,2,0,0.0,0,,,,4,5,Toppserien,2025
+49b895b6,Marie Sebazungu,Marie Sebazungu,no NOR,MF,Røa,20,2005,3,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+648f3ebb,Mawa Sesay,Mawa Sesay,no NOR,FW,Vålerenga,19,2005,25,11,"1,130",12.6,4,6,10,4,0,0,1,0,0.32,0.48,0.80,0.32,0.80,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+76d43b6e,Emma Sjåfjell,Emma Sjåfjell,no NOR,GK,LSK Kvinner,21,2003,2,1,112,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,100.0,2,1,2,1.61,0,112,0,0,0,,0,,,,0,1,Toppserien,2025
+7c8c11c5,Alva Skåla,Alva Skåla,no NOR,MF,Røa,18,2006,2,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+4d91d84c,Sunniva Skoglund,Sunniva Skoglund,no NOR,GK,Stabæk,22,2002,27,27,"2,430",27.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,10,37.0,27,27,37,1.37,11,"2,430",2,2,0,0.0,0,,,,4,12,Toppserien,2025
+bd3868bb,Solveig Slemmen,Solveig Slemmen,no NOR,DF,Lyn,18,2006,24,24,"1,987",22.1,4,0,4,4,0,0,2,0,0.18,0.00,0.18,0.18,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+1935b0f1,Avery Snead,Avery Snead,us USA,DF,Bodø/Glimt,23,2002,26,26,"2,340",26.0,1,0,1,1,0,0,2,0,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+723da665,Klara Sporsem,Klara Sporsem,no NOR,GK,LSK Kvinner,27,1997,26,26,"2,318",25.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,5,19.2,26,26,45,1.75,11,"2,318",1,1,0,0.0,0,,,,4,11,Toppserien,2025
+bb96ea14,Oda Stålesen,Oda Stålesen,no NOR,MF,Hønefoss,24,2000,27,12,"1,287",14.3,1,2,3,1,0,0,2,0,0.07,0.14,0.21,0.07,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+7c65cd74,Julie Steen,Julie Steen,no NOR,FW,Røa,16,2008,20,3,653,7.3,3,1,4,3,0,0,1,0,0.41,0.14,0.55,0.41,0.55,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+d3b4186b,Ingrid Stenevik,Ingrid Stenevik,no NOR,DF,Brann,30,1994,12,10,833,9.3,1,2,3,1,0,0,1,0,0.11,0.22,0.32,0.11,0.32,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+f81ef139,Sarah Suphellen,Sarah Suphellen,no NOR,DF,Røa,26,1998,24,24,"2,064",22.9,1,0,1,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+0458fb4f,Heidi Svang,Heidi Svang,no NOR,DF,Hønefoss,18,2006,23,19,"1,734",19.3,1,1,2,1,0,0,1,0,0.05,0.05,0.10,0.05,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b6c34490,Ragne Svastuen,Ragne Svastuen,no NOR,MF,Røa,24,2000,19,19,"1,572",17.5,1,0,1,1,0,0,0,0,0.06,0.00,0.06,0.06,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+b2a4e076,Tomine Svendheim,Tomine Svendheim,no NOR,MF,Brann,18,2006,10,3,405,4.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+9a433ee6,Mia Svendsen,Mia Svendsen,no NOR,DF,Røa,19,2005,9,6,619,6.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+9e38824f,Veronika Sæthre,Veronika Sæthre,no NOR,DF,Bodø/Glimt,25,1999,13,13,"1,155",12.8,1,0,1,1,0,0,0,0,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+67ae449b,Hildegunn Sævik,Hildegunn Sævik,no NOR,GK,Røa,27,1998,17,17,"1,530",17.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,11.8,17,17,31,1.82,8,"1,530",2,2,0,0.0,0,,,,6,3,Toppserien,2025
+45e2a2e1,Karina Sævik,Karina Sævik,no NOR,"FW,MF",Vålerenga,28,1996,26,20,"1,792",19.9,17,12,29,16,1,1,0,0,0.85,0.60,1.46,0.80,1.41,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+1267c7d4,Karna Sødahl,Karna Sødahl,no NOR,MF,Rosenborg,16,2008,23,14,"1,414",15.7,5,5,10,5,0,0,1,0,0.32,0.32,0.64,0.32,0.64,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+1be502b7,Elin Sørum,Elin Sørum,no NOR,FW,Rosenborg,24,2000,24,20,"1,849",20.5,3,5,8,3,0,0,1,0,0.15,0.24,0.39,0.15,0.39,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+bec92f12,Nadia Tahirukaj,Nadia Tahirukaj,no NOR,MF,Kolbotn,16,2008,10,4,392,4.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+1ecafc83,Ylinn Tennebø,Ylinn Tennebø,no NOR,MF,Vålerenga,25,2000,11,6,540,6.0,0,2,2,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a40bb336,Mathea Theting,Mathea Theting,no NOR,MF,Bodø/Glimt,18,2006,20,10,974,10.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ad448152,Maren Thoresen,Maren Thoresen,no NOR,FW,Røa,30,1995,13,10,723,8.0,1,0,1,1,0,0,0,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ad448152,Maren Thoresen,Maren Thoresen,no NOR,FW,Røa,30,1995,13,10,723,8.0,1,0,1,1,0,0,0,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ad448152,Maren Thoresen,Maren Thoresen,no NOR,FW,Stabæk,30,1995,4,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+ad448152,Maren Thoresen,Maren Thoresen,no NOR,FW,Stabæk,30,1995,4,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+aff862d7,Henny Thorhallsson,Henny Thorhallsson,no NOR,MF,Lyn,18,2007,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+8ee86892,Maria Thorisdottir,Maria Thorisdottir,no NOR,DF,Brann,31,1993,6,3,310,3.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+8238edd4,Ragne Thorleifsson,Ragne Thorleifsson,no NOR,FW,Lyn,14,2010,2,1,84,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+c706f17a,Elise Thorsnes,Elise Thorsnes,no NOR,FW,Vålerenga,36,1988,21,15,"1,329",14.8,8,3,11,6,2,2,0,0,0.54,0.20,0.74,0.41,0.61,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+1e8785ee,Sarah Tofft,Sarah Tofft,dk DEN,DF,LSK Kvinner,19,2005,19,15,"1,393",15.5,3,0,3,3,0,0,0,0,0.19,0.00,0.19,0.19,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a4993a9b,Andrine Tomter,Andrine Tomter,no NOR,DF,Rosenborg,29,1995,5,0,99,1.1,0,1,1,0,0,0,0,0,0.00,0.91,0.91,0.00,0.91,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+7103ecca,Emilia Tufte-Gerhardsen,Emilia Tufte-Gerhardsen,no NOR,DF,LSK Kvinner,19,2006,4,0,87,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+734da690,Olaug Tvedten,Olaug Tvedten,no NOR,FW,Vålerenga,24,2000,26,21,"1,900",21.1,19,8,27,19,0,0,0,0,0.90,0.38,1.28,0.90,1.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+084037e0,Joanna Tynnilä,Joanna Tynnilä,fi FIN,DF,Brann,23,2001,18,18,"1,575",17.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+8191a918,Signe Tømmerås,Signe Tømmerås,no NOR,MF,Bodø/Glimt,18,2006,5,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+3977ae4a,Elle Ulstein,Elle Ulstein,no NOR,MF,Røa,17,2007,23,14,"1,359",15.1,0,1,1,0,0,0,2,0,0.00,0.07,0.07,0.00,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+f76790b0,Eivor Ulvund,Eivor Ulvund,no NOR,FW,Rosenborg,20,2004,18,6,556,6.2,5,1,6,5,0,0,0,0,0.81,0.16,0.97,0.81,0.97,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+4b14b3b4,Inger Vadder,Inger Vadder,no NOR,FW,Hønefoss,25,1999,26,24,"2,171",24.1,2,3,5,2,0,0,3,0,0.08,0.12,0.21,0.08,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+955ee74c,Linn Vickius,Linn Vickius,se SWE,MF,Vålerenga,24,2000,25,18,"1,666",18.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+cac1a6e0,Martine Wæhler,Martine Wæhler,no NOR,FW,Røa,14,2010,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+bd858485,Diljá Zomers,Diljá Zomers,is ISL,FW,Brann,23,2001,11,5,535,5.9,1,3,4,1,0,0,0,0,0.17,0.50,0.67,0.17,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+a9426f7e,Marthine Østenstad,Marthine Østenstad,no NOR,DF,Brann,23,2001,12,11,"1,035",11.5,0,1,1,0,0,0,0,0,0.00,0.09,0.09,0.00,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025
+5f399f9c,Emilie Østerås,Emilie Østerås,no NOR,MF,Stabæk,22,2002,26,26,"2,340",26.0,5,1,6,4,1,1,1,0,0.19,0.04,0.23,0.15,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,Toppserien,2025

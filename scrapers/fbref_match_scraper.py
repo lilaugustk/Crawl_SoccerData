@@ -10,6 +10,7 @@ import gc
 class FBrefMatchScraper:
     def __init__(self, start_date_str="1912-06-12", output_file="data/raw/fbref_all_matches/fbref_all_matches_1888_1950.csv"):
         self.start_date = datetime.strptime(start_date_str, "%Y-%m-%d").date()
+        # self.end_date = date.today()
         self.end_date = date.today()
         self.output_file = output_file
         
@@ -141,8 +142,9 @@ class FBrefMatchScraper:
 if __name__ == "__main__":
     # Bat dau tu dau nam 2026
     scraper = FBrefMatchScraper(start_date_str="1912-06-12")
+    # scraper = FBrefMatchScraper(start_date_str="2026-01-01")
     scraper.run()
     
-    sys.stderr = open(os.devnull, 'w')  
+    sys.stderr = open(os.devnull, 'w')
     del scraper 
     gc.collect()

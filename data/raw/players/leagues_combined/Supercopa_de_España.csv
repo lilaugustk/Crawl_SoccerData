@@ -1,0 +1,137 @@
+﻿PlayerID,Name,player,nationality,position,team,age,birth_year,games,games_starts,minutes,minutes_90s,goals,assists,goals_assists,goals_pens,pens_made,pens_att,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,goals_pens_per90,goals_assists_pens_per90,matches,goals_per_shot,goals_per_shot_on_target,shots,shots_on_target,shots_on_target_pct,shots_on_target_per90,shots_per90,gk_clean_sheets,gk_clean_sheets_pct,gk_games,gk_games_starts,gk_goals_against,gk_goals_against_per90,gk_losses,gk_minutes,gk_pens_allowed,gk_pens_att,gk_pens_missed,gk_pens_save_pct,gk_pens_saved,gk_save_pct,gk_saves,gk_shots_on_target_against,gk_ties,gk_wins,League,Season
+05439de2,David Alaba,David Alaba,at AUT,"DF,MF",Real Madrid,33,1992,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+27f33438,Thiago Almada,Thiago Almada,ar ARG,"FW,MF",Atlético Madrid,24,2001,1,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+15ab5a2b,Julián Álvarez,Julián Álvarez,ar ARG,FW,Atlético Madrid,25,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,4.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+2bef2bca,Ronald Araújo,Ronald Araújo,uy URU,DF,Barcelona,26,1999,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+94e01ec6,Jesús Areso,Jesús Areso,es ESP,DF,Athletic Club,26,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+4731cd4c,Raúl Asencio,Raúl Asencio,es ESP,DF,Real Madrid,22,2003,2,2,158,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.57,1.14,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+518f2234,Alex Baena,Alex Baena,es ESP,MF,Atlético Madrid,24,2001,1,1,59,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,2,100.0,3.05,3.05,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+5ccc9672,Alejandro Balde,Alejandro Balde,es ESP,DF,Barcelona,21,2003,2,2,153,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+88ce7ddc,Roony Bardghji,Roony Bardghji,se SWE,MF,Barcelona,19,2005,1,1,71,0.8,1,2,3,1,0,0,0,0,1.27,2.54,3.80,1.27,3.80,Matches,1.00,1.00,1,1,100.0,1.27,1.27,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+57d88cf9,Jude Bellingham,Jude Bellingham,eng ENG,MF,Real Madrid,22,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+dc1c2fce,Álex Berenguer,Álex Berenguer,es ESP,MF,Athletic Club,30,1995,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+29117812,Marc Bernal,Marc Bernal,es ESP,MF,Barcelona,18,2007,1,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+e7992f7b,Adama Boiro,Adama Boiro,es ESP,DF,Athletic Club,23,2002,1,1,56,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+7b9c2d84,Eduardo Camavinga,Eduardo Camavinga,fr FRA,MF,Real Madrid,22,2002,2,2,167,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+7426f085,Johnny Cardoso,Johnny Cardoso,us USA,MF,Atlético Madrid,23,2001,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,2.90,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+33a68b9b,Álvaro Carreras,Álvaro Carreras,es ESP,DF,Real Madrid,22,2003,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.50,0.50,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+c0617e2b,Dani Ceballos,Dani Ceballos,es ESP,MF,Real Madrid,28,1996,2,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+1840e36d,Thibaut Courtois,Thibaut Courtois,be BEL,GK,Real Madrid,33,1992,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,2,4,2.00,1,180,0,0,0,,0,69.2,9,13,0,1,Supercopa de España,2026
+cc7888f3,Pau Cubarsí,Pau Cubarsí,es ESP,DF,Barcelona,18,2007,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+91f7631f,Iñigo Ruiz de Galarreta,Iñigo Ruiz de Galarreta,es ESP,MF,Athletic Club,31,1993,1,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,2.43,2.43,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+c2731c10,Conor Gallagher,Conor Gallagher,eng ENG,MF,Atlético Madrid,25,2000,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,2.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+2bed3eab,Eric García,Eric García,es ESP,DF,Barcelona,24,2001,2,2,172,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.52,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+7226539b,Fran Garcia,Fran Garcia,es ESP,DF,Real Madrid,25,1999,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+74c2d562,Gonzalo García,Gonzalo García,es ESP,FW,Real Madrid,21,2004,2,2,165,1.8,1,1,2,1,0,0,0,0,0.55,0.55,1.09,0.55,1.09,Matches,0.50,0.50,2,2,100.0,1.09,1.09,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+87b498b0,Joan García,Joan García,es ESP,GK,Barcelona,24,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,50.0,2,2,2,1.00,0,180,0,0,0,,0,83.3,10,12,0,2,Supercopa de España,2026
+37db6cae,Unai Gómez,Unai Gómez,es ESP,MF,Athletic Club,22,2003,1,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,2.43,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+df69b544,Antoine Griezmann,Antoine Griezmann,fr FRA,"FW,MF",Atlético Madrid,34,1991,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,2.90,5.81,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+3741ca58,Arda Güler,Arda Güler,tr TUR,MF,Real Madrid,20,2005,2,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+6b5ea2f4,Gorka Guruzeta,Gorka Guruzeta,es ESP,FW,Athletic Club,28,1996,1,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+4fac8f81,Dávid Hancko,Dávid Hancko,sk SVK,DF,Atlético Madrid,27,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+87278bce,Dean Huijsen,Dean Huijsen,es ESP,DF,Real Madrid,20,2005,1,1,75,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,1.20,1.20,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+2f5c78ca,Mikel Jauregizar,Mikel Jauregizar,es ESP,MF,Athletic Club,21,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,1.00,2.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+1bacc518,Frenkie de Jong,Frenkie de Jong,nl NED,MF,Barcelona,28,1997,2,2,152,1.7,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+7111d552,Vinicius Júnior,Vinicius Júnior,br BRA,"MF,FW",Real Madrid,25,2000,2,2,161,1.8,1,0,1,1,0,0,1,0,0.56,0.00,0.56,0.56,0.56,Matches,0.14,0.25,7,4,57.1,2.24,3.91,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+55126f3b,Koke,Koke,es ESP,MF,Atlético Madrid,33,1992,1,1,59,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+4d1666ff,Jules Koundé,Jules Koundé,fr FRA,DF,Barcelona,26,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+9a64e67e,Robin Le Normand,Robin Le Normand,es ESP,DF,Atlético Madrid,28,1996,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,2.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+59b7d823,Iñigo Lekue,Iñigo Lekue,es ESP,"DF,MF",Athletic Club,32,1993,1,0,34,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+8d78e732,Robert Lewandowski,Robert Lewandowski,pl POL,FW,Barcelona,36,1988,1,1,65,0.7,1,0,1,1,0,0,0,0,1.38,0.00,1.38,1.38,1.38,Matches,0.25,1.00,4,1,25.0,1.38,5.54,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+02c15616,Marcos Llorente,Marcos Llorente,es ESP,DF,Atlético Madrid,30,1995,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,4.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+c1fe5f0b,Fermin López,Fermin López,es ESP,MF,Barcelona,22,2003,2,2,155,1.7,1,3,4,1,0,0,0,0,0.58,1.74,2.32,0.58,2.32,Matches,0.17,0.33,6,3,50.0,1.74,3.48,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+b792c59d,Gerard Martín,Gerard Martín,es ESP,DF,Barcelona,23,2002,2,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+633b2b1f,Franco Mastantuono,Franco Mastantuono,ar ARG,"FW,MF",Real Madrid,17,2007,2,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+42fd9c7f,Kylian Mbappé,Kylian Mbappé,fr FRA,"FW,MF",Real Madrid,26,1998,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+3cefcaef,Ferland Mendy,Ferland Mendy,fr FRA,DF,Real Madrid,30,1995,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+23610943,Nahuel Molina,Nahuel Molina,ar ARG,"DF,MF",Atlético Madrid,27,1998,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+c997b942,Roberto Navarro,Roberto Navarro,es ESP,MF,Athletic Club,23,2002,1,1,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+ee8508c0,Jan Oblak,Jan Oblak,si SVN,GK,Atlético Madrid,32,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,1,1,2,2.00,1,90,0,0,0,,0,50.0,2,4,0,0,Supercopa de España,2026
+ae44e8e2,Dani Olmo,Dani Olmo,es ESP,"FW,MF",Barcelona,27,1998,2,0,44,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,2.05,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+b906757a,Aitor Paredes,Aitor Paredes,es ESP,DF,Athletic Club,25,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+0d9b2d31,Pedri,Pedri,es ESP,MF,Barcelona,22,2002,2,2,161,1.8,0,1,1,0,0,0,1,0,0.00,0.56,0.56,0.00,0.56,Matches,0.00,0.00,2,1,50.0,0.56,1.12,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+365113c0,Marc Pubill,Marc Pubill,es ESP,DF,Atlético Madrid,22,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+3423f250,Raphinha,Raphinha,br BRA,"MF,FW",Barcelona,28,1996,2,2,146,1.6,4,1,5,4,0,0,0,0,2.47,0.62,3.08,2.47,3.08,Matches,0.50,0.80,8,5,62.5,3.08,4.93,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+a1d5bd30,Marcus Rashford,Marcus Rashford,eng ENG,"FW,MF",Barcelona,27,1997,2,0,34,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,5.29,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+72e0d609,Alejandro Rego,Alejandro Rego,es ESP,MF,Athletic Club,22,2003,1,1,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+8f5e92a6,Rodrygo,Rodrygo,br BRA,MF,Real Madrid,24,2001,2,2,176,2.0,1,0,1,1,0,0,0,0,0.51,0.00,0.51,0.51,0.51,Matches,0.20,0.25,5,4,80.0,2.05,2.56,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+18b896d6,Antonio Rüdiger,Antonio Rüdiger,de GER,DF,Real Madrid,32,1993,1,1,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+ae9898c5,Matteo Ruggeri,Matteo Ruggeri,it ITA,DF,Atlético Madrid,23,2002,1,1,79,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+bdb624a3,Oihan Sancet,Oihan Sancet,es ESP,MF,Athletic Club,25,2000,1,1,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,1.70,5.09,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+4a5ca034,Selton Sánchez,Selton Sánchez,es ESP,MF,Athletic Club,18,2007,1,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+a6536561,Giuliano Simeone,Giuliano Simeone,ar ARG,MF,Atlético Madrid,22,2002,1,1,90,1.0,0,1,1,0,0,0,0,0,0.00,1.00,1.00,0.00,1.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+5dcf3e90,Unai Simón,Unai Simón,es ESP,GK,Athletic Club,28,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,1,1,5,5.00,1,90,0,0,0,,0,37.5,3,8,0,0,Supercopa de España,2026
+e92cd3f7,Alexander Sørloth,Alexander Sørloth,no NOR,FW,Atlético Madrid,29,1995,1,1,73,0.8,1,0,1,1,0,0,0,0,1.23,0.00,1.23,1.23,1.23,Matches,0.14,0.33,7,3,42.9,3.70,8.63,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+4f255115,Aurélien Tchouaméni,Aurélien Tchouaméni,fr FRA,"MF,DF",Real Madrid,25,2000,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+9e1035f8,Ferrán Torres,Ferrán Torres,es ESP,FW,Barcelona,25,2000,2,1,115,1.3,1,0,1,1,0,0,0,0,0.78,0.00,0.78,0.78,0.78,Matches,1.00,1.00,1,1,100.0,0.78,0.78,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+0959c2a2,Federico Valverde,Federico Valverde,uy URU,"MF,DF",Real Madrid,27,1998,2,2,157,1.7,1,1,2,1,0,0,1,0,0.57,0.57,1.15,0.57,1.15,Matches,0.50,1.00,2,1,50.0,0.57,1.15,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+ab7bf91d,Daniel Vivian,Daniel Vivian,es ESP,DF,Athletic Club,26,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+6a99e0b1,Iñaki Williams,Iñaki Williams,gh GHA,FW,Athletic Club,31,1994,1,1,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+82ec26c1,Lamine Yamal,Lamine Yamal,es ESP,FW,Barcelona,18,2007,2,1,108,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,2,66.7,1.67,2.50,,,,,,,,,,,,,,,,,,,Supercopa de España,2026
+2bef2bca,Ronald Araújo,Ronald Araújo,uy URU,DF,Barcelona,25,1999,1,0,63,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+13ddc856,Takuma Asano,Takuma Asano,jp JPN,"FW,MF",Mallorca,29,1994,1,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+4731cd4c,Raúl Asencio,Raúl Asencio,es ESP,DF,Real Madrid,21,2003,2,0,75,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.20,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+5ccc9672,Alejandro Balde,Alejandro Balde,es ESP,DF,Barcelona,20,2003,2,2,172,1.9,1,1,2,1,0,0,0,0,0.52,0.52,1.05,0.52,1.05,Matches,0.50,0.50,2,2,100.0,1.05,1.05,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+57d88cf9,Jude Bellingham,Jude Bellingham,eng ENG,MF,Real Madrid,21,2003,2,2,180,2.0,1,0,1,1,0,0,1,0,0.50,0.00,0.50,0.50,0.50,Matches,0.17,0.33,6,3,50.0,1.50,3.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+b6e50615,Yuri Berchiche,Yuri Berchiche,es ESP,DF,Athletic Club,34,1990,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+dc1c2fce,Álex Berenguer,Álex Berenguer,es ESP,MF,Athletic Club,29,1995,1,1,72,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+7b9c2d84,Eduardo Camavinga,Eduardo Camavinga,fr FRA,MF,Real Madrid,21,2002,2,2,135,1.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.67,4.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+2ef08833,Marc Casado,Marc Casado,es ESP,MF,Barcelona,20,2003,2,2,172,1.9,0,1,1,0,0,0,0,0,0.00,0.52,0.52,0.00,0.52,Matches,0.00,,1,0,0.0,0.00,0.52,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+c0617e2b,Dani Ceballos,Dani Ceballos,es ESP,MF,Real Madrid,27,1996,2,0,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+0f26ffd7,Copete,Copete,es ESP,DF,Mallorca,24,1999,1,0,57,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+76c2a023,Samu Costa,Samu Costa,pt POR,MF,Mallorca,23,2000,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+1840e36d,Thibaut Courtois,Thibaut Courtois,be BEL,GK,Real Madrid,32,1992,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,50.0,2,2,5,2.50,1,180,1,1,0,0.0,0,42.9,3,7,0,1,Supercopa de España,2025
+cc7888f3,Pau Cubarsí,Pau Cubarsí,es ESP,DF,Barcelona,17,2007,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+070a3904,Sergi Darder,Sergi Darder,es ESP,MF,Mallorca,30,1993,1,1,70,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.29,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+407feb71,Brahim Díaz,Brahim Díaz,ma MAR,"FW,MF",Real Madrid,24,1999,2,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+45c29ae7,Álvaro djaló,Álvaro djaló,gw GNB,MF,Athletic Club,24,1999,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+2bed3eab,Eric García,Eric García,es ESP,"DF,MF",Barcelona,23,2001,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+7226539b,Fran Garcia,Fran Garcia,es ESP,DF,Real Madrid,24,1999,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+19cae58d,Gavi,Gavi,es ESP,MF,Barcelona,19,2004,2,2,130,1.4,1,1,2,1,0,0,0,0,0.69,0.69,1.38,0.69,1.38,Matches,0.50,1.00,2,1,50.0,0.69,1.38,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+37db6cae,Unai Gómez,Unai Gómez,es ESP,MF,Athletic Club,21,2003,1,1,79,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+30061f53,Dominik Greif,Dominik Greif,sk SVK,GK,Mallorca,27,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,1,1,3,3.00,1,90,0,0,0,,0,75.0,9,12,0,0,Supercopa de España,2025
+6b5ea2f4,Gorka Guruzeta,Gorka Guruzeta,es ESP,FW,Athletic Club,27,1996,1,1,62,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.45,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+2f5c78ca,Mikel Jauregizar,Mikel Jauregizar,es ESP,MF,Athletic Club,20,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,1.00,2.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+1bacc518,Frenkie de Jong,Frenkie de Jong,nl NED,"DF,MF",Barcelona,27,1997,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,5.00,5.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+7111d552,Vinicius Júnior,Vinicius Júnior,br BRA,MF,Real Madrid,24,2000,2,2,162,1.8,0,1,1,0,0,0,1,0,0.00,0.56,0.56,0.00,0.56,Matches,0.00,,2,0,0.0,0.00,1.11,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+4d1666ff,Jules Koundé,Jules Koundé,fr FRA,DF,Barcelona,25,1998,2,2,180,2.0,0,1,1,0,0,0,1,0,0.00,0.50,0.50,0.00,0.50,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+e7af9060,Cyle Larin,Cyle Larin,ca CAN,FW,Mallorca,29,1995,1,1,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,2.61,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+59b7d823,Iñigo Lekue,Iñigo Lekue,es ESP,DF,Athletic Club,31,1993,1,1,62,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+8d78e732,Robert Lewandowski,Robert Lewandowski,pl POL,FW,Barcelona,35,1988,2,2,162,1.8,1,1,2,0,1,1,1,0,0.56,0.56,1.11,0.00,0.56,Matches,0.00,0.00,3,1,33.3,0.56,1.67,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+c1fe5f0b,Fermin López,Fermin López,es ESP,MF,Barcelona,21,2003,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+5db04597,Pablo Maffeo,Pablo Maffeo,es ESP,DF,Mallorca,27,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+9f323c71,Óscar de Marcos,Óscar de Marcos,es ESP,"DF,FW",Athletic Club,35,1989,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+b792c59d,Gerard Martín,Gerard Martín,es ESP,DF,Barcelona,22,2002,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+3fc45c73,Iñigo Martínez,Iñigo Martínez,es ESP,DF,Barcelona,33,1991,2,2,117,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+11fd2b75,Omar Mascarell,Omar Mascarell,gq EQG,MF,Mallorca,31,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+42fd9c7f,Kylian Mbappé,Kylian Mbappé,fr FRA,FW,Real Madrid,25,1998,2,2,180,2.0,1,0,1,1,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,0.11,0.20,9,5,55.6,2.50,4.50,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+3cefcaef,Ferland Mendy,Ferland Mendy,fr FRA,DF,Real Madrid,29,1995,2,2,164,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+6025fab1,Luka Modrić,Luka Modrić,hr CRO,MF,Real Madrid,38,1985,1,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+608f2092,Johan Mojica,Johan Mojica,co COL,DF,Mallorca,31,1992,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,2.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+a0255c67,Manu Morlanes,Manu Morlanes,es ESP,MF,Mallorca,25,1999,1,1,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.30,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+0cadc46d,Vedat Muriqi,Vedat Muriqi,xk KVX,FW,Mallorca,30,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+c997b942,Roberto Navarro,Roberto Navarro,es ESP,MF,Mallorca,22,2002,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+ae44e8e2,Dani Olmo,Dani Olmo,es ESP,"FW,MF",Barcelona,26,1998,1,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+b906757a,Aitor Paredes,Aitor Paredes,es ESP,DF,Athletic Club,24,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+0d9b2d31,Pedri,Pedri,es ESP,MF,Barcelona,21,2002,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.50,1.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+cc1c5035,Iñaki Peña,Iñaki Peña,es ESP,GK,Barcelona,25,1999,1,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,,1,0,1,2.81,0,32,0,0,0,,0,75.0,3,4,0,0,Supercopa de España,2025
+1f60244a,Beñat Prados,Beñat Prados,es ESP,MF,Athletic Club,23,2001,1,1,62,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+d1b060e2,Abdón Prats,Abdón Prats,es ESP,FW,Mallorca,31,1992,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+b857bd29,Antonio Raillo,Antonio Raillo,es ESP,DF,Mallorca,32,1991,1,1,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+3423f250,Raphinha,Raphinha,br BRA,MF,Barcelona,27,1996,2,2,168,1.9,2,1,3,2,0,0,1,0,1.07,0.54,1.61,1.07,1.61,Matches,0.20,0.33,10,6,60.0,3.21,5.36,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+70f8e0bd,Dani Rodríguez,Dani Rodríguez,es ESP,MF,Mallorca,36,1988,1,1,80,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,2.25,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+8f5e92a6,Rodrygo,Rodrygo,br BRA,MF,Real Madrid,23,2001,2,2,180,2.0,2,0,2,2,0,0,0,0,1.00,0.00,1.00,1.00,1.00,Matches,0.18,0.50,11,4,36.4,2.00,5.50,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+18b896d6,Antonio Rüdiger,Antonio Rüdiger,de GER,DF,Real Madrid,31,1993,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.50,1.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+2ad0e5e5,Nicolás Serrano,Nicolás Serrano,es ESP,MF,Athletic Club,21,2003,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,5.00,5.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+5dcf3e90,Unai Simón,Unai Simón,es ESP,GK,Athletic Club,27,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,1,1,2,2.00,1,90,0,0,0,,0,71.4,5,7,0,0,Supercopa de España,2025
+01b8a2b2,Wojciech Szczęsny,Wojciech Szczęsny,pl POL,GK,Barcelona,34,1990,2,2,145,1.6,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,50.0,2,2,1,0.62,0,145,0,0,0,,0,87.5,7,8,0,2,Supercopa de España,2025
+4f255115,Aurélien Tchouaméni,Aurélien Tchouaméni,fr FRA,DF,Real Madrid,24,2000,2,2,117,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,1.54,3.08,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+9e1035f8,Ferrán Torres,Ferrán Torres,es ESP,"FW,MF",Barcelona,24,2000,2,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+f2c6ac01,Martin Valjent,Martin Valjent,sk SVK,DF,Mallorca,28,1995,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+0959c2a2,Federico Valverde,Federico Valverde,uy URU,MF,Real Madrid,26,1998,2,2,164,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,2.20,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+fd51b456,Lucas Vázquez,Lucas Vázquez,es ESP,DF,Real Madrid,33,1991,2,2,141,1.6,0,1,1,0,0,0,0,0,0.00,0.64,0.64,0.00,0.64,Matches,0.00,0.00,2,1,50.0,0.64,1.28,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+b0fce72c,Mikel Vesga,Mikel Vesga,es ESP,MF,Athletic Club,31,1993,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,3.21,3.21,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+ab7bf91d,Daniel Vivian,Daniel Vivian,es ESP,DF,Athletic Club,25,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+6a99e0b1,Iñaki Williams,Iñaki Williams,gh GHA,MF,Athletic Club,30,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,1.00,3.00,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+afdc14d7,Nico Williams,Nico Williams,es ESP,MF,Athletic Club,22,2002,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,3.21,3.21,,,,,,,,,,,,,,,,,,,Supercopa de España,2025
+82ec26c1,Lamine Yamal,Lamine Yamal,es ESP,MF,Barcelona,17,2007,2,2,120,1.3,2,0,2,2,0,0,0,0,1.50,0.00,1.50,1.50,1.50,Matches,0.33,0.50,6,4,66.7,3.00,4.50,,,,,,,,,,,,,,,,,,,Supercopa de España,2025

@@ -1,0 +1,587 @@
+﻿PlayerID,Name,player,nationality,position,team,age,birth_year,games,games_starts,minutes,minutes_90s,goals,assists,goals_assists,goals_pens,pens_made,pens_att,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,goals_pens_per90,goals_assists_pens_per90,matches,goals_per_shot,goals_per_shot_on_target,shots,shots_on_target,shots_on_target_pct,shots_on_target_per90,shots_per90,gk_clean_sheets,gk_clean_sheets_pct,gk_games,gk_games_starts,gk_goals_against,gk_goals_against_per90,gk_losses,gk_minutes,gk_pens_allowed,gk_pens_att,gk_pens_missed,gk_pens_save_pct,gk_pens_saved,gk_save_pct,gk_saves,gk_shots_on_target_against,gk_ties,gk_wins,League,Season
+e6f2ccc2,Jabir Abdihakim,Jabir Abdihakim,dj DJI,MF,VPS,27-053,1999,2,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+af068d41,Adeleke Akinyemi,Adeleke Akinyemi,ng NGA,FW,IF Gnistan,27-215,1998,2,1,114,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.79,2.37,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+401b50bd,Erik Andersson,Erik Andersson,se SWE,MF,Lahti,28-346,1997,2,2,154,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,1.17,2.34,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+5737e90d,Leo Andersson,Leo Andersson,fi FIN,FW,IFK Mariehamn,21-307,2004,2,0,43,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+1230f564,Clinton Antwi,Clinton Antwi,gh GHA,DF,KuPS,26-159,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,5,0,0.0,0.00,2.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+4719042b,Caio Araújo,Caio Araújo,br BRA,MF,SJK,20-309,2005,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+5ec20548,Edmund Arko-Mensah,Edmund Arko-Mensah,gh GHA,DF,IF Gnistan,24-217,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.50,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+29c50f71,Markus Arsalo,Markus Arsalo,fi FIN,MF,SJK,23-175,2002,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.50,2.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+a274f88d,Artur Atarah,Artur Atarah,fi FIN,FW,IF Gnistan,21-067,2005,2,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+c6a2d9ec,Goudousse Bamba,Goudousse Bamba,ci CIV,DF,Ilves,20-189,2005,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+72a9964d,Stanislav Baranov,Stanislav Baranov,fi FIN,FW,Ilves,20-364,2005,2,0,34,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+d8c1ecca,Neemias Barbosa,Neemias Barbosa,br BRA,FW,Lahti,26-060,2000,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,1.00,2.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+9e95ea7a,Aron Bjonbäck,Aron Bjonbäck,fi FIN,"MF,DF",FF Jaro,23-361,2002,2,2,148,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+e6fb6e95,Max Bjurstrøm,Max Bjurstrøm,no NOR,DF,IF Gnistan,20-078,2006,2,1,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+cf21165c,Mihailo Bogicevic,Mihailo Bogicevic,ch SUI,DF,HJK Helsinki,27-319,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+536f13a8,Mads Borchers,Mads Borchers,dk DEN,"MF,FW",HJK Helsinki,23-300,2002,2,2,147,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,1.22,2.45,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+d690144e,Aapo Boström,Aapo Boström,fi FIN,MF,SJK,20-025,2006,2,2,163,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.55,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+65fcf987,Kouamé Botué,Kouamé Botué,bf BFA,FW,Inter Turku,23-250,2002,2,1,79,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.14,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+a2f0771a,Johan Brunell,Johan Brunell,fi FIN,DF,FF Jaro,34-320,1991,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+2bb9c3c3,Danila Bulgakov,Danila Bulgakov,fi FIN,FW,SJK,21-084,2005,2,0,48,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.87,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+3a01dd89,Yohan Cassubie,Yohan Cassubie,fr FRA,MF,Lahti,25-178,2000,2,2,167,1.9,0,1,1,0,0,0,1,0,0.00,0.54,0.54,0.00,0.54,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+72d589c3,Samuel Chukwudi,Samuel Chukwudi,fo FRO,DF,SJK,22-293,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+29418d43,Alfie Cicale,Alfie Cicale,eng ENG,MF,HJK Helsinki,23-360,2002,1,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+82122322,Alie Conteh,Alie Conteh,sl SLE,FW,Inter Turku,21-167,2004,2,1,101,1.1,1,0,1,1,0,0,0,0,0.89,0.00,0.89,0.89,0.89,Matches,0.25,1.00,4,1,25.0,0.89,3.56,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+89483f4a,Marcelo Costa,Marcelo Costa,br BRA,DF,IF Gnistan,24-224,2001,2,1,58,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+d9295586,Leonel Dahl Montano,Leonel Dahl Montano,dk DEN,DF,HJK Helsinki,26-194,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+28313052,Sebastian Dahlström,Sebastian Dahlström,fi FIN,MF,IFK Mariehamn,29-160,1996,2,2,148,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+3d97403c,Yassin Daoussi,Yassin Daoussi,fi FIN,MF,VPS,25-316,2000,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+983d4e0b,Jelle van der Heyden,Jelle van der Heyden,nl NED,MF,IFK Mariehamn,30-226,1995,2,2,170,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+e1fead6d,Prosper Deyegbe,Prosper Deyegbe,gh GHA,MF,Inter Turku,26-339,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.50,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+8fe1e61b,Djack,Djack,cv CPV,DF,SJK,25-313,2000,1,1,90,1.0,1,0,1,1,0,0,0,0,1.00,0.00,1.00,1.00,1.00,Matches,0.25,1.00,4,1,25.0,1.00,4.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+e3786b62,Ussumane Djaló,Ussumane Djaló,pt POR,FW,SJK,21-098,2005,1,1,69,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+64ed4f29,Nikolaos Dosis,Nikolaos Dosis,se SWE,MF,IFK Mariehamn,25-079,2001,2,2,150,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.20,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+680227aa,Gustav Engvall,Gustav Engvall,se SWE,MF,KuPS,29-350,1996,2,2,120,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,2,100.0,1.50,1.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+b220064a,Roman Eremenko,Roman Eremenko,fi FIN,MF,IF Gnistan,39-026,1987,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.50,2.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+e9a549af,Sergei Eremenko,Sergei Eremenko,fi FIN,MF,IF Gnistan,27-098,1999,2,2,156,1.7,1,0,1,1,0,0,0,0,0.58,0.00,0.58,0.58,0.58,Matches,0.20,0.25,5,4,80.0,2.31,2.88,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+5ccd53b0,Loic Essomba,Loic Essomba,cm CMR,FW,Inter Turku,22-134,2003,2,2,176,2.0,0,1,1,0,0,0,0,0,0.00,0.51,0.51,0.00,0.51,Matches,0.00,0.00,1,1,100.0,0.51,0.51,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+a2325017,Gabriel Europaeus,Gabriel Europaeus,fi FIN,MF,IF Gnistan,20-335,2005,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.50,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+c6e24a82,David Ezeh,David Ezeh,fi FIN,"MF,FW",HJK Helsinki,20-060,2006,2,2,140,1.6,1,1,2,1,0,0,0,0,0.64,0.64,1.29,0.64,1.29,Matches,0.25,0.50,4,2,50.0,1.29,2.57,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+dfc76db6,Martim Ferreira,Martim Ferreira,pt POR,FW,Lahti,22-192,2003,2,2,127,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,2.13,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+2f6986a1,Valentín Gasc,Valentín Gasc,ar ARG,MF,KuPS,25-187,2000,2,2,173,1.9,0,1,1,0,0,0,0,0,0.00,0.52,0.52,0.00,0.52,Matches,0.00,0.00,2,1,50.0,0.52,1.04,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+ce84946a,Lamine Ghezali,Lamine Ghezali,fr FRA,MF,AC Oulu,26-282,1999,2,2,154,1.7,0,1,1,0,0,0,0,0,0.00,0.58,0.58,0.00,0.58,Matches,0.00,,3,0,0.0,0.00,1.75,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+a31796df,Salim Giabo Yussif,Salim Giabo Yussif,gh GHA,DF,SJK,23-312,2002,2,2,143,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+7b05c973,Albin Granlund,Albin Granlund,fi FIN,DF,Inter Turku,36-225,1989,2,1,112,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.61,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+c41a38e0,Erik Gunnarsson,Erik Gunnarsson,se SWE,DF,FF Jaro,27-065,1999,1,1,89,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+cd72e1bd,Oscar Häggström,Oscar Häggström,fi FIN,DF,TPS,21-355,2004,2,1,84,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.07,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+81733bb9,Juuso Hämäläinen,Juuso Hämäläinen,fi FIN,DF,Inter Turku,32-127,1993,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+d2bdf86c,Taneli Hämäläinen,Taneli Hämäläinen,fi FIN,DF,KuPS,24-363,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+4434d67d,Vertti Hänninen,Vertti Hänninen,fi FIN,FW,IF Gnistan,23-317,2002,1,1,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.64,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+8ec9dd2a,Otto Hannula,Otto Hannula,fi FIN,MF,IF Gnistan,20-197,2005,2,1,113,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,2.39,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+82dc1e57,Kaius Hardén,Kaius Hardén,fi FIN,FW,FF Jaro,21-308,2004,1,1,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+7f0b8b5d,Martti Haukioja,Martti Haukioja,fi FIN,DF,VPS,26-190,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+99543b59,Daniel Heikkinen,Daniel Heikkinen,fi FIN,MF,Lahti,23-119,2002,2,2,127,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.42,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+335ca491,Arttu Heinonen,Arttu Heinonen,fi FIN,MF,KuPS,26-357,1999,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+8107ce93,Saku Heiskanen,Saku Heiskanen,fi FIN,"DF,MF",KuPS,24-197,2001,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+93467324,Elmo Henriksson,Elmo Henriksson,fi FIN,GK,TPS,23-035,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,2,2,1.00,0,180,0,0,0,,0,66.7,4,6,1,1,Veikkausliiga,2026
+91433e75,Rasmus Holmberg,Rasmus Holmberg,,MF,IFK Mariehamn,,,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+962993e3,Matej Hradecký,Matej Hradecký,fi FIN,DF,TPS,30-362,1995,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+a489c753,Vilho Huovila,Vilho Huovila,fi FIN,FW,Inter Turku,19-278,2006,2,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+556ff3a2,Anttoni Huttunen,Anttoni Huttunen,fi FIN,MF,IFK Mariehamn,24-118,2001,2,1,86,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.05,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+d661c31f,Eetu Huuhtanen,Eetu Huuhtanen,fi FIN,GK,Inter Turku,23-073,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,50.0,2,2,1,0.50,0,180,1,1,0,0.0,0,100.0,2,2,1,1,Veikkausliiga,2026
+7103184b,Teemu Hytönen,Teemu Hytönen,fi FIN,FW,Ilves,23-242,2002,2,2,180,2.0,1,0,1,1,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,0.20,0.50,5,2,40.0,1.00,2.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+f023e4eb,Marlo Hyvönen,Marlo Hyvönen,fi FIN,MF,IFK Mariehamn,20-347,2005,2,0,43,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,2.09,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+b413a98c,Lasse Ikonen,Lasse Ikonen,fi FIN,MF,TPS,23-085,2003,2,2,128,1.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+d1c14e2c,Topias Inkinen,Topias Inkinen,fi FIN,DF,Lahti,22-292,2003,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+ee08a338,Luke Ivanovic,Luke Ivanovic,au AUS,MF,TPS,25-312,2000,2,2,170,1.9,0,1,1,0,0,0,0,0,0.00,0.53,0.53,0.00,0.53,Matches,0.00,0.00,8,3,37.5,1.59,4.24,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+f9561e4e,Niklas Jokelainen,Niklas Jokelainen,fi FIN,MF,AC Oulu,26-015,2000,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+26ef39e5,Adam Jouhi,Adam Jouhi,fi FIN,MF,IF Gnistan,19-206,2006,2,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+b31f8576,Juvanteny,Juvanteny,es ESP,MF,TPS,25-325,2000,2,0,52,0.6,1,0,1,1,0,0,0,0,1.73,0.00,1.73,1.73,1.73,Matches,1.00,1.00,1,1,100.0,1.73,1.73,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+2a38ab19,Armend Kabashi,Armend Kabashi,fi FIN,MF,Lahti,30-131,1995,2,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+b918d238,Calvin Kabuye,Calvin Kabuye,ug UGA,MF,KuPS,23-017,2003,2,2,106,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,2,66.7,1.70,2.55,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+3243f59f,Jere Kallinen,Jere Kallinen,fi FIN,MF,HJK Helsinki,24-094,2002,1,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+f27f68e4,Elias Kallio,Elias Kallio,fi FIN,MF,AC Oulu,22-174,2003,2,2,161,1.8,1,1,2,1,0,0,0,0,0.56,0.56,1.12,0.56,1.12,Matches,0.25,1.00,4,1,25.0,0.56,2.24,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+09cb9776,Jardell Kanga,Jardell Kanga,se SWE,MF,Ilves,20-122,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,1.00,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+55cc1761,Ilari Kangasniemi,Ilari Kangasniemi,fi FIN,DF,Inter Turku,18-357,2007,1,1,90,1.0,1,0,1,1,0,0,1,0,1.00,0.00,1.00,1.00,1.00,Matches,0.50,1.00,2,1,50.0,1.00,2.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+ee016483,Rasmus Karjalainen,Rasmus Karjalainen,fi FIN,FW,AC Oulu,30-010,1996,2,2,180,2.0,2,0,2,2,0,0,0,0,1.00,0.00,1.00,1.00,1.00,Matches,0.50,1.00,4,2,50.0,1.00,2.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+60b5e688,Tobias Karkulowski,Tobias Karkulowski,fi FIN,DF,TPS,21-187,2004,2,1,106,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.85,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+8a28bb35,Oliver Kass Kawo,Oliver Kass Kawo,sy SYR,FW,FF Jaro,24-132,2001,2,0,52,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+3ffbe7d1,Tuomas Kaukua,Tuomas Kaukua,fi FIN,"MF,DF",AC Oulu,25-183,2000,2,2,180,2.0,1,1,2,1,0,0,0,0,0.50,0.50,1.00,0.50,1.00,Matches,0.50,1.00,2,1,50.0,0.50,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+d4051a7f,Miika Kauppila,Miika Kauppila,fi FIN,FW,TPS,25-260,2000,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+78d4f1df,Joonas Kekarainen,Joonas Kekarainen,fi FIN,MF,SJK,20-346,2005,1,1,74,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+9dc6f330,Otto Kemppainen,Otto Kemppainen,fi FIN,DF,AC Oulu,22-169,2003,2,2,179,2.0,0,1,1,0,0,0,0,0,0.00,0.50,0.50,0.00,0.50,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+cfdbed5b,Olavi Keturi,Olavi Keturi,,FW,VPS,,,2,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+115bc73b,Eeli Kiiskilä,Eeli Kiiskilä,fi FIN,MF,Inter Turku,18-099,2008,2,1,93,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+70c3cf8d,Jesse Kilo,Jesse Kilo,fi FIN,FW,Ilves,22-089,2004,2,1,112,1.2,0,1,1,0,0,0,0,0,0.00,0.80,0.80,0.00,0.80,Matches,0.00,0.00,3,1,33.3,0.80,2.41,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+64b56107,Martin Kirilov,Martin Kirilov,fi FIN,FW,HJK Helsinki,18-249,2007,2,0,39,0.4,0,1,1,0,0,0,1,0,0.00,2.31,2.31,0.00,2.31,Matches,0.00,,1,0,0.0,0.00,2.31,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+71f15e2c,Marius Könkkölä,Marius Könkkölä,fi FIN,MF,TPS,22-165,2003,2,2,164,1.8,1,0,1,1,0,0,0,0,0.55,0.00,0.55,0.55,0.55,Matches,0.25,0.50,4,2,50.0,1.10,2.20,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+3d93d5b5,Julius Körkkö,Julius Körkkö,fi FIN,FW,AC Oulu,19-285,2006,2,2,159,1.8,2,0,2,2,0,0,1,0,1.13,0.00,1.13,1.13,1.13,Matches,0.29,0.50,7,4,57.1,2.26,3.96,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+602aaa23,Otso Koskinen,Otso Koskinen,fi FIN,MF,Lahti,23-103,2003,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,4.74,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+bfcf986d,Johannes Kreidl,Johannes Kreidl,at AUT,GK,KuPS,30-038,1996,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,50.0,2,2,1,0.50,0,180,0,0,0,,0,83.3,5,6,0,2,Veikkausliiga,2026
+59f9dfba,Faris Krkalić,Faris Krkalić,ba BIH,GK,Ilves,23-303,2002,2,1,160,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,1,4,2.25,1,160,0,0,0,,0,33.3,2,6,0,0,Veikkausliiga,2026
+211931d6,Luka Kuittinen,Luka Kuittinen,fi FIN,DF,Inter Turku,23-016,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+4c2ed22a,Niilo Kujasalo,Niilo Kujasalo,fi FIN,MF,KuPS,22-028,2004,2,0,62,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,2.90,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+ce67c769,Janne-Pekka Laine,Janne-Pekka Laine,fi FIN,MF,Inter Turku,25-079,2001,2,1,87,1.0,0,1,1,0,0,0,0,0,0.00,1.03,1.03,0.00,1.03,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+bcb2282d,Lassi Lappalainen,Lassi Lappalainen,fi FIN,"FW,MF",HJK Helsinki,27-233,1998,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+33064bf6,Adam Larsson,Adam Larsson,se SWE,FW,IFK Mariehamn,26-221,1999,2,2,161,1.8,1,0,1,1,0,0,0,0,0.56,0.00,0.56,0.56,0.56,Matches,0.25,0.50,4,2,50.0,1.12,2.24,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+ae01ae2b,Joakim Latonen,Joakim Latonen,fi FIN,FW,IF Gnistan,28-049,1998,2,1,72,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+5150d67c,Joel Lehtonen,Joel Lehtonen,fi FIN,DF,Lahti,26-136,1999,2,2,134,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+d4132db4,Johan Lietsa,Johan Lietsa,fi FIN,DF,AC Oulu,21-058,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+c76b9a39,Paulo Lima,Paulo Lima,st STP,MF,VPS,27-313,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+b9ee66cf,Pontus Lindgren,Pontus Lindgren,se SWE,DF,IFK Mariehamn,25-122,2000,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+5df0cd0a,Simon Lindholm,Simon Lindholm,fi FIN,MF,VPS,24-134,2001,2,1,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+f99360b9,Lucas Lingman,Lucas Lingman,fi FIN,MF,HJK Helsinki,28-079,1998,2,2,174,1.9,0,1,1,0,0,0,0,0,0.00,0.52,0.52,0.00,0.52,Matches,0.00,,4,0,0.0,0.00,2.07,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+2aca2ed8,Arvid Lundberg,Arvid Lundberg,fi FIN,FW,IFK Mariehamn,19-325,2006,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+6bedf8a7,Joslyn Luyeye-Lutumba,Joslyn Luyeye-Lutumba,fi FIN,FW,KuPS,23-122,2002,2,0,40,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+1f605c5e,Brooklyn Lyons-Foster,Brooklyn Lyons-Foster,eng ENG,DF,HJK Helsinki,25-134,2000,2,2,131,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+4e1dfa57,Juuso Mäkeläinen,Juuso Mäkeläinen,fi FIN,MF,AC Oulu,17-077,2009,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+f053b5fd,Lassana Mané,Lassana Mané,gw GNB,MF,VPS,26-001,2000,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+9a9a642a,Matej Marković,Matej Marković,ba BIH,GK,HJK Helsinki,29-266,1996,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,50.0,2,2,1,0.50,1,180,0,0,0,,0,83.3,5,6,0,1,Veikkausliiga,2026
+8af4033a,Elias Mastokangas,Elias Mastokangas,fi FIN,FW,SJK,25-072,2001,2,1,61,0.7,0,1,1,0,0,0,0,0,0.00,1.48,1.48,0.00,1.48,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+bcace546,Osku Maukonen,Osku Maukonen,fi FIN,GK,Lahti,19-058,2007,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,50.0,2,2,2,1.00,1,180,0,0,0,,0,77.8,7,9,0,1,Veikkausliiga,2026
+2f2485fb,Iiro Mendolin,Iiro Mendolin,fi FIN,MF,AC Oulu,19-324,2006,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.50,1.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+97efaac0,Pyry Mentu,Pyry Mentu,fi FIN,MF,HJK Helsinki,19-164,2006,2,2,153,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+556979a0,Toivo Mero,Toivo Mero,fi FIN,MF,HJK Helsinki,18-189,2007,2,0,57,0.6,1,0,1,1,0,0,0,0,1.58,0.00,1.58,1.58,1.58,Matches,1.00,1.00,1,1,100.0,1.58,1.58,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+5d8301f3,Tatu Miettunen,Tatu Miettunen,fi FIN,DF,Ilves,30-355,1995,2,1,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+35bac6d4,Jaakko Moisio,Jaakko Moisio,fi FIN,DF,SJK,21-092,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+3986c2c8,Liam Möller,Liam Möller,fi FIN,MF,HJK Helsinki,21-114,2004,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+dd52d069,Cristóbal Montiel,Cristóbal Montiel,es ESP,MF,Lahti,26-003,2000,2,0,53,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+5688bbc3,Jaime Moreno Ciorciari,Jaime Moreno Ciorciari,ni NCA,FW,KuPS,31-015,1995,2,2,180,2.0,2,0,2,2,0,0,0,0,1.00,0.00,1.00,1.00,1.00,Matches,0.18,0.29,11,7,63.6,3.50,5.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+6ad02a43,José Muller,José Muller,pt POR,DF,Lahti,23-051,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+66cb8efe,Oskari Multala,Oskari Multala,fi FIN,MF,Ilves,19-032,2007,1,1,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+8c25f084,Albijon Muzaci,Albijon Muzaci,fi FIN,MF,TPS,29-307,1996,2,2,152,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.59,2.96,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+aea84652,Jonathan Muzinga,Jonathan Muzinga,fi FIN,FW,VPS,24-045,2002,2,2,164,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,2,100.0,1.10,1.10,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+81844041,Jim Myrevik,Jim Myrevik,fi FIN,FW,FF Jaro,30-084,1996,2,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,2.81,2.81,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+60db4945,Fabian Ness,Fabian Ness,no NOR,"MF,DF",FF Jaro,26-273,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.50,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+0e13070a,Samson Ngulube,Samson Ngulube,zm ZAM,DF,IFK Mariehamn,20-134,2005,2,2,157,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.57,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+9ebf637f,Nicolas,Nicolas,br BRA,DF,Lahti,27-334,1998,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+7ed9bff8,Bob Nii Armah,Bob Nii Armah,gh GHA,DF,KuPS,22-084,2004,2,2,160,1.8,1,0,1,1,0,0,0,0,0.56,0.00,0.56,0.56,0.56,Matches,0.17,0.33,6,3,50.0,1.69,3.38,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+b423700c,Jussi Niska,Jussi Niska,fi FIN,DF,Inter Turku,23-242,2002,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,1.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+052e75d7,Jiri Nissinen,Jiri Nissinen,fi FIN,DF,IFK Mariehamn,28-319,1997,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+93a50d2c,Kasim Nuhu,Kasim Nuhu,gh GHA,DF,KuPS,30-296,1995,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+51ecb8f4,Noah Nurmi,Noah Nurmi,fi FIN,DF,IFK Mariehamn,25-067,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+33bea99b,Ayo Obileye,Ayo Obileye,eng ENG,DF,IF Gnistan,31-224,1994,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+6c5750e4,Michael Ogungbaro,Michael Ogungbaro,ng NGA,DF,FF Jaro,29-278,1996,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,2.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+f0f49d8a,Juhani Ojala,Juhani Ojala,fi FIN,DF,IF Gnistan,36-299,1989,1,1,87,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+c4126f96,Justus Ojanen,Justus Ojanen,fi FIN,FW,Lahti,20-241,2005,2,0,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.70,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+31a5feb7,Emmanuel Okereke,Emmanuel Okereke,ng NGA,DF,VPS,22-258,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+0ac90011,Julius Paananen,Julius Paananen,fi FIN,MF,AC Oulu,19-139,2006,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+ea3dc021,Kasper Paananen,Kasper Paananen,fi FIN,FW,SJK,23-029,2003,2,1,119,1.3,1,1,2,1,0,0,0,0,0.76,0.76,1.51,0.76,1.51,Matches,0.17,0.50,6,2,33.3,1.51,4.54,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+570da809,Prosper Padera,Prosper Padera,zw ZIM,MF,SJK,19-187,2006,2,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+37f42cff,Emmanuel Patut,Emmanuel Patut,fi FIN,MF,IFK Mariehamn,22-299,2003,2,1,113,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.80,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+6a782f71,Roope Paunio,Roope Paunio,fi FIN,GK,SJK,23-121,2002,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,50.0,2,2,3,1.50,1,180,0,0,0,,0,50.0,3,6,0,1,Veikkausliiga,2026
+df1e34a1,Luke Pearce,Luke Pearce,ie IRL,FW,IFK Mariehamn,21-310,2004,2,2,137,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.66,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+f0f8a5f5,Mats Pedersen,Mats Pedersen,no NOR,MF,FF Jaro,20-352,2005,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.50,2.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+faf0a2f2,Petteri Pennanen,Petteri Pennanen,fi FIN,MF,KuPS,35-207,1990,2,2,180,2.0,1,0,1,1,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,0.25,0.50,4,2,50.0,1.00,2.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+800cb840,Danny Pérez,Danny Pérez,ve VEN,FW,IF Gnistan,26-081,2000,1,1,66,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,1.36,1.36,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+7ca44fbf,Oliver Pettersson,Oliver Pettersson,fi FIN,DF,Ilves,22-336,2003,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.67,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+685b2a2e,Juha Pirinen,Juha Pirinen,fi FIN,DF,AC Oulu,34-174,1991,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+8088a12b,Mikko Pitkänen,Mikko Pitkänen,fi FIN,DF,AC Oulu,29-102,1997,2,2,179,2.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+41ab24a2,Anton Popovitch,Anton Popovitch,fi FIN,MF,Ilves,29-277,1996,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+0745b37d,Teemu Pukki,Teemu Pukki,fi FIN,FW,HJK Helsinki,36-016,1990,2,2,156,1.7,1,0,1,1,0,0,0,0,0.58,0.00,0.58,0.58,0.58,Matches,0.20,0.33,5,3,60.0,1.73,2.88,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+b5e3cff0,Yiandro Raap,Yiandro Raap,ve VEN,MF,Ilves,19-263,2006,2,1,84,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+5eff6a7d,Abdoul Rachid Gnanou,Abdoul Rachid Gnanou,bf BFA,DF,IF Gnistan,21-149,2004,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+eb87482c,Antti-Ville Räisänen,Antti-Ville Räisänen,fi FIN,MF,VPS,28-010,1998,1,1,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+adf51131,Matias Rale,Matias Rale,fi FIN,DF,Ilves,25-041,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+96579e6e,Ramilson,Ramilson,br BRA,GK,IF Gnistan,26-236,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,2,6,3.00,2,180,0,0,0,,0,66.7,12,18,0,0,Veikkausliiga,2026
+626f44ac,Lucas Rangel,Lucas Rangel,br BRA,FW,SJK,31-106,1994,2,1,100,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.90,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+f7c20b55,Matias Riikonen,Matias Riikonen,fi FIN,GK,IFK Mariehamn,24-049,2002,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,2,4,2.00,1,180,0,0,0,,0,63.6,7,11,1,0,Veikkausliiga,2026
+6c1221d6,Alexander Ring,Alexander Ring,fi FIN,MF,HJK Helsinki,35-005,1991,2,2,157,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,1,12.5,0.57,4.59,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+72dacad9,Roope Riski,Roope Riski,fi FIN,FW,Ilves,34-241,1991,2,2,146,1.6,1,0,1,0,1,1,1,0,0.62,0.00,0.62,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.62,1.23,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+551a75f1,Vilmer Rönnberg,Vilmer Rönnberg,se SWE,DF,VPS,24-017,2002,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+ed20ec7b,Otto Ruoppi,Otto Ruoppi,fi FIN,"MF,FW",KuPS,20-073,2006,2,2,180,2.0,0,1,1,0,0,0,0,0,0.00,0.50,0.50,0.00,0.50,Matches,0.00,,2,0,0.0,0.00,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+93a2f867,Seth Saarinen,Seth Saarinen,fi FIN,DF,Inter Turku,24-344,2001,1,1,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+79ce98f5,Henri Salomaa,Henri Salomaa,fi FIN,FW,Inter Turku,23-059,2003,2,1,93,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,1.94,3.87,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+3c9072b6,Romain Sans,Romain Sans,fr FRA,DF,Lahti,27-026,1999,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.50,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+73d5b62a,Miguel Santos,Miguel Santos,pt POR,GK,AC Oulu,31-175,1994,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,50.0,2,2,1,0.50,0,180,0,0,0,,0,87.5,7,8,0,2,Veikkausliiga,2026
+787dc5fe,Momodou Sarr,Momodou Sarr,fi FIN,FW,Lahti,26-014,2000,2,2,173,1.9,2,0,2,2,0,0,0,0,1.04,0.00,1.04,1.04,1.04,Matches,0.40,0.67,5,3,60.0,1.56,2.60,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+57cea68c,Saku Savolainen,Saku Savolainen,fi FIN,"DF,FW",KuPS,29-244,1996,2,0,40,0.4,0,1,1,0,0,0,0,0,0.00,2.25,2.25,0.00,2.25,Matches,0.00,,1,0,0.0,0.00,2.25,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+bc7c6147,Atte Sihvonen,Atte Sihvonen,fi FIN,DF,TPS,30-055,1996,2,1,69,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+d0520116,Santeri Silander,Santeri Silander,fi FIN,DF,AC Oulu,21-359,2004,2,0,45,0.5,0,1,1,0,0,0,0,0,0.00,2.00,2.00,0.00,2.00,Matches,0.00,0.00,2,1,50.0,2.00,4.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+3571fc04,Sami Sipola,Sami Sipola,fi FIN,DF,AC Oulu,24-110,2001,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+f5ea4560,Herman Sjögrell,Herman Sjögrell,se SWE,FW,FF Jaro,24-341,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,3,37.5,1.50,4.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+53cc8472,Jesper Skau,Jesper Skau,no NOR,MF,FF Jaro,22-330,2003,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,1.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+81a29fee,Maksim Stjopin,Maksim Stjopin,fi FIN,"MF,FW",Ilves,23-006,2003,2,2,158,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.57,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+805939b5,Jeremiah Streng,Jeremiah Streng,fi FIN,FW,SJK,24-157,2001,2,1,117,1.3,1,0,1,1,0,0,0,0,0.77,0.00,0.77,0.77,0.77,Matches,0.33,0.33,3,3,100.0,2.31,2.31,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+89ed74e0,Adam Stroud,Adam Stroud,se SWE,MF,IFK Mariehamn,21-002,2005,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+362d4da8,Nikolas Talo,Nikolas Talo,fi FIN,DF,TPS,23-021,2003,2,2,170,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+93e0e021,Olatoundji Tessilimi,Olatoundji Tessilimi,bj BEN,MF,SJK,21-163,2004,1,1,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,1.70,1.70,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+c612c711,Otto Tiitinen,Otto Tiitinen,fi FIN,MF,Ilves,17-354,2008,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+f3e3d488,Ville Tikkanen,Ville Tikkanen,fi FIN,DF,HJK Helsinki,26-249,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+a7b56937,Theodoros Tsirigotis,Theodoros Tsirigotis,gr GRE,FW,TPS,25-295,2000,2,2,180,2.0,1,1,2,1,0,0,0,0,0.50,0.50,1.00,0.50,1.00,Matches,0.20,0.50,5,2,40.0,1.00,2.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+aaee68f1,Jasse Tuominen,Jasse Tuominen,fi FIN,MF,Inter Turku,30-153,1995,2,2,147,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.61,1.22,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+da60f8ba,Jayden Turfkruier,Jayden Turfkruier,sr SUR,MF,VPS,23-201,2002,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+32f8e273,Eetu Turkki,Eetu Turkki,fi FIN,DF,TPS,19-073,2007,2,1,111,1.2,0,1,1,0,0,0,1,0,0.00,0.81,0.81,0.00,0.81,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+58d8fe94,Vincent Ulundu,Vincent Ulundu,fi FIN,FW,Inter Turku,21-020,2005,2,1,87,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+7fafd636,Joonas Vahtera,Joonas Vahtera,fi FIN,MF,VPS,30-098,1996,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+23214a49,Sauli Väisänen,Sauli Väisänen,fi FIN,DF,Ilves,31-313,1994,2,2,179,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.50,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+b309d9e4,Oskari Väistö,Oskari Väistö,fi FIN,DF,SJK,20-211,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,1.00,3.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+a50af160,Simon Van Duivenbooden,Simon Van Duivenbooden,nl NED,FW,VPS,23-338,2002,2,2,144,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.62,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+f6b221dc,Elmer Vauhkonen,Elmer Vauhkonen,fi FIN,MF,TPS,20-101,2006,2,0,44,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,2.05,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+51875606,Leon Vesterbacka,Leon Vesterbacka,fi FIN,MF,SJK,18-133,2007,2,1,100,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+cdd9f74e,Adam Vidjeskog,Adam Vidjeskog,fi FIN,MF,FF Jaro,27-281,1998,2,1,68,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,1.32,1.32,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+b15bed5c,Joas Vikström,Joas Vikström,fi FIN,FW,FF Jaro,18-001,2008,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,3.91,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+3fb269b7,Rudi Vikström,Rudi Vikström,fi FIN,FW,FF Jaro,18-270,2007,2,2,127,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.71,2.13,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+d899ef92,Otso Virtanen,Otso Virtanen,fi FIN,GK,Ilves,32-011,1994,1,1,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,1,1,1,4.50,1,20,0,0,0,,0,66.7,2,3,0,0,Veikkausliiga,2026
+4fd86825,Senne Vits,Senne Vits,be BEL,GK,FF Jaro,29-226,1996,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,50.0,2,2,1,0.50,1,180,0,0,0,,0,75.0,3,4,1,0,Veikkausliiga,2026
+e4bc9d20,Ville Vuorinen,Ville Vuorinen,fi FIN,FW,FF Jaro,21-052,2005,2,1,83,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+520cfcbc,Kalle Wallius,Kalle Wallius,fi FIN,DF,Ilves,23-102,2003,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+190f655b,Mamadou Wurie Jalloh,Mamadou Wurie Jalloh,sl SLE,GK,VPS,19-136,2006,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,100.0,2,2,0,0.00,0,180,0,0,0,,0,100.0,9,9,2,0,Veikkausliiga,2026
+36e6a83f,Sayibu Yakubu,Sayibu Yakubu,gh GHA,DF,SJK,20-108,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+7faf5b19,Romaric Yapi,Romaric Yapi,fr FRA,DF,Lahti,25-275,2000,2,0,46,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.96,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+ca3478f9,Johannes Yli-Kokko,Johannes Yli-Kokko,fi FIN,MF,Inter Turku,24-233,2001,1,0,33,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+161e0b9f,Miska Ylitolva,Miska Ylitolva,fi FIN,DF,HJK Helsinki,21-326,2004,2,0,49,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.84,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+14f2e5a0,Timo Zaal,Timo Zaal,nl NED,MF,TPS,22-064,2004,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.50,2.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+550da2c4,Linus Zetterström,Linus Zetterström,se SWE,FW,FF Jaro,28-349,1997,1,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2026
+9af1b8c2,Korede Adedoyin,Korede Adedoyin,ng NGA,"FW,MF",IFK Mariehamn,24,2000,20,16,"1,400",15.6,10,2,12,10,0,1,3,0,0.64,0.13,0.77,0.64,0.77,Matches,0.19,0.43,52,23,44.2,1.48,3.34,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2e13c8c4,James Akintunde,James Akintunde,eng ENG,FW,Haka,28,1996,23,18,"1,446",16.1,4,1,5,4,0,0,0,0,0.25,0.06,0.31,0.25,0.31,Matches,0.17,0.57,24,7,29.2,0.44,1.49,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+af068d41,Adeleke Akinyemi,Adeleke Akinyemi,ng NGA,FW,Ilves,26,1998,22,6,581,6.5,2,2,4,2,0,0,1,0,0.31,0.31,0.62,0.31,0.62,Matches,0.09,0.22,23,9,39.1,1.39,3.56,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+6a51e631,Joshua Akpudje,Joshua Akpudje,ng NGA,DF,KTP,26,1998,8,7,604,6.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,0.60,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+77e1758f,Lauri Ala-Myllymäki,Lauri Ala-Myllymäki,fi FIN,"FW,MF",Ilves,27,1997,20,10,775,8.6,2,1,3,2,0,0,3,0,0.23,0.12,0.35,0.23,0.35,Matches,0.07,0.20,28,10,35.7,1.16,3.25,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+9064c9ca,Asse Alain Guei,Asse Alain Guei,ci CIV,FW,Inter Turku,19,2005,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+d648ec81,Antonio Almen,Antonio Almen,fi FIN,MF,VPS,20,2004,7,1,130,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.69,1.38,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+cf9b4a74,Mikael Almen,Mikael Almen,fi FIN,DF,Haka,24,2000,18,17,"1,541",17.1,0,1,1,0,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches,0.00,0.00,8,2,25.0,0.12,0.47,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+362975a9,Bismark Ampofo,Bismark Ampofo,gh GHA,MF,Inter Turku,22,2002,28,23,"2,016",22.4,2,1,3,2,0,0,3,1,0.09,0.04,0.13,0.09,0.13,Matches,0.09,0.40,22,5,22.7,0.22,0.98,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5737e90d,Leo Andersson,Leo Andersson,fi FIN,FW,IFK Mariehamn,20,2004,18,2,413,4.6,2,0,2,2,0,0,0,0,0.44,0.00,0.44,0.44,0.44,Matches,0.67,1.00,3,2,66.7,0.44,0.65,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+1230f564,Clinton Antwi,Clinton Antwi,gh GHA,DF,KuPS,25,1999,18,13,"1,191",13.2,0,2,2,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches,0.00,0.00,16,3,18.8,0.23,1.21,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+4b2a53a6,Giorgos Antzoulas,Giorgos Antzoulas,gr GRE,DF,HJK Helsinki,24,2000,24,24,"2,061",22.9,3,0,3,3,0,0,1,0,0.13,0.00,0.13,0.13,0.13,Matches,0.17,0.43,18,7,38.9,0.31,0.79,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+90705eb3,Doni Arifi,Doni Arifi,fi FIN,MF,KuPS,22,2002,29,28,"2,351",26.1,1,1,2,1,0,0,2,0,0.04,0.04,0.08,0.04,0.08,Matches,0.06,0.25,17,4,23.5,0.15,0.65,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5ec20548,Edmund Arko-Mensah,Edmund Arko-Mensah,gh GHA,"DF,MF",IF Gnistan,23,2001,25,23,"2,015",22.4,3,2,5,3,0,0,10,1,0.13,0.09,0.22,0.13,0.22,Matches,0.13,0.27,23,11,47.8,0.49,1.03,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+4dc92ba8,Adrian Arrakoski,Adrian Arrakoski,,MF,VPS,,,1,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+29c50f71,Markus Arsalo,Markus Arsalo,fi FIN,MF,SJK,22,2002,31,27,"2,415",26.8,2,4,6,2,0,0,3,0,0.07,0.15,0.22,0.07,0.22,Matches,0.06,0.25,31,8,25.8,0.30,1.16,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2655afa6,Kofi Asare,Kofi Asare,se SWE,FW,Inter Turku,22,2002,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,5.63,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+d6bd1ed7,Felipe Aspegren,Felipe Aspegren,fi FIN,"MF,DF",KTP,30,1994,9,8,718,8.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,2,28.6,0.25,0.88,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+d6bd1ed7,Felipe Aspegren,Felipe Aspegren,fi FIN,"MF,DF",KTP,30,1994,9,8,718,8.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.29,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+d6bd1ed7,Felipe Aspegren,Felipe Aspegren,fi FIN,MF,Ilves,30,1994,9,2,314,3.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,2,28.6,0.25,0.88,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+d6bd1ed7,Felipe Aspegren,Felipe Aspegren,fi FIN,MF,Ilves,30,1994,9,2,314,3.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.29,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a274f88d,Artur Atarah,Artur Atarah,fi FIN,"FW,MF",IF Gnistan,19,2005,20,7,646,7.2,2,1,3,2,0,0,3,0,0.28,0.14,0.42,0.28,0.42,Matches,0.07,0.18,28,11,39.3,1.53,3.90,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+81b6f216,Derrick Atta Agyei,Derrick Atta Agyei,gh GHA,DF,KuPS,21,2003,3,2,109,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.83,1.65,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+0782f252,Charlemagne Azongnitode,Charlemagne Azongnitode,bj BEN,DF,AC Oulu,23,2001,8,7,595,6.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,3,75.0,0.45,0.61,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+20b2883d,Matias Babb,Matias Babb,fi FIN,DF,AC Oulu,19,2005,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e76dc174,Vasilije Bakić,Vasilije Bakić,rs SRB,DF,Ilves,24,2000,2,1,105,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.86,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+208fded1,Hassane Bandé,Hassane Bandé,bf BFA,FW,HJK Helsinki,26,1998,5,1,101,1.1,0,1,1,0,0,0,1,0,0.00,0.89,0.89,0.00,0.89,Matches,0.00,0.00,3,2,66.7,1.78,2.67,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+fe12279c,Enoch Banza,Enoch Banza,fi FIN,MF,KTP,24,2000,3,1,76,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,2.37,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+72a9964d,Stanislav Baranov,Stanislav Baranov,fi FIN,FW,HJK Helsinki,19,2005,2,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,6.92,6.92,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a19a24e2,Danny Barrow,Danny Barrow,wls WAL,"MF,FW",AC Oulu,29,1995,10,8,568,6.3,1,1,2,1,0,0,1,0,0.16,0.16,0.32,0.16,0.32,Matches,0.13,0.50,8,2,25.0,0.32,1.27,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+9543d4f1,Yevgeni Bashkirov,Yevgeni Bashkirov,ru RUS,MF,IF Gnistan,33,1991,30,29,"2,508",27.9,3,1,4,3,0,0,2,1,0.11,0.04,0.14,0.11,0.14,Matches,0.11,0.43,28,7,25.0,0.25,1.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+c2013aa5,Leon Bergsma,Leon Bergsma,nl NED,DF,AC Oulu,28,1997,13,12,"1,077",12.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.08,0.42,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+506ee547,Vicente Besuijen,Vicente Besuijen,nl NED,MF,HJK Helsinki,23,2001,12,2,343,3.8,1,0,1,1,0,0,0,0,0.26,0.00,0.26,0.26,0.26,Matches,0.14,0.33,7,3,42.9,0.79,1.84,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+9e95ea7a,Aron Bjonbäck,Aron Bjonbäck,fi FIN,DF,FF Jaro,22,2002,23,17,"1,624",18.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,9,2,22.2,0.11,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+687037e9,Albin Björkskog,Albin Björkskog,fi FIN,"MF,FW",FF Jaro,20,2004,26,19,"1,773",19.7,4,5,9,4,0,0,1,0,0.20,0.25,0.46,0.20,0.46,Matches,0.12,0.33,33,12,36.4,0.61,1.68,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5377f66c,Michael Boamah,Michael Boamah,fi FIN,DF,Haka,21,2003,7,3,304,3.4,0,1,1,0,0,0,0,0,0.00,0.30,0.30,0.00,0.30,Matches,0.00,,1,0,0.0,0.00,0.30,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5377f66c,Michael Boamah,Michael Boamah,fi FIN,DF,Haka,21,2003,7,3,304,3.4,0,1,1,0,0,0,0,0,0.00,0.30,0.30,0.00,0.30,Matches,1.00,1.00,1,1,100.0,0.51,0.51,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5377f66c,Michael Boamah,Michael Boamah,fi FIN,DF,HJK Helsinki,21,2003,6,1,175,1.9,1,0,1,1,0,0,0,0,0.51,0.00,0.51,0.51,0.51,Matches,0.00,,1,0,0.0,0.00,0.30,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5377f66c,Michael Boamah,Michael Boamah,fi FIN,DF,HJK Helsinki,21,2003,6,1,175,1.9,1,0,1,1,0,0,0,0,0.51,0.00,0.51,0.51,0.51,Matches,1.00,1.00,1,1,100.0,0.51,0.51,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+cf21165c,Mihailo Bogicevic,Mihailo Bogicevic,ch SUI,DF,HJK Helsinki,26,1998,7,5,464,5.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.19,0.39,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+eec3fcfe,Momodou Bojang,Momodou Bojang,gm GAM,FW,SJK,23,2001,9,6,453,5.0,1,1,2,1,0,0,4,0,0.20,0.20,0.40,0.20,0.40,Matches,0.06,0.13,18,8,44.4,1.59,3.58,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+536f13a8,Mads Borchers,Mads Borchers,dk DEN,FW,VPS,22,2002,6,6,405,4.5,5,1,6,3,2,2,0,0,1.11,0.22,1.33,0.67,0.89,Matches,0.21,0.38,14,8,57.1,1.78,3.11,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+65fcf987,Kouamé Botué,Kouamé Botué,bf BFA,FW,Inter Turku,22,2002,29,16,"1,385",15.4,4,2,6,4,0,0,3,1,0.26,0.13,0.39,0.26,0.39,Matches,0.09,0.25,45,16,35.6,1.04,2.92,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a2f0771a,Johan Brunell,Johan Brunell,fi FIN,DF,FF Jaro,33,1991,18,17,"1,384",15.4,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.07,0.39,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2bb9c3c3,Danila Bulgakov,Danila Bulgakov,fi FIN,"MF,FW",Haka,20,2005,18,10,963,10.7,3,0,3,3,0,0,0,0,0.28,0.00,0.28,0.28,0.28,Matches,0.15,0.38,20,8,40.0,0.75,1.87,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+79f4131d,Marius Bustgaard Larsen,Marius Bustgaard Larsen,no NOR,"MF,FW",KTP,24,2000,10,6,523,5.8,0,1,1,0,0,0,2,0,0.00,0.17,0.17,0.00,0.17,Matches,0.00,0.00,9,4,44.4,0.69,1.55,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+bae2f8e4,Adramane Cassamá,Adramane Cassamá,gw GNB,"DF,MF",AC Oulu,21,2004,22,19,"1,718",19.1,1,0,1,1,0,0,0,0,0.05,0.00,0.05,0.05,0.05,Matches,0.11,0.50,9,2,22.2,0.10,0.47,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+72d589c3,Samuel Chukwudi,Samuel Chukwudi,fo FRO,DF,SJK,21,2003,23,22,"1,786",19.8,3,2,5,3,0,0,5,0,0.15,0.10,0.25,0.15,0.25,Matches,0.25,0.75,12,4,33.3,0.20,0.60,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+29418d43,Alfie Cicale,Alfie Cicale,eng ENG,"MF,FW",VPS,22,2002,22,20,"1,774",19.7,1,4,5,1,0,0,1,0,0.05,0.20,0.25,0.05,0.25,Matches,0.05,0.20,20,5,25.0,0.25,1.01,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+065a3beb,Lucas Cini,Lucas Cini,br BRA,MF,Haka,25,1999,18,10,890,9.9,2,0,2,2,0,0,4,0,0.20,0.00,0.20,0.20,0.20,Matches,0.08,0.25,26,8,30.8,0.81,2.63,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+9cebd6ce,Ibrahim Cissé,Ibrahim Cissé,ci CIV,DF,KuPS,26,1999,26,26,"2,313",25.7,2,0,2,2,0,0,9,0,0.08,0.00,0.08,0.08,0.08,Matches,0.13,0.40,16,5,31.3,0.19,0.62,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+b53bea08,Kerfala Cissoko,Kerfala Cissoko,gn GUI,FW,FF Jaro,25,1999,25,25,"2,230",24.8,14,2,16,14,0,1,2,1,0.57,0.08,0.65,0.57,0.65,Matches,0.33,0.64,42,22,52.4,0.89,1.70,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+b947001e,Alex Craninx,Alex Craninx,es ESP,GK,IF Gnistan,29,1995,29,29,"2,479",27.5,0,0,0,0,0,0,3,2,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,6,20.7,29,29,55,2.00,13,"2,479",4,6,0,33.3,2,61.7,84,133,8,8,Veikkausliiga,2025
+40bf14cf,Jean-Pierre Da Sylva,Jean-Pierre Da Sylva,fr FRA,"MF,FW",Haka,28,1997,25,22,"2,032",22.6,5,2,7,4,1,1,3,0,0.22,0.09,0.31,0.18,0.27,Matches,0.08,0.21,49,19,38.8,0.84,2.17,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+611f6a08,Benjamin Dahlström,Benjamin Dahlström,fi FIN,MF,IF Gnistan,21,2003,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,3.91,3.91,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+28313052,Sebastian Dahlström,Sebastian Dahlström,fi FIN,MF,IFK Mariehamn,28,1996,26,24,"1,948",21.6,3,3,6,2,1,1,1,0,0.14,0.14,0.28,0.09,0.23,Matches,0.09,0.25,22,8,36.4,0.37,1.02,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+3040df61,Eric Danso Boateng,Eric Danso Boateng,gh GHA,MF,KuPS,20,2004,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+3d97403c,Yassin Daoussi,Yassin Daoussi,fi FIN,"MF,FW",VPS,24,2000,13,5,522,5.8,1,1,2,1,0,0,2,0,0.17,0.17,0.34,0.17,0.34,Matches,0.17,1.00,6,1,16.7,0.17,1.03,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+9b4ff388,Tristan Dekker,Tristan Dekker,nl NED,MF,VPS,26,1998,20,17,"1,366",15.2,1,0,1,1,0,0,4,0,0.07,0.00,0.07,0.07,0.07,Matches,0.07,0.17,14,6,42.9,0.40,0.92,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+983d4e0b,Jelle van der Heyden,Jelle van der Heyden,nl NED,MF,IFK Mariehamn,29,1995,16,11,998,11.1,1,1,2,1,0,0,1,0,0.09,0.09,0.18,0.09,0.18,Matches,0.20,0.50,5,2,40.0,0.18,0.45,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e1fead6d,Prosper Deyegbe,Prosper Deyegbe,gh GHA,MF,VPS,25,1999,25,25,"2,200",24.4,2,1,3,2,0,0,7,1,0.08,0.04,0.12,0.08,0.12,Matches,0.08,0.25,26,8,30.8,0.33,1.06,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+014874b8,Madou Diakité,Madou Diakité,ml MLI,GK,KTP,20,2004,5,4,392,4.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,5,4,12,2.76,4,392,0,0,0,,0,58.6,17,29,0,0,Veikkausliiga,2025
+8fe1e61b,Djack,Djack,cv CPV,DF,SJK,24,2000,19,17,"1,560",17.3,0,1,1,0,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches,0.00,0.00,19,5,26.3,0.29,1.10,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+92633566,Abu Dumbuya,Abu Dumbuya,sl SLE,MF,AC Oulu,26,1999,9,7,546,6.1,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.16,0.99,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+be824271,Constantine Edlund,Constantine Edlund,us USA,MF,KTP,20,2004,18,6,617,6.9,0,1,1,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches,0.00,0.00,3,1,33.3,0.15,0.44,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+cf6eb9ad,Juan Eduardo Lescano,Juan Eduardo Lescano,ar ARG,FW,Haka,32,1992,7,1,184,2.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.49,2.93,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+4d0516fe,Franck-Landry Elle Essouma,Franck-Landry Elle Essouma,cm CMR,"MF,DF",KTP,24,2000,15,7,621,6.9,0,1,1,0,0,0,2,0,0.00,0.14,0.14,0.00,0.14,Matches,0.00,0.00,6,1,16.7,0.14,0.87,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+3f58f7d9,Otto Eloluoto,Otto Eloluoto,fi FIN,FW,Inter Turku,16,2008,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+91ff6fbe,Jesper Engström,Jesper Engström,fi FIN,"MF,DF",VPS,32,1992,15,6,462,5.1,1,0,1,1,0,0,0,0,0.19,0.00,0.19,0.19,0.19,Matches,0.50,1.00,2,1,50.0,0.19,0.39,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a870de0d,Daniel Enqvist,Daniel Enqvist,fi FIN,DF,IFK Mariehamn,23,2001,24,23,"2,011",22.3,1,1,2,1,0,0,2,0,0.04,0.04,0.09,0.04,0.09,Matches,0.10,0.20,10,5,50.0,0.22,0.45,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+b220064a,Roman Eremenko,Roman Eremenko,fi FIN,"MF,FW",IF Gnistan,37,1987,20,17,"1,571",17.5,2,5,7,1,1,1,5,0,0.11,0.29,0.40,0.06,0.34,Matches,0.03,0.08,40,12,30.0,0.69,2.29,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e9a549af,Sergei Eremenko,Sergei Eremenko,fi FIN,"MF,FW",FF Jaro,26,1999,26,25,"2,206",24.5,1,2,3,1,0,0,2,0,0.04,0.08,0.12,0.04,0.12,Matches,0.02,0.06,57,18,31.6,0.73,2.33,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+bf42d88b,William Eskelinen,William Eskelinen,se SWE,GK,AC Oulu,28,1996,17,17,"1,468",16.3,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,11.8,17,17,32,1.96,11,"1,468",3,3,0,0.0,0,61.3,46,75,3,3,Veikkausliiga,2025
+5ccd53b0,Loic Essomba,Loic Essomba,cm CMR,"FW,MF",Inter Turku,21,2003,27,22,"1,927",21.4,7,8,15,7,0,0,2,0,0.33,0.37,0.70,0.33,0.70,Matches,0.17,0.35,41,20,48.8,0.93,1.91,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+6d1d65ba,Mmenie-Abasi Etok,Mmenie-Abasi Etok,ng NGA,MF,VPS,21,2003,7,0,110,1.2,0,1,1,0,0,0,1,0,0.00,0.82,0.82,0.00,0.82,Matches,0.00,0.00,2,1,50.0,0.82,1.64,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a2325017,Gabriel Europaeus,Gabriel Europaeus,fi FIN,"MF,DF",IF Gnistan,19,2005,27,17,"1,727",19.2,2,1,3,2,0,0,5,0,0.10,0.05,0.16,0.10,0.16,Matches,0.29,1.00,7,2,28.6,0.10,0.36,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+c6e24a82,David Ezeh,David Ezeh,fi FIN,FW,HJK Helsinki,18,2006,13,0,207,2.3,1,1,2,1,0,0,0,0,0.43,0.43,0.87,0.43,0.87,Matches,0.09,0.17,11,6,54.5,2.61,4.78,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+1bf8a747,Momodou Fadera,Momodou Fadera,gm GAM,FW,AC Oulu,19,2005,1,0,13,0.1,1,0,1,1,0,0,0,0,6.92,0.00,6.92,6.92,6.92,Matches,1.00,1.00,1,1,100.0,6.92,6.92,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+7ad6b3be,Maissa Fall,Maissa Fall,sn SEN,"FW,MF",VPS,29,1995,24,24,"2,160",24.0,11,0,11,11,0,0,4,0,0.46,0.00,0.46,0.46,0.46,Matches,0.15,0.34,71,32,45.1,1.33,2.96,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+0d355eb7,Babacar Fati,Babacar Fati,gw GNB,DF,SJK,24,2000,29,29,"2,391",26.6,1,8,9,1,0,0,3,0,0.04,0.30,0.34,0.04,0.34,Matches,0.03,0.11,33,9,27.3,0.34,1.24,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2137636d,Nicolas Fleuriau,Nicolas Fleuriau,ca CAN,FW,VPS,22,2002,22,11,"1,182",13.1,4,1,5,3,1,1,1,0,0.30,0.08,0.38,0.23,0.30,Matches,0.08,0.20,37,15,40.5,1.14,2.82,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e0e583d2,Michael Fonsell,Michael Fonsell,fi FIN,DF,IFK Mariehamn,21,2003,14,11,990,11.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.18,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+7df6ffdf,Petteri Forsell,Petteri Forsell,fi FIN,"MF,FW",KTP,34,1990,24,19,"1,666",18.5,3,4,7,2,1,2,2,0,0.16,0.22,0.38,0.11,0.32,Matches,0.04,0.11,53,18,34.0,0.97,2.86,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a239833a,Niklas Friberg,Niklas Friberg,fi FIN,DF,Haka,28,1996,25,23,"1,892",21.0,0,4,4,0,0,0,6,0,0.00,0.19,0.19,0.00,0.19,Matches,0.00,0.00,12,3,25.0,0.14,0.57,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2f6986a1,Valentín Gasc,Valentín Gasc,ar ARG,MF,SJK,24,2000,31,27,"2,391",26.6,2,2,4,2,0,0,5,0,0.08,0.08,0.15,0.08,0.15,Matches,0.07,0.20,27,10,37.0,0.38,1.02,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ce84946a,Lamine Ghezali,Lamine Ghezali,fr FRA,MF,AC Oulu,25,1999,6,2,240,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.75,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a31796df,Salim Giabo Yussif,Salim Giabo Yussif,gh GHA,DF,SJK,22,2002,26,25,"1,983",22.0,0,2,2,0,0,0,7,0,0.00,0.09,0.09,0.00,0.09,Matches,0.00,0.00,6,1,16.7,0.05,0.27,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+aec94a81,Mitchell Glasson,Mitchell Glasson,au AUS,"MF,FW",KTP,18,2006,25,7,798,8.9,2,0,2,2,0,0,4,0,0.23,0.00,0.23,0.23,0.23,Matches,0.12,0.25,17,8,47.1,0.90,1.92,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+077d455e,Paulius Golubickas,Paulius Golubickas,lt LTU,"MF,FW",KuPS,25,1999,8,4,356,4.0,0,2,2,0,0,0,0,0,0.00,0.51,0.51,0.00,0.51,Matches,0.00,0.00,2,1,50.0,0.25,0.51,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+7b05c973,Albin Granlund,Albin Granlund,fi FIN,DF,Inter Turku,35,1989,29,25,"2,104",23.4,0,2,2,0,0,0,3,0,0.00,0.09,0.09,0.00,0.09,Matches,0.00,0.00,16,5,31.3,0.21,0.68,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2a4dcd15,Oliver Günes,Oliver Günes,,"MF,FW",IF Gnistan,22,2002,15,2,311,3.5,0,1,1,0,0,0,1,0,0.00,0.29,0.29,0.00,0.29,Matches,0.00,,2,0,0.0,0.00,0.58,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+c41a38e0,Erik Gunnarsson,Erik Gunnarsson,se SWE,DF,FF Jaro,25,1999,23,23,"2,060",22.9,0,0,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,15,2,13.3,0.09,0.66,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+cc0ca620,Didrik Hafstad,Didrik Hafstad,no NOR,"FW,MF",IF Gnistan,21,2003,29,10,"1,041",11.6,4,2,6,4,0,0,3,0,0.35,0.17,0.52,0.35,0.52,Matches,0.17,0.25,23,16,69.6,1.38,1.99,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+da1db4b0,Aatu Hakala,Aatu Hakala,fi FIN,GK,KuPS,24,2000,5,4,382,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,5,4,8,1.88,0,382,0,0,0,,0,52.9,9,17,2,2,Veikkausliiga,2025
+81733bb9,Juuso Hämäläinen,Juuso Hämäläinen,fi FIN,DF,Inter Turku,31,1993,21,13,"1,201",13.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,7,0,0.0,0.00,0.52,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+4435db1e,Niko Hämäläinen,Niko Hämäläinen,fi FIN,"DF,MF",KuPS,27,1997,12,8,727,8.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,2,25.0,0.25,0.99,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+d2bdf86c,Taneli Hämäläinen,Taneli Hämäläinen,fi FIN,DF,KuPS,23,2001,11,8,745,8.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.12,0.36,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+4434d67d,Vertti Hänninen,Vertti Hänninen,fi FIN,"MF,FW",IF Gnistan,22,2002,15,8,667,7.4,4,1,5,4,0,0,1,0,0.54,0.13,0.67,0.54,0.67,Matches,0.40,0.80,10,5,50.0,0.67,1.35,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f8f687e1,Pyry Hannola,Pyry Hannola,fi FIN,MF,SJK,23,2001,3,1,169,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,1.60,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+05cc2317,Shayon Harrison,Shayon Harrison,eng ENG,FW,AC Oulu,27,1997,10,6,461,5.1,2,0,2,2,0,0,0,0,0.39,0.00,0.39,0.39,0.39,Matches,0.15,0.29,13,7,53.8,1.37,2.54,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+7f0b8b5d,Martti Haukioja,Martti Haukioja,fi FIN,DF,VPS,25,1999,27,27,"2,430",27.0,1,1,2,1,0,0,3,0,0.04,0.04,0.07,0.04,0.07,Matches,0.07,0.20,15,5,33.3,0.19,0.56,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+335ca491,Arttu Heinonen,Arttu Heinonen,fi FIN,"MF,FW",KuPS,25,1999,17,6,611,6.8,0,2,2,0,0,0,2,0,0.00,0.29,0.29,0.00,0.29,Matches,0.00,0.00,23,9,39.1,1.33,3.39,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+8107ce93,Saku Heiskanen,Saku Heiskanen,fi FIN,"MF,DF",IF Gnistan,23,2001,28,25,"2,128",23.6,2,9,11,2,0,0,4,0,0.08,0.38,0.47,0.08,0.47,Matches,0.06,0.17,32,12,37.5,0.51,1.35,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+471ba4be,Lucas von Hellens,Lucas von Hellens,fi FIN,DF,IF Gnistan,19,2005,5,1,55,0.6,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+93467324,Elmo Henriksson,Elmo Henriksson,fi FIN,GK,HJK Helsinki,21,2003,5,4,405,4.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,5,4,11,2.44,2,405,0,0,0,,0,38.9,7,18,0,2,Veikkausliiga,2025
+91433e75,Rasmus Holmberg,Rasmus Holmberg,,MF,IFK Mariehamn,,,3,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+73b1d487,Santeri Hostikka,Santeri Hostikka,fi FIN,"MF,FW",HJK Helsinki,27,1997,28,27,"2,159",24.0,10,6,16,9,1,1,5,1,0.42,0.25,0.67,0.38,0.63,Matches,0.11,0.27,84,33,39.3,1.38,3.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+887fd407,Jordan Houston,Jordan Houston,sct SCO,DF,Haka,25,2000,19,15,"1,359",15.1,2,2,4,2,0,0,3,0,0.13,0.13,0.26,0.13,0.26,Matches,0.50,0.67,4,3,75.0,0.20,0.26,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2db3c05f,Roni Hudd,Roni Hudd,fi FIN,"MF,FW",Haka,20,2005,9,5,353,3.9,1,0,1,1,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches,0.33,0.50,3,2,66.7,0.51,0.76,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2db3c05f,Roni Hudd,Roni Hudd,fi FIN,"MF,FW",Haka,20,2005,9,5,353,3.9,1,0,1,1,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches,0.00,0.00,2,1,50.0,0.74,1.48,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2db3c05f,Roni Hudd,Roni Hudd,fi FIN,MF,HJK Helsinki,20,2005,5,1,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.33,0.50,3,2,66.7,0.51,0.76,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2db3c05f,Roni Hudd,Roni Hudd,fi FIN,MF,HJK Helsinki,20,2005,5,1,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.74,1.48,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+54ae11f8,Liam Hughes,Liam Hughes,nir NIR,GK,Haka,23,2001,20,20,"1,800",20.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,5.0,20,20,33,1.65,12,"1,800",3,5,1,25.0,1,66.3,60,89,4,4,Veikkausliiga,2025
+2625ac11,Hugo,Hugo,,"MF,FW",IFK Mariehamn,25,1999,17,14,"1,183",13.1,0,3,3,0,0,0,2,0,0.00,0.23,0.23,0.00,0.23,Matches,0.00,0.00,25,6,24.0,0.46,1.90,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+47c61295,Kalle Huhta,Kalle Huhta,fi FIN,FW,VPS,17,2007,3,0,34,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+45f5f02f,Urho Huhtamäki,Urho Huhtamäki,fi FIN,DF,KTP,20,2004,3,2,187,2.1,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a489c753,Vilho Huovila,Vilho Huovila,fi FIN,FW,Inter Turku,18,2006,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+556ff3a2,Anttoni Huttunen,Anttoni Huttunen,fi FIN,"MF,FW",IFK Mariehamn,23,2001,24,18,"1,604",17.8,0,4,4,0,0,0,0,0,0.00,0.22,0.22,0.00,0.22,Matches,0.00,0.00,17,3,17.6,0.17,0.95,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+d661c31f,Eetu Huuhtanen,Eetu Huuhtanen,fi FIN,GK,Inter Turku,22,2003,32,32,"2,880",32.0,0,1,1,0,0,0,0,0,0.00,0.03,0.03,0.00,0.03,Matches,,,0,0,,0.00,0.00,10,31.3,32,32,33,1.03,5,"2,880",2,2,0,0.0,0,74.6,91,122,10,17,Veikkausliiga,2025
+7103184b,Teemu Hytönen,Teemu Hytönen,fi FIN,FW,Ilves,22,2002,23,9,914,10.2,5,0,5,5,0,0,1,0,0.49,0.00,0.49,0.49,0.49,Matches,0.22,0.50,23,10,43.5,0.98,2.26,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f7f4f20c,Samouil Izountouemoi,Samouil Izountouemoi,se SWE,MF,FF Jaro,26,1999,9,2,298,3.3,0,1,1,0,0,0,0,0,0.00,0.30,0.30,0.00,0.30,Matches,0.00,0.00,6,3,50.0,0.91,1.81,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+80565678,Olli Jakonen,Olli Jakonen,fi FIN,FW,VPS,24,2000,21,10,979,10.9,4,2,6,4,0,0,1,0,0.37,0.18,0.55,0.37,0.55,Matches,0.24,0.44,17,9,52.9,0.83,1.56,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+03523ed9,Akusti Jalasvaara,Akusti Jalasvaara,fi FIN,FW,Haka,20,2004,2,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f63c4943,Milton Jansson,Milton Jansson,fi FIN,MF,IFK Mariehamn,17,2007,3,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5ac5330b,Iiro Järvinen,Iiro Järvinen,fi FIN,MF,Inter Turku,28,1996,12,7,593,6.6,1,0,1,1,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches,0.33,0.50,3,2,66.7,0.30,0.46,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+6e276b6c,Kalifa Jatta,Kalifa Jatta,gm GAM,FW,AC Oulu,19,2006,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+1f85c8a4,Musa Jatta,Musa Jatta,gm GAM,DF,AC Oulu,20,2004,13,10,908,10.1,1,0,1,1,0,0,2,0,0.10,0.00,0.10,0.10,0.10,Matches,0.14,0.50,7,2,28.6,0.20,0.69,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a7126c26,Akanbi Jimoh,Akanbi Jimoh,ng NGA,GK,FF Jaro,19,2005,1,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,,1,0,0,0.00,0,32,0,0,0,,0,100.0,1,1,0,0,Veikkausliiga,2025
+f9561e4e,Niklas Jokelainen,Niklas Jokelainen,fi FIN,"MF,FW",AC Oulu,24,2000,26,25,"2,110",23.4,5,5,10,4,1,1,6,0,0.21,0.21,0.43,0.17,0.38,Matches,0.13,0.29,31,14,45.2,0.60,1.32,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+8e0b3812,Oiva Jukkola,Oiva Jukkola,fi FIN,MF,Ilves,22,2002,28,25,"2,168",24.1,7,5,12,7,0,0,6,0,0.29,0.21,0.50,0.29,0.50,Matches,0.13,0.41,52,17,32.7,0.71,2.16,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+1713bf7b,Pedro Justiniano,Pedro Justiniano,pt POR,DF,VPS,24,2000,18,15,"1,338",14.9,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.20,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2a38ab19,Armend Kabashi,Armend Kabashi,fi FIN,"MF,DF",IF Gnistan,29,1995,20,19,"1,424",15.8,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,2,40.0,0.13,0.32,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+21bbc54c,Rene Kähkönen,Rene Kähkönen,fi FIN,FW,AC Oulu,19,2006,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+72ba09fe,Severi Kähkönen,Severi Kähkönen,fi FIN,"MF,FW",FF Jaro,24,2000,25,24,"1,844",20.5,5,3,8,5,0,0,2,0,0.24,0.15,0.39,0.24,0.39,Matches,0.26,0.56,19,9,47.4,0.44,0.93,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+3243f59f,Jere Kallinen,Jere Kallinen,fi FIN,MF,HJK Helsinki,23,2002,23,11,"1,092",12.1,4,0,4,4,0,0,2,0,0.33,0.00,0.33,0.33,0.33,Matches,0.44,0.67,9,6,66.7,0.49,0.74,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+448a918a,Giorgos Kanellopoulos,Giorgos Kanellopoulos,gr GRE,MF,HJK Helsinki,25,2000,24,23,"1,854",20.6,2,4,6,2,0,0,5,0,0.10,0.19,0.29,0.10,0.29,Matches,0.07,0.22,30,9,30.0,0.44,1.46,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+09cb9776,Jardell Kanga,Jardell Kanga,se SWE,"MF,FW",Ilves,19,2005,27,14,"1,156",12.8,5,5,10,2,3,3,5,0,0.39,0.39,0.78,0.16,0.54,Matches,0.08,0.20,25,10,40.0,0.78,1.95,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+b4073c46,Oliver Kangaslahti,Oliver Kangaslahti,fi FIN,DF,FF Jaro,24,2000,5,0,80,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+55cc1761,Ilari Kangasniemi,Ilari Kangasniemi,fi FIN,DF,Inter Turku,17,2007,2,1,102,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a0d0e9f0,Yukiyoshi Karashima,Yukiyoshi Karashima,jp JPN,MF,HJK Helsinki,28,1997,2,0,38,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,4.74,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ee016483,Rasmus Karjalainen,Rasmus Karjalainen,fi FIN,"FW,MF",SJK,28,1996,28,21,"1,758",19.5,9,5,14,6,3,3,3,0,0.46,0.26,0.72,0.31,0.56,Matches,0.12,0.33,49,18,36.7,0.92,2.51,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+1af88c7c,Emir El-Kathemi,Emir El-Kathemi,se SWE,DF,IFK Mariehamn,18,2006,6,3,218,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.41,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+fee565d6,Joni Kauko,Joni Kauko,fi FIN,MF,KTP,34,1990,7,5,470,5.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,5,0,0.0,0.00,0.96,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+3ffbe7d1,Tuomas Kaukua,Tuomas Kaukua,fi FIN,"MF,FW",AC Oulu,24,2000,20,19,"1,569",17.4,2,3,5,2,0,0,2,0,0.11,0.17,0.29,0.11,0.29,Matches,0.06,0.25,33,8,24.2,0.46,1.89,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+78d4f1df,Joonas Kekarainen,Joonas Kekarainen,fi FIN,MF,Inter Turku,19,2005,26,4,610,6.8,2,2,4,2,0,0,0,0,0.30,0.30,0.59,0.30,0.59,Matches,0.18,0.33,11,6,54.5,0.89,1.62,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+9dc6f330,Otto Kemppainen,Otto Kemppainen,fi FIN,"MF,DF",AC Oulu,21,2003,6,4,375,4.2,1,0,1,1,0,0,0,0,0.24,0.00,0.24,0.24,0.24,Matches,0.33,1.00,3,1,33.3,0.24,0.72,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+cfdbed5b,Olavi Keturi,Olavi Keturi,,FW,VPS,,,3,1,79,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,3.42,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+70c3cf8d,Jesse Kilo,Jesse Kilo,fi FIN,MF,Ilves,21,2004,7,1,124,1.4,1,1,2,1,0,0,0,0,0.73,0.73,1.45,0.73,1.45,Matches,0.25,1.00,4,1,25.0,0.73,2.90,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ce198036,Thomas Kinn,Thomas Kinn,no NOR,GK,AC Oulu,25,1999,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,28.6,7,7,10,1.43,3,630,2,2,0,0.0,0,70.4,18,27,0,4,Veikkausliiga,2025
+376de55d,Tuomas Koivisto,Tuomas Koivisto,fi FIN,DF,SJK,21,2004,4,1,179,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+c3dcf059,Ozan Kökcü,Ozan Kökcü,az AZE,"FW,MF",HJK Helsinki,26,1998,2,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,7.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+b89eef6b,Pa Konate,Pa Konate,gn GUI,DF,KuPS,30,1994,6,5,325,3.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+71f15e2c,Marius Könkkölä,Marius Könkkölä,fi FIN,FW,SJK,21,2003,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+3d93d5b5,Julius Körkkö,Julius Körkkö,fi FIN,"FW,MF",AC Oulu,18,2006,22,10,"1,006",11.2,6,3,9,6,0,0,0,0,0.54,0.27,0.81,0.54,0.81,Matches,0.19,0.33,31,18,58.1,1.61,2.77,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+9eb4e4ee,Miika Koskela,Miika Koskela,fi FIN,DF,AC Oulu,21,2003,15,15,"1,304",14.5,2,0,2,2,0,0,4,1,0.14,0.00,0.14,0.14,0.14,Matches,0.29,1.00,7,2,28.6,0.14,0.48,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+9db1c221,Jiri Koski,Jiri Koski,fi FIN,GK,KTP,29,1995,5,5,385,4.3,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,5,5,11,2.57,3,385,0,0,0,,0,59.3,16,27,1,1,Veikkausliiga,2025
+dd290cca,Axel Kouame,Axel Kouame,ci CIV,MF,Inter Turku,21,2003,21,21,"1,864",20.7,4,7,11,4,0,1,3,0,0.19,0.34,0.53,0.19,0.53,Matches,0.08,0.24,48,17,35.4,0.82,2.32,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e71948be,Kevin Kouassivi-Benissan,Kevin Kouassivi-Benissan,fi FIN,"MF,DF",HJK Helsinki,26,1999,9,2,246,2.7,2,0,2,2,0,0,1,0,0.73,0.00,0.73,0.73,0.73,Matches,0.40,0.50,5,4,80.0,1.46,1.83,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5a290e60,Dion Krasniqi,Dion Krasniqi,xk KVX,"FW,MF",KuPS,21,2003,10,4,366,4.1,1,0,1,1,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches,0.10,0.33,10,3,30.0,0.74,2.46,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ea714e70,Florian Krebs,Florian Krebs,de GER,MF,Inter Turku,25,1999,29,29,"2,578",28.6,5,9,14,3,2,2,7,0,0.17,0.31,0.49,0.10,0.42,Matches,0.06,0.16,53,19,35.8,0.66,1.85,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+bfcf986d,Johannes Kreidl,Johannes Kreidl,at AUT,GK,KuPS,28,1996,28,28,"2,498",27.8,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,11,39.3,28,28,26,0.94,5,"2,498",3,5,2,0.0,0,76.8,76,99,5,18,Veikkausliiga,2025
+59f9dfba,Faris Krkalić,Faris Krkalić,ba BIH,GK,Ilves,22,2002,13,11,"1,065",11.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,18.2,13,11,17,1.44,3,"1,065",0,0,0,,0,63.8,30,47,3,5,Veikkausliiga,2025
+211931d6,Luka Kuittinen,Luka Kuittinen,fi FIN,DF,Inter Turku,21,2003,29,29,"2,610",29.0,4,2,6,4,0,0,5,0,0.14,0.07,0.21,0.14,0.21,Matches,0.17,0.80,23,5,21.7,0.17,0.79,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+4c2ed22a,Niilo Kujasalo,Niilo Kujasalo,fi FIN,MF,IFK Mariehamn,20,2004,27,26,"2,298",25.5,2,2,4,2,0,0,2,0,0.08,0.08,0.16,0.08,0.16,Matches,0.06,0.22,35,9,25.7,0.35,1.37,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+dcd5f703,Ville Kumpu,Ville Kumpu,fi FIN,DF,Ilves,16,2008,3,2,194,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.46,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+b18a497e,Manasse Kusu,Manasse Kusu,se SWE,MF,FF Jaro,23,2001,20,20,"1,613",17.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,3,42.9,0.17,0.39,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f2abccf1,Thomas Lahdensuo,Thomas Lahdensuo,fi FIN,MF,KTP,19,2005,6,3,269,3.0,0,1,1,0,0,0,1,0,0.00,0.33,0.33,0.00,0.33,Matches,0.00,0.00,7,4,57.1,1.34,2.34,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f2abccf1,Thomas Lahdensuo,Thomas Lahdensuo,fi FIN,MF,KTP,19,2005,6,3,269,3.0,0,1,1,0,0,0,1,0,0.00,0.33,0.33,0.00,0.33,Matches,0.25,0.33,4,3,75.0,3.80,5.07,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f2abccf1,Thomas Lahdensuo,Thomas Lahdensuo,fi FIN,FW,Inter Turku,19,2005,4,0,71,0.8,1,0,1,1,0,0,0,0,1.27,0.00,1.27,1.27,1.27,Matches,0.00,0.00,7,4,57.1,1.34,2.34,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f2abccf1,Thomas Lahdensuo,Thomas Lahdensuo,fi FIN,FW,Inter Turku,19,2005,4,0,71,0.8,1,0,1,1,0,0,0,0,1.27,0.00,1.27,1.27,1.27,Matches,0.25,0.33,4,3,75.0,3.80,5.07,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+99d048f1,Lauri Laine,Lauri Laine,fi FIN,"MF,FW",SJK,19,2005,25,11,"1,167",13.0,1,4,5,1,0,0,1,0,0.08,0.31,0.39,0.08,0.39,Matches,0.05,0.20,19,5,26.3,0.39,1.47,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+485d662e,Joonas Lakkamäki,Joonas Lakkamäki,fi FIN,MF,VPS,23,2002,6,1,164,1.8,0,1,1,0,0,0,0,0,0.00,0.55,0.55,0.00,0.55,Matches,0.00,,1,0,0.0,0.00,0.55,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ae01ae2b,Joakim Latonen,Joakim Latonen,fi FIN,"FW,MF",IF Gnistan,26,1998,32,23,"2,056",22.8,6,1,7,4,2,2,3,0,0.26,0.04,0.31,0.18,0.22,Matches,0.07,0.19,57,21,36.8,0.92,2.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f05abbca,Dimitri Legbo,Dimitri Legbo,ci CIV,"FW,MF",Inter Turku,23,2001,29,27,"2,124",23.6,12,5,17,11,1,1,4,0,0.51,0.21,0.72,0.47,0.68,Matches,0.21,0.46,53,24,45.3,1.02,2.25,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+23268de3,Juho Lehtiranta,Juho Lehtiranta,fi FIN,DF,KTP,22,2002,18,17,"1,452",16.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.06,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5150d67c,Joel Lehtonen,Joel Lehtonen,fi FIN,"DF,MF",AC Oulu,25,1999,20,12,"1,160",12.9,1,2,3,1,0,0,2,0,0.08,0.16,0.23,0.08,0.23,Matches,0.09,0.33,11,3,27.3,0.23,0.85,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+652afb4e,Rasmus Leislahti,Rasmus Leislahti,fi FIN,GK,VPS,24,2000,18,18,"1,583",17.6,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,17.6,17,17,27,1.59,7,"1,530",1,1,0,0.0,0,66.7,52,78,6,4,Veikkausliiga,2025
+b3dfb5c9,William Lenkupae,William Lenkupae,ke KEN,"MF,FW",VPS,23,2001,10,8,666,7.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,12,1,8.3,0.14,1.62,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+715dba94,Anton Lepola,Anton Lepola,fi FIN,GK,Haka,28,1996,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,7,7,17,2.43,6,630,0,0,0,,0,62.2,28,45,1,0,Veikkausliiga,2025
+aef73da5,Emil Leveälahti,Emil Leveälahti,fi FIN,DF,HJK Helsinki,18,2006,1,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+d4132db4,Johan Lietsa,Johan Lietsa,fi FIN,DF,HJK Helsinki,19,2005,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+7ade52d4,Samuel Lindeman,Samuel Lindeman,fi FIN,DF,VPS,27,1997,4,3,188,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.96,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+b9ee66cf,Pontus Lindgren,Pontus Lindgren,se SWE,DF,IFK Mariehamn,24,2000,20,20,"1,694",18.8,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.11,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5df0cd0a,Simon Lindholm,Simon Lindholm,fi FIN,"MF,FW",Haka,23,2001,25,20,"1,821",20.2,4,1,5,4,0,1,8,1,0.20,0.05,0.25,0.20,0.25,Matches,0.14,0.31,28,13,46.4,0.64,1.38,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f99360b9,Lucas Lingman,Lucas Lingman,fi FIN,MF,HJK Helsinki,27,1998,29,15,"1,416",15.7,4,6,10,4,0,0,3,0,0.25,0.38,0.64,0.25,0.64,Matches,0.14,0.33,28,12,42.9,0.76,1.78,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e9326680,Albin Linnér,Albin Linnér,se SWE,DF,KTP,25,1999,5,3,281,3.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.32,0.32,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+072f1ccc,Oscar Linnér,Oscar Linnér,se SWE,GK,KTP,27,1997,12,11,"1,010",11.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,18.2,12,11,20,1.78,5,"1,010",1,1,0,0.0,0,64.2,34,53,3,3,Veikkausliiga,2025
+7d314220,Arttu Lötjönen,Arttu Lötjönen,fi FIN,DF,KuPS,21,2004,13,6,624,6.9,0,1,1,0,0,0,0,0,0.00,0.14,0.14,0.00,0.14,Matches,0.00,,2,0,0.0,0.00,0.29,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+99d9c72a,Kevin Lund,Kevin Lund,se SWE,GK,IFK Mariehamn,24,2000,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,2,4,2.00,1,180,1,1,0,0.0,0,75.0,9,12,0,1,Veikkausliiga,2025
+2aca2ed8,Arvid Lundberg,Arvid Lundberg,fi FIN,FW,IFK Mariehamn,18,2006,15,2,223,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+6bedf8a7,Joslyn Luyeye-Lutumba,Joslyn Luyeye-Lutumba,fi FIN,"FW,MF",KuPS,22,2002,28,13,"1,185",13.2,6,4,10,6,0,0,2,0,0.46,0.30,0.76,0.46,0.76,Matches,0.19,0.60,32,10,31.3,0.76,2.43,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+25bdd67c,Oskar Lyberopoulos,Oskar Lyberopoulos,fi FIN,GK,IF Gnistan,22,2002,5,3,394,4.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,33.3,5,3,10,2.28,2,394,0,0,0,,0,66.7,20,30,1,0,Veikkausliiga,2025
+1f605c5e,Brooklyn Lyons-Foster,Brooklyn Lyons-Foster,eng ENG,DF,HJK Helsinki,24,2000,19,14,"1,247",13.9,3,0,3,3,0,0,5,0,0.22,0.00,0.22,0.22,0.22,Matches,0.21,0.60,14,5,35.7,0.36,1.01,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e104283c,Aniis Machaal,Aniis Machaal,fi FIN,MF,SJK,17,2007,5,1,122,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f716eed1,Aapo Mäenpää,Aapo Mäenpää,fi FIN,DF,Ilves,27,1998,25,21,"1,820",20.2,1,3,4,1,0,0,3,0,0.05,0.15,0.20,0.05,0.20,Matches,0.08,0.20,12,5,41.7,0.25,0.59,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+89fe2f9b,Joni Mäkelä,Joni Mäkelä,fi FIN,"MF,DF",KTP,31,1993,19,12,"1,129",12.5,1,2,3,1,0,0,4,0,0.08,0.16,0.24,0.08,0.24,Matches,0.06,0.20,17,5,29.4,0.40,1.36,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+4e1dfa57,Juuso Mäkeläinen,Juuso Mäkeläinen,fi FIN,MF,AC Oulu,16,2009,1,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+b1bd4f13,Teppo Marttinen,Teppo Marttinen,fi FIN,GK,VPS,27,1997,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,50.0,4,4,5,1.25,1,360,1,1,0,0.0,0,76.5,13,17,1,2,Veikkausliiga,2025
+8af4033a,Elias Mastokangas,Elias Mastokangas,fi FIN,"FW,MF",SJK,23,2001,24,7,913,10.1,4,0,4,4,0,0,1,0,0.39,0.00,0.39,0.39,0.39,Matches,0.36,0.67,11,6,54.5,0.59,1.08,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2f2485fb,Iiro Mendolin,Iiro Mendolin,fi FIN,MF,AC Oulu,18,2006,4,0,65,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.38,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e4ad077e,Emmanuel Mendy,Emmanuel Mendy,gm GAM,MF,FF Jaro,21,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+97efaac0,Pyry Mentu,Pyry Mentu,fi FIN,MF,HJK Helsinki,18,2006,29,23,"1,911",21.2,2,5,7,2,0,0,4,0,0.09,0.24,0.33,0.09,0.33,Matches,0.11,0.22,18,9,50.0,0.42,0.85,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+aa889990,Kai Meriluoto,Kai Meriluoto,fi FIN,FW,HJK Helsinki,22,2003,3,1,144,1.6,2,0,2,2,0,0,0,0,1.25,0.00,1.25,1.25,1.25,Matches,0.22,0.40,9,5,55.6,3.12,5.63,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+556979a0,Toivo Mero,Toivo Mero,fi FIN,MF,HJK Helsinki,17,2007,10,1,143,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.63,3.15,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+151ca25f,Benji Michel,Benji Michel,us USA,"MF,FW",HJK Helsinki,27,1997,29,21,"1,853",20.6,8,5,13,8,0,0,0,0,0.39,0.24,0.63,0.39,0.63,Matches,0.24,0.53,34,15,44.1,0.73,1.65,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ad55b765,Samuli Miettinen,Samuli Miettinen,fi FIN,DF,KuPS,20,2004,20,20,"1,668",18.5,1,0,1,1,0,0,2,1,0.05,0.00,0.05,0.05,0.05,Matches,0.33,0.50,3,2,66.7,0.11,0.16,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5d8301f3,Tatu Miettunen,Tatu Miettunen,fi FIN,DF,Ilves,29,1995,25,21,"2,006",22.3,2,1,3,2,0,0,2,0,0.09,0.04,0.13,0.09,0.13,Matches,0.29,1.00,7,2,28.6,0.09,0.31,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+608454a2,Tijjani Mohammed,Tijjani Mohammed,ng NGA,FW,VPS,18,2006,3,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,10.29,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+35bac6d4,Jaakko Moisio,Jaakko Moisio,fi FIN,DF,Ilves,20,2005,2,0,12,0.1,0,1,1,0,0,0,0,0,0.00,7.50,7.50,0.00,7.50,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+3986c2c8,Liam Möller,Liam Möller,fi FIN,"MF,FW",HJK Helsinki,20,2004,17,10,858,9.5,1,1,2,1,0,0,1,0,0.10,0.10,0.21,0.10,0.21,Matches,0.07,0.14,15,7,46.7,0.73,1.57,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+7a39e5dc,Eetu Mömmö,Eetu Mömmö,fi FIN,"DF,MF",Haka,22,2002,24,22,"2,024",22.5,2,4,6,2,0,0,4,0,0.09,0.18,0.27,0.09,0.27,Matches,0.10,0.25,20,8,40.0,0.36,0.89,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+66cb8efe,Oskari Multala,Oskari Multala,fi FIN,MF,Ilves,17,2007,2,0,36,0.4,0,1,1,0,0,0,0,0,0.00,2.50,2.50,0.00,2.50,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f1c119d0,Kalle Multanen,Kalle Multanen,fi FIN,FW,Haka,35,1989,26,7,767,8.5,5,0,5,3,2,2,0,0,0.59,0.00,0.59,0.35,0.35,Matches,0.10,0.23,29,13,44.8,1.53,3.40,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+1d438d6c,Murilo,Murilo,pt POR,MF,SJK,29,1995,7,1,206,2.3,1,2,3,1,0,0,1,0,0.44,0.87,1.31,0.44,1.31,Matches,0.50,1.00,2,1,50.0,0.44,0.87,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ee2b9a18,Admiral Muskwe,Admiral Muskwe,zw ZIM,FW,IFK Mariehamn,26,1998,7,1,178,2.0,0,1,1,0,0,0,0,0,0.00,0.51,0.51,0.00,0.51,Matches,0.00,,2,0,0.0,0.00,1.01,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5d24c268,Alex Myntti,Alex Myntti,fi FIN,FW,VPS,16,2008,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+81844041,Jim Myrevik,Jim Myrevik,fi FIN,DF,FF Jaro,29,1996,24,16,"1,409",15.7,1,2,3,1,0,0,3,0,0.06,0.13,0.19,0.06,0.19,Matches,0.14,0.50,7,2,28.6,0.13,0.45,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+227691ea,Marokhy Ndione,Marokhy Ndione,se SWE,FW,AC Oulu,25,1999,7,3,316,3.5,2,1,3,2,0,0,2,0,0.57,0.28,0.85,0.57,0.85,Matches,0.20,0.67,10,3,30.0,0.85,2.85,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+9ebf637f,Nicolas,Nicolas,br BRA,DF,Haka,26,1998,15,10,832,9.2,0,0,0,0,0,0,3,2,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,11,4,36.4,0.43,1.19,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+8d0743b8,Miika Niemi,Miika Niemi,fi FIN,DF,VPS,30,1994,21,17,"1,552",17.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.06,0.29,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+7ed9bff8,Bob Nii Armah,Bob Nii Armah,gh GHA,"DF,MF",KuPS,21,2004,17,9,893,9.9,0,1,1,0,0,0,2,0,0.00,0.10,0.10,0.00,0.10,Matches,0.00,0.00,11,2,18.2,0.20,1.11,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+35d96ed9,Thijmen Nijhuis,Thijmen Nijhuis,nl NED,GK,HJK Helsinki,26,1998,16,16,"1,440",16.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,5,31.3,16,16,17,1.06,4,"1,440",3,3,0,0.0,0,74.1,40,54,2,10,Veikkausliiga,2025
+b423700c,Jussi Niska,Jussi Niska,fi FIN,DF,Inter Turku,22,2002,31,28,"2,425",26.9,5,0,5,5,0,0,1,0,0.19,0.00,0.19,0.19,0.19,Matches,0.13,0.71,39,7,17.9,0.26,1.45,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+052e75d7,Jiri Nissinen,Jiri Nissinen,fi FIN,"DF,MF",IFK Mariehamn,27,1997,23,16,"1,558",17.3,2,2,4,2,0,0,2,0,0.12,0.12,0.23,0.12,0.23,Matches,0.40,0.50,5,4,80.0,0.23,0.29,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+56036507,Wille Nuñez,Wille Nuñez,fi FIN,FW,IFK Mariehamn,18,2007,8,1,124,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.73,1.45,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+51ecb8f4,Noah Nurmi,Noah Nurmi,fi FIN,DF,IFK Mariehamn,23,2001,10,5,559,6.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.16,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e58e0c87,Kevin Nyarko,Kevin Nyarko,nl NED,FW,SJK,22,2002,9,1,204,2.3,3,0,3,3,0,0,0,0,1.32,0.00,1.32,1.32,1.32,Matches,0.27,0.50,11,6,54.5,2.65,4.85,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+81a5feea,Antton Nylund,Antton Nylund,fi FIN,MF,HJK Helsinki,16,2008,1,1,62,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,2.90,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+3eeec655,Daniel O'Shaughnessy,Daniel O'Shaughnessy,fi FIN,DF,HJK Helsinki,30,1994,5,2,251,2.8,0,1,1,0,0,0,1,0,0.00,0.36,0.36,0.00,0.36,Matches,0.00,,2,0,0.0,0.00,0.72,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+33bea99b,Ayo Obileye,Ayo Obileye,eng ENG,DF,SJK,30,1994,18,13,"1,109",12.3,2,0,2,2,0,0,4,0,0.16,0.00,0.16,0.16,0.16,Matches,0.17,0.40,12,5,41.7,0.41,0.97,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+97e8ea97,Brian Oddei,Brian Oddei,it ITA,FW,KTP,22,2002,3,0,49,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+6c5750e4,Michael Ogungbaro,Michael Ogungbaro,ng NGA,"DF,MF",FF Jaro,28,1996,26,22,"2,021",22.5,3,2,5,3,0,0,3,0,0.13,0.09,0.22,0.13,0.22,Matches,0.14,0.43,21,7,33.3,0.31,0.94,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+0c6aaddb,Emil Öhberg,Emil Öhberg,fi FIN,GK,FF Jaro,31,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,1,1,1,1.00,0,90,0,0,0,,0,50.0,1,2,0,1,Veikkausliiga,2025
+f0f49d8a,Juhani Ojala,Juhani Ojala,fi FIN,DF,IF Gnistan,35,1989,29,28,"2,468",27.4,2,0,2,2,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches,0.14,0.33,14,6,42.9,0.22,0.51,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+7630423c,Matias Ojala,Matias Ojala,fi FIN,"MF,FW",AC Oulu,29,1995,13,4,398,4.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.23,1.13,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+31a5feb7,Emmanuel Okereke,Emmanuel Okereke,ng NGA,DF,IFK Mariehamn,21,2003,22,21,"1,923",21.4,4,0,4,4,0,0,1,0,0.19,0.00,0.19,0.19,0.19,Matches,0.25,0.33,16,12,75.0,0.56,0.75,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+4940252e,Joshua Okpolokpo,Joshua Okpolokpo,ie IRL,DF,SJK,21,2003,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5e03dbea,Gabriel Oksanen,Gabriel Oksanen,fi FIN,DF,SJK,18,2006,6,4,396,4.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.23,0.45,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+82b13dde,Jaakko Oksanen,Jaakko Oksanen,fi FIN,MF,KuPS,24,2000,29,26,"2,376",26.4,1,6,7,1,0,0,6,0,0.04,0.23,0.27,0.04,0.27,Matches,0.03,0.13,29,8,27.6,0.30,1.10,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f886ecdc,Abraham Okyere,Abraham Okyere,gh GHA,MF,Haka,22,2002,23,22,"1,850",20.6,1,0,1,1,0,0,7,0,0.05,0.00,0.05,0.05,0.05,Matches,0.04,0.20,23,5,21.7,0.24,1.12,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+9e390d33,Oludare Olufunwa,Oludare Olufunwa,eng ENG,DF,IF Gnistan,23,2001,11,6,536,6.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.34,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+4189fccc,Jesse Öst,Jesse Öst,fi FIN,GK,HJK Helsinki,34,1990,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,1,1,3,3.00,1,90,0,0,0,,0,50.0,3,6,0,0,Veikkausliiga,2025
+5a7d0b68,Yassine El Ouatki,Yassine El Ouatki,fr FRA,MF,VPS,26,1998,26,24,"1,997",22.2,2,7,9,2,0,0,5,0,0.09,0.32,0.41,0.09,0.41,Matches,0.08,0.25,24,8,33.3,0.36,1.08,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+8e54b962,Anicet Oura,Anicet Oura,ci CIV,FW,IF Gnistan,25,1999,5,5,449,5.0,0,1,1,0,0,0,0,0,0.00,0.20,0.20,0.00,0.20,Matches,0.00,0.00,15,4,26.7,0.80,3.01,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+716d1a59,Aleksi Paananen,Aleksi Paananen,fi FIN,MF,AC Oulu,32,1993,22,13,"1,087",12.1,0,3,3,0,0,0,2,0,0.00,0.25,0.25,0.00,0.25,Matches,0.00,0.00,12,4,33.3,0.33,0.99,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+0ac90011,Julius Paananen,Julius Paananen,fi FIN,"MF,FW",AC Oulu,18,2006,23,16,"1,492",16.6,2,0,2,2,0,0,0,0,0.12,0.00,0.12,0.12,0.12,Matches,0.10,0.50,21,4,19.0,0.24,1.27,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ea3dc021,Kasper Paananen,Kasper Paananen,fi FIN,"MF,FW",SJK,21,2003,32,30,"2,629",29.2,18,3,21,17,1,1,3,0,0.62,0.10,0.72,0.58,0.68,Matches,0.22,0.49,77,35,45.5,1.20,2.64,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+1938b65b,Matias Paavola,Matias Paavola,fi FIN,"DF,MF",KTP,24,2000,24,17,"1,697",18.9,2,2,4,2,0,0,5,0,0.11,0.11,0.21,0.11,0.21,Matches,0.12,0.50,17,4,23.5,0.21,0.90,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+570da809,Prosper Padera,Prosper Padera,zw ZIM,MF,SJK,18,2006,13,5,406,4.5,0,1,1,0,0,0,2,0,0.00,0.22,0.22,0.00,0.22,Matches,0.00,,1,0,0.0,0.00,0.22,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+060bc64c,Djair Parfitt-Williams,Djair Parfitt-Williams,bm BER,"MF,FW",Haka,28,1996,17,7,544,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+c795d6b6,Piotr Parzyszek,Piotr Parzyszek,pl POL,FW,KuPS,31,1993,13,7,707,7.9,7,2,9,6,1,1,0,0,0.89,0.25,1.15,0.76,1.02,Matches,0.15,0.32,39,19,48.7,2.42,4.96,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+b697aeaf,Samuel Pasanen,Samuel Pasanen,fi FIN,"MF,DF",KuPS,19,2006,14,9,756,8.4,1,1,2,1,0,0,0,0,0.12,0.12,0.24,0.12,0.24,Matches,0.07,0.17,14,6,42.9,0.71,1.67,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+37f42cff,Emmanuel Patut,Emmanuel Patut,fi FIN,"MF,DF",IFK Mariehamn,21,2003,26,23,"2,001",22.2,1,4,5,1,0,0,6,0,0.04,0.18,0.22,0.04,0.22,Matches,0.10,0.20,10,5,50.0,0.22,0.45,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+6a782f71,Roope Paunio,Roope Paunio,fi FIN,GK,SJK,22,2002,28,28,"2,520",28.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,5,17.9,28,28,45,1.61,7,"2,520",7,8,0,12.5,1,67.8,81,118,7,14,Veikkausliiga,2025
+faf0a2f2,Petteri Pennanen,Petteri Pennanen,fi FIN,MF,KuPS,34,1990,31,19,"1,867",20.7,7,1,8,7,0,0,4,1,0.34,0.05,0.39,0.34,0.39,Matches,0.12,0.28,60,25,41.7,1.21,2.89,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ca714999,Johannes Pentti,Johannes Pentti,fi FIN,GK,AC Oulu,18,2006,2,1,125,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,1,5,3.60,1,125,1,1,0,0.0,0,50.0,4,8,0,0,Veikkausliiga,2025
+7ca44fbf,Oliver Pettersson,Oliver Pettersson,fi FIN,"DF,MF",IF Gnistan,21,2003,24,19,"1,772",19.7,3,0,3,3,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches,0.13,0.43,24,7,29.2,0.36,1.22,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5fea1ac6,Lucas Piirto,Lucas Piirto,fi FIN,MF,AC Oulu,18,2006,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+8088a12b,Mikko Pitkänen,Mikko Pitkänen,fi FIN,DF,AC Oulu,28,1997,21,19,"1,645",18.3,1,1,2,1,0,0,1,0,0.05,0.05,0.11,0.05,0.11,Matches,0.08,0.25,12,4,33.3,0.22,0.66,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+3a639671,Robin Polley,Robin Polley,gh GHA,DF,FF Jaro,26,1998,18,13,"1,160",12.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.08,0.39,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+41ab24a2,Anton Popovitch,Anton Popovitch,fi FIN,MF,Ilves,28,1996,30,30,"2,487",27.6,1,2,3,1,0,0,4,0,0.04,0.07,0.11,0.04,0.11,Matches,0.03,0.10,33,10,30.3,0.36,1.19,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+0745b37d,Teemu Pukki,Teemu Pukki,fi FIN,FW,HJK Helsinki,34,1990,29,25,"2,047",22.7,14,10,24,10,4,5,2,0,0.62,0.44,1.06,0.44,0.88,Matches,0.10,0.24,105,41,39.0,1.80,4.62,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e44d4a8f,Valentin Purosalo,Valentin Purosalo,fi FIN,DF,Haka,19,2005,22,12,"1,212",13.5,0,3,3,0,0,0,1,0,0.00,0.22,0.22,0.00,0.22,Matches,0.00,0.00,9,2,22.2,0.15,0.67,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5eff6a7d,Abdoul Rachid Gnanou,Abdoul Rachid Gnanou,bf BFA,DF,IF Gnistan,20,2004,26,26,"2,334",25.9,6,0,6,6,0,0,7,1,0.23,0.00,0.23,0.23,0.23,Matches,0.29,0.86,21,7,33.3,0.27,0.81,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+eb87482c,Antti-Ville Räisänen,Antti-Ville Räisänen,fi FIN,MF,VPS,26,1998,26,20,"1,765",19.6,2,1,3,2,0,0,2,0,0.10,0.05,0.15,0.10,0.15,Matches,0.18,0.67,11,3,27.3,0.15,0.56,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+67b054d1,Jukka Raitala,Jukka Raitala,fi FIN,DF,IF Gnistan,36,1988,23,16,"1,488",16.5,0,1,1,0,0,0,4,0,0.00,0.06,0.06,0.00,0.06,Matches,0.00,0.00,5,1,20.0,0.06,0.30,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+adf51131,Matias Rale,Matias Rale,fi FIN,DF,Ilves,23,2001,32,32,"2,880",32.0,4,1,5,4,0,0,2,0,0.12,0.03,0.16,0.12,0.16,Matches,0.17,0.67,24,6,25.0,0.19,0.75,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2f06c1b4,Alex Ramsay,Alex Ramsay,fi FIN,DF,FF Jaro,25,1999,2,1,95,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+626f44ac,Lucas Rangel,Lucas Rangel,br BRA,FW,KTP,30,1994,15,13,"1,087",12.1,7,0,7,5,2,2,3,0,0.58,0.00,0.58,0.41,0.41,Matches,0.13,0.31,38,16,42.1,1.32,3.15,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+82f8ea45,André Raymond,André Raymond,tt TRI,MF,Ilves,24,2000,9,1,281,3.1,0,1,1,0,0,0,1,0,0.00,0.32,0.32,0.00,0.32,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ea31c673,Jayden Reid,Jayden Reid,eng ENG,"FW,MF",IFK Mariehamn,23,2001,17,10,875,9.7,1,2,3,1,0,0,2,0,0.10,0.21,0.31,0.10,0.31,Matches,0.06,0.33,16,3,18.8,0.31,1.65,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+bbdd9e40,Tyler Reid,Tyler Reid,eng ENG,"DF,MF",VPS,27,1997,20,17,"1,544",17.2,1,2,3,1,0,0,5,0,0.06,0.12,0.17,0.06,0.17,Matches,0.10,1.00,10,1,10.0,0.06,0.58,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a35c6e86,Joni Remesaho,Joni Remesaho,fi FIN,MF,FF Jaro,31,1993,12,2,250,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,1.08,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+0aaa1c04,Justin Rennicks,Justin Rennicks,us USA,FW,AC Oulu,25,1999,24,14,"1,331",14.8,5,1,6,5,0,0,1,0,0.34,0.07,0.41,0.34,0.41,Matches,0.15,0.36,33,14,42.4,0.95,2.23,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+c40e64b6,Ricardo,Ricardo,br BRA,GK,HJK Helsinki,31,1993,11,11,945,10.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,9.1,11,11,21,2.00,4,945,1,2,0,50.0,1,54.5,24,44,5,2,Veikkausliiga,2025
+d518a829,Paulo Ricardo,Paulo Ricardo,br BRA,DF,KuPS,30,1994,11,7,706,7.8,0,1,1,0,0,0,2,0,0.00,0.13,0.13,0.00,0.13,Matches,0.00,,6,0,0.0,0.00,0.76,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f7536fc9,Hemmo Riihimäki,Hemmo Riihimäki,fi FIN,GK,SJK,21,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,2,3,1.50,0,180,0,0,0,,0,66.7,6,9,0,2,Veikkausliiga,2025
+f7c20b55,Matias Riikonen,Matias Riikonen,fi FIN,GK,IFK Mariehamn,22,2002,14,14,"1,260",14.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,21.4,14,14,28,2.00,6,"1,260",3,3,0,0.0,0,66.2,49,74,3,5,Veikkausliiga,2025
+6c1221d6,Alexander Ring,Alexander Ring,fi FIN,"MF,FW",HJK Helsinki,33,1991,30,29,"2,541",28.2,14,6,20,11,3,3,4,0,0.50,0.21,0.71,0.39,0.60,Matches,0.16,0.41,67,27,40.3,0.96,2.37,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+72dacad9,Roope Riski,Roope Riski,fi FIN,FW,Ilves,33,1991,31,21,"1,785",19.8,13,3,16,9,4,5,3,0,0.66,0.15,0.81,0.45,0.61,Matches,0.16,0.38,57,24,42.1,1.21,2.87,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f12de460,Matias Ritari,Matias Ritari,fi FIN,MF,HJK Helsinki,19,2005,3,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,2.20,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f12de460,Matias Ritari,Matias Ritari,fi FIN,MF,HJK Helsinki,19,2005,3,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.13,0.50,8,2,25.0,0.18,0.72,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f12de460,Matias Ritari,Matias Ritari,fi FIN,MF,IF Gnistan,19,2005,14,13,"1,003",11.1,1,4,5,1,0,0,1,0,0.09,0.36,0.45,0.09,0.45,Matches,0.00,,1,0,0.0,0.00,2.20,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f12de460,Matias Ritari,Matias Ritari,fi FIN,MF,IF Gnistan,19,2005,14,13,"1,003",11.1,1,4,5,1,0,0,1,0,0.09,0.36,0.45,0.09,0.45,Matches,0.13,0.50,8,2,25.0,0.18,0.72,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+cbe18a74,Miguel Rodríguez,Miguel Rodríguez,ni NCA,GK,SJK,21,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,2,3,1.50,0,180,1,1,0,0.0,0,50.0,2,4,1,1,Veikkausliiga,2025
+eb09b1ee,Elias Romero,Elias Romero,ve VEN,MF,Haka,28,1996,8,6,498,5.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.18,0.36,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+551a75f1,Vilmer Rönnberg,Vilmer Rönnberg,se SWE,"DF,MF",VPS,22,2002,11,7,694,7.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.13,0.39,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+b9c8c496,Aapo Ruohio,Aapo Ruohio,fi FIN,FW,KTP,16,2008,3,0,40,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ed20ec7b,Otto Ruoppi,Otto Ruoppi,fi FIN,"MF,FW",KuPS,19,2006,32,25,"2,387",26.5,8,7,15,8,0,0,2,0,0.30,0.26,0.57,0.30,0.57,Matches,0.18,0.40,45,20,44.4,0.75,1.70,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ee51300e,Marcus Ryberg,Marcus Ryberg,dk DEN,MF,IF Gnistan,18,2006,3,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+93a2f867,Seth Saarinen,Seth Saarinen,fi FIN,"DF,MF",Inter Turku,23,2001,12,6,618,6.9,0,1,1,0,0,0,0,0,0.00,0.15,0.15,0.00,0.15,Matches,0.00,,7,0,0.0,0.00,1.02,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+8b1960f4,Agon Sadiku,Agon Sadiku,fi FIN,FW,KuPS,21,2003,27,17,"1,265",14.1,10,2,12,8,2,3,4,0,0.71,0.14,0.85,0.57,0.71,Matches,0.21,0.50,38,16,42.1,1.14,2.70,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+c7f0d6ba,Oskari Sallinen,Oskari Sallinen,fi FIN,"MF,DF",Haka,23,2001,18,11,"1,012",11.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,12,2,16.7,0.18,1.07,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2e9c2cb7,Otto Salmensuu,Otto Salmensuu,fi FIN,MF,AC Oulu,20,2004,8,1,209,2.3,0,1,1,0,0,0,0,0,0.00,0.43,0.43,0.00,0.43,Matches,0.00,0.00,2,2,100.0,0.86,0.86,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+76deb00a,Roope Salo,Roope Salo,fi FIN,MF,KuPS,20,2004,2,1,48,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+73d5b62a,Miguel Santos,Miguel Santos,pt POR,GK,FF Jaro,30,1994,26,26,"2,308",25.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,4,15.4,26,26,43,1.68,13,"2,308",4,4,0,0.0,0,70.9,94,134,4,9,Veikkausliiga,2025
+787dc5fe,Momodou Sarr,Momodou Sarr,fi FIN,"FW,MF",Inter Turku,24,2000,28,15,"1,425",15.8,4,0,4,4,0,0,4,0,0.25,0.00,0.25,0.25,0.25,Matches,0.11,0.29,36,14,38.9,0.88,2.27,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+57cea68c,Saku Savolainen,Saku Savolainen,fi FIN,"DF,MF",KuPS,28,1996,26,19,"1,870",20.8,2,4,6,2,0,0,3,0,0.10,0.19,0.29,0.10,0.29,Matches,0.07,0.40,28,5,17.9,0.24,1.35,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a63dd3fc,Shadirac Say,Shadirac Say,gh GHA,DF,AC Oulu,20,2004,9,9,810,9.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,2,40.0,0.22,0.56,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+64b01ebe,Niklas Schulz,Niklas Schulz,de GER,GK,AC Oulu,19,2005,3,2,205,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,3,2,6,2.63,1,205,0,0,0,,0,53.8,7,13,0,1,Veikkausliiga,2025
+221cf0f8,Assan Seck,Assan Seck,sn SEN,MF,KTP,21,2004,22,13,"1,122",12.5,6,2,8,6,0,0,1,0,0.48,0.16,0.64,0.48,0.64,Matches,0.12,0.40,49,15,30.6,1.20,3.93,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+aad50e89,Sadat Seidu,Sadat Seidu,gh GHA,MF,KuPS,21,2004,5,2,149,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.21,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+fb6974d8,Arlind Sejdiu,Arlind Sejdiu,xk KVX,"MF,FW",Haka,23,2001,22,14,"1,334",14.8,1,2,3,1,0,0,3,0,0.07,0.13,0.20,0.07,0.20,Matches,0.03,0.13,40,8,20.0,0.54,2.70,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e1eb5878,Riku Selander,Riku Selander,fi FIN,MF,Haka,30,1994,16,10,870,9.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.10,0.52,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+d0520116,Santeri Silander,Santeri Silander,fi FIN,"DF,MF",AC Oulu,20,2004,21,18,"1,476",16.4,0,4,4,0,0,0,0,0,0.00,0.24,0.24,0.00,0.24,Matches,0.00,0.00,10,1,10.0,0.06,0.61,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a2586191,Chianyindi Silas,Chianyindi Silas,ng NGA,MF,AC Oulu,21,2003,11,3,358,4.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.25,0.25,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+0ff62126,Dylan Silva,Dylan Silva,,GK,IFK Mariehamn,25,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,1,1,5,5.00,1,90,0,0,0,,0,16.7,1,6,0,0,Veikkausliiga,2025
+2399264d,Kaius Simojoki,Kaius Simojoki,fi FIN,DF,HJK Helsinki,18,2006,31,26,"2,390",26.6,0,2,2,0,0,0,2,0,0.00,0.08,0.08,0.00,0.08,Matches,0.00,0.00,9,1,11.1,0.04,0.34,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+3571fc04,Sami Sipola,Sami Sipola,fi FIN,DF,Inter Turku,23,2001,8,2,217,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.41,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+3571fc04,Sami Sipola,Sami Sipola,fi FIN,DF,Inter Turku,23,2001,8,2,217,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.62,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+3571fc04,Sami Sipola,Sami Sipola,fi FIN,DF,FF Jaro,23,2001,7,5,436,4.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.41,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+3571fc04,Sami Sipola,Sami Sipola,fi FIN,DF,FF Jaro,23,2001,7,5,436,4.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.62,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+0c6c6b1a,Luka Smyth,Luka Smyth,au AUS,FW,VPS,20,2004,1,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+1354966e,Marius Söderbäck,Marius Söderbäck,fi FIN,"MF,FW",Ilves,20,2004,32,27,"2,463",27.4,8,5,13,8,0,0,0,0,0.29,0.18,0.48,0.29,0.48,Matches,0.15,0.38,52,21,40.4,0.77,1.90,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2434e7ee,Guillermo Sotelo,Guillermo Sotelo,ar ARG,"MF,DF",FF Jaro,34,1991,16,6,633,7.0,0,2,2,0,0,0,4,0,0.00,0.28,0.28,0.00,0.28,Matches,0.00,0.00,13,4,30.8,0.57,1.85,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+81a29fee,Maksim Stjopin,Maksim Stjopin,fi FIN,"FW,MF",Ilves,21,2003,30,17,"1,745",19.4,4,3,7,4,0,0,4,0,0.21,0.15,0.36,0.21,0.36,Matches,0.10,0.31,39,13,33.3,0.67,2.01,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a6231929,Bart Straalman,Bart Straalman,nl NED,DF,Inter Turku,28,1996,29,24,"2,246",25.0,2,1,3,2,0,1,4,0,0.08,0.04,0.12,0.08,0.12,Matches,0.09,0.33,22,6,27.3,0.24,0.88,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+805939b5,Jeremiah Streng,Jeremiah Streng,fi FIN,FW,SJK,23,2001,30,20,"1,825",20.3,9,6,15,9,0,0,1,0,0.44,0.30,0.74,0.44,0.74,Matches,0.13,0.27,70,33,47.1,1.63,3.45,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+de25754c,Mikko Sumusalo,Mikko Sumusalo,fi FIN,DF,KTP,34,1990,19,18,"1,444",16.0,1,1,2,1,0,0,5,0,0.06,0.06,0.12,0.06,0.12,Matches,0.13,0.25,8,4,50.0,0.25,0.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+710f2eee,Luc Tabi Manga,Luc Tabi Manga,cm CMR,DF,KTP,30,1994,11,11,967,10.7,1,0,1,0,1,1,1,0,0.09,0.00,0.09,0.00,0.00,Matches,0.00,0.00,8,5,62.5,0.47,0.74,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+1b8778df,Ardit Tahiri,Ardit Tahiri,xk KVX,FW,HJK Helsinki,22,2002,7,0,100,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,2,40.0,1.80,4.50,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e07d2971,Nathaniel Tahmbi,Nathaniel Tahmbi,ng NGA,MF,KTP,21,2003,10,5,459,5.1,1,0,1,1,0,0,3,0,0.20,0.00,0.20,0.20,0.20,Matches,0.11,0.33,9,3,33.3,0.59,1.76,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e07d2971,Nathaniel Tahmbi,Nathaniel Tahmbi,ng NGA,MF,KTP,21,2003,10,5,459,5.1,1,0,1,1,0,0,3,0,0.20,0.00,0.20,0.20,0.20,Matches,0.00,0.00,1,1,100.0,0.74,0.74,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e07d2971,Nathaniel Tahmbi,Nathaniel Tahmbi,ng NGA,DF,SJK,21,2003,3,1,121,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.11,0.33,9,3,33.3,0.59,1.76,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e07d2971,Nathaniel Tahmbi,Nathaniel Tahmbi,ng NGA,DF,SJK,21,2003,3,1,121,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.74,0.74,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+362d4da8,Nikolas Talo,Nikolas Talo,fi FIN,DF,Haka,21,2003,6,5,496,5.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.18,0.54,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+031ebd52,Atomu Tanaka,Atomu Tanaka,jp JPN,"MF,FW",KTP,37,1987,26,26,"2,174",24.2,1,3,4,1,0,0,6,0,0.04,0.12,0.17,0.04,0.17,Matches,0.04,0.33,26,3,11.5,0.12,1.08,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+db9b6cca,Eemil Tanninen,Eemil Tanninen,fi FIN,MF,KuPS,17,2007,2,1,71,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+54d8b69a,Aleksi Tarvonen,Aleksi Tarvonen,fi FIN,"FW,MF",KTP,30,1994,17,10,868,9.6,2,0,2,2,0,0,0,0,0.21,0.00,0.21,0.21,0.21,Matches,0.09,0.25,23,8,34.8,0.83,2.38,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ce19dc05,Julius Tauriainen,Julius Tauriainen,fi FIN,"DF,MF",Inter Turku,23,2001,4,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,10.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+493e48c9,Muhamed Tehe Olawale,Muhamed Tehe Olawale,ci CIV,"FW,MF",IFK Mariehamn,25,1999,18,14,"1,183",13.1,5,0,5,5,0,0,2,0,0.38,0.00,0.38,0.38,0.38,Matches,0.23,0.71,22,7,31.8,0.53,1.67,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+93e0e021,Olatoundji Tessilimi,Olatoundji Tessilimi,bj BEN,FW,SJK,20,2004,23,5,646,7.2,4,2,6,4,0,0,5,0,0.56,0.28,0.84,0.56,0.84,Matches,0.20,0.50,20,8,40.0,1.11,2.79,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+492c7162,Onni Tiihonen,Onni Tiihonen,fi FIN,MF,AC Oulu,24,2000,18,14,"1,224",13.6,1,0,1,1,0,0,7,1,0.07,0.00,0.07,0.07,0.07,Matches,0.08,0.33,13,3,23.1,0.22,0.96,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+c612c711,Otto Tiitinen,Otto Tiitinen,fi FIN,MF,Ilves,16,2008,13,5,488,5.4,1,0,1,1,0,0,1,0,0.18,0.00,0.18,0.18,0.18,Matches,0.09,0.25,11,4,36.4,0.74,2.03,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+70e39cf9,Rasmus Tikkanen,Rasmus Tikkanen,fi FIN,"DF,MF",KuPS,17,2007,5,4,330,3.7,1,0,1,1,0,0,0,0,0.27,0.00,0.27,0.27,0.27,Matches,0.25,1.00,4,1,25.0,0.27,1.09,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f3e3d488,Ville Tikkanen,Ville Tikkanen,fi FIN,DF,HJK Helsinki,25,1999,30,30,"2,572",28.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,10,2,20.0,0.07,0.35,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+2794a536,Joona Toivio,Joona Toivio,fi FIN,DF,KTP,36,1988,26,26,"2,340",26.0,0,1,1,0,0,0,3,0,0.00,0.04,0.04,0.00,0.04,Matches,0.00,0.00,11,1,9.1,0.04,0.42,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+34724b3b,Aaro Toivonen,Aaro Toivonen,fi FIN,"MF,DF",KTP,19,2005,12,8,785,8.7,0,2,2,0,0,0,0,0,0.00,0.23,0.23,0.00,0.23,Matches,0.00,0.00,7,2,28.6,0.23,0.80,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+9ef3c52b,Eemil Toivonen,Eemil Toivonen,fi FIN,DF,IFK Mariehamn,18,2006,11,9,768,8.5,1,0,1,1,0,0,2,0,0.12,0.00,0.12,0.12,0.12,Matches,0.20,0.50,5,2,40.0,0.23,0.59,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+d600aefb,Mohamed Touré,Mohamed Touré,gn GUI,"FW,MF",KuPS,19,2005,28,18,"1,679",18.7,13,1,14,13,0,0,1,0,0.70,0.05,0.75,0.70,0.75,Matches,0.23,0.54,56,24,42.9,1.29,3.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+5dc79a03,Steve Traoré,Steve Traoré,bj BEN,FW,Haka,26,1998,1,0,2,0.0,0,1,1,0,0,0,0,0,0.00,45.00,45.00,0.00,45.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+415086ac,Arttu Tulehmo,Arttu Tulehmo,fi FIN,MF,KTP,17,2007,5,2,191,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+aaee68f1,Jasse Tuominen,Jasse Tuominen,fi FIN,FW,Inter Turku,29,1995,27,13,"1,185",13.2,5,0,5,4,1,1,2,0,0.38,0.00,0.38,0.30,0.30,Matches,0.12,0.25,34,16,47.1,1.22,2.58,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+58d8fe94,Vincent Ulundu,Vincent Ulundu,fi FIN,MF,Ilves,19,2005,12,4,412,4.6,1,1,2,1,0,0,0,0,0.22,0.22,0.44,0.22,0.44,Matches,0.10,0.20,10,5,50.0,1.09,2.18,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+7fafd636,Joonas Vahtera,Joonas Vahtera,fi FIN,"FW,MF",VPS,29,1996,7,5,396,4.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.68,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+8f773d3b,Rasmus Väisänen,Rasmus Väisänen,fi FIN,FW,Ilves,18,2006,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,12.86,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+23214a49,Sauli Väisänen,Sauli Väisänen,fi FIN,DF,Ilves,30,1994,29,29,"2,542",28.2,0,1,1,0,0,0,10,0,0.00,0.04,0.04,0.00,0.04,Matches,0.00,0.00,18,4,22.2,0.14,0.64,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+b309d9e4,Oskari Väistö,Oskari Väistö,fi FIN,DF,SJK,19,2005,27,16,"1,622",18.0,1,0,1,1,0,0,2,0,0.06,0.00,0.06,0.06,0.06,Matches,0.20,1.00,5,1,20.0,0.06,0.28,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e5c0909b,Filip Valenčič,Filip Valenčič,si SVN,"MF,FW",FF Jaro,33,1992,24,18,"1,437",16.0,2,2,4,2,0,0,1,0,0.13,0.13,0.25,0.13,0.25,Matches,0.07,0.15,30,13,43.3,0.81,1.88,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ca4e65da,Alenis Vargas,Alenis Vargas,hn HON,"MF,FW",SJK,21,2003,26,23,"1,676",18.6,4,5,9,4,0,0,2,0,0.21,0.27,0.48,0.21,0.48,Matches,0.13,0.50,31,8,25.8,0.43,1.66,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+f6b221dc,Elmer Vauhkonen,Elmer Vauhkonen,fi FIN,MF,IF Gnistan,19,2006,6,0,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.17,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+a2544081,Tim Väyrynen,Tim Väyrynen,fi FIN,FW,IF Gnistan,31,1993,30,26,"2,176",24.2,5,5,10,3,2,4,3,0,0.21,0.21,0.41,0.12,0.33,Matches,0.07,0.19,44,16,36.4,0.66,1.82,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+04a1916d,Väinö Vehkonen,Väinö Vehkonen,fi FIN,DF,Inter Turku,23,2001,3,1,146,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.62,1.85,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+0205f98e,Joona Veteli,Joona Veteli,fi FIN,MF,Ilves,29,1995,32,31,"2,616",29.1,7,3,10,6,1,1,3,1,0.24,0.10,0.34,0.21,0.31,Matches,0.17,0.33,36,18,50.0,0.62,1.24,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+46a3604c,Lauri Vetri,Lauri Vetri,fi FIN,GK,VPS,21,2003,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+cdd9f74e,Adam Vidjeskog,Adam Vidjeskog,fi FIN,MF,FF Jaro,26,1998,25,14,"1,256",14.0,1,4,5,1,0,0,5,0,0.07,0.29,0.36,0.07,0.36,Matches,0.08,0.20,13,5,38.5,0.36,0.93,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+dfebea22,Johannes Viitala,Johannes Viitala,fi FIN,GK,Ilves,18,2006,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,30.0,10,10,16,1.60,3,900,1,2,1,0.0,0,74.1,43,58,5,2,Veikkausliiga,2025
+dfebea22,Johannes Viitala,Johannes Viitala,fi FIN,GK,Ilves,18,2006,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,,1,0,2,5.81,0,31,0,0,0,,0,60.0,3,5,0,0,Veikkausliiga,2025
+dfebea22,Johannes Viitala,Johannes Viitala,fi FIN,GK,Ilves,18,2006,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,30.0,10,10,16,1.60,3,900,1,2,1,0.0,0,74.1,43,58,5,2,Veikkausliiga,2025
+dfebea22,Johannes Viitala,Johannes Viitala,fi FIN,GK,Ilves,18,2006,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,,1,0,2,5.81,0,31,0,0,0,,0,60.0,3,5,0,0,Veikkausliiga,2025
+dfebea22,Johannes Viitala,Johannes Viitala,fi FIN,GK,IFK Mariehamn,18,2006,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,30.0,10,10,16,1.60,3,900,1,2,1,0.0,0,74.1,43,58,5,2,Veikkausliiga,2025
+dfebea22,Johannes Viitala,Johannes Viitala,fi FIN,GK,IFK Mariehamn,18,2006,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,,1,0,2,5.81,0,31,0,0,0,,0,60.0,3,5,0,0,Veikkausliiga,2025
+dfebea22,Johannes Viitala,Johannes Viitala,fi FIN,GK,IFK Mariehamn,18,2006,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,30.0,10,10,16,1.60,3,900,1,2,1,0.0,0,74.1,43,58,5,2,Veikkausliiga,2025
+dfebea22,Johannes Viitala,Johannes Viitala,fi FIN,GK,IFK Mariehamn,18,2006,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,,1,0,2,5.81,0,31,0,0,0,,0,60.0,3,5,0,0,Veikkausliiga,2025
+3fb269b7,Rudi Vikström,Rudi Vikström,fi FIN,FW,FF Jaro,17,2007,18,1,407,4.5,4,1,5,4,0,0,3,0,0.88,0.22,1.11,0.88,1.11,Matches,0.20,0.33,20,12,60.0,2.65,4.42,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+d899ef92,Otso Virtanen,Otso Virtanen,fi FIN,GK,Ilves,30,1994,21,21,"1,781",19.8,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,8,38.1,21,21,29,1.47,5,"1,781",3,3,0,0.0,0,61.8,42,68,3,13,Veikkausliiga,2025
+e297ca78,Jerry Voutilainen,Jerry Voutilainen,fi FIN,MF,KuPS,29,1995,22,13,"1,046",11.6,0,3,3,0,0,0,3,0,0.00,0.26,0.26,0.00,0.26,Matches,0.00,0.00,12,1,8.3,0.09,1.03,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+e4bc9d20,Ville Vuorinen,Ville Vuorinen,fi FIN,DF,HJK Helsinki,19,2005,2,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,6.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+520cfcbc,Kalle Wallius,Kalle Wallius,fi FIN,"MF,DF",Ilves,22,2003,18,11,746,8.3,0,2,2,0,0,0,0,0,0.00,0.24,0.24,0.00,0.24,Matches,0.00,0.00,12,3,25.0,0.36,1.45,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+b13472ec,Luca Weckström,Luca Weckström,fi FIN,"MF,FW",KTP,21,2003,14,9,799,8.9,2,0,2,2,0,0,1,0,0.23,0.00,0.23,0.23,0.23,Matches,0.11,0.22,18,9,50.0,1.01,2.03,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+ffcfbf62,Karim Al Wehliye,Karim Al Wehliye,fi FIN,FW,Inter Turku,18,2006,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+0ed5fb49,Alexander Wik,Alexander Wik,fi FIN,DF,VPS,16,2008,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+597cee54,Armaan Wilson,Armaan Wilson,ca CAN,MF,KTP,22,2002,9,9,782,8.7,2,0,2,1,1,1,1,0,0.23,0.00,0.23,0.12,0.12,Matches,0.14,0.33,7,3,42.9,0.35,0.81,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+597cee54,Armaan Wilson,Armaan Wilson,ca CAN,MF,KTP,22,2002,9,9,782,8.7,2,0,2,1,1,1,1,0,0.23,0.00,0.23,0.12,0.12,Matches,0.29,1.00,7,2,28.6,0.28,0.97,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+597cee54,Armaan Wilson,Armaan Wilson,ca CAN,"MF,DF",SJK,22,2002,15,6,651,7.2,2,0,2,2,0,0,2,0,0.28,0.00,0.28,0.28,0.28,Matches,0.14,0.33,7,3,42.9,0.35,0.81,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+597cee54,Armaan Wilson,Armaan Wilson,ca CAN,"MF,DF",SJK,22,2002,15,6,651,7.2,2,0,2,2,0,0,2,0,0.28,0.00,0.28,0.28,0.28,Matches,0.29,1.00,7,2,28.6,0.28,0.97,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+04efa983,Hannes Woivalin,Hannes Woivalin,fi FIN,MF,IF Gnistan,22,2002,2,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+190f655b,Mamadou Wurie Jalloh,Mamadou Wurie Jalloh,sl SLE,GK,VPS,18,2006,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,20.0,5,5,8,1.60,3,450,0,1,0,100.0,1,57.9,12,19,0,2,Veikkausliiga,2025
+ca3478f9,Johannes Yli-Kokko,Johannes Yli-Kokko,fi FIN,"MF,FW",Inter Turku,23,2001,24,14,"1,188",13.2,1,2,3,1,0,0,3,0,0.08,0.15,0.23,0.08,0.23,Matches,0.07,0.25,15,4,26.7,0.30,1.14,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+161e0b9f,Miska Ylitolva,Miska Ylitolva,fi FIN,"DF,MF",HJK Helsinki,20,2004,27,25,"2,236",24.8,0,2,2,0,0,0,1,0,0.00,0.08,0.08,0.00,0.08,Matches,0.00,0.00,13,3,23.1,0.12,0.52,,,,,,,,,,,,,,,,,,,Veikkausliiga,2025
+b74247d4,Maksym Zhuk,Maksym Zhuk,ua UKR,GK,KTP,21,2003,8,7,640,7.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,14.3,8,7,18,2.53,4,640,0,1,1,,0,69.5,41,59,2,1,Veikkausliiga,2025
