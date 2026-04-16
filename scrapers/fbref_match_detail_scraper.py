@@ -10,10 +10,14 @@ import re
 
 class FBrefMatchDetailScraper:
     def __init__(self):
-        self.input_csv = "data/raw/fbref_all_matches/fbref_all_matches_2026.csv"
-        self.output_dir = "data/raw/fbref_match_details"
-        self.output_jsonl = f"{self.output_dir}/details_2026.jsonl"
+        # self.input_csv = "data/raw/fbref_all_matches/fbref_all_matches_2026.csv"
+        # self.output_dir = "data/raw/fbref_match_details"
+        # self.output_jsonl = f"{self.output_dir}/details_2026.jsonl"
         
+        self.input_csv = "data/raw/fbref_all_matches/fbref_all_matches_2024.csv"
+        self.output_dir = "data/raw/fbref_match_details"
+        self.output_jsonl = f"{self.output_dir}/details_2024.jsonl"
+
         if not os.path.exists(self.output_dir):
             os.makedirs(self.output_dir)
 
