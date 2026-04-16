@@ -61,7 +61,7 @@ def fetch_logos():
             
             logo_url = ""
             # Vong lap cho tai logo (ne anh transparent)
-            for attempt in range(8): 
+            for attempt in range(2): 
                 time.sleep(3) 
                 soup = BeautifulSoup(driver.page_source, 'html.parser')
                 
