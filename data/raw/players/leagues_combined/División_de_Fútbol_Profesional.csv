@@ -1,0 +1,982 @@
+﻿PlayerID,Name,player,nationality,position,team,age,birth_year,games,games_starts,minutes,minutes_90s,goals,assists,goals_assists,goals_pens,pens_made,pens_att,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,goals_pens_per90,goals_assists_pens_per90,matches,goals_per_shot,goals_per_shot_on_target,shots,shots_on_target,shots_on_target_pct,shots_on_target_per90,shots_per90,gk_clean_sheets,gk_clean_sheets_pct,gk_games,gk_games_starts,gk_goals_against,gk_goals_against_per90,gk_losses,gk_minutes,gk_pens_allowed,gk_pens_att,gk_pens_missed,gk_pens_save_pct,gk_pens_saved,gk_save_pct,gk_saves,gk_shots_on_target_against,gk_ties,gk_wins,League,Season
+6222983a,Freddy Abastoflor,Freddy Abastoflor,bo BOL,FW,ABB,33-094,1993,1,0,12,0.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+bc07974b,Matías Abisab,Matías Abisab,uy URU,MF,Blooming,32-216,1993,2,2,154,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+d53776c0,Victor Abrego,Victor Abrego,bo BOL,FW,The Strongest,29-062,1997,1,1,63,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c0bc6006,José Adolfo Valencia,José Adolfo Valencia,co COL,FW,FC Universitario,34-117,1991,2,0,42,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+9a5930fd,Bleiner Agrón,Bleiner Agrón,co COL,DF,Real Potosí,25-049,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f92ce1c9,Daniel Aguilera,Daniel Aguilera,bo BOL,DF,Real Oruro,21-358,2004,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+cee8ec2a,David Akologo,David Akologo,bo BOL,GK,Real Potosí,29-054,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,100.0,1,1,0,0.00,0,90,0,0,0,,0,,,,1,0,División de Fútbol Profesional,2026
+980ebb91,Christian Alemán,Christian Alemán,ec ECU,MF,Bolívar,30-068,1996,2,1,80,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f9026f04,Carmelo Algarañaz,Carmelo Algarañaz,bo BOL,FW,The Strongest,30-077,1996,2,1,84,0.9,0,1,1,0,0,0,1,0,0.00,1.07,1.07,0.00,1.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+3edb31fd,Luis Alí,Luis Alí,bo BOL,FW,Real Potosí,31-362,1994,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+d0d82cbe,Jose Alipaz,Jose Alipaz,bo BOL,FW,Real Potosí,24-013,2002,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+6a216f82,Sebastián Altamirano,Sebastián Altamirano,bo BOL,DF,Aurora,19-340,2006,2,2,133,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+bcccfe93,Eduardo Álvarez,Eduardo Álvarez,bo BOL,DF,Blooming,23-005,2003,2,1,71,0.8,0,1,1,0,0,0,1,0,0.00,1.27,1.27,0.00,1.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+9e243bfd,Gilbert Álvarez,Gilbert Álvarez,bo BOL,FW,Oriente Petrolero,34-007,1992,2,2,169,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+5d3f6a2b,Sebastian Alvarez,Sebastian Alvarez,bo BOL,DF,Oriente Petrolero,24-228,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+184ea568,William Álvarez,William Álvarez,bo BOL,FW,Nacional Potosí,30-211,1995,2,0,53,0.6,1,0,1,1,0,0,0,0,1.70,0.00,1.70,1.70,1.70,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+ca5160b4,Alfredo Amarilla,Alfredo Amarilla,py PAR,MF,Aurora,24-220,2001,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+4b5fff76,Joel Amoroso,Joel Amoroso,ar ARG,MF,Always Ready,38-096,1988,2,1,111,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+596bb677,Gonzalo Añazgo,Gonzalo Añazgo,ar ARG,MF,Real Potosí,29-037,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+b44f9f2d,José Antonio Pinto,José Antonio Pinto,bo BOL,MF,FC Universitario,25-343,2000,1,1,64,0.7,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+fd4b1c7a,Daniel Aponte,Daniel Aponte,bo BOL,DF,GV San José,21-076,2005,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+fbafeb17,Jhon Araujo,Jhon Araujo,co COL,FW,Aurora,23-270,2002,2,0,44,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f880da9f,Walter Araújo,Walter Araújo,py PAR,MF,GV San José,30-221,1995,1,1,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+dadb4a83,Jhojan Arce pari,Jhojan Arce pari,bo BOL,,Nacional Potosí,20-097,2006,1,0,45,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+e135053f,Santiago Arce,Santiago Arce,bo BOL,MF,The Strongest,25-319,2000,2,1,97,1.1,1,0,1,1,0,0,0,0,0.93,0.00,0.93,0.93,0.93,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+60f523c4,Juan Arguello,Juan Arguello,ar ARG,DF,Real Tomayapo,25-360,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f4eec611,Andrés Ariza,Andrés Ariza,co COL,FW,Oriente Petrolero,28-097,1998,1,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f5545c01,Jaime Arrascaita,Jaime Arrascaita,bo BOL,MF,The Strongest,32-224,1993,1,1,89,1.0,0,1,1,0,0,0,0,1,0.00,1.01,1.01,0.00,1.01,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+7f2b7640,Xavier Arreaga,Xavier Arreaga,ec ECU,DF,Bolívar,31-198,1994,1,1,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+9112afa1,Rodrigo Asur Orihuela,Rodrigo Asur Orihuela,bo BOL,MF,GV San José,22-229,2003,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+1ffa9bee,Mijail Aviles,Mijail Aviles,ve VEN,MF,GV San José,38-313,1987,1,1,86,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+1c4136dc,Pedro Azogue,Pedro Azogue,bo BOL,"FW,MF",Nacional Potosí,31-129,1994,2,2,160,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+004ea3f0,Kevin Bailaba,Kevin Bailaba,bo BOL,MF,Nacional Potosí,18-284,2007,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+b6037c23,Reymar Balceras,Reymar Balceras,bo BOL,DF,Real Oruro,20-073,2006,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+013fc9b2,Oscar Baldomar,Oscar Baldomar,bo BOL,DF,Nacional Potosí,30-057,1996,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+918a67b8,Ramiro Ballivián,Ramiro Ballivián,bo BOL,DF,San Antonio Bulo Bulo,34-006,1992,2,2,148,1.6,0,1,1,0,0,0,1,0,0.00,0.61,0.61,0.00,0.61,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+0b3f06cc,Luis Banegas,Luis Banegas,bo BOL,GK,The Strongest,40-157,1985,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,3,1.50,0,180,0,0,0,,0,,,,0,2,División de Fútbol Profesional,2026
+aee4ec62,Mario Barbery,Mario Barbery,bo BOL,FW,Real Tomayapo,24-013,2002,1,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+b4870c83,Alain Baroja,Alain Baroja,ve VEN,GK,Always Ready,36-173,1989,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,50.0,2,2,1,0.50,0,180,0,0,0,,0,,,,1,1,División de Fútbol Profesional,2026
+07cefa23,Diego Barro,Diego Barro,ar ARG,MF,Aurora,23-048,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+ee17ba2b,Joaquín Barro,Joaquín Barro,,DF,Guabirá,,,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+db478ee9,Alejandro Bejarano,Alejandro Bejarano,bo BOL,MF,ABB,41-297,1984,2,2,170,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+eb4a5d82,Danny Bejarano,Danny Bejarano,bo BOL,MF,Blooming,32-101,1994,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+76f8e42d,Marvin Bejarano,Marvin Bejarano,bo BOL,DF,Real Tomayapo,38-039,1988,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+9bbbd723,Jose Berdecio,Jose Berdecio,bo BOL,MF,Oriente Petrolero,24-084,2002,2,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+205e5b36,José Berrios,José Berrios,,DF,Real Oruro,,,1,0,65,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c2d4921e,Manuel Bonilla,Manuel Bonilla,bo BOL,DF,Oriente Petrolero,21-033,2005,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+38e58289,José Briceño,José Briceño,bo BOL,FW,San Antonio Bulo Bulo,24-084,2002,2,2,133,1.5,1,0,1,1,0,0,0,0,0.68,0.00,0.68,0.68,0.68,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+e9cdf6ec,Anderson Brito,Anderson Brito,bo BOL,FW,Real Potosí,20-362,2005,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+5af315ed,Ronald Bustos,Ronald Bustos,bo BOL,FW,San Antonio Bulo Bulo,22-028,2004,1,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+daef201f,Pedro Cabral,Pedro Cabral,br BRA,FW,Guabirá,27-019,1999,2,1,124,1.4,1,0,1,0,1,1,1,0,0.73,0.00,0.73,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+40424ddf,Yonathan Cabral,Yonathan Cabral,ar ARG,DF,San Antonio Bulo Bulo,33-339,1992,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+15dbb0c6,Nicolas Cabrera,Nicolas Cabrera,bo BOL,,Always Ready,16-114,2009,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+7dd9a019,Alex Cáceres,Alex Cáceres,py PAR,"FW,MF",GV San José,30-072,1996,2,2,180,2.0,1,0,1,0,1,1,0,0,0.50,0.00,0.50,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+30521c1c,Luis Caicedo,Luis Caicedo,ec ECU,DF,Always Ready,28-202,1997,2,2,180,2.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+4bf6c47a,Brayan Calderón,Brayan Calderón,bo BOL,MF,FC Universitario,27-228,1998,2,1,95,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f205555c,Moisés Calero,Moisés Calero,bo BOL,MF,GV San José,27-214,1998,2,0,46,0.5,0,1,1,0,0,0,0,0,0.00,1.96,1.96,0.00,1.96,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+5b2c8e04,Joel Calicho,Joel Calicho,bo BOL,MF,FC Universitario,30-316,1995,1,1,62,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+62bcae83,Daniel Camacho,Daniel Camacho,bo BOL,MF,FC Universitario,27-181,1998,2,2,159,1.8,0,1,1,0,0,0,0,0,0.00,0.57,0.57,0.00,0.57,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+2127858f,Imanol Cárdenas,Imanol Cárdenas,bo BOL,MF,Real Potosí,25-350,2000,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+a6aebf60,Rudy Cardozo,Rudy Cardozo,bo BOL,MF,Indep Petrolero,36-059,1990,2,2,130,1.4,1,0,1,1,0,0,0,0,0.69,0.00,0.69,0.69,0.69,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+e20ffa69,Juan Carlos Montenegro,Juan Carlos Montenegro,bo BOL,FW,Real Oruro,29-069,1997,2,1,115,1.3,1,0,1,1,0,0,0,0,0.78,0.00,0.78,0.78,0.78,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+26cd2a51,Juan Carlos Parada,Juan Carlos Parada,bo BOL,MF,Guabirá,29-115,1996,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+1fd6ad85,Daniel Castellón,Daniel Castellón,bo BOL,DF,Real Oruro,29-347,1996,2,2,180,2.0,1,0,1,1,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f7c30141,Vladimir Castellón,Vladimir Castellón,bo BOL,"FW,MF",Real Potosí,36-245,1989,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+3ab333c6,Josué Castillo,Josué Castillo,bo BOL,MF,Real Tomayapo,21-273,2004,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+e5b3efd1,Raúl Castro,Raúl Castro,bo BOL,MF,The Strongest,36-238,1989,2,2,155,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+8604d50e,Jair Catuy,Jair Catuy,pa PAN,FW,ABB,34-076,1992,2,2,105,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+6e7d7a7a,Martín Cauteruccio,Martín Cauteruccio,uy URU,FW,Bolívar,39-000,1987,2,2,159,1.8,5,0,5,4,1,1,0,0,2.83,0.00,2.83,2.26,2.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+6e78908c,Guilmar Centella,Guilmar Centella,bo BOL,MF,Blooming,21-019,2005,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+a88c6070,Pablo César Luján,Pablo César Luján,bo BOL,MF,GV San José,23-047,2003,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+e8ec0312,Mauricio Chajtur,Mauricio Chajtur,bo BOL,MF,Real Tomayapo,29-189,1996,1,1,84,0.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+7a882535,Lucas Chávez,Lucas Chávez,bo BOL,FW,Bolívar,22-362,2003,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+62966f56,Luis Chávez,Luis Chávez,bo BOL,MF,Blooming,19-227,2006,1,0,39,0.4,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+616ce35f,Thiago Chavez,Thiago Chavez,bo BOL,DF,Guabirá,18-120,2007,2,1,119,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+3de9cd2d,Martín Chiatti,Martín Chiatti,ar ARG,DF,The Strongest,33-134,1992,1,1,47,0.5,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+e39b775e,Alejandro Chumacero,Alejandro Chumacero,bo BOL,MF,ABB,34-357,1991,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+0357679d,Jeyson Chura,Jeyson Chura,bo BOL,MF,Blooming,24-070,2002,1,0,20,0.2,0,1,1,0,0,0,0,0,0.00,4.50,4.50,0.00,4.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+3e1fed55,Sebastián Claure,Sebastián Claure,bo BOL,MF,ABB,26-170,1999,1,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+6ee7f1bd,Abdon Colque,Abdon Colque,bo BOL,,Real Oruro,17-285,2008,1,1,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+4c2fbdb0,Erlan Condori,Erlan Condori,bo BOL,MF,Real Potosí,28-318,1997,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+5051c723,Joel Contreras,Joel Contreras,co COL,MF,Oriente Petrolero,26-348,1999,2,2,169,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+abdc880b,Rubén Cordano,Rubén Cordano,bo BOL,GK,Aurora,27-180,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,1,1.00,0,90,0,0,0,,0,,,,1,0,División de Fútbol Profesional,2026
+1569aeb7,Andrés Córdoba,Andrés Córdoba,co COL,FW,San Antonio Bulo Bulo,28-195,1997,2,2,169,1.9,1,0,1,1,0,0,1,0,0.53,0.00,0.53,0.53,0.53,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f800db94,Leandro Corulo,Leandro Corulo,ar ARG,DF,Real Tomayapo,36-316,1989,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+505c5f1a,Gustavo Cristaldo,Gustavo Cristaldo,py PAR,MF,Indep Petrolero,36-318,1989,2,1,89,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c4dbd5b8,Jonatan Cristaldo,Jonatan Cristaldo,ar ARG,FW,Indep Petrolero,37-040,1989,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+655951bd,Ramiro Cristóbal,Ramiro Cristóbal,uy URU,MF,Guabirá,30-004,1996,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+a1d4fca1,Mario Cuadiay,Mario Cuadiay,bo BOL,MF,FC Universitario,19-357,2006,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+5647558f,Guilder Cuellar,Guilder Cuellar,bo BOL,MF,FC Universitario,26-328,1999,2,2,180,2.0,1,0,1,1,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+44aa5f6e,Héctor Cuellar,Héctor Cuellar,bo BOL,MF,Always Ready,25-241,2000,2,2,180,2.0,1,0,1,0,1,1,1,0,0.50,0.00,0.50,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+231c1648,Victor Cuellar,Victor Cuellar,bo BOL,MF,The Strongest,25-203,2000,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+5cb07820,Dener Da Silva,Dener Da Silva,bo BOL,FW,Guabirá,20-215,2005,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+958e0fc7,Marcelo De Lima Castro,Marcelo De Lima Castro,bo BOL,DF,San Antonio Bulo Bulo,21-006,2005,2,1,82,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+bc046c6d,Luis Demiquel,Luis Demiquel,bo BOL,DF,Nacional Potosí,26-089,2000,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+079d4bba,Hugo Dorrego,Hugo Dorrego,uy URU,MF,FC Universitario,32-340,1993,2,1,78,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+92996242,Santiago Echeverría,Santiago Echeverría,ar ARG,DF,Bolívar,36-017,1990,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+17d7fbfa,Jorge Eduardo Lovera,Jorge Eduardo Lovera,bo BOL,MF,Oriente Petrolero,28-361,1997,2,1,133,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+19435e5d,Ramiro Eguez,Ramiro Eguez,bo BOL,MF,Real Tomayapo,22-029,2004,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+0a0e5d44,Carlos Enrique Áñez,Carlos Enrique Áñez,bo BOL,MF,Guabirá,30-282,1995,2,2,161,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+0677b1d9,Adrián Estacio,Adrián Estacio,co COL,MF,The Strongest,27-359,1998,2,1,103,1.1,1,0,1,1,0,0,0,0,0.87,0.00,0.87,0.87,0.87,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+7d91b283,Ezequiel Fabian Straccia,Ezequiel Fabian Straccia,ar ARG,MF,FC Universitario,34-350,1991,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+0470b3d3,Juan Fajardo,Juan Fajardo,co COL,FW,ABB,30-096,1996,2,2,124,1.4,0,1,1,0,0,0,0,0,0.00,0.73,0.73,0.00,0.73,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+a387563a,Adriel Fernández,Adriel Fernández,bo BOL,MF,Real Oruro,30-023,1996,2,2,135,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+370ef95d,William Fernández,William Fernández,bo BOL,DF,Real Potosí,20-312,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+0a841e9c,Manuel Ferrel,Manuel Ferrel,bo BOL,GK,Guabirá,24-203,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,2,2.00,0,90,0,0,0,,0,,,,1,0,División de Fútbol Profesional,2026
+be203bd6,Roler Ferrufino,Roler Ferrufino,bo BOL,FW,Guabirá,25-186,2000,1,1,71,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f5ae1d36,Layonel Figueroa,Layonel Figueroa,bo BOL,MF,ABB,26-282,1999,2,0,56,0.6,1,0,1,0,1,1,0,0,1.61,0.00,1.61,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+ba94063c,Ariel Flores,Ariel Flores,bo BOL,GK,Aurora,21-188,2004,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+00bd79a8,Diego Flores,Diego Flores,,,Real Tomayapo,,,1,1,84,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+73fdbfcf,Enrique Flores,Enrique Flores,bo BOL,DF,Guabirá,32-072,1994,2,1,104,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c0ac473b,Escleizon Freita,Escleizon Freita,bo BOL,DF,Bolívar,19-079,2007,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+96bdf262,Juan Gabriel Valverde,Juan Gabriel Valverde,bo BOL,DF,Blooming,35-294,1990,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+31c57582,Pedro Galindo,Pedro Galindo,bo BOL,GK,Nacional Potosí,32-001,1994,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,100.0,2,2,0,0.00,0,180,0,0,0,,0,,,,0,2,División de Fútbol Profesional,2026
+30cf013d,Samuel Galindo,Samuel Galindo,bo BOL,MF,GV San José,33-361,1992,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+0c0497ae,Sebastián Galindo,Sebastián Galindo,bo BOL,MF,GV San José,25-259,2000,2,0,75,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+03c94eec,Bayron Garces,Bayron Garces,co COL,FW,Blooming,32-319,1993,1,1,90,1.0,3,0,3,3,0,0,0,0,3.00,0.00,3.00,3.00,3.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c6da992e,Jhon García,Jhon García,bo BOL,MF,Bolívar,26-001,2000,1,0,16,0.2,0,1,1,0,0,0,0,0,0.00,5.63,5.63,0.00,5.63,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+70e51a15,Samuel Garzón,Samuel Garzón,bo BOL,FW,Guabirá,26-337,1999,2,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+763c1832,Francisco Gatti,Francisco Gatti,ar ARG,MF,Real Oruro,31-322,1994,2,1,65,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+33878ea4,Sergio Gil,Sergio Gil,bo BOL,DF,Guabirá,28-295,1997,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+cd624f05,Diago Giménez,Diago Giménez,ar ARG,DF,Blooming,28-348,1997,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+b95ddcde,Luca Giossa,Luca Giossa,uy URU,GK,San Antonio Bulo Bulo,25-325,2000,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,50.0,2,2,3,1.50,1,180,1,1,0,0.0,0,,,,0,1,División de Fútbol Profesional,2026
+aae6b2e4,Juan Godoy,Juan Godoy,bo BOL,MF,Always Ready,32-295,1993,1,0,16,0.2,1,0,1,1,0,0,0,0,5.63,0.00,5.63,5.63,5.63,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+33c24be0,Gastón Gómez,Gastón Gómez,ar ARG,GK,Guabirá,30-041,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,5,5.00,1,90,0,0,0,,0,,,,0,0,División de Fútbol Profesional,2026
+3f5d1d09,Marco Gómez,Marco Gómez,bo BOL,MF,FC Universitario,30-199,1995,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+b4f04431,Maximiliano Gómez,Maximiliano Gómez,ar ARG,MF,Real Potosí,38-101,1988,1,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+5bc45d78,Richet Gómez,Richet Gómez,bo BOL,DF,Always Ready,27-162,1998,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f5f970bc,Juan Goyeneche,Juan Goyeneche,ar ARG,FW,GV San José,25-073,2001,1,0,31,0.3,1,0,1,1,0,0,0,0,2.90,0.00,2.90,2.90,2.90,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+7f7bc312,Javier Guerra,Javier Guerra,bo BOL,DF,Nacional Potosí,22-008,2004,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+fb874483,Saulo Guerra,Saulo Guerra,bo BOL,MF,San Antonio Bulo Bulo,33-212,1992,1,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+9c8b5084,Adriel Guillermo,Adriel Guillermo,bo BOL,,ABB,17-332,2008,2,2,150,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+9d526c5a,Andrés Guillermo,Andrés Guillermo,bo BOL,MF,ABB,19-193,2006,1,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+5745e13b,Johan Gutiérrez,Johan Gutiérrez,bo BOL,GK,Indep Petrolero,29-199,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,3,3.00,1,90,0,0,0,,0,,,,0,0,División de Fútbol Profesional,2026
+6598571f,Kevin Gutiérrez,Kevin Gutiérrez,bo BOL,FW,San Antonio Bulo Bulo,18-271,2007,2,1,81,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+2d10c915,José Herrera,José Herrera,bo BOL,FW,ABB,22-340,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+bfebbc6a,Julio Herrera,Julio Herrera,bo BOL,MF,San Antonio Bulo Bulo,27-062,1999,2,2,123,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+4a203a6d,Roberto Hinojosa,Roberto Hinojosa,co COL,MF,Blooming,26-286,1999,2,1,86,1.0,0,1,1,0,0,0,0,0,0.00,1.05,1.05,0.00,1.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+8407af66,Diego Hoyos,Diego Hoyos,bo BOL,MF,Nacional Potosí,33-197,1992,2,2,180,2.0,1,0,1,1,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f5e73636,Ivan Huayhuata,Ivan Huayhuata,bo BOL,DF,Real Oruro,37-036,1989,2,1,90,1.0,0,1,1,0,0,0,1,0,0.00,1.00,1.00,0.00,1.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+40404557,Ronaldo Hunacota,Ronaldo Hunacota,,GK,Real Oruro,,,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,7,3.50,1,180,1,1,0,0.0,0,,,,1,0,División de Fútbol Profesional,2026
+c6e65902,Jhon Jairo Cuéllar,Jhon Jairo Cuéllar,bo BOL,GK,ABB,26-181,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,3,1.50,1,180,0,0,0,,0,,,,0,1,División de Fútbol Profesional,2026
+2d638d10,Agustin Jara,Agustin Jara,ar ARG,DF,FC Universitario,33-317,1992,1,1,83,0.9,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+cfcfebee,Adrian Jusino,Adrian Jusino,bo BOL,DF,The Strongest,33-279,1992,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+54c192aa,Leonel Justiniano,Leonel Justiniano,bo BOL,MF,Bolívar,33-286,1992,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+6ed98536,Carlos Lampe,Carlos Lampe,bo BOL,GK,Bolívar,39-028,1987,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,50.0,2,2,2,1.00,0,180,1,1,0,0.0,0,,,,0,2,División de Fútbol Profesional,2026
+91afcaf8,Andrés Landa,Andrés Landa,bo BOL,DF,GV San José,30-077,1996,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+cf22cc05,Julio Lazarte,Julio Lazarte,bo BOL,DF,FC Universitario,17-360,2008,2,2,171,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+41b73563,Robson Leandro Santos,Robson Leandro Santos,br BRA,MF,Real Tomayapo,33-198,1992,1,1,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+37f856f9,Joaquín Lencinas,Joaquín Lencinas,ar ARG,DF,GV San José,37-338,1988,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+ef081b1c,Rodrigo Llano,Rodrigo Llano,co COL,FW,FC Universitario,33-174,1992,2,2,175,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+d04a3588,Darwin Lom,Darwin Lom,gt GUA,FW,The Strongest,28-274,1997,2,1,114,1.3,2,0,2,1,1,1,0,0,1.58,0.00,1.58,0.79,0.79,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+8f62d69f,Brian López,Brian López,do DOM,DF,FC Universitario,26-145,1999,1,1,81,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+1ca69d08,José López,José López,bo BOL,FW,Oriente Petrolero,22-254,2003,2,1,76,0.8,0,1,1,0,0,0,0,0,0.00,1.18,1.18,0.00,1.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+e9f26fb0,Pablo López,Pablo López,uy URU,DF,Aurora,24-044,2002,1,1,89,1.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f34cc57f,Rafael Lutkowski,Rafael Lutkowski,br BRA,FW,Indep Petrolero,26-174,1999,2,0,39,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+9351aad5,Cristhian Machado,Cristhian Machado,bo BOL,MF,San Antonio Bulo Bulo,35-298,1990,2,1,99,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+d73fa7d8,Milton Maciel,Milton Maciel,py PAR,MF,Guabirá,26-213,1999,2,1,101,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+0f4d9911,Kevin Mamani,Kevin Mamani,bo BOL,MF,Real Tomayapo,21-160,2004,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+cefab8e4,Máximo Mamani,Máximo Mamani,bo BOL,MF,Always Ready,20-357,2005,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f520049f,Eliaquim Mangala,Eliaquim Mangala,fr FRA,DF,Oriente Petrolero,35-060,1991,1,1,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+89991de2,Jesús Manuel Sagredo,Jesús Manuel Sagredo,bo BOL,DF,Bolívar,32-035,1994,2,1,149,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c283736b,Jesús Maraude,Jesús Maraude,bo BOL,MF,Always Ready,18-071,2008,2,2,171,1.9,0,1,1,0,0,0,0,0,0.00,0.53,0.53,0.00,0.53,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c25fb926,Rivaldo Maraz,Rivaldo Maraz,bo BOL,MF,Real Oruro,23-137,2002,1,1,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+88c53e1e,José María Carrasco,José María Carrasco,bo BOL,DF,Blooming,28-241,1997,2,1,106,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+26e17f25,Marcelo Martins Moreno,Marcelo Martins Moreno,bo BOL,FW,Oriente Petrolero,38-300,1987,1,1,90,1.0,2,0,2,1,1,1,1,0,2.00,0.00,2.00,1.00,1.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+4bf5509e,Nicolas Masskooni,Nicolas Masskooni,bo BOL,MF,Guabirá,22-232,2003,2,1,135,1.5,1,0,1,1,0,0,0,0,0.67,0.00,0.67,0.67,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+6c5b59c5,Robson Matheus,Robson Matheus,bo BOL,MF,Bolívar,23-331,2002,1,0,36,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+eb508677,Alexi Medina,Alexi Medina,ar ARG,DF,San Antonio Bulo Bulo,30-290,1995,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+367b96a9,Carlos Medina,Carlos Medina,bo BOL,DF,Always Ready,20-194,2005,1,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f64fd92a,Antonio Melgar,Antonio Melgar,bo BOL,MF,Bolívar,31-161,1994,2,1,86,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+ad1af9bd,Pablo Melgar,Pablo Melgar,,,Guabirá,,,1,1,61,0.7,0,1,1,0,0,0,0,0,0.00,1.48,1.48,0.00,1.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+e07e7325,Roberto Melgar Simoes,Roberto Melgar Simoes,bo BOL,MF,Blooming,19-295,2006,2,2,135,1.5,1,0,1,1,0,0,0,0,0.67,0.00,0.67,0.67,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+780803d8,Cesar Menacho,Cesar Menacho,bo BOL,FW,Blooming,26-248,1999,2,2,160,1.8,2,1,3,2,0,0,0,0,1.13,0.56,1.69,1.13,1.69,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+4ea0deb0,Rafael Menacho,Rafael Menacho,bo BOL,FW,San Antonio Bulo Bulo,24-293,2001,1,0,20,0.2,2,0,2,2,0,0,0,0,9.00,0.00,9.00,9.00,9.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+9b3eba10,John Méndez,John Méndez,co COL,FW,Real Potosí,21-222,2004,1,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+8313e55a,Esdras Mendoza,Esdras Mendoza,bo BOL,MF,Blooming,22-187,2003,2,0,65,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+4bb23ee3,Gustavo Mendoza,Gustavo Mendoza,bo BOL,FW,San Antonio Bulo Bulo,21-338,2004,2,1,110,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+e9665ddf,Alán Mercado,Alán Mercado,bo BOL,FW,Indep Petrolero,29-104,1996,1,1,45,0.5,1,0,1,1,0,0,1,0,2.00,0.00,2.00,2.00,2.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+1c528b0c,Diego Mercado,Diego Mercado,,,San Antonio Bulo Bulo,,,2,1,125,1.4,0,1,1,0,0,0,0,0,0.00,0.72,0.72,0.00,0.72,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+0f2111db,Ronaldo Monteiro,Ronaldo Monteiro,bo BOL,FW,GV San José,28-093,1998,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+bc165f69,Leonardo Montenegro,Leonardo Montenegro,bo BOL,DF,Indep Petrolero,21-023,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+33e3e128,Ronny Montero,Ronny Montero,bo BOL,DF,Indep Petrolero,34-334,1991,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+74ff7d03,Thomas Monterubianessi,Thomas Monterubianessi,ar ARG,FW,GV San José,27-052,1999,2,2,134,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+58409aca,Andrés Moreno,Andrés Moreno,bo BOL,MF,Guabirá,23-187,2002,1,0,32,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+57cbdb1d,José Moya,José Moya,co COL,DF,The Strongest,33-250,1992,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+bb7b9a93,Saidt Mustafá,Saidt Mustafá,bo BOL,GK,GV San José,36-139,1989,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,4,2.00,2,180,2,2,0,0.0,0,,,,0,0,División de Fútbol Profesional,2026
+7d846719,Fernando Nava,Fernando Nava,bo BOL,FW,Always Ready,21-310,2004,2,1,89,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f067d873,Diego Navarro,Diego Navarro,bo BOL,FW,Indep Petrolero,33-127,1992,2,1,60,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c7c8df2d,Maximiliano Núñez,Maximiliano Núñez,ar ARG,"FW,MF",Nacional Potosí,39-209,1986,2,2,170,1.9,0,1,1,0,0,0,0,0,0.00,0.53,0.53,0.00,0.53,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+63251f71,Dennis Olivera,Dennis Olivera,uy URU,MF,Aurora,26-259,1999,1,1,84,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+4d54c92e,Auli Oliveros,Auli Oliveros,co COL,MF,Blooming,24-256,2001,1,1,74,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+03ed8128,Miyhel Ortiz,Miyhel Ortiz,bo BOL,MF,Aurora,24-174,2001,2,2,180,2.0,0,1,1,0,0,0,0,0,0.00,0.50,0.50,0.00,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+1107ac54,Braian Oyola,Braian Oyola,ar ARG,MF,Bolívar,29-303,1996,2,1,107,1.2,0,2,2,0,0,0,0,0,0.00,1.68,1.68,0.00,1.68,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+ce774d96,Rai Pablo Lima,Rai Pablo Lima,bo BOL,MF,Always Ready,26-006,2000,2,0,74,0.8,0,2,2,0,0,0,0,0,0.00,2.43,2.43,0.00,2.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c54711ef,Juan Pablo Rioja,Juan Pablo Rioja,bo BOL,MF,Real Potosí,37-345,1988,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+dc2f6e02,Hallysson Padilha,Hallysson Padilha,br BRA,DF,Real Oruro,32-062,1994,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f07e9b95,Luis Palma,Luis Palma,py PAR,MF,Indep Petrolero,31-254,1994,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+ffc85c03,Emanuel Paniagua,Emanuel Paniagua,bo BOL,FW,ABB,20-160,2005,2,0,59,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+88eb8aae,Asaf Patzi,Asaf Patzi,bo BOL,MF,Nacional Potosí,21-212,2004,2,2,157,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+d9480a73,Luis Pavia,Luis Pavia,bo BOL,MF,Nacional Potosí,27-029,1999,1,0,20,0.2,1,0,1,1,0,0,0,0,4.50,0.00,4.50,4.50,4.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+7a17b42b,Luiz Paz,Luiz Paz,bo BOL,DF,Bolívar,21-309,2004,2,1,85,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+fd2a07b2,Pablo Pedraza,Pablo Pedraza,bo BOL,DF,The Strongest,31-035,1995,2,1,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+17cf1d22,Schneider Peña,Schneider Peña,bo BOL,FW,Nacional Potosí,22-019,2004,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+98413e2c,Gustavo Peredo,Gustavo Peredo,bo BOL,FW,Guabirá,26-007,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+0a49138b,Rodderyk Perozo,Rodderyk Perozo,ve VEN,MF,ABB,32-128,1993,2,2,179,2.0,1,0,1,1,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+3c14ecda,Santiago Pinto Soliz,Santiago Pinto Soliz,bo BOL,FW,GV San José,19-054,2007,1,1,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+81084052,Daniel Porozo,Daniel Porozo,ec ECU,"FW,MF",Real Oruro,28-206,1997,2,2,180,2.0,1,0,1,0,1,1,1,0,0.50,0.00,0.50,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+9829e5bd,Milciades Portillo,Milciades Portillo,py PAR,DF,Guabirá,34-052,1992,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f851861f,Yamil Portuncho,Yamil Portuncho,bo BOL,DF,The Strongest,20-078,2006,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+d146b436,Bruno Poveda,Bruno Poveda,bo BOL,GK,FC Universitario,22-174,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,3,1.50,2,180,0,0,0,,0,,,,0,0,División de Fútbol Profesional,2026
+8352f13e,Fabricio Quaglio,Fabricio Quaglio,bo BOL,FW,The Strongest,22-258,2003,2,2,180,2.0,1,0,1,1,0,0,1,0,0.50,0.00,0.50,0.50,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f3ca00e5,Angel Quiñonez,Angel Quiñonez,ec ECU,"FW,MF",Real Oruro,29-222,1996,2,1,122,1.4,0,1,1,0,0,0,2,0,0.00,0.74,0.74,0.00,0.74,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+89125a7f,Joao Quiñonez,Joao Quiñonez,ec ECU,DF,Real Oruro,26-334,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+173530a8,Kevin Quiroz,Kevin Quiroz,bo BOL,MF,Nacional Potosí,21-097,2005,2,2,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c9fcc231,Rafinha,Rafinha,bo BOL,MF,Guabirá,34-115,1991,1,1,56,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+e4e69b59,Jhoni Ramallo,Jhoni Ramallo,bo BOL,MF,GV San José,21-359,2004,2,2,176,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c8f9a488,Rodrigo Ramallo,Rodrigo Ramallo,bo BOL,"FW,MF",Aurora,35-182,1990,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+070aad77,Jefferson Ramos,Jefferson Ramos,co COL,FW,Aurora,27-297,1998,1,0,1,0.0,1,0,1,1,0,0,0,0,90.00,0.00,90.00,90.00,90.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+fb713f9f,Gonzalo Rehak,Gonzalo Rehak,ar ARG,GK,Real Tomayapo,33-003,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,4,4.00,1,90,1,1,0,0.0,0,,,,0,0,División de Fútbol Profesional,2026
+43d27dcd,Luis René Barboza,Luis René Barboza,bo BOL,DF,Aurora,33-012,1993,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+8f848aa4,Edisson Restrepo,Edisson Restrepo,co COL,DF,Nacional Potosí,29-116,1996,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+453e3430,Sebastián Reyes,Sebastián Reyes,bo BOL,DF,ABB,29-033,1997,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+32baeec4,Jean Riasco,Jean Riasco,ec ECU,DF,ABB,33-331,1992,2,2,109,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+a6cc0e65,Alexis Ribera,Alexis Ribera,bo BOL,MF,Real Tomayapo,30-242,1995,1,1,70,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c72beb85,Carlos Ribera,Carlos Ribera,bo BOL,MF,Real Oruro,29-067,1997,2,2,102,1.1,1,0,1,1,0,0,1,0,0.88,0.00,0.88,0.88,0.88,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f5277538,Rodrigo Rivas Gonzalez,Rodrigo Rivas Gonzalez,co COL,FW,Indep Petrolero,29-003,1997,2,2,148,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+d189a8a2,Jeferson Rivas Tirado,Jeferson Rivas Tirado,co COL,FW,Real Potosí,28-330,1997,1,1,73,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+2ee5a00d,Ademar Rivera,Ademar Rivera,bo BOL,MF,Real Oruro,30-069,1996,2,1,109,1.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+a9494d8f,Dico Roca,Dico Roca,bo BOL,DF,Oriente Petrolero,29-174,1996,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+2a4c8e28,Carlitos Rodriguez,Carlitos Rodriguez,bo BOL,DF,Always Ready,21-143,2004,2,2,180,2.0,0,1,1,0,0,0,1,0,0.00,0.50,0.50,0.00,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c643d413,Dieguito Rodriguez,Dieguito Rodriguez,bo BOL,DF,Always Ready,22-215,2003,2,1,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+76f638ae,Hernán Rodríguez,Hernán Rodríguez,bo BOL,DF,FC Universitario,29-340,1996,2,2,171,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+3d0fd3d7,Patito Rodríguez,Patito Rodríguez,ar ARG,"FW,MF",Bolívar,35-345,1990,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+dc17d14c,Francisco Rodriguez Zegada,Francisco Rodriguez Zegada,bo BOL,DF,Indep Petrolero,31-235,1994,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+5cd099b9,Daniel Rojas,Daniel Rojas,bo BOL,MF,Indep Petrolero,26-051,2000,2,0,76,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+ee2a3b83,Jorge Rojas,Jorge Rojas,bo BOL,DF,Nacional Potosí,33-067,1993,2,0,90,1.0,1,0,1,1,0,0,0,0,1.00,0.00,1.00,1.00,1.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+8f80e4c0,Diego Saavedra,Diego Saavedra,bo BOL,MF,FC Universitario,22-251,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+560ad467,Erwin Saavedra,Erwin Saavedra,bo BOL,MF,Bolívar,30-051,1996,2,2,143,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+939c97cf,José Sagredo,José Sagredo,bo BOL,DF,Bolívar,32-035,1994,2,2,144,1.6,1,1,2,1,0,0,0,0,0.62,0.62,1.25,0.62,1.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+d19b6f2c,Kevin Salvatierra,Kevin Salvatierra,bo BOL,MF,The Strongest,24-252,2001,2,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f1cad4df,Erwin Sánchez,Erwin Sánchez,bo BOL,FW,Aurora,33-265,1992,2,2,136,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+000b90df,Héctor Sánchez,Héctor Sánchez,bo BOL,MF,Guabirá,28-355,1997,1,1,33,0.4,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f271318e,Jordán Santacruz,Jordán Santacruz,py PAR,"DF,MF",Oriente Petrolero,30-121,1995,2,2,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+a3c5fd96,Fernando Saucedo,Fernando Saucedo,bo BOL,MF,Always Ready,36-030,1990,2,2,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+e09d4461,Widen Saucedo,Widen Saucedo,bo BOL,DF,The Strongest,29-044,1997,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+68247c84,Jorge Scolari,Jorge Scolari,ar ARG,DF,Real Tomayapo,36-207,1989,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+54f089b4,Augusto Seimandi,Augusto Seimandi,ar ARG,DF,ABB,31-072,1995,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+acd77848,Saúl Severiche,Saúl Severiche,bo BOL,DF,Blooming,23-332,2002,1,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+38d5918a,Thiago Ribeiro da Silva,Thiago Ribeiro da Silva,br BRA,MF,Guabirá,41-081,1985,2,2,148,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f27c21dd,Wilfredo Soleto,Wilfredo Soleto,bo BOL,MF,Real Oruro,30-052,1996,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+510e052a,Maicon Solís,Maicon Solís,ec ECU,"FW,MF",Nacional Potosí,31-338,1994,2,2,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+6435143e,Kévin Soni,Kévin Soni,cm CMR,MF,Oriente Petrolero,27-362,1998,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+71844833,Gabriel Sotomayor,Gabriel Sotomayor,bo BOL,FW,The Strongest,26-286,1999,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+8888873c,Marcelo Suarez,Marcelo Suarez,bo BOL,DF,Always Ready,24-115,2001,2,2,164,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+a3eb6b73,Adalid Terrazas,Adalid Terrazas,bo BOL,MF,San Antonio Bulo Bulo,25-232,2000,2,2,180,2.0,0,2,2,0,0,0,1,0,0.00,1.00,1.00,0.00,1.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+e970b458,Alan Terrazas,Alan Terrazas,ar ARG,FW,Aurora,26-252,1999,2,2,179,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+d84de9fb,Jairo Thomas,Jairo Thomas,bo BOL,MF,Real Potosí,26-014,2000,1,1,64,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+5f15302c,Thomaz,Thomaz,br BRA,MF,Indep Petrolero,39-347,1986,1,1,84,0.9,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+c371384b,Hernán Tifner,Hernán Tifner,ar ARG,MF,Real Oruro,29-206,1996,2,0,59,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+8fc13cd2,Tommy Tobar,Tommy Tobar,co COL,FW,Nacional Potosí,39-144,1986,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+87dffd92,Mirko Tomianovic,Mirko Tomianovic,bo BOL,MF,Oriente Petrolero,24-195,2001,2,1,101,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+d522a78b,Saúl Torres,Saúl Torres,bo BOL,DF,Indep Petrolero,36-023,1990,2,2,173,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+00ba62cd,Alejandro Torrez,Alejandro Torrez,bo BOL,GK,Oriente Petrolero,28-027,1998,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,3,1.50,1,180,1,1,0,0.0,0,,,,0,1,División de Fútbol Profesional,2026
+93fb70a3,Daniel Torrez,Daniel Torrez,bo BOL,DF,Real Tomayapo,19-152,2006,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+6b73ad87,Dario Torrico,Dario Torrico,bo BOL,MF,Always Ready,25-178,2000,2,2,106,1.2,1,0,1,1,0,0,0,0,0.85,0.00,0.85,0.85,0.85,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+be7bcbe9,Didí Torrico,Didí Torrico,bo BOL,MF,FC Universitario,37-331,1988,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+2bec1063,Jair Torrico,Jair Torrico,bo BOL,DF,FC Universitario,39-255,1986,2,2,179,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+3306b9e8,Enrique Triverio,Enrique Triverio,ar ARG,FW,Always Ready,37-104,1988,2,2,180,2.0,2,0,2,2,0,0,1,0,1.00,0.00,1.00,1.00,1.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+db8135d9,Enrique Troncoso,Enrique Troncoso,bo BOL,MF,Aurora,24-252,2001,1,0,47,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+6713da0e,Braulio Uraezaña,Braulio Uraezaña,bo BOL,GK,Blooming,31-019,1995,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,50.0,2,2,2,1.00,0,180,0,0,0,,0,,,,1,1,División de Fútbol Profesional,2026
+d029d606,Luciano Ursino,Luciano Ursino,bo BOL,MF,Oriente Petrolero,37-165,1988,2,2,158,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+b85390ea,Ervin Vaca,Ervin Vaca,bo BOL,MF,Bolívar,22-027,2004,2,1,126,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+777c092b,Gonzalo Vaca,Gonzalo Vaca,bo BOL,DF,GV San José,23-242,2002,1,1,59,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+624c6018,Leonardo Vaca,Leonardo Vaca,bo BOL,FW,Oriente Petrolero,30-141,1995,2,1,104,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f4773a5c,Pablo Vaca,Pablo Vaca,bo BOL,MF,San Antonio Bulo Bulo,23-318,2002,1,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+00e0f042,Denilson Valda,Denilson Valda,bo BOL,DF,ABB,28-297,1997,2,0,71,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+0943b85f,Yerco Vallejos,Yerco Vallejos,bo BOL,FW,Real Oruro,31-011,1995,1,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+15387a67,Diego Vargas,Diego Vargas,,DF,Indep Petrolero,,,2,1,97,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+fb32f91e,Anthony Vásquez,Anthony Vásquez,co COL,FW,Blooming,23-289,2002,2,1,110,1.2,1,0,1,1,0,0,0,0,0.82,0.00,0.82,0.82,0.82,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+ff0f5d07,Fabricio Vasquez,Fabricio Vasquez,bo BOL,FW,GV San José,22-316,2003,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+4d6192e1,Jose Velasco Moreno,Jose Velasco Moreno,bo BOL,FW,Oriente Petrolero,27-119,1998,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+59d7849a,Jhon Velásquez,Jhon Velásquez,bo BOL,MF,Bolívar,22-357,2003,2,2,163,1.8,1,1,2,1,0,0,0,0,0.55,0.55,1.10,0.55,1.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+732ff1e9,Carlos Ventura,Carlos Ventura,do DOM,FW,The Strongest,28-230,1997,2,1,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+eef32dc1,Jhunior Vera,Jhunior Vera,bo BOL,GK,Indep Petrolero,23-021,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,2,2.00,0,90,1,1,0,0.0,0,,,,1,0,División de Fútbol Profesional,2026
+01e760e5,Iván Vidaurre,Iván Vidaurre,bo BOL,MF,Aurora,39-071,1987,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+d2ba4f99,Julio Vila,Julio Vila,ar ARG,DF,Blooming,30-089,1996,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+692f68f6,Damián Villalba,Damián Villalba,ar ARG,FW,Nacional Potosí,34-346,1991,2,2,127,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+34710e8f,Jaime Villamil,Jaime Villamil,bo BOL,DF,San Antonio Bulo Bulo,33-191,1992,1,1,70,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+59e205c0,Sergio Villamil,Sergio Villamil,bo BOL,MF,GV San José,31-121,1994,2,2,166,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+5c3b0925,Moisés Villarroel Angulo,Moisés Villarroel Angulo,bo BOL,MF,Blooming,27-230,1998,2,1,135,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+ae557d57,Miguel Villarroel,Miguel Villarroel,bo BOL,MF,Blooming,23-094,2003,1,1,70,0.8,0,1,1,0,0,0,0,0,0.00,1.29,1.29,0.00,1.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+f0131b85,Sebastian Villarroel,Sebastian Villarroel,bo BOL,,GV San José,19-065,2007,2,1,120,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+26bf8a3c,Juan Villavicencio,Juan Villavicencio,bo BOL,MF,Indep Petrolero,18-286,2007,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+a62a4be8,Leonardo Viviani,Leonardo Viviani,bo BOL,FW,Aurora,18-205,2007,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+3e10021a,Diego Wayar,Diego Wayar,bo BOL,MF,Real Tomayapo,32-181,1993,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+942555a8,Jovani Welch,Jovani Welch,pa PAN,MF,The Strongest,26-118,1999,1,1,89,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+911d3312,Willie,Willie,br BRA,"FW,MF",Indep Petrolero,32-334,1993,2,1,102,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+05c3e4f3,Lider Yanarico,Lider Yanarico,bo BOL,DF,San Antonio Bulo Bulo,19-118,2006,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+57d29667,Fabio Zamora,Fabio Zamora,bo BOL,MF,ABB,20-150,2005,2,2,168,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2026
+600ad844,Carlos Abastoflor,Carlos Abastoflor,bo BOL,MF,Oriente Petrolero,22,2002,16,7,621,6.9,2,2,4,2,0,0,0,1,0.29,0.29,0.58,0.29,0.58,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6222983a,Freddy Abastoflor,Freddy Abastoflor,bo BOL,FW,ABB,32,1993,1,0,15,0.2,1,0,1,1,0,0,0,0,6.00,0.00,6.00,6.00,6.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+bc07974b,Matías Abisab,Matías Abisab,uy URU,MF,Blooming,31,1993,24,11,"1,122",12.5,0,3,3,0,0,0,4,1,0.00,0.24,0.24,0.00,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c6788cdd,J Abrego,J Abrego,bo BOL,FW,FC Universitario,21,2003,5,1,101,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d53776c0,Victor Abrego,Victor Abrego,bo BOL,FW,Nacional Potosí,27,1997,6,5,444,4.9,1,0,1,0,1,1,1,0,0.20,0.00,0.20,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+60457670,Neto Acará,Neto Acará,br BRA,FW,Guabirá,25,1999,14,6,715,7.9,4,0,4,4,0,0,2,0,0.50,0.00,0.50,0.50,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+849ca57a,Nahuel Acosta,Nahuel Acosta,uy URU,FW,Blooming,25,1999,7,7,528,5.9,3,3,6,3,0,0,1,0,0.51,0.51,1.02,0.51,1.02,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+cab3d28c,Moisés Acuña,Moisés Acuña,ve VEN,DF,Nacional Potosí,28,1996,4,4,360,4.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3f19c0eb,Ronald Acuña,Ronald Acuña,py PAR,FW,Oriente Petrolero,31,1993,10,4,403,4.5,2,0,2,2,0,0,0,1,0.45,0.00,0.45,0.45,0.45,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e4232b08,Sergio Adrián,Sergio Adrián,bo BOL,DF,Wilstermann,28,1996,6,3,323,3.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a6fa30a0,Fernando Aguilar,Fernando Aguilar,bo BOL,MF,Real Tomayapo,27,1997,14,10,783,8.7,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f92ce1c9,Daniel Aguilera,Daniel Aguilera,bo BOL,DF,Indep Petrolero,20,2004,23,18,"1,744",19.4,1,2,3,1,0,0,8,0,0.05,0.10,0.15,0.05,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ed2ea51f,Roberto Aguirre,Roberto Aguirre,bo BOL,,Always Ready,14,2010,1,0,3,0.0,0,1,1,0,0,0,0,0,0.00,30.00,30.00,0.00,30.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+cee8ec2a,David Akologo,David Akologo,bo BOL,GK,Aurora,27,1997,14,14,"1,255",13.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,11,11,26,2.38,7,985,4,4,0,0.0,0,,,,0,4,División de Fútbol Profesional,2025
+bb9441aa,Jenrry Alaca,Jenrry Alaca,bo BOL,FW,ABB,38,1986,10,10,793,8.8,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6fa3a035,Kevin Aladesanmi,Kevin Aladesanmi,co COL,FW,FC Universitario,26,1998,5,2,200,2.2,1,1,2,1,0,0,0,0,0.45,0.45,0.90,0.45,0.90,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9c7f7115,Martín Alaníz,Martín Alaníz,uy URU,MF,Blooming,31,1993,22,19,"1,814",20.2,5,10,15,4,1,1,3,0,0.25,0.50,0.74,0.20,0.69,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+18098d25,Misael Alcocer,Misael Alcocer,bo BOL,FW,Always Ready,20,2005,4,1,86,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+71e82e44,Paolo Alcocer,Paolo Alcocer,bo BOL,MF,FC Universitario,24,2000,2,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+772c461a,Albano Alessandrini,Albano Alessandrini,ar ARG,DF,Real Oruro,21,2004,18,15,"1,318",14.6,0,2,2,0,0,0,3,0,0.00,0.14,0.14,0.00,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+af887571,Luis Alfredo Vila,Luis Alfredo Vila,ar ARG,FW,Real Oruro,32,1992,9,2,285,3.2,3,0,3,3,0,0,0,0,0.95,0.00,0.95,0.95,0.95,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+2c76d257,José Alí Gutiérrez,José Alí Gutiérrez,bo BOL,MF,Real Oruro,19,2005,13,9,938,10.4,0,2,2,0,0,0,2,0,0.00,0.19,0.19,0.00,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3edb31fd,Luis Alí,Luis Alí,bo BOL,FW,Real Oruro,30,1994,23,14,"1,205",13.4,5,3,8,5,0,0,10,1,0.37,0.22,0.60,0.37,0.60,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d0d82cbe,Jose Alipaz,Jose Alipaz,bo BOL,FW,FC Universitario,22,2002,26,14,"1,338",14.9,1,2,3,1,0,0,0,0,0.07,0.13,0.20,0.07,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9707ecb4,Gustavo Almada,Gustavo Almada,bo BOL,GK,Blooming,30,1994,8,7,676,7.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,28.6,8,7,22,2.93,4,676,1,1,0,0.0,0,,,,0,3,División de Fútbol Profesional,2025
+66c498c1,Maximo Alonso,Maximo Alonso,uy URU,FW,San Antonio Bulo Bulo,22,2002,7,1,129,1.4,0,2,2,0,0,0,1,0,0.00,1.40,1.40,0.00,1.40,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6a216f82,Sebastián Altamirano,Sebastián Altamirano,bo BOL,DF,The Strongest,18,2006,26,24,"2,119",23.5,1,2,3,1,0,0,9,1,0.04,0.08,0.13,0.04,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+bcccfe93,Eduardo Álvarez,Eduardo Álvarez,bo BOL,DF,Real Oruro,21,2003,18,15,"1,286",14.3,0,0,0,0,0,0,2,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9e243bfd,Gilbert Álvarez,Gilbert Álvarez,bo BOL,FW,Oriente Petrolero,32,1992,15,15,"1,226",13.6,6,2,8,4,2,3,6,0,0.44,0.15,0.59,0.29,0.44,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5d3f6a2b,Sebastian Alvarez,Sebastian Alvarez,bo BOL,DF,Oriente Petrolero,23,2001,15,14,"1,305",14.5,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+184ea568,William Álvarez,William Álvarez,bo BOL,FW,Nacional Potosí,29,1995,28,19,"1,757",19.5,7,6,13,6,1,1,3,1,0.36,0.31,0.67,0.31,0.61,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+2d79c2e5,Rodrigo Amaral,Rodrigo Amaral,uy URU,FW,Oriente Petrolero,27,1997,12,6,574,6.4,1,1,2,1,0,0,5,0,0.16,0.16,0.31,0.16,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ca5160b4,Alfredo Amarilla,Alfredo Amarilla,py PAR,MF,Aurora,23,2001,24,21,"1,845",20.5,0,2,2,0,0,0,7,2,0.00,0.10,0.10,0.00,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+cafa853f,Nelson Amarilla,Nelson Amarilla,py PAR,DF,Nacional Potosí,37,1987,7,3,305,3.4,0,1,1,0,0,0,2,1,0.00,0.30,0.30,0.00,0.30,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4b5fff76,Joel Amoroso,Joel Amoroso,ar ARG,MF,The Strongest,37,1988,28,28,"2,423",26.9,6,19,25,5,1,2,3,0,0.22,0.71,0.93,0.19,0.89,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7dafeebf,Rubem Anagua,Rubem Anagua,,,Oriente Petrolero,,,3,0,71,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6adce332,Claudio Ancieta,Claudio Ancieta,bo BOL,FW,Wilstermann,21,2003,9,4,422,4.7,1,0,1,1,0,0,1,0,0.21,0.00,0.21,0.21,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c997824a,Federico Andrada,Federico Andrada,ar ARG,FW,GV San José,30,1994,12,8,605,6.7,5,1,6,5,0,0,2,0,0.74,0.15,0.89,0.74,0.89,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d43c4b3a,Tomás Andrade,Tomás Andrade,ar ARG,MF,Always Ready,28,1996,13,2,413,4.6,3,1,4,3,0,0,0,0,0.65,0.22,0.87,0.65,0.87,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ed2878d2,Tobías Andre Moriceau,Tobías Andre Moriceau,ar ARG,MF,The Strongest,27,1997,21,12,"1,014",11.3,1,1,2,1,0,0,7,0,0.09,0.09,0.18,0.09,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8e216fd6,Percy Añez,Percy Añez,bo BOL,MF,ABB,19,2005,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ae9fa8e3,Miguel Ángel Becerra,Miguel Ángel Becerra,bo BOL,DF,Blooming,31,1993,9,4,370,4.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c6549bd1,Miguel Ángel Torrén,Miguel Ángel Torrén,ar ARG,DF,Bolívar,36,1988,15,12,"1,052",11.7,0,0,0,0,0,0,7,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b44f9f2d,José Antonio Pinto,José Antonio Pinto,bo BOL,MF,FC Universitario,24,2000,19,13,"1,318",14.6,0,0,0,0,0,0,8,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+fd4b1c7a,Daniel Aponte,Daniel Aponte,bo BOL,DF,GV San José,20,2005,11,6,608,6.8,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9d51fbed,Cristian Árabe,Cristian Árabe,bo BOL,MF,Oriente Petrolero,33,1991,13,5,422,4.7,1,0,1,1,0,0,1,0,0.21,0.00,0.21,0.21,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c160307b,Alex Arancibia,Alex Arancibia,bo BOL,GK,Real Tomayapo,35,1990,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,6,6,12,2.00,4,540,1,1,0,0.0,0,,,,0,2,División de Fútbol Profesional,2025
+d982716f,Anthony Arandia,Anthony Arandia,bo BOL,FW,San Antonio Bulo Bulo,18,2006,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+63e31cb7,Brayan Aranibar,Brayan Aranibar,bo BOL,MF,Aurora,26,1998,8,2,233,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+51cb771a,Paul Arano,Paul Arano,bo BOL,MF,Guabirá,29,1995,9,4,408,4.5,0,1,1,0,0,0,1,0,0.00,0.22,0.22,0.00,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d975c3e1,Elder Arauz,Elder Arauz,bo BOL,GK,Indep Petrolero,34,1990,22,22,"1,923",21.4,0,1,1,0,0,0,0,0,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,4,18.2,22,22,30,1.40,7,"1,923",5,8,1,28.6,2,,,,3,12,División de Fútbol Profesional,2025
+7020b0d0,Germán Arauz,Germán Arauz,bo BOL,GK,Real Tomayapo,29,1995,24,24,"2,160",24.0,0,1,1,0,0,0,2,0,0.00,0.04,0.04,0.00,0.04,Matches,,,,,,,,5,20.8,24,24,41,1.71,9,"2,160",3,4,0,25.0,1,,,,8,7,División de Fútbol Profesional,2025
+ae3f6792,Jorge Araúz,Jorge Araúz,bo BOL,GK,Oriente Petrolero,29,1995,18,18,"1,620",18.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,11.1,18,18,34,1.89,7,"1,620",2,3,0,33.3,1,,,,5,6,División de Fútbol Profesional,2025
+dadb4a83,Jhojan Arce pari,Jhojan Arce pari,bo BOL,,Nacional Potosí,19,2006,26,24,"2,042",22.7,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e135053f,Santiago Arce,Santiago Arce,bo BOL,MF,San Antonio Bulo Bulo,24,2000,22,18,"1,545",17.2,0,1,1,0,0,0,9,0,0.00,0.06,0.06,0.00,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f4a02127,Raúl Ardaya,Raúl Ardaya,bo BOL,MF,ABB,26,1998,17,9,813,9.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ab892f78,Fernando Arismendi,Fernando Arismendi,uy URU,MF,GV San José,33,1991,29,25,"2,247",25.0,8,5,13,8,0,0,6,0,0.32,0.20,0.52,0.32,0.52,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b002fb0c,Fernando Arispe,Fernando Arispe,bo BOL,FW,Aurora,16,2008,1,1,70,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f5545c01,Jaime Arrascaita,Jaime Arrascaita,bo BOL,MF,The Strongest,31,1993,27,27,"2,350",26.1,10,2,12,6,4,4,12,1,0.38,0.08,0.46,0.23,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+661c4991,Abdiel Arroyo,Abdiel Arroyo,pa PAN,FW,ABB,31,1993,11,9,659,7.3,2,0,2,2,0,0,1,0,0.27,0.00,0.27,0.27,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6d1a7467,Nicolas Arteaga,Nicolas Arteaga,ar ARG,MF,Indep Petrolero,28,1996,6,0,86,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9112afa1,Rodrigo Asur Orihuela,Rodrigo Asur Orihuela,bo BOL,MF,ABB,21,2003,11,6,652,7.2,1,0,1,1,0,0,1,0,0.14,0.00,0.14,0.14,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+63869584,Renato Auza,Renato Auza,bo BOL,GK,ABB,28,1996,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,30.0,10,10,24,2.40,6,900,5,5,0,0.0,0,,,,2,2,División de Fútbol Profesional,2025
+8ede4586,Alcides Ávalos,Alcides Ávalos,py PAR,FW,San Antonio Bulo Bulo,20,2005,9,3,291,3.2,3,0,3,3,0,0,1,0,0.93,0.00,0.93,0.93,0.93,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0349a034,Rodrigo Ávila,Rodrigo Ávila,bo BOL,DF,Indep Petrolero,29,1995,22,17,"1,607",17.9,1,0,1,1,0,0,8,2,0.06,0.00,0.06,0.06,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+1ffa9bee,Mijail Aviles,Mijail Aviles,ve VEN,MF,Real Tomayapo,37,1987,25,21,"1,647",18.3,0,0,0,0,0,0,14,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+dd22cc1b,Abdiel Ayarza,Abdiel Ayarza,pa PAN,MF,The Strongest,32,1992,5,0,72,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+70668b8f,Anderson Ayhuana,Anderson Ayhuana,bo BOL,DF,Bolívar,19,2006,5,2,189,2.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+1c4136dc,Pedro Azogue,Pedro Azogue,bo BOL,"FW,MF",Nacional Potosí,30,1994,22,13,"1,091",12.1,2,1,3,2,0,0,5,0,0.16,0.08,0.25,0.16,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+71bdc77b,Yuto Baigorria,Yuto Baigorria,bo BOL,,Guabirá,18,2006,16,11,959,10.7,0,1,1,0,0,0,0,0,0.00,0.09,0.09,0.00,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7528700d,A Bailaba,A Bailaba,,,Oriente Petrolero,,,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+013fc9b2,Oscar Baldomar,Oscar Baldomar,bo BOL,DF,Nacional Potosí,28,1996,24,17,"1,531",17.0,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+918a67b8,Ramiro Ballivián,Ramiro Ballivián,bo BOL,DF,Aurora,32,1992,26,15,"1,515",16.8,1,0,1,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0b3f06cc,Luis Banegas,Luis Banegas,bo BOL,GK,The Strongest,39,1985,28,28,"2,479",27.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,6,21.4,28,28,46,1.67,8,"2,479",2,3,0,33.3,1,,,,1,19,División de Fútbol Profesional,2025
+698dc699,Juan Barba,Juan Barba,bo BOL,MF,ABB,21,2003,15,1,253,2.8,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+aee4ec62,Mario Barbery,Mario Barbery,bo BOL,FW,Real Tomayapo,22,2002,25,23,"1,727",19.2,8,1,9,8,0,0,4,0,0.42,0.05,0.47,0.42,0.47,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b4870c83,Alain Baroja,Alain Baroja,ve VEN,GK,Always Ready,35,1989,29,29,"2,610",29.0,1,0,1,0,1,1,1,0,0.03,0.00,0.03,0.00,0.00,Matches,,,,,,,,12,41.4,29,29,29,1.00,2,"2,610",3,4,0,25.0,1,,,,5,22,División de Fútbol Profesional,2025
+ee17ba2b,Joaquín Barro,Joaquín Barro,,DF,Guabirá,,,8,7,614,6.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7009e400,Alejandro Barrón,Alejandro Barrón,bo BOL,FW,Wilstermann,25,1999,16,11,916,10.2,1,2,3,1,0,0,0,1,0.10,0.20,0.29,0.10,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9cdd32a2,Juan Bartolomé,Juan Bartolomé,bo BOL,DF,Always Ready,27,1997,9,1,238,2.6,1,0,1,1,0,0,0,0,0.38,0.00,0.38,0.38,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+be1395da,Damián Batallini,Damián Batallini,ar ARG,"FW,MF",Bolívar,28,1996,9,8,495,5.5,1,0,1,1,0,0,3,1,0.18,0.00,0.18,0.18,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+87715149,Raúl Becerra,Raúl Becerra,ar ARG,FW,GV San José,37,1987,8,7,517,5.7,1,0,1,1,0,0,0,0,0.17,0.00,0.17,0.17,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+db478ee9,Alejandro Bejarano,Alejandro Bejarano,bo BOL,MF,ABB,40,1984,21,19,"1,570",17.4,1,3,4,0,1,1,5,0,0.06,0.17,0.23,0.00,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+dc1d7cc9,Diego Bejarano,Diego Bejarano,bo BOL,"DF,MF",Oriente Petrolero,33,1991,10,4,360,4.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+42b5494d,Joel Bejarano,Joel Bejarano,bo BOL,MF,GV San José,28,1996,15,14,"1,162",12.9,0,1,1,0,0,0,8,0,0.00,0.08,0.08,0.00,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+76f8e42d,Marvin Bejarano,Marvin Bejarano,bo BOL,DF,Real Tomayapo,36,1988,29,29,"2,609",29.0,1,2,3,1,0,0,0,0,0.03,0.07,0.10,0.03,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9bbbd723,Jose Berdecio,Jose Berdecio,bo BOL,MF,Oriente Petrolero,23,2002,21,11,971,10.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+205e5b36,José Berrios,José Berrios,,DF,Aurora,,,3,0,57,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a4370c6c,Abneet Bharti,Abneet Bharti,in IND,DF,ABB,26,1998,5,2,114,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d7661110,Oswaldo Blanco,Oswaldo Blanco,co COL,FW,San Antonio Bulo Bulo,33,1991,10,4,571,6.3,3,0,3,0,3,3,0,0,0.47,0.00,0.47,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d7661110,Oswaldo Blanco,Oswaldo Blanco,co COL,FW,San Antonio Bulo Bulo,33,1991,10,4,571,6.3,3,0,3,0,3,3,0,0,0.47,0.00,0.47,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d7661110,Oswaldo Blanco,Oswaldo Blanco,co COL,FW,Aurora,33,1991,14,4,568,6.3,3,0,3,1,2,3,1,0,0.48,0.00,0.48,0.16,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d7661110,Oswaldo Blanco,Oswaldo Blanco,co COL,FW,Aurora,33,1991,14,4,568,6.3,3,0,3,1,2,3,1,0,0.48,0.00,0.48,0.16,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9b003b2b,Héctor Bobadilla,Héctor Bobadilla,py PAR,FW,Wilstermann,23,2001,12,12,"1,080",12.0,6,0,6,4,2,2,4,0,0.50,0.00,0.50,0.33,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9b003b2b,Héctor Bobadilla,Héctor Bobadilla,py PAR,FW,Wilstermann,23,2001,12,12,"1,080",12.0,6,0,6,4,2,2,4,0,0.50,0.00,0.50,0.33,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9b003b2b,Héctor Bobadilla,Héctor Bobadilla,py PAR,FW,Always Ready,23,2001,15,13,"1,038",11.5,14,5,19,13,1,1,2,0,1.21,0.43,1.65,1.13,1.56,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9b003b2b,Héctor Bobadilla,Héctor Bobadilla,py PAR,FW,Always Ready,23,2001,15,13,"1,038",11.5,14,5,19,13,1,1,2,0,1.21,0.43,1.65,1.13,1.56,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+51d3832b,Johan Bocanegra,Johan Bocanegra,co COL,MF,Nacional Potosí,26,1998,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c2d4921e,Manuel Bonilla,Manuel Bonilla,bo BOL,DF,Oriente Petrolero,19,2005,7,3,357,4.0,0,1,1,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8609cb18,Alexis Bravo,Alexis Bravo,ar ARG,MF,Real Oruro,40,1984,13,3,463,5.1,4,4,8,4,0,1,1,0,0.78,0.78,1.56,0.78,1.56,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5af315ed,Ronald Bustos,Ronald Bustos,bo BOL,FW,GV San José,20,2004,3,2,154,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5af315ed,Ronald Bustos,Ronald Bustos,bo BOL,FW,GV San José,20,2004,3,2,154,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5af315ed,Ronald Bustos,Ronald Bustos,bo BOL,FW,The Strongest,20,2004,2,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5af315ed,Ronald Bustos,Ronald Bustos,bo BOL,FW,The Strongest,20,2004,2,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8019644f,Heiden Butron,Heiden Butron,bo BOL,DF,Bolívar,18,2006,2,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+061f1eed,Bryan Cabezas,Bryan Cabezas,ec ECU,MF,FC Universitario,27,1997,10,0,202,2.2,0,1,1,0,0,0,1,0,0.00,0.45,0.45,0.00,0.45,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+de31e1f9,Mauricio Cabral,Mauricio Cabral,bo BOL,FW,Blooming,24,2000,16,8,735,8.2,0,1,1,0,0,0,1,1,0.00,0.12,0.12,0.00,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+83baf4d3,Abraham Cabrera,Abraham Cabrera,bo BOL,DF,GV San José,33,1991,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+2f2b4efa,Diego Cabrera,Diego Cabrera,bo BOL,MF,Oriente Petrolero,20,2005,8,3,285,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+15dbb0c6,Nicolas Cabrera,Nicolas Cabrera,bo BOL,,Always Ready,15,2009,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7dd9a019,Alex Cáceres,Alex Cáceres,py PAR,"FW,MF",Wilstermann,28,1996,25,25,"2,202",24.5,9,2,11,6,3,3,6,1,0.37,0.08,0.45,0.25,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ae5556f2,Giovanni Cadore,Giovanni Cadore,bo BOL,FW,Blooming,18,2006,7,3,320,3.6,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a01f790d,Maximiliano Caire,Maximiliano Caire,ar ARG,DF,Oriente Petrolero,36,1988,9,7,659,7.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4bf6c47a,Brayan Calderón,Brayan Calderón,bo BOL,MF,FC Universitario,26,1998,7,5,409,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f205555c,Moisés Calero,Moisés Calero,bo BOL,MF,GV San José,26,1998,11,5,399,4.4,0,1,1,0,0,0,0,0,0.00,0.23,0.23,0.00,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5b2c8e04,Joel Calicho,Joel Calicho,bo BOL,MF,FC Universitario,29,1995,22,20,"1,571",17.5,3,3,6,3,0,0,9,3,0.17,0.17,0.34,0.17,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+00932553,Diego Callau,Diego Callau,,,FC Universitario,,,3,1,117,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9eb82092,Yamil Calle,Yamil Calle,bo BOL,DF,Real Oruro,19,2005,3,1,101,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5d1b980f,Alejandro Camacho,Alejandro Camacho,bo BOL,MF,Always Ready,16,2008,3,1,99,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+62bcae83,Daniel Camacho,Daniel Camacho,bo BOL,MF,FC Universitario,26,1998,25,25,"1,933",21.5,5,1,6,2,3,3,8,1,0.23,0.05,0.28,0.09,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+33a81304,Erick Cano,Erick Cano,bo BOL,MF,FC Universitario,25,1999,7,3,205,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b5354c19,Gustavo Canto,Gustavo Canto,ar ARG,DF,Always Ready,30,1994,8,8,540,6.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+335f0945,Elian Carabalí,Elian Carabalí,ec ECU,MF,Real Tomayapo,24,2000,4,0,127,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+bdcbb149,Juvenal Caraballo,Juvenal Caraballo,,,Oriente Petrolero,,,6,4,362,4.0,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4ca04d3a,Luis Cárdenas,Luis Cárdenas,bo BOL,GK,Oriente Petrolero,33,1991,9,9,810,9.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,14.3,7,7,12,1.71,3,630,3,3,0,0.0,0,,,,3,1,División de Fútbol Profesional,2025
+4ca04d3a,Luis Cárdenas,Luis Cárdenas,bo BOL,GK,Oriente Petrolero,33,1991,9,9,810,9.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,22.2,9,9,17,1.89,6,810,2,2,0,0.0,0,,,,0,3,División de Fútbol Profesional,2025
+4ca04d3a,Luis Cárdenas,Luis Cárdenas,bo BOL,GK,Oriente Petrolero,33,1991,9,9,810,9.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,14.3,7,7,12,1.71,3,630,3,3,0,0.0,0,,,,3,1,División de Fútbol Profesional,2025
+4ca04d3a,Luis Cárdenas,Luis Cárdenas,bo BOL,GK,Oriente Petrolero,33,1991,9,9,810,9.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,22.2,9,9,17,1.89,6,810,2,2,0,0.0,0,,,,0,3,División de Fútbol Profesional,2025
+4ca04d3a,Luis Cárdenas,Luis Cárdenas,bo BOL,GK,Aurora,33,1991,9,9,810,9.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,14.3,7,7,12,1.71,3,630,3,3,0,0.0,0,,,,3,1,División de Fútbol Profesional,2025
+4ca04d3a,Luis Cárdenas,Luis Cárdenas,bo BOL,GK,Aurora,33,1991,9,9,810,9.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,22.2,9,9,17,1.89,6,810,2,2,0,0.0,0,,,,0,3,División de Fútbol Profesional,2025
+4ca04d3a,Luis Cárdenas,Luis Cárdenas,bo BOL,GK,Aurora,33,1991,9,9,810,9.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,14.3,7,7,12,1.71,3,630,3,3,0,0.0,0,,,,3,1,División de Fútbol Profesional,2025
+4ca04d3a,Luis Cárdenas,Luis Cárdenas,bo BOL,GK,Aurora,33,1991,9,9,810,9.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,22.2,9,9,17,1.89,6,810,2,2,0,0.0,0,,,,0,3,División de Fútbol Profesional,2025
+a6aebf60,Rudy Cardozo,Rudy Cardozo,bo BOL,MF,Indep Petrolero,34,1990,28,23,"2,057",22.9,3,8,11,3,0,0,2,2,0.13,0.35,0.48,0.13,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e20ffa69,Juan Carlos Montenegro,Juan Carlos Montenegro,bo BOL,FW,San Antonio Bulo Bulo,27,1997,13,9,717,8.0,1,4,5,1,0,0,2,0,0.13,0.50,0.63,0.13,0.63,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+26cd2a51,Juan Carlos Parada,Juan Carlos Parada,bo BOL,MF,Guabirá,28,1996,10,4,470,5.2,1,0,1,1,0,0,3,0,0.19,0.00,0.19,0.19,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e4d48911,Luis Carlos Rodríguez,Luis Carlos Rodríguez,bo BOL,DF,Wilstermann,22,2002,28,24,"1,999",22.2,1,1,2,1,0,0,5,0,0.05,0.05,0.09,0.05,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+11cd304f,Lucas Casavieja,Lucas Casavieja,uy URU,FW,Guabirá,25,1999,6,0,125,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8ef65ffd,José Castedo,José Castedo,bo BOL,DF,Real Oruro,19,2005,6,3,233,2.6,1,0,1,1,0,0,1,0,0.39,0.00,0.39,0.39,0.39,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+1fd6ad85,Daniel Castellón,Daniel Castellón,bo BOL,DF,Indep Petrolero,28,1996,11,6,629,7.0,0,0,0,0,0,0,1,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b0d11874,Gonzalo Castillo,Gonzalo Castillo,uy URU,DF,Wilstermann,34,1990,27,27,"2,395",26.6,1,0,1,1,0,0,9,1,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3ab333c6,Josué Castillo,Josué Castillo,bo BOL,MF,Real Tomayapo,20,2004,17,7,782,8.7,0,1,1,0,0,0,4,1,0.00,0.12,0.12,0.00,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8caf1cc3,Felipe Castro,Felipe Castro,br BRA,MF,The Strongest,29,1995,5,2,227,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e5b3efd1,Raúl Castro,Raúl Castro,bo BOL,MF,FC Universitario,35,1989,27,27,"2,302",25.6,2,3,5,2,0,0,9,2,0.08,0.12,0.20,0.08,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3c061eea,Daniel Cataño,Daniel Cataño,co COL,MF,Bolívar,33,1992,10,6,511,5.7,2,3,5,2,0,0,2,1,0.35,0.53,0.88,0.35,0.88,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6e7d7a7a,Martín Cauteruccio,Martín Cauteruccio,uy URU,FW,Bolívar,37,1987,15,10,865,9.6,8,3,11,8,0,1,1,0,0.83,0.31,1.14,0.83,1.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+264ffe7c,Kevin Ceceri,Kevin Ceceri,ar ARG,DF,GV San José,28,1996,14,12,"1,159",12.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6e78908c,Guilmar Centella,Guilmar Centella,bo BOL,MF,Blooming,19,2005,19,9,985,10.9,0,3,3,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+fac896b0,Ricardo Centurión,Ricardo Centurión,ar ARG,"FW,MF",Oriente Petrolero,32,1993,19,11,"1,028",11.4,5,2,7,2,3,4,6,0,0.44,0.18,0.61,0.18,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8d4ce233,Mixael Ceron,Mixael Ceron,bo BOL,DF,Bolívar,16,2008,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+1cf42a40,Alejandro Cervantes,Alejandro Cervantes,bo BOL,FW,ABB,21,2003,18,7,704,7.8,2,1,3,1,1,2,0,0,0.26,0.13,0.38,0.13,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a88c6070,Pablo César Luján,Pablo César Luján,bo BOL,MF,FC Universitario,21,2003,21,4,637,7.1,0,1,1,0,0,0,0,0,0.00,0.14,0.14,0.00,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+cbebc573,Lázaro Céspedes,Lázaro Céspedes,,DF,Real Tomayapo,,,1,0,36,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e8ec0312,Mauricio Chajtur,Mauricio Chajtur,bo BOL,MF,Indep Petrolero,28,1996,18,4,473,5.3,1,0,1,1,0,0,4,0,0.19,0.00,0.19,0.19,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+44c8a9a2,Walter Chalá,Walter Chalá,ec ECU,"FW,MF",Oriente Petrolero,32,1992,23,11,"1,060",11.8,5,1,6,5,0,0,2,1,0.42,0.08,0.51,0.42,0.51,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3e3ee8f7,Andrés Chávez,Andrés Chávez,ar ARG,"FW,MF",The Strongest,33,1991,11,4,420,4.7,3,3,6,3,0,0,3,1,0.64,0.64,1.29,0.64,1.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+62966f56,Luis Chávez,Luis Chávez,bo BOL,MF,Blooming,18,2006,15,8,684,7.6,1,3,4,1,0,0,1,0,0.13,0.39,0.53,0.13,0.53,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b04d4118,Sebastian Chavez,Sebastian Chavez,bo BOL,MF,FC Universitario,15,2009,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+616ce35f,Thiago Chavez,Thiago Chavez,bo BOL,MF,Guabirá,17,2007,10,3,284,3.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3de9cd2d,Martín Chiatti,Martín Chiatti,ar ARG,DF,The Strongest,32,1992,18,13,"1,149",12.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+de3ef248,Denilson Choque,Denilson Choque,bo BOL,DF,ABB,26,1998,16,12,"1,138",12.6,0,0,0,0,0,0,2,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b754291f,Jareth Choquetanga,Jareth Choquetanga,bo BOL,MF,Real Tomayapo,19,2005,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e39b775e,Alejandro Chumacero,Alejandro Chumacero,bo BOL,MF,Wilstermann,33,1991,21,20,"1,814",20.2,0,4,4,0,0,0,6,1,0.00,0.20,0.20,0.00,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0357679d,Jeyson Chura,Jeyson Chura,bo BOL,MF,The Strongest,22,2002,14,7,659,7.3,5,4,9,5,0,0,1,0,0.68,0.55,1.23,0.68,1.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7ba781ba,Carlos Collazo,Carlos Collazo,bo BOL,FW,Always Ready,15,2009,1,1,64,0.7,1,0,1,1,0,0,0,0,1.41,0.00,1.41,1.41,1.41,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ff66ae61,Esteban Condori,Esteban Condori,,FW,ABB,,,4,2,145,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+abdc880b,Rubén Cordano,Rubén Cordano,bo BOL,GK,Bolívar,26,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,33.3,3,3,4,1.33,1,270,0,0,0,,0,,,,0,2,División de Fútbol Profesional,2025
+1569aeb7,Andrés Córdoba,Andrés Córdoba,co COL,FW,Real Tomayapo,27,1997,14,4,477,5.3,2,2,4,2,0,0,1,0,0.38,0.38,0.75,0.38,0.75,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+09f08a7b,Rafael Corrales,Rafael Corrales,,DF,Wilstermann,,,17,15,"1,356",15.1,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f800db94,Leandro Corulo,Leandro Corulo,ar ARG,DF,Real Tomayapo,35,1989,29,29,"2,597",28.9,8,1,9,1,7,7,8,0,0.28,0.03,0.31,0.03,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+505c5f1a,Gustavo Cristaldo,Gustavo Cristaldo,py PAR,MF,Indep Petrolero,35,1989,27,24,"1,769",19.7,4,4,8,4,0,0,0,1,0.20,0.20,0.41,0.20,0.41,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c4dbd5b8,Jonatan Cristaldo,Jonatan Cristaldo,ar ARG,FW,Oriente Petrolero,35,1989,17,9,799,8.9,6,0,6,4,2,3,1,0,0.68,0.00,0.68,0.45,0.45,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a1d4fca1,Mario Cuadiay,Mario Cuadiay,bo BOL,MF,FC Universitario,18,2006,1,1,52,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5647558f,Guilder Cuellar,Guilder Cuellar,bo BOL,MF,FC Universitario,25,1999,25,19,"1,691",18.8,3,2,5,3,0,0,3,0,0.16,0.11,0.27,0.16,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+44aa5f6e,Héctor Cuellar,Héctor Cuellar,bo BOL,MF,Always Ready,24,2000,28,28,"2,520",28.0,5,3,8,5,0,0,4,0,0.18,0.11,0.29,0.18,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+dcd25514,Juan Cuellar,Juan Cuellar,bo BOL,MF,FC Universitario,18,2006,28,28,"2,451",27.2,2,2,4,2,0,0,6,1,0.07,0.07,0.15,0.07,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ecc7746f,Matias Cuellar,Matias Cuellar,bo BOL,DF,Always Ready,15,2009,1,0,45,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c5ef15dd,Ronald Cuéllar,Ronald Cuéllar,bo BOL,DF,Real Oruro,27,1997,15,5,525,5.8,2,1,3,2,0,0,3,1,0.34,0.17,0.51,0.34,0.51,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+231c1648,Victor Cuellar,Victor Cuellar,bo BOL,MF,Oriente Petrolero,24,2000,16,9,767,8.5,1,0,1,1,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+1609ff9c,Alvaro Cuestas,Alvaro Cuestas,bo BOL,DF,FC Universitario,29,1995,2,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+86d0a6a4,Santiago Cuestas,Santiago Cuestas,,,Always Ready,,,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+51cb39ca,Santiago Cuiza,Santiago Cuiza,bo BOL,DF,Real Tomayapo,19,2005,21,19,"1,785",19.8,6,3,9,6,0,0,2,0,0.30,0.15,0.45,0.30,0.45,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5cb07820,Dener Da Silva,Dener Da Silva,bo BOL,FW,Guabirá,19,2005,15,13,"1,174",13.0,2,0,2,2,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+95dc9cea,Alan Niño De Guzman,Alan Niño De Guzman,bo BOL,DF,Oriente Petrolero,18,2006,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+958e0fc7,Marcelo De Lima Castro,Marcelo De Lima Castro,bo BOL,DF,San Antonio Bulo Bulo,19,2005,17,8,880,9.8,2,2,4,2,0,0,3,0,0.20,0.20,0.41,0.20,0.41,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+46c1524c,Matías Delgadillo,Matías Delgadillo,bo BOL,DF,Wilstermann,19,2005,3,0,56,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d4863921,Santiago Delgadillo,Santiago Delgadillo,bo BOL,GK,Always Ready,20,2004,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,5,5.00,1,90,0,0,0,,0,,,,0,0,División de Fútbol Profesional,2025
+bc046c6d,Luis Demiquel,Luis Demiquel,bo BOL,DF,Nacional Potosí,25,2000,20,19,"1,666",18.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+cea63abf,Hugo Denar Salvatierra,Hugo Denar Salvatierra,bo BOL,MF,Real Oruro,22,2003,4,2,171,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3dacd511,Diego Diellos,Diego Diellos,ar ARG,FW,Nacional Potosí,31,1993,6,3,234,2.6,1,0,1,1,0,0,0,0,0.38,0.00,0.38,0.38,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+2417ef57,Roberto Diez,Roberto Diez,bo BOL,DF,Oriente Petrolero,20,2004,14,13,"1,052",11.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+772e88b5,Denilson Durán,Denilson Durán,bo BOL,DF,Blooming,21,2003,26,24,"1,922",21.4,2,0,2,2,0,0,8,1,0.09,0.00,0.09,0.09,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+92996242,Santiago Echeverría,Santiago Echeverría,ar ARG,DF,Bolívar,34,1990,11,9,786,8.7,1,0,1,1,0,0,1,2,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+92996242,Santiago Echeverría,Santiago Echeverría,ar ARG,DF,Bolívar,34,1990,11,9,786,8.7,1,0,1,1,0,0,1,2,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+92996242,Santiago Echeverría,Santiago Echeverría,ar ARG,DF,Nacional Potosí,34,1990,9,9,810,9.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+92996242,Santiago Echeverría,Santiago Echeverría,ar ARG,DF,Nacional Potosí,34,1990,9,9,810,9.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+17d7fbfa,Jorge Eduardo Lovera,Jorge Eduardo Lovera,bo BOL,MF,The Strongest,27,1997,11,6,497,5.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+19435e5d,Ramiro Eguez,Ramiro Eguez,bo BOL,MF,Blooming,20,2004,4,0,33,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b4d3c56e,Cristian Enciso,Cristian Enciso,py PAR,DF,Aurora,33,1991,10,10,889,9.9,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+39f9949f,Marc Enoumba,Marc Enoumba,bo BOL,FW,Blooming,31,1993,22,20,"1,733",19.3,3,0,3,3,0,0,8,2,0.16,0.00,0.16,0.16,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0a0e5d44,Carlos Enrique Áñez,Carlos Enrique Áñez,bo BOL,DF,Guabirá,29,1995,25,25,"2,075",23.1,5,3,8,5,0,1,6,0,0.22,0.13,0.35,0.22,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0c3f8ac2,Bladimir Escalante,Bladimir Escalante,bo BOL,MF,Blooming,16,2008,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7a51c8cc,Miguel Escobar,Miguel Escobar,ar ARG,MF,GV San José,29,1995,6,0,166,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+87a021b0,Roland Escobar,Roland Escobar,py PAR,FW,Aurora,23,2001,7,5,448,5.0,3,1,4,3,0,0,1,0,0.60,0.20,0.80,0.60,0.80,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d53a724d,Josue Espejo,Josue Espejo,,,Always Ready,,,1,1,45,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+1614ba52,Yerson Espíndola,Yerson Espíndola,bo BOL,MF,Real Tomayapo,17,2007,7,3,282,3.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3e3175a8,Bryan Espinoza,Bryan Espinoza,bo BOL,FW,ABB,22,2003,10,8,680,7.6,2,0,2,2,0,0,2,0,0.26,0.00,0.26,0.26,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+18b577ca,Pedro Espíritu,Pedro Espíritu,,MF,The Strongest,,,4,2,160,1.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ceca5969,Santiago Etchebarne,Santiago Etchebarne,uy URU,DF,Blooming,30,1994,17,16,"1,277",14.2,1,0,1,1,0,0,4,1,0.07,0.00,0.07,0.07,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+553f9c82,Fabinho,Fabinho,br BRA,MF,Aurora,29,1995,1,0,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+30f90535,Fábio,Fábio,br BRA,FW,Bolívar,27,1997,11,9,781,8.7,6,3,9,6,0,1,0,0,0.69,0.35,1.04,0.69,1.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c0116ce2,Felipe,Felipe,es ESP,DF,GV San José,22,2002,5,4,399,4.4,0,1,1,0,0,0,3,0,0.00,0.23,0.23,0.00,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a387563a,Adriel Fernández,Adriel Fernández,bo BOL,MF,San Antonio Bulo Bulo,28,1996,7,5,351,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a387563a,Adriel Fernández,Adriel Fernández,bo BOL,MF,San Antonio Bulo Bulo,28,1996,7,5,351,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a387563a,Adriel Fernández,Adriel Fernández,bo BOL,MF,Aurora,28,1996,16,13,933,10.4,2,2,4,1,1,1,0,0,0.19,0.19,0.39,0.10,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a387563a,Adriel Fernández,Adriel Fernández,bo BOL,MF,Aurora,28,1996,16,13,933,10.4,2,2,4,1,1,1,0,0,0.19,0.19,0.39,0.10,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4b111056,Brayan Fernández,Brayan Fernández,co COL,FW,Real Tomayapo,33,1992,10,6,581,6.5,1,1,2,1,0,0,4,1,0.15,0.15,0.31,0.15,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+cfb2a9f6,Denilso Fernandez,Denilso Fernandez,bo BOL,MF,Real Oruro,22,2002,12,4,527,5.9,7,0,7,7,0,0,2,0,1.20,0.00,1.20,1.20,1.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8b80cad6,Leo Aaron Petter Andersen Fernandez,Leo Aaron Petter Andersen Fernandez,bo BOL,,Wilstermann,18,2006,7,2,211,2.3,1,0,1,1,0,0,4,2,0.43,0.00,0.43,0.43,0.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+27e273d2,Mateo Ferreira,Mateo Ferreira,bo BOL,MF,Blooming,18,2006,1,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+df3f8dd7,Sergio Ferreira,Sergio Ferreira,bo BOL,FW,Aurora,21,2003,6,1,142,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0a841e9c,Manuel Ferrel,Manuel Ferrel,bo BOL,GK,Guabirá,23,2001,10,8,780,8.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,12.5,10,8,26,3.00,5,780,3,4,0,25.0,1,,,,1,2,División de Fútbol Profesional,2025
+be203bd6,Roler Ferrufino,Roler Ferrufino,bo BOL,FW,Always Ready,24,2000,18,4,614,6.8,4,3,7,4,0,0,1,0,0.59,0.44,1.03,0.59,1.03,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f5ae1d36,Layonel Figueroa,Layonel Figueroa,bo BOL,MF,Real Tomayapo,25,1999,7,1,197,2.2,2,0,2,2,0,0,0,0,0.91,0.00,0.91,0.91,0.91,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ba94063c,Ariel Flores,Ariel Flores,bo BOL,GK,Aurora,20,2004,9,2,345,3.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+72f698f2,Edward Fabrício Zenteno Flores,Edward Fabrício Zenteno Flores,bo BOL,,Wilstermann,17,2007,2,1,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+73fdbfcf,Enrique Flores,Enrique Flores,bo BOL,DF,San Antonio Bulo Bulo,30,1994,25,19,"1,830",20.3,0,5,5,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e579ac48,Mateo Flores,Mateo Flores,bo BOL,MF,ABB,24,2001,4,0,93,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c0ac473b,Escleizon Freita,Escleizon Freita,bo BOL,DF,Bolívar,18,2007,27,20,"1,798",20.0,1,3,4,1,0,0,6,0,0.05,0.15,0.20,0.05,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+96bdf262,Juan Gabriel Valverde,Juan Gabriel Valverde,bo BOL,DF,Blooming,34,1990,28,20,"1,860",20.7,2,1,3,2,0,0,10,0,0.10,0.05,0.15,0.10,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d79ee87c,Lucas Galarza,Lucas Galarza,py PAR,GK,ABB,24,2000,10,10,900,10.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,40.0,10,10,12,1.20,3,900,0,0,0,,0,,,,4,3,División de Fútbol Profesional,2025
+bc6c2b17,Matias Galindo,Matias Galindo,bo BOL,MF,ABB,18,2006,28,22,"1,868",20.8,1,1,2,1,0,0,4,0,0.05,0.05,0.10,0.05,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+31c57582,Pedro Galindo,Pedro Galindo,bo BOL,GK,Nacional Potosí,30,1994,15,15,"1,350",15.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,5,33.3,15,15,18,1.20,4,"1,350",1,3,0,66.7,2,,,,2,9,División de Fútbol Profesional,2025
+30cf013d,Samuel Galindo,Samuel Galindo,bo BOL,MF,GV San José,32,1992,25,19,"1,714",19.0,3,6,9,2,1,1,7,0,0.16,0.32,0.47,0.11,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0c0497ae,Sebastián Galindo,Sebastián Galindo,bo BOL,MF,ABB,24,2000,11,8,765,8.5,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6f28b20c,Vladimir Gálvez,Vladimir Gálvez,bo BOL,MF,Oriente Petrolero,18,2006,13,13,"1,143",12.7,0,2,2,0,0,0,3,0,0.00,0.16,0.16,0.00,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+dc489c52,Alfredo García,Alfredo García,bo BOL,FW,Nacional Potosí,22,2002,13,1,252,2.8,2,1,3,2,0,0,1,0,0.71,0.36,1.07,0.71,1.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c6da992e,Jhon García,Jhon García,bo BOL,MF,The Strongest,24,2000,30,24,"2,001",22.2,11,4,15,11,0,0,2,0,0.49,0.18,0.67,0.49,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d48edda3,Ignacio Gariglio,Ignacio Gariglio,ar ARG,DF,Bolívar,26,1998,5,4,344,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+70e51a15,Samuel Garzón,Samuel Garzón,bo BOL,FW,Blooming,25,1999,11,5,530,5.9,4,0,4,4,0,0,1,0,0.68,0.00,0.68,0.68,0.68,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+763c1832,Francisco Gatti,Francisco Gatti,ar ARG,MF,Guabirá,30,1994,6,4,322,3.6,1,1,2,1,0,0,2,0,0.28,0.28,0.56,0.28,0.56,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+763c1832,Francisco Gatti,Francisco Gatti,ar ARG,MF,Guabirá,30,1994,6,4,322,3.6,1,1,2,1,0,0,2,0,0.28,0.28,0.56,0.28,0.56,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+763c1832,Francisco Gatti,Francisco Gatti,ar ARG,MF,Real Tomayapo,30,1994,13,9,786,8.7,2,1,3,2,0,0,5,1,0.23,0.11,0.34,0.23,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+763c1832,Francisco Gatti,Francisco Gatti,ar ARG,MF,Real Tomayapo,30,1994,13,9,786,8.7,2,1,3,2,0,0,5,1,0.23,0.11,0.34,0.23,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+408fff4e,Tomson Geraldy Minda,Tomson Geraldy Minda,ec ECU,MF,Real Tomayapo,24,2000,8,5,419,4.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b80490a8,Fabio Gil,Fabio Gil,,,Real Oruro,,,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+33878ea4,Sergio Gil,Sergio Gil,bo BOL,DF,Guabirá,27,1997,21,18,"1,548",17.2,1,2,3,1,0,0,3,0,0.06,0.12,0.17,0.06,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0a4dec5d,Arnaldo Giménez,Arnaldo Giménez,py PAR,GK,Wilstermann,37,1987,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,3,3,8,2.67,3,270,1,1,0,0.0,0,,,,0,0,División de Fútbol Profesional,2025
+cd624f05,Diago Giménez,Diago Giménez,ar ARG,MF,FC Universitario,27,1997,23,23,"1,844",20.5,1,0,1,0,1,1,6,2,0.05,0.00,0.05,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b95ddcde,Luca Giossa,Luca Giossa,uy URU,GK,San Antonio Bulo Bulo,24,2000,12,12,995,11.1,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,33.3,12,12,15,1.36,4,995,1,2,1,0.0,0,,,,1,7,División de Fútbol Profesional,2025
+aae6b2e4,Juan Godoy,Juan Godoy,bo BOL,MF,The Strongest,31,1993,25,16,"1,490",16.6,11,1,12,11,0,0,7,0,0.66,0.06,0.72,0.66,0.72,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ce3960d8,Raúl Gómez,Raúl Gómez,bo BOL,DF,Real Oruro,18,2006,19,15,"1,200",13.3,0,0,0,0,0,0,9,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5bc45d78,Richet Gómez,Richet Gómez,bo BOL,DF,Blooming,26,1998,17,16,"1,314",14.6,3,0,3,3,0,0,7,1,0.21,0.00,0.21,0.21,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+33ad35b9,Franz Gonzáles,Franz Gonzáles,bo BOL,MF,Oriente Petrolero,24,2000,11,9,739,8.2,1,1,2,1,0,0,4,1,0.12,0.12,0.24,0.12,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f71ff38d,Juan Gonzáles,Juan Gonzáles,bo BOL,MF,Blooming,18,2006,14,9,734,8.2,0,2,2,0,0,0,3,1,0.00,0.25,0.25,0.00,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+288901de,Marcelo Gonzales,Marcelo Gonzales,bo BOL,MF,Aurora,19,2005,14,14,"1,023",11.4,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+bf2ac20f,Jasond González,Jasond González,co COL,FW,Always Ready,25,1999,13,12,990,11.0,11,1,12,11,0,0,2,0,1.00,0.09,1.09,1.00,1.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+92e6fd9c,Pablo Grass,Pablo Grass,bo BOL,DF,Indep Petrolero,19,2005,3,1,80,0.9,0,1,1,0,0,0,1,0,0.00,1.13,1.13,0.00,1.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7f7bc312,Javier Guerra,Javier Guerra,bo BOL,DF,Nacional Potosí,20,2004,6,4,382,4.2,1,0,1,1,0,0,2,0,0.24,0.00,0.24,0.24,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+fb874483,Saulo Guerra,Saulo Guerra,bo BOL,MF,Nacional Potosí,32,1992,25,16,"1,224",13.6,4,5,9,3,1,1,6,1,0.29,0.37,0.66,0.22,0.59,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3262ff62,Sebastián Guerrero,Sebastián Guerrero,uy URU,FW,The Strongest,24,2000,5,3,226,2.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9c8b5084,Adriel Guillermo,Adriel Guillermo,bo BOL,,Wilstermann,16,2008,8,5,467,5.2,0,1,1,0,0,0,2,0,0.00,0.19,0.19,0.00,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9d526c5a,Andrés Guillermo,Andrés Guillermo,bo BOL,MF,Wilstermann,18,2006,12,7,553,6.1,1,0,1,1,0,0,2,0,0.16,0.00,0.16,0.16,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c9886af7,Agustin Gutierrez,Agustin Gutierrez,bo BOL,FW,Nacional Potosí,19,2005,5,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5745e13b,Johan Gutiérrez,Johan Gutiérrez,bo BOL,GK,FC Universitario,28,1996,14,14,"1,196",13.3,0,1,1,0,0,0,2,0,0.00,0.08,0.08,0.00,0.08,Matches,,,,,,,,1,7.1,14,14,34,2.56,9,"1,196",3,4,1,0.0,0,,,,4,1,División de Fútbol Profesional,2025
+eb266223,José Gutiérrez,José Gutiérrez,us USA,MF,Blooming,20,2004,1,1,51,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+cf40d316,Limberg Gutiérrez Jr.,Limberg Gutiérrez Jr.,bo BOL,MF,Real Tomayapo,26,1998,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6598571f,Kevin Gutiérrez,Kevin Gutiérrez,bo BOL,FW,San Antonio Bulo Bulo,17,2007,19,15,"1,309",14.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ee46a9a1,Yerson Gutiérrez,Yerson Gutiérrez,co COL,FW,ABB,31,1994,1,0,6,0.1,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f2d498ea,Alaín Niño de Guzmán,Alaín Niño de Guzmán,bo BOL,MF,Oriente Petrolero,22,2003,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a27cb66c,Hugo Guzmán Vaca,Hugo Guzmán Vaca,bo BOL,FW,The Strongest,19,2005,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+fbd6e76a,Paulo Henrique,Paulo Henrique,br BRA,FW,ABB,33,1991,9,3,415,4.6,0,1,1,0,0,0,3,0,0.00,0.22,0.22,0.00,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f5970329,Mateo Hernández,Mateo Hernández,ar ARG,MF,Real Tomayapo,26,1998,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+2d10c915,José Herrera,José Herrera,bo BOL,FW,Always Ready,21,2003,17,7,773,8.6,1,0,1,1,0,0,1,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+bfebbc6a,Julio Herrera,Julio Herrera,bo BOL,FW,San Antonio Bulo Bulo,25,1999,25,16,"1,402",15.6,3,4,7,0,3,3,5,0,0.19,0.26,0.45,0.00,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8407af66,Diego Hoyos,Diego Hoyos,bo BOL,MF,Nacional Potosí,32,1992,21,19,"1,447",16.1,2,2,4,2,0,0,8,1,0.12,0.12,0.25,0.12,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f5e73636,Ivan Huayhuata,Ivan Huayhuata,bo BOL,DF,San Antonio Bulo Bulo,35,1989,6,5,291,3.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f5e73636,Ivan Huayhuata,Ivan Huayhuata,bo BOL,DF,San Antonio Bulo Bulo,35,1989,6,5,291,3.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f5e73636,Ivan Huayhuata,Ivan Huayhuata,bo BOL,DF,Aurora,35,1989,13,9,715,7.9,3,0,3,1,2,3,2,1,0.38,0.00,0.38,0.13,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f5e73636,Ivan Huayhuata,Ivan Huayhuata,bo BOL,DF,Aurora,35,1989,13,9,715,7.9,3,0,3,1,2,3,2,1,0.38,0.00,0.38,0.13,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e0787393,Víctor Hugo Melgar,Víctor Hugo Melgar,bo BOL,MF,Real Oruro,36,1988,10,7,603,6.7,0,1,1,0,0,0,6,1,0.00,0.15,0.15,0.00,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+40404557,Ronaldo Hunacota,Ronaldo Hunacota,,GK,Real Oruro,,,24,23,"2,108",23.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,13.0,24,23,46,1.96,10,"2,108",4,4,0,0.0,0,,,,6,7,División de Fútbol Profesional,2025
+c0514ef3,Luis Hurtado,Luis Hurtado,bo BOL,FW,Guabirá,31,1993,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3bd07c88,Sebastián Ibáñez,Sebastián Ibáñez,bo BOL,MF,Guabirá,19,2005,2,1,60,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c6e65902,Jhon Jairo Cuéllar,Jhon Jairo Cuéllar,bo BOL,GK,Guabirá,25,1999,22,22,"1,920",21.3,0,1,1,0,0,0,5,0,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,5,22.7,22,22,37,1.73,8,"1,920",4,5,1,0.0,0,,,,3,11,División de Fútbol Profesional,2025
+a1177a43,Jhon Jairo Velasco,Jhon Jairo Velasco,bo BOL,DF,Guabirá,20,2004,7,5,452,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a1177a43,Jhon Jairo Velasco,Jhon Jairo Velasco,bo BOL,DF,Guabirá,20,2004,7,5,452,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a1177a43,Jhon Jairo Velasco,Jhon Jairo Velasco,bo BOL,DF,Always Ready,20,2004,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a1177a43,Jhon Jairo Velasco,Jhon Jairo Velasco,bo BOL,DF,Always Ready,20,2004,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f5eca2a4,Yhon Jairo Villegas,Yhon Jairo Villegas,bo BOL,DF,Real Oruro,27,1997,20,18,"1,572",17.5,2,2,4,2,0,0,5,1,0.11,0.11,0.23,0.11,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+2d638d10,Agustin Jara,Agustin Jara,ar ARG,DF,FC Universitario,32,1992,22,20,"1,707",19.0,3,0,3,3,0,0,7,0,0.16,0.00,0.16,0.16,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+782e1061,Carlos Jemio,Carlos Jemio,bo BOL,DF,ABB,28,1996,3,1,182,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+26c2f0e9,Rashid Joffre,Rashid Joffre,bo BOL,FW,Oriente Petrolero,20,2004,2,2,106,1.2,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+cfcfebee,Adrian Jusino,Adrian Jusino,bo BOL,DF,The Strongest,32,1992,26,26,"2,290",25.4,1,1,2,1,0,0,3,1,0.04,0.04,0.08,0.04,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+2bae1de1,Eduardo Justiniano,Eduardo Justiniano,,MF,Blooming,,,8,4,424,4.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6bcaa7bf,Guimer Justiniano,Guimer Justiniano,bo BOL,DF,Aurora,35,1989,7,4,452,5.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3c491f8a,Leonardo Justiniano,Leonardo Justiniano,bo BOL,DF,San Antonio Bulo Bulo,23,2001,21,16,"1,507",16.7,1,0,1,1,0,0,2,0,0.06,0.00,0.06,0.06,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+54c192aa,Leonel Justiniano,Leonel Justiniano,bo BOL,MF,Bolívar,32,1992,24,24,"1,939",21.5,6,1,7,6,0,0,10,1,0.28,0.05,0.32,0.28,0.32,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c17eb175,Zinedinne La Fuente,Zinedinne La Fuente,bo BOL,MF,Always Ready,19,2005,3,1,145,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6ed98536,Carlos Lampe,Carlos Lampe,bo BOL,GK,Bolívar,37,1987,20,20,"1,800",20.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,8,40.0,20,20,20,1.00,2,"1,800",3,3,0,0.0,0,,,,4,14,División de Fútbol Profesional,2025
+91afcaf8,Andrés Landa,Andrés Landa,bo BOL,DF,GV San José,29,1996,23,18,"1,750",19.4,2,0,2,2,0,0,2,0,0.10,0.00,0.10,0.10,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c2b0169e,Federico Lanzillota,Federico Lanzillota,ar ARG,GK,Bolívar,32,1992,6,6,540,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,16.7,6,6,7,1.17,1,540,2,2,0,0.0,0,,,,1,4,División de Fútbol Profesional,2025
+cf22cc05,Julio Lazarte,Julio Lazarte,bo BOL,DF,FC Universitario,16,2008,3,0,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+41b73563,Robson Leandro Santos,Robson Leandro Santos,br BRA,MF,Wilstermann,32,1992,24,23,"1,969",21.9,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+62dbc21f,Heber Leaños,Heber Leaños,bo BOL,DF,Indep Petrolero,34,1990,1,1,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+37f856f9,Joaquín Lencinas,Joaquín Lencinas,ar ARG,DF,FC Universitario,36,1988,26,25,"2,206",24.5,1,1,2,1,0,0,5,1,0.04,0.04,0.08,0.04,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+65887ecb,Luis Limpias,Luis Limpias,bo BOL,,Bolívar,17,2007,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+15ae7e6b,Daniel Lino,Daniel Lino,bo BOL,DF,The Strongest,22,2002,15,8,819,9.1,0,2,2,0,0,0,1,0,0.00,0.22,0.22,0.00,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ef081b1c,Rodrigo Llano,Rodrigo Llano,co COL,FW,Real Oruro,32,1992,7,5,406,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ce0f7ef9,Cristian Lopez,Cristian Lopez,bo BOL,DF,Indep Petrolero,19,2005,23,23,"1,965",21.8,2,0,2,2,0,0,3,1,0.09,0.00,0.09,0.09,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0f355445,Francisco Lopez,Francisco Lopez,bo BOL,FW,Real Tomayapo,16,2008,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6d5b7358,Johan Lopez,Johan Lopez,co COL,GK,Indep Petrolero,21,2003,3,2,237,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,3,2,8,3.04,1,237,0,0,0,,0,,,,1,0,División de Fútbol Profesional,2025
+1ca69d08,José López,José López,bo BOL,FW,The Strongest,21,2003,6,1,127,1.4,2,0,2,2,0,0,0,0,1.42,0.00,1.42,1.42,1.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f0f2ab49,Leonel López,Leonel López,mx MEX,MF,The Strongest,30,1994,4,0,111,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+94cee425,Joel López Pissano,Joel López Pissano,ar ARG,MF,GV San José,28,1997,10,8,711,7.9,4,2,6,4,0,0,1,0,0.51,0.25,0.76,0.51,0.76,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a515364c,Rodrigo López,Rodrigo López,py PAR,MF,San Antonio Bulo Bulo,22,2002,12,3,414,4.6,2,2,4,2,0,0,0,0,0.43,0.43,0.87,0.43,0.87,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7ea936ab,Bernardo Loroño,Bernardo Loroño,bo BOL,MF,Always Ready,19,2006,1,0,26,0.3,1,0,1,1,0,0,0,0,3.46,0.00,3.46,3.46,3.46,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+26d51ff3,Percy Loza,Percy Loza,bo BOL,MF,Always Ready,27,1997,3,0,49,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+26d51ff3,Percy Loza,Percy Loza,bo BOL,MF,Always Ready,27,1997,3,0,49,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+26d51ff3,Percy Loza,Percy Loza,bo BOL,MF,ABB,27,1997,14,11,903,10.0,3,1,4,2,1,1,1,0,0.30,0.10,0.40,0.20,0.30,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+26d51ff3,Percy Loza,Percy Loza,bo BOL,MF,ABB,27,1997,14,11,903,10.0,3,1,4,2,1,1,1,0,0.30,0.10,0.40,0.20,0.30,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9351aad5,Cristhian Machado,Cristhian Machado,bo BOL,MF,Wilstermann,34,1990,21,20,"1,711",19.0,1,2,3,1,0,0,11,2,0.05,0.11,0.16,0.05,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+48ada31e,Juan Magallanes,Juan Magallanes,bo BOL,MF,FC Universitario,22,2003,18,7,684,7.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f0a2fa90,Aldair Mamani,Aldair Mamani,bo BOL,MF,GV San José,19,2005,9,6,507,5.6,0,1,1,0,0,0,2,0,0.00,0.18,0.18,0.00,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8aa9aafe,Josué Mamani,Josué Mamani,bo BOL,MF,Real Tomayapo,24,2000,12,9,810,9.0,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8aa9aafe,Josué Mamani,Josué Mamani,bo BOL,MF,Real Tomayapo,24,2000,12,9,810,9.0,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8aa9aafe,Josué Mamani,Josué Mamani,bo BOL,MF,Wilstermann,24,2000,11,8,684,7.6,1,0,1,1,0,0,4,0,0.13,0.00,0.13,0.13,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8aa9aafe,Josué Mamani,Josué Mamani,bo BOL,MF,Wilstermann,24,2000,11,8,684,7.6,1,0,1,1,0,0,4,0,0.13,0.00,0.13,0.13,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0f4d9911,Kevin Mamani,Kevin Mamani,bo BOL,MF,Real Tomayapo,20,2004,12,5,531,5.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+58b72a87,Saul Mamani,Saul Mamani,,MF,Always Ready,,,3,1,111,1.2,0,1,1,0,0,0,0,0,0.00,0.81,0.81,0.00,0.81,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b57a0636,Daniel Mancílla,Daniel Mancílla,bo BOL,DF,Nacional Potosí,33,1991,7,1,153,1.7,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+13d2ec7f,Leonel Mansilla,Leonel Mansilla,ar ARG,FW,Nacional Potosí,26,1998,8,3,340,3.8,2,1,3,2,0,0,0,1,0.53,0.26,0.79,0.53,0.79,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8226f0e2,Cristian Manuel Chávez,Cristian Manuel Chávez,ar ARG,MF,Wilstermann,38,1986,5,3,218,2.4,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+89991de2,Jesús Manuel Sagredo,Jesús Manuel Sagredo,bo BOL,DF,Bolívar,30,1994,22,17,"1,563",17.4,1,1,2,1,0,0,8,0,0.06,0.06,0.12,0.06,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c283736b,Jesús Maraude,Jesús Maraude,bo BOL,MF,Always Ready,16,2008,17,2,439,4.9,0,3,3,0,0,0,1,0,0.00,0.62,0.62,0.00,0.62,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c25fb926,Rivaldo Maraz,Rivaldo Maraz,bo BOL,MF,Real Tomayapo,22,2002,5,1,140,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+88c53e1e,José María Carrasco,José María Carrasco,bo BOL,DF,Real Tomayapo,27,1997,4,4,312,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b22eec0f,Keith Marín,Keith Marín,,FW,Wilstermann,,,1,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c51843ea,José Martínes,José Martínes,bo BOL,FW,San Antonio Bulo Bulo,22,2002,8,6,541,6.0,3,1,4,3,0,1,0,1,0.50,0.17,0.67,0.50,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5e261de4,Yesit Martínez,Yesit Martínez,bo BOL,MF,Indep Petrolero,23,2002,18,17,"1,332",14.8,1,1,2,1,0,0,8,1,0.07,0.07,0.14,0.07,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4bf5509e,Nicolas Masskooni,Nicolas Masskooni,bo BOL,MF,Guabirá,21,2003,19,15,"1,256",14.0,1,0,1,1,0,0,4,2,0.07,0.00,0.07,0.07,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6c5b59c5,Robson Matheus,Robson Matheus,bo BOL,MF,Bolívar,22,2002,19,17,"1,429",15.9,1,7,8,1,0,0,3,1,0.06,0.44,0.50,0.06,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e88dead5,Alejandro Medina,Alejandro Medina,bo BOL,FW,GV San José,28,1996,1,0,19,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+eb508677,Alexi Medina,Alexi Medina,ar ARG,DF,Indep Petrolero,29,1995,10,1,233,2.6,0,2,2,0,0,0,0,0,0.00,0.77,0.77,0.00,0.77,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+367b96a9,Carlos Medina,Carlos Medina,bo BOL,DF,Always Ready,19,2005,13,5,640,7.1,1,0,1,1,0,0,3,0,0.14,0.00,0.14,0.14,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+208a7002,Diego Medina,Diego Medina,bo BOL,DF,Always Ready,23,2002,9,9,714,7.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+946bdd2e,John Medina,John Medina,ec ECU,MF,Indep Petrolero,32,1992,6,6,526,5.8,0,0,0,0,0,0,6,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9646f17f,Felipe Mejía,Felipe Mejía,ec ECU,FW,FC Universitario,29,1995,9,6,456,5.1,2,0,2,2,0,0,0,0,0.39,0.00,0.39,0.39,0.39,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f1d23869,Alejandro Meleán,Alejandro Meleán,bo BOL,"DF,MF",Oriente Petrolero,37,1987,22,17,"1,586",17.6,0,1,1,0,0,0,4,0,0.00,0.06,0.06,0.00,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f64fd92a,Antonio Melgar,Antonio Melgar,bo BOL,MF,Bolívar,30,1994,26,21,"1,827",20.3,9,5,14,8,1,1,6,1,0.44,0.25,0.69,0.39,0.64,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+84029bda,Santiago Melgar,Santiago Melgar,bo BOL,MF,The Strongest,19,2005,7,2,201,2.2,1,0,1,1,0,0,1,0,0.45,0.00,0.45,0.45,0.45,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+79dd2eed,Sebastián Melgar,Sebastián Melgar,bo BOL,FW,Guabirá,23,2001,4,1,132,1.5,0,1,1,0,0,0,0,0,0.00,0.68,0.68,0.00,0.68,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e07e7325,Roberto Melgar Simoes,Roberto Melgar Simoes,bo BOL,,Blooming,18,2006,3,1,56,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+216890da,Fernando Mena,Fernando Mena,bo BOL,DF,Bolívar,16,2008,8,4,366,4.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+1a6a4087,Jhon Mena,Jhon Mena,bo BOL,MF,ABB,25,1999,23,19,"1,641",18.2,0,0,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+780803d8,Cesar Menacho,Cesar Menacho,bo BOL,FW,Blooming,25,1999,16,11,930,10.3,5,1,6,5,0,0,0,0,0.48,0.10,0.58,0.48,0.58,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8d8c3337,Bruno Méndez,Bruno Méndez,bo BOL,MF,Bolívar,18,2006,4,1,79,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c0d60179,Diego Méndez,Diego Méndez,bo BOL,GK,Bolívar,34,1990,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,1,1.00,0,90,1,1,0,0.0,0,,,,0,1,División de Fútbol Profesional,2025
+8313e55a,Esdras Mendoza,Esdras Mendoza,bo BOL,MF,FC Universitario,21,2003,25,24,"1,918",21.3,2,1,3,2,0,0,6,1,0.09,0.05,0.14,0.09,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4bb23ee3,Gustavo Mendoza,Gustavo Mendoza,bo BOL,MF,San Antonio Bulo Bulo,20,2004,27,24,"2,102",23.4,1,4,5,1,0,0,1,0,0.04,0.17,0.21,0.04,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ce194c8b,Miguel Mendoza,Miguel Mendoza,py PAR,FW,Aurora,26,1998,8,3,295,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3ce17e92,Samyr Mendoza,Samyr Mendoza,,FW,FC Universitario,,,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e9665ddf,Alán Mercado,Alán Mercado,bo BOL,FW,Indep Petrolero,28,1996,17,3,549,6.1,3,2,5,3,0,0,5,0,0.49,0.33,0.82,0.49,0.82,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+1c528b0c,Diego Mercado,Diego Mercado,,MF,San Antonio Bulo Bulo,,,12,9,835,9.3,1,0,1,1,0,0,2,0,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+597a8bb7,Pablo Meza,Pablo Meza,py PAR,DF,ABB,28,1997,16,16,"1,379",15.3,0,0,0,0,0,1,11,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+742471bb,Jhosep Michel,Jhosep Michel,bo BOL,MF,Aurora,16,2008,4,1,79,0.9,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+06ea3a60,Ezequiel Michelli,Ezequiel Michelli,ar ARG,DF,GV San José,34,1990,2,2,157,1.7,1,0,1,1,0,0,0,0,0.57,0.00,0.57,0.57,0.57,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+15e6864d,Kevin Mina,Kevin Mina,ec ECU,FW,Guabirá,31,1993,10,2,262,2.9,1,0,1,1,0,0,2,0,0.34,0.00,0.34,0.34,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4b9a3fe2,Iván Molina,Iván Molina,bo BOL,DF,Blooming,18,2006,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3a5e113c,Isaac Mollinedo,Isaac Mollinedo,,MF,ABB,,,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a5d6fbbf,Jonathan Monsalve,Jonathan Monsalve,co COL,FW,Real Oruro,26,1998,5,2,206,2.3,1,0,1,1,0,0,0,0,0.44,0.00,0.44,0.44,0.44,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+66883da6,Joshua Montaño,Joshua Montaño,bo BOL,FW,Real Tomayapo,19,2005,4,1,123,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+98f6785f,Juan Montaño,Juan Montaño,bo BOL,,Wilstermann,18,2006,6,3,245,2.7,0,1,1,0,0,0,0,0,0.00,0.37,0.37,0.00,0.37,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+37728d10,Mizael Monteiro,Mizael Monteiro,br BRA,DF,ABB,24,2000,21,20,"1,845",20.5,1,1,2,1,0,0,3,0,0.05,0.05,0.10,0.05,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+bc165f69,Leonardo Montenegro,Leonardo Montenegro,bo BOL,DF,Nacional Potosí,19,2005,3,2,147,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+21f6e2f0,Munir Montenegro,Munir Montenegro,bo BOL,MF,San Antonio Bulo Bulo,18,2006,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+33e3e128,Ronny Montero,Ronny Montero,bo BOL,DF,Guabirá,33,1991,3,2,162,1.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+33e3e128,Ronny Montero,Ronny Montero,bo BOL,DF,Guabirá,33,1991,3,2,162,1.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+33e3e128,Ronny Montero,Ronny Montero,bo BOL,DF,Real Tomayapo,33,1991,11,10,909,10.1,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+33e3e128,Ronny Montero,Ronny Montero,bo BOL,DF,Real Tomayapo,33,1991,11,10,909,10.1,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+74ff7d03,Thomas Monterubianessi,Thomas Monterubianessi,ar ARG,FW,GV San José,25,1999,8,6,448,5.0,3,1,4,3,0,0,3,0,0.60,0.20,0.80,0.60,0.80,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5117b1da,David Morales,David Morales,,DF,Indep Petrolero,,,11,7,630,7.0,0,2,2,0,0,0,4,0,0.00,0.29,0.29,0.00,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+2abb2c56,Juan Morales,Juan Morales,bo BOL,GK,Indep Petrolero,18,2006,6,6,540,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,6,6,19,3.17,3,540,5,5,0,0.0,0,,,,2,1,División de Fútbol Profesional,2025
+3d038920,Pedro Moreira,Pedro Moreira,,MF,Real Oruro,,,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+58409aca,Andrés Moreno,Andrés Moreno,bo BOL,MF,Guabirá,22,2002,14,8,888,9.9,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+bb7b9a93,Saidt Mustafá,Saidt Mustafá,bo BOL,GK,Nacional Potosí,35,1989,15,15,"1,350",15.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,6.7,15,15,23,1.53,7,"1,350",8,9,1,0.0,0,,,,5,3,División de Fútbol Profesional,2025
+bd01d33f,Cristian Nahuel Barco,Cristian Nahuel Barco,ar ARG,MF,Guabirá,24,2000,25,13,"1,186",13.2,5,8,13,2,3,3,5,0,0.38,0.61,0.99,0.15,0.76,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7d846719,Fernando Nava,Fernando Nava,bo BOL,FW,Oriente Petrolero,20,2004,21,16,"1,506",16.7,7,2,9,5,2,2,2,0,0.42,0.12,0.54,0.30,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f067d873,Diego Navarro,Diego Navarro,bo BOL,MF,Indep Petrolero,32,1992,24,15,"1,317",14.6,1,1,2,1,0,0,4,1,0.07,0.07,0.14,0.07,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+31c8d097,Alan Nuñez,Alan Nuñez,,,Real Oruro,,,6,5,349,3.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c7c8df2d,Maximiliano Núñez,Maximiliano Núñez,ar ARG,"FW,MF",FC Universitario,38,1986,12,7,648,7.2,1,2,3,1,0,0,0,0,0.14,0.28,0.42,0.14,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c7c8df2d,Maximiliano Núñez,Maximiliano Núñez,ar ARG,"FW,MF",FC Universitario,38,1986,12,7,648,7.2,1,2,3,1,0,0,0,0,0.14,0.28,0.42,0.14,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c7c8df2d,Maximiliano Núñez,Maximiliano Núñez,ar ARG,"FW,MF",Nacional Potosí,38,1986,16,13,937,10.4,4,4,8,1,3,3,2,0,0.38,0.38,0.77,0.10,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c7c8df2d,Maximiliano Núñez,Maximiliano Núñez,ar ARG,"FW,MF",Nacional Potosí,38,1986,16,13,937,10.4,4,4,8,1,3,3,2,0,0.38,0.38,0.77,0.10,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c4f33acc,Gustavo Olguín,Gustavo Olguín,bo BOL,DF,Guabirá,30,1994,15,11,"1,046",11.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+faf55997,Juan Orellana,Juan Orellana,bo BOL,DF,Real Tomayapo,27,1998,16,12,"1,047",11.6,2,0,2,2,0,0,4,1,0.17,0.00,0.17,0.17,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4b4cd7fb,Ricardo Orihuela,Ricardo Orihuela,bo BOL,MF,Real Oruro,25,1999,25,18,"1,704",18.9,0,5,5,0,0,0,3,0,0.00,0.26,0.26,0.00,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e5d46564,Michael Ortega,Michael Ortega,co COL,MF,Aurora,33,1991,7,4,401,4.5,2,1,3,0,2,2,0,0,0.45,0.22,0.67,0.00,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+03ed8128,Miyhel Ortiz,Miyhel Ortiz,bo BOL,MF,Real Oruro,23,2001,18,13,"1,250",13.9,3,3,6,3,0,0,5,0,0.22,0.22,0.43,0.22,0.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+eebddba2,Mario Otazú,Mario Otazú,py PAR,MF,San Antonio Bulo Bulo,28,1996,11,3,358,4.0,4,0,4,4,0,0,2,0,1.01,0.00,1.01,1.01,1.01,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ce774d96,Rai Pablo Lima,Rai Pablo Lima,bo BOL,MF,Real Tomayapo,24,2000,24,22,"1,734",19.3,3,6,9,3,0,0,4,1,0.16,0.31,0.47,0.16,0.47,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b90694ca,Adrian Pacheco,Adrian Pacheco,bo BOL,MF,Wilstermann,19,2005,1,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+851ae351,Celin Padilla,Celin Padilla,bo BOL,DF,Blooming,20,2004,10,4,283,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6a808a6e,Santiago Paiva,Santiago Paiva,uy URU,FW,Guabirá,26,1999,6,3,234,2.6,2,0,2,2,0,0,0,0,0.77,0.00,0.77,0.77,0.77,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c89626ce,Duban Palacio,Duban Palacio,co COL,MF,Nacional Potosí,27,1997,27,13,"1,416",15.7,6,6,12,6,0,1,12,1,0.38,0.38,0.76,0.38,0.76,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ffc85c03,Emanuel Paniagua,Emanuel Paniagua,bo BOL,FW,Always Ready,19,2005,6,0,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ffc85c03,Emanuel Paniagua,Emanuel Paniagua,bo BOL,FW,Always Ready,19,2005,6,0,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ffc85c03,Emanuel Paniagua,Emanuel Paniagua,bo BOL,FW,ABB,19,2005,12,5,634,7.0,0,1,1,0,0,0,4,0,0.00,0.14,0.14,0.00,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ffc85c03,Emanuel Paniagua,Emanuel Paniagua,bo BOL,FW,ABB,19,2005,12,5,634,7.0,0,1,1,0,0,0,4,0,0.00,0.14,0.14,0.00,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+2e67fc18,Moises Paniagua,Moises Paniagua,bo BOL,FW,Always Ready,17,2007,25,24,"1,921",21.3,13,8,21,12,1,1,2,1,0.61,0.37,0.98,0.56,0.94,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4e8eeb38,Edwin Pardo,Edwin Pardo,bo BOL,DF,Wilstermann,19,2006,12,7,660,7.3,0,1,1,0,0,0,3,0,0.00,0.14,0.14,0.00,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+82915cab,Asiel Paredes,Asiel Paredes,bo BOL,FW,Guabirá,20,2004,2,1,84,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+88eb8aae,Asaf Patzi,Asaf Patzi,bo BOL,MF,Indep Petrolero,20,2004,3,2,190,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d9480a73,Luis Pavia,Luis Pavia,bo BOL,MF,Nacional Potosí,25,1999,22,7,890,9.9,1,0,1,1,0,0,4,0,0.10,0.00,0.10,0.10,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+685fbdf3,Martín Payares,Martín Payares,co COL,DF,Nacional Potosí,29,1995,6,2,251,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7a17b42b,Luiz Paz,Luiz Paz,bo BOL,DF,Bolívar,20,2004,22,7,906,10.1,1,1,2,1,0,0,5,0,0.10,0.10,0.20,0.10,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+179cbe4d,Santiago Paz,Santiago Paz,bo BOL,MF,GV San José,20,2004,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+fd2a07b2,Pablo Pedraza,Pablo Pedraza,bo BOL,DF,The Strongest,29,1995,24,24,"2,124",23.6,1,0,1,1,0,0,9,1,0.04,0.00,0.04,0.04,0.04,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+43f0bcee,Adrián Peña,Adrián Peña,bo BOL,MF,Guabirá,21,2003,3,1,50,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+43f0bcee,Adrián Peña,Adrián Peña,bo BOL,MF,Guabirá,21,2003,3,1,50,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+43f0bcee,Adrián Peña,Adrián Peña,bo BOL,MF,Wilstermann,21,2003,5,1,121,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+43f0bcee,Adrián Peña,Adrián Peña,bo BOL,MF,Wilstermann,21,2003,5,1,121,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+17cf1d22,Schneider Peña,Schneider Peña,bo BOL,FW,GV San José,20,2004,18,9,844,9.4,3,1,4,3,0,0,2,0,0.32,0.11,0.43,0.32,0.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a3a5cc1d,José Peñarrieta,José Peñarrieta,bo BOL,GK,San Antonio Bulo Bulo,36,1988,13,12,"1,161",12.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,25.0,13,12,23,1.78,4,"1,161",2,2,0,0.0,0,,,,3,5,División de Fútbol Profesional,2025
+10ddeb04,Diego Perea,Diego Perea,co COL,FW,Real Tomayapo,22,2002,7,4,213,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e38fd8ca,Miguel Perea,Miguel Perea,ec ECU,MF,Indep Petrolero,25,1999,7,6,472,5.2,0,2,2,0,0,0,1,1,0.00,0.38,0.38,0.00,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+98413e2c,Gustavo Peredo,Gustavo Peredo,bo BOL,FW,Guabirá,24,2000,25,22,"1,913",21.3,16,3,19,15,1,1,5,0,0.75,0.14,0.89,0.71,0.85,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d32f553e,Fabián Pereira,Fabián Pereira,bo BOL,GK,ABB,18,2006,10,10,900,10.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,10,10,28,2.80,7,900,4,4,0,0.0,0,,,,2,1,División de Fútbol Profesional,2025
+800cb840,Danny Pérez,Danny Pérez,ve VEN,"FW,MF",Real Tomayapo,25,2000,26,16,"1,528",17.0,4,6,10,4,0,0,5,0,0.24,0.35,0.59,0.24,0.59,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ff197b37,Samir Perez,Samir Perez,,MF,Blooming,,,2,1,105,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+62cd6639,Patricio Pernicone,Patricio Pernicone,ar ARG,DF,Always Ready,23,2001,12,6,444,4.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f71167f3,Carlos Pessoa,Carlos Pessoa,bo BOL,DF,FC Universitario,18,2006,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ba2cedb9,Wagner Pinote,Wagner Pinote,br BRA,MF,FC Universitario,24,2000,8,3,303,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+65c8feb0,Denis Pinto,Denis Pinto,bo BOL,FW,Real Tomayapo,29,1995,15,7,707,7.9,1,0,1,1,0,0,1,0,0.13,0.00,0.13,0.13,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9829e5bd,Milciades Portillo,Milciades Portillo,py PAR,DF,Guabirá,32,1992,29,29,"2,608",29.0,1,1,2,1,0,0,4,0,0.03,0.03,0.07,0.03,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f851861f,Yamil Portuncho,Yamil Portuncho,bo BOL,DF,The Strongest,19,2006,3,2,219,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9b42f01c,Franco Posse,Franco Posse,uy URU,FW,Blooming,24,2000,21,16,"1,527",17.0,4,4,8,4,0,0,6,1,0.24,0.24,0.47,0.24,0.47,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d146b436,Bruno Poveda,Bruno Poveda,bo BOL,GK,GV San José,21,2003,17,14,"1,333",14.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,28.6,17,14,23,1.55,5,"1,333",4,5,0,20.0,1,,,,4,5,División de Fútbol Profesional,2025
+24e245ad,Josué Prieto,Josué Prieto,bo BOL,DF,Real Oruro,24,2000,16,9,906,10.1,1,0,1,1,0,0,5,0,0.10,0.00,0.10,0.10,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+dbdd8aa9,Martín Prost,Martín Prost,ar ARG,FW,Nacional Potosí,36,1988,8,6,544,6.0,5,0,5,5,0,0,1,0,0.83,0.00,0.83,0.83,0.83,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8352f13e,Fabricio Quaglio,Fabricio Quaglio,bo BOL,FW,The Strongest,21,2003,16,14,"1,096",12.2,2,3,5,2,0,0,3,0,0.16,0.25,0.41,0.16,0.41,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b5ae4716,Eliel Quino,Eliel Quino,,,Wilstermann,,,1,0,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4dc557d4,Wilson Quiñonez,Wilson Quiñonez,py PAR,GK,Oriente Petrolero,36,1988,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,33.3,3,3,7,2.33,2,270,1,1,0,0.0,0,,,,1,0,División de Fútbol Profesional,2025
+8363a7e8,Jairo Quinteros,Jairo Quinteros,bo BOL,DF,Oriente Petrolero,23,2001,7,6,574,6.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8363a7e8,Jairo Quinteros,Jairo Quinteros,bo BOL,DF,Oriente Petrolero,23,2001,7,6,574,6.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8363a7e8,Jairo Quinteros,Jairo Quinteros,bo BOL,DF,Bolívar,23,2001,5,4,368,4.1,1,0,1,1,0,0,2,0,0.24,0.00,0.24,0.24,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8363a7e8,Jairo Quinteros,Jairo Quinteros,bo BOL,DF,Bolívar,23,2001,5,4,368,4.1,1,0,1,1,0,0,2,0,0.24,0.00,0.24,0.24,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e04ca619,Alvaro Quiroga,Alvaro Quiroga,bo BOL,MF,The Strongest,29,1995,25,24,"2,029",22.5,8,1,9,6,2,2,5,1,0.35,0.04,0.40,0.27,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0c8e735b,Miguel Quiroga,Miguel Quiroga,bo BOL,MF,ABB,33,1991,19,10,934,10.4,0,0,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+173530a8,Kevin Quiroz,Kevin Quiroz,bo BOL,MF,Nacional Potosí,20,2005,5,1,169,1.9,0,1,1,0,0,0,0,0,0.00,0.53,0.53,0.00,0.53,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+629e5ef6,Oscar Quispe,Oscar Quispe,bo BOL,DF,Wilstermann,19,2005,1,1,35,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c9fcc231,Rafinha,Rafinha,bo BOL,MF,Guabirá,33,1991,25,23,"1,844",20.5,9,12,21,8,1,1,7,1,0.44,0.59,1.02,0.39,0.98,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c1da8a45,Denilzon Ramallo,Denilzon Ramallo,bo BOL,FW,Real Tomayapo,26,1998,22,18,"1,458",16.2,0,2,2,0,0,0,6,1,0.00,0.12,0.12,0.00,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e4e69b59,Jhoni Ramallo,Jhoni Ramallo,bo BOL,MF,GV San José,20,2004,25,24,"2,037",22.6,1,4,5,1,0,0,5,1,0.04,0.18,0.22,0.04,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c8f9a488,Rodrigo Ramallo,Rodrigo Ramallo,bo BOL,"FW,MF",Aurora,34,1990,24,23,"1,935",21.5,10,5,15,10,0,1,10,2,0.47,0.23,0.70,0.47,0.70,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+22884bf4,Alex Rambal,Alex Rambal,co COL,DF,Always Ready,32,1992,26,24,"2,094",23.3,3,1,4,3,0,0,7,1,0.13,0.04,0.17,0.13,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+66bad6a7,Rubén Ramírez,Rubén Ramírez,ve VEN,DF,Bolívar,29,1995,7,5,384,4.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a564c4e4,Gary Rea,Gary Rea,bo BOL,FW,ABB,21,2003,24,23,"1,693",18.8,5,3,8,3,2,2,12,1,0.27,0.16,0.43,0.16,0.32,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+1432c274,Jair Reinoso,Jair Reinoso,bo BOL,FW,Aurora,39,1985,5,4,334,3.7,5,1,6,4,1,1,1,0,1.35,0.27,1.62,1.08,1.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+43d27dcd,Luis René Barboza,Luis René Barboza,bo BOL,DF,San Antonio Bulo Bulo,31,1993,22,20,"1,783",19.8,6,0,6,6,0,0,5,0,0.30,0.00,0.30,0.30,0.30,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8f848aa4,Edisson Restrepo,Edisson Restrepo,co COL,DF,Nacional Potosí,28,1996,19,19,"1,641",18.2,1,0,1,1,0,1,4,0,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a115eaaa,Anderson Rey,Anderson Rey,bo BOL,FW,Aurora,30,1994,4,3,212,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+32baeec4,Jean Riasco,Jean Riasco,ec ECU,DF,ABB,32,1992,9,7,669,7.4,0,0,0,0,0,0,1,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e5f05669,Gustavo Ribeiro,Gustavo Ribeiro,br BRA,FW,Real Oruro,21,2003,28,26,"2,052",22.8,8,5,13,7,1,1,6,0,0.35,0.22,0.57,0.31,0.53,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a6cc0e65,Alexis Ribera,Alexis Ribera,bo BOL,MF,GV San José,29,1995,19,8,812,9.0,1,0,1,1,0,0,4,0,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c72beb85,Carlos Ribera,Carlos Ribera,bo BOL,MF,Real Oruro,27,1997,8,6,478,5.3,1,0,1,1,0,0,3,0,0.19,0.00,0.19,0.19,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c72beb85,Carlos Ribera,Carlos Ribera,bo BOL,MF,Real Oruro,27,1997,8,6,478,5.3,1,0,1,1,0,0,3,0,0.19,0.00,0.19,0.19,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c72beb85,Carlos Ribera,Carlos Ribera,bo BOL,MF,FC Universitario,27,1997,6,4,274,3.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c72beb85,Carlos Ribera,Carlos Ribera,bo BOL,MF,FC Universitario,27,1997,6,4,274,3.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+21cdfc13,Óscar Rios,Óscar Rios,bo BOL,,Guabirá,15,2009,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+02874510,Julio Rivas,Julio Rivas,,FW,ABB,,,21,11,"1,017",11.3,3,1,4,3,0,0,5,0,0.27,0.09,0.35,0.27,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+37643c21,Roberto Rivas,Roberto Rivas,bo BOL,GK,GV San José,39,1985,14,14,"1,187",13.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,14.3,14,14,21,1.59,7,"1,187",3,3,0,0.0,0,,,,1,6,División de Fútbol Profesional,2025
+2ee5a00d,Ademar Rivera,Ademar Rivera,bo BOL,MF,Indep Petrolero,28,1996,19,13,"1,128",12.5,1,1,2,1,0,0,4,1,0.08,0.08,0.16,0.08,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+44c68701,Edwin Rivera Sifuentes,Edwin Rivera Sifuentes,bo BOL,MF,Indep Petrolero,35,1989,14,9,698,7.8,0,0,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7b048866,Alvaro Robles,Alvaro Robles,,FW,Always Ready,,,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+959f6021,David Robles,David Robles,py PAR,DF,Guabirá,33,1991,13,12,"1,125",12.5,1,0,1,1,0,0,4,0,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+959f6021,David Robles,David Robles,py PAR,DF,Guabirá,33,1991,13,12,"1,125",12.5,1,0,1,1,0,0,4,0,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+959f6021,David Robles,David Robles,py PAR,DF,Aurora,33,1991,12,12,"1,026",11.4,4,1,5,1,3,3,0,0,0.35,0.09,0.44,0.09,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+959f6021,David Robles,David Robles,py PAR,DF,Aurora,33,1991,12,12,"1,026",11.4,4,1,5,1,3,3,0,0,0.35,0.09,0.44,0.09,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6a96c0be,Carlos Roca,Carlos Roca,bo BOL,DF,The Strongest,27,1997,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6a96c0be,Carlos Roca,Carlos Roca,bo BOL,DF,The Strongest,27,1997,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6a96c0be,Carlos Roca,Carlos Roca,bo BOL,DF,Nacional Potosí,27,1997,3,1,169,1.9,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6a96c0be,Carlos Roca,Carlos Roca,bo BOL,DF,Nacional Potosí,27,1997,3,1,169,1.9,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a9494d8f,Dico Roca,Dico Roca,bo BOL,DF,GV San José,28,1996,17,9,955,10.6,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+cd9c09b9,Ferddy Roca,Ferddy Roca,bo BOL,FW,GV San José,24,2000,12,4,379,4.2,0,1,1,0,0,0,0,0,0.00,0.24,0.24,0.00,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+53679560,Jimmy Roca,Jimmy Roca,bo BOL,GK,Real Oruro,25,1999,1,1,52,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,2,3.46,1,52,0,0,0,,0,,,,0,0,División de Fútbol Profesional,2025
+b3c26a51,Israel Rocabado,Israel Rocabado,bo BOL,FW,Wilstermann,18,2006,14,6,648,7.2,4,0,4,4,0,0,0,0,0.56,0.00,0.56,0.56,0.56,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a6c3485b,Raúl Rocabado,Raúl Rocabado,bo BOL,MF,ABB,20,2004,7,1,170,1.9,1,0,1,1,0,0,1,0,0.53,0.00,0.53,0.53,0.53,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+622ded42,Yomar Rocha,Yomar Rocha,bo BOL,DF,Bolívar,21,2003,15,11,778,8.6,1,2,3,1,0,0,2,1,0.12,0.23,0.35,0.12,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+2a4c8e28,Carlitos Rodriguez,Carlitos Rodriguez,bo BOL,DF,Always Ready,20,2004,20,15,"1,303",14.5,1,2,3,1,0,0,6,0,0.07,0.14,0.21,0.07,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+cf14c615,Cristopher Rodríguez,Cristopher Rodríguez,ve VEN,DF,Oriente Petrolero,27,1997,9,9,805,8.9,0,0,0,0,0,0,6,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c643d413,Dieguito Rodriguez,Dieguito Rodriguez,bo BOL,DF,Oriente Petrolero,21,2003,13,12,"1,091",12.1,1,0,1,1,0,0,7,0,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+1921e488,Fernando Rodríguez,Fernando Rodríguez,bo BOL,MF,Blooming,29,1996,2,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+76f638ae,Hernán Rodríguez,Hernán Rodríguez,bo BOL,FW,San Antonio Bulo Bulo,28,1996,17,7,605,6.7,0,1,1,0,0,0,0,0,0.00,0.15,0.15,0.00,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e8012e69,Ian Rodríguez,Ian Rodríguez,bo BOL,DF,Wilstermann,16,2009,7,2,237,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5ee5b2b6,Leonardo Rodriguez,Leonardo Rodriguez,bo BOL,,Always Ready,14,2010,1,1,67,0.7,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3e2952d1,Gastón Rodríguez Maeso,Gastón Rodríguez Maeso,uy URU,"FW,MF",Guabirá,32,1992,7,3,237,2.6,1,0,1,1,0,0,1,0,0.38,0.00,0.38,0.38,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3d0fd3d7,Patito Rodríguez,Patito Rodríguez,ar ARG,"FW,MF",Bolívar,34,1990,21,12,"1,161",12.9,5,3,8,5,0,0,5,1,0.39,0.23,0.62,0.39,0.62,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+dc17d14c,Francisco Rodriguez Zegada,Francisco Rodriguez Zegada,bo BOL,DF,Wilstermann,30,1994,16,12,"1,057",11.7,1,4,5,1,0,0,8,1,0.09,0.34,0.43,0.09,0.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ab8d9cf7,Alfredo Agustin Aliaga Rojas,Alfredo Agustin Aliaga Rojas,bo BOL,,Wilstermann,17,2007,16,15,"1,230",13.7,0,2,2,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5cd099b9,Daniel Rojas,Daniel Rojas,bo BOL,MF,Oriente Petrolero,24,2000,15,14,"1,149",12.8,0,2,2,0,0,0,4,0,0.00,0.16,0.16,0.00,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c0afb530,Jairo Rojas,Jairo Rojas,bo BOL,FW,ABB,18,2006,8,5,323,3.6,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c0afb530,Jairo Rojas,Jairo Rojas,bo BOL,FW,ABB,18,2006,8,5,323,3.6,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c0afb530,Jairo Rojas,Jairo Rojas,bo BOL,FW,Always Ready,18,2006,1,0,1,0.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c0afb530,Jairo Rojas,Jairo Rojas,bo BOL,FW,Always Ready,18,2006,1,0,1,0.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ee2a3b83,Jorge Rojas,Jorge Rojas,bo BOL,DF,Nacional Potosí,31,1993,27,20,"1,520",16.9,2,4,6,2,0,0,6,1,0.12,0.24,0.36,0.12,0.36,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+700dc73b,Santiago Rojas,Santiago Rojas,bo BOL,GK,FC Universitario,17,2007,1,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,,1,0,0,0.00,0,25,0,0,0,,0,,,,0,0,División de Fútbol Profesional,2025
+811dd560,Junior Romay,Junior Romay,bo BOL,FW,ABB,30,1994,11,11,940,10.4,1,2,3,1,0,0,1,0,0.10,0.19,0.29,0.10,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+811dd560,Junior Romay,Junior Romay,bo BOL,FW,ABB,30,1994,11,11,940,10.4,1,2,3,1,0,0,1,0,0.10,0.19,0.29,0.10,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+811dd560,Junior Romay,Junior Romay,bo BOL,FW,Always Ready,30,1994,17,16,"1,375",15.3,0,1,1,0,0,0,3,0,0.00,0.07,0.07,0.00,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+811dd560,Junior Romay,Junior Romay,bo BOL,FW,Always Ready,30,1994,17,16,"1,375",15.3,0,1,1,0,0,0,3,0,0.00,0.07,0.07,0.00,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+152f61bd,César Romero,César Romero,bo BOL,DF,Blooming,23,2001,11,3,427,4.7,1,0,1,1,0,0,3,1,0.21,0.00,0.21,0.21,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b2694e42,Dorny Romero,Dorny Romero,do DOM,FW,Bolívar,27,1998,25,16,"1,507",16.7,15,3,18,11,4,4,0,0,0.90,0.18,1.07,0.66,0.84,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3214d4e0,Matías Romero,Matías Romero,bo BOL,FW,Oriente Petrolero,22,2002,2,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8f80e4c0,Diego Saavedra,Diego Saavedra,bo BOL,MF,Indep Petrolero,21,2003,1,1,23,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a251c31b,Dilan Saavedra,Dilan Saavedra,bo BOL,MF,The Strongest,18,2006,2,1,73,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+560ad467,Erwin Saavedra,Erwin Saavedra,bo BOL,MF,Bolívar,28,1996,21,11,"1,066",11.8,7,2,9,7,0,0,4,0,0.59,0.17,0.76,0.59,0.76,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+52100700,Luis Sabja,Luis Sabja,bo BOL,MF,Bolívar,16,2008,3,0,43,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+939c97cf,José Sagredo,José Sagredo,bo BOL,DF,Bolívar,30,1994,25,22,"1,944",21.6,1,1,2,1,0,0,12,2,0.05,0.05,0.09,0.05,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+99c846ee,Axel Salazar,Axel Salazar,bo BOL,FW,Always Ready,19,2005,2,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+99c846ee,Axel Salazar,Axel Salazar,bo BOL,FW,Always Ready,19,2005,2,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+99c846ee,Axel Salazar,Axel Salazar,bo BOL,FW,ABB,19,2005,5,0,97,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+99c846ee,Axel Salazar,Axel Salazar,bo BOL,FW,ABB,19,2005,5,0,97,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ea847be5,Marcos Salazar,Marcos Salazar,bo BOL,MF,ABB,20,2004,10,9,639,7.1,2,0,2,2,0,0,6,0,0.28,0.00,0.28,0.28,0.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ea847be5,Marcos Salazar,Marcos Salazar,bo BOL,MF,ABB,20,2004,10,9,639,7.1,2,0,2,2,0,0,6,0,0.28,0.00,0.28,0.28,0.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ea847be5,Marcos Salazar,Marcos Salazar,bo BOL,MF,Always Ready,20,2004,6,2,134,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ea847be5,Marcos Salazar,Marcos Salazar,bo BOL,MF,Always Ready,20,2004,6,2,134,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0f853444,Lucas Salinas,Lucas Salinas,bo BOL,GK,Wilstermann,23,2001,19,19,"1,709",19.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,10.5,19,19,42,2.21,11,"1,709",4,5,0,20.0,1,,,,6,2,División de Fútbol Profesional,2025
+d19b6f2c,Kevin Salvatierra,Kevin Salvatierra,bo BOL,MF,Oriente Petrolero,23,2001,24,18,"1,457",16.2,4,4,8,4,0,0,0,0,0.25,0.25,0.49,0.25,0.49,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+121bc114,Amílcar Sánchez,Amílcar Sánchez,bo BOL,MF,Aurora,34,1991,19,8,665,7.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f1cad4df,Erwin Sánchez,Erwin Sánchez,bo BOL,FW,San Antonio Bulo Bulo,32,1992,28,21,"1,770",19.7,2,4,6,2,0,0,1,0,0.10,0.20,0.31,0.10,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+000b90df,Héctor Sánchez,Héctor Sánchez,bo BOL,FW,Guabirá,27,1997,21,9,810,9.0,3,1,4,3,0,0,4,0,0.33,0.11,0.44,0.33,0.44,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+afcca759,Huberth Sánchez,Huberth Sánchez,co COL,DF,San Antonio Bulo Bulo,27,1997,7,5,454,5.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+afcca759,Huberth Sánchez,Huberth Sánchez,co COL,DF,San Antonio Bulo Bulo,27,1997,7,5,454,5.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+afcca759,Huberth Sánchez,Huberth Sánchez,co COL,DF,Aurora,27,1997,14,14,"1,174",13.0,3,0,3,3,0,0,6,2,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+afcca759,Huberth Sánchez,Huberth Sánchez,co COL,DF,Aurora,27,1997,14,14,"1,174",13.0,3,0,3,3,0,0,6,2,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+82df5a44,Samuel Sandoval,Samuel Sandoval,bo BOL,MF,Real Tomayapo,21,2003,3,0,65,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8d14fd83,Luciano Sanhueza,Luciano Sanhueza,ar ARG,FW,FC Universitario,28,1996,9,2,329,3.7,2,0,2,2,0,0,0,1,0.55,0.00,0.55,0.55,0.55,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f271318e,Jordán Santacruz,Jordán Santacruz,py PAR,"DF,MF",Oriente Petrolero,29,1995,16,16,"1,384",15.4,0,1,1,0,0,0,6,0,0.00,0.07,0.07,0.00,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8ba6fbcc,Rodrigo Saracho,Rodrigo Saracho,ar ARG,GK,San Antonio Bulo Bulo,31,1994,6,6,540,6.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,6,6,17,2.83,2,540,2,2,0,0.0,0,,,,3,1,División de Fútbol Profesional,2025
+a3c5fd96,Fernando Saucedo,Fernando Saucedo,bo BOL,MF,Always Ready,34,1990,26,26,"2,207",24.5,7,17,24,3,4,5,2,2,0.29,0.69,0.98,0.12,0.82,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+845f255b,Oscar Saucedo,Oscar Saucedo,bo BOL,DF,Guabirá,19,2005,5,3,269,3.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e09d4461,Widen Saucedo,Widen Saucedo,bo BOL,DF,San Antonio Bulo Bulo,27,1997,27,25,"2,090",23.2,3,6,9,3,0,0,6,0,0.13,0.26,0.39,0.13,0.39,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b7dbcb69,Bruno Sávio,Bruno Sávio,br BRA,"FW,MF",Bolívar,30,1994,4,2,214,2.4,0,1,1,0,0,0,1,1,0.00,0.42,0.42,0.00,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+54f089b4,Augusto Seimandi,Augusto Seimandi,ar ARG,DF,GV San José,29,1995,22,22,"1,735",19.3,0,1,1,0,0,0,7,3,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6ae88324,Anghelo Sejas,Anghelo Sejas,,MF,Aurora,,,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9fe38594,Carlos Sejas,Carlos Sejas,bo BOL,DF,Aurora,21,2004,28,28,"2,353",26.1,3,4,7,3,0,0,6,2,0.11,0.15,0.27,0.11,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3d7fbb24,Deyvid Sejas,Deyvid Sejas,bo BOL,FW,Indep Petrolero,19,2005,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7895a4dd,Luis Serrano,Luis Serrano,bo BOL,MF,GV San José,26,1998,3,1,98,1.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+acd77848,Saúl Severiche,Saúl Severiche,bo BOL,DF,Blooming,22,2002,13,3,479,5.3,0,1,1,0,0,0,2,2,0.00,0.19,0.19,0.00,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4cdccbf7,Omar Siles,Omar Siles,bo BOL,MF,ABB,32,1992,13,11,"1,012",11.2,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4cdccbf7,Omar Siles,Omar Siles,bo BOL,MF,ABB,32,1992,13,11,"1,012",11.2,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4cdccbf7,Omar Siles,Omar Siles,bo BOL,MF,Real Tomayapo,32,1992,10,4,404,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4cdccbf7,Omar Siles,Omar Siles,bo BOL,MF,Real Tomayapo,32,1992,10,4,404,4.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+38d5918a,Thiago Ribeiro da Silva,Thiago Ribeiro da Silva,br BRA,MF,Guabirá,40,1985,27,24,"1,998",22.2,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+9359ddcd,Brian Sobrero,Brian Sobrero,ar ARG,MF,Always Ready,26,1998,10,1,348,3.9,5,2,7,4,1,1,1,0,1.29,0.52,1.81,1.03,1.55,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f27c21dd,Wilfredo Soleto,Wilfredo Soleto,bo BOL,DF,Indep Petrolero,28,1996,22,19,"1,732",19.2,0,1,1,0,0,0,6,1,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5db64d16,Marcelo Somoya,Marcelo Somoya,bo BOL,MF,The Strongest,20,2004,11,3,316,3.5,1,1,2,1,0,0,4,1,0.28,0.28,0.57,0.28,0.57,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+2045ef4a,Santiago Somoya,Santiago Somoya,bo BOL,DF,Always Ready,15,2009,1,0,45,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+63c86a06,Wilder Soto,Wilder Soto,bo BOL,FW,Wilstermann,21,2004,13,4,378,4.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+71844833,Gabriel Sotomayor,Gabriel Sotomayor,bo BOL,FW,The Strongest,25,1999,14,2,386,4.3,3,2,5,3,0,0,2,0,0.70,0.47,1.17,0.70,1.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8ed091e6,Richard Spenhay,Richard Spenhay,bo BOL,MF,Blooming,27,1997,28,27,"2,084",23.2,0,0,0,0,0,0,10,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f1da04ed,Carlos Suárez,Carlos Suárez,ve VEN,MF,San Antonio Bulo Bulo,32,1992,7,2,234,2.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4a4b89e9,Hector Suarez,Hector Suarez,bo BOL,MF,Blooming,20,2004,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8888873c,Marcelo Suarez,Marcelo Suarez,bo BOL,DF,Always Ready,23,2001,25,24,"2,104",23.4,3,2,5,3,0,0,4,2,0.13,0.09,0.21,0.13,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6592755c,Fran Supayabe,Fran Supayabe,bo BOL,DF,The Strongest,29,1996,9,4,374,4.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+bcac6451,Enrique Taborga,Enrique Taborga,bo BOL,DF,ABB,22,2002,9,8,757,8.4,2,0,2,1,1,1,3,0,0.24,0.00,0.24,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+bcac6451,Enrique Taborga,Enrique Taborga,bo BOL,DF,ABB,22,2002,9,8,757,8.4,2,0,2,1,1,1,3,0,0.24,0.00,0.24,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+bcac6451,Enrique Taborga,Enrique Taborga,bo BOL,DF,Always Ready,22,2002,3,2,136,1.5,0,1,1,0,0,0,0,0,0.00,0.66,0.66,0.00,0.66,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+bcac6451,Enrique Taborga,Enrique Taborga,bo BOL,DF,Always Ready,22,2002,3,2,136,1.5,0,1,1,0,0,0,0,0,0.00,0.66,0.66,0.00,0.66,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e0c13750,Gery Tapia,Gery Tapia,,FW,GV San José,,,5,5,372,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+1947a9ac,Makerlo Tellez,Makerlo Tellez,bo BOL,FW,Wilstermann,22,2002,14,13,"1,119",12.4,1,2,3,0,1,1,6,1,0.08,0.16,0.24,0.00,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a3eb6b73,Adalid Terrazas,Adalid Terrazas,bo BOL,MF,San Antonio Bulo Bulo,24,2000,17,16,"1,285",14.3,7,2,9,6,1,2,2,0,0.49,0.14,0.63,0.42,0.56,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e970b458,Alan Terrazas,Alan Terrazas,ar ARG,FW,Aurora,25,1999,18,17,"1,313",14.6,3,2,5,3,0,0,2,0,0.21,0.14,0.34,0.21,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+29350943,Joel Terrazas,Joel Terrazas,bo BOL,GK,Aurora,20,2004,8,7,635,7.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,4,3,11,3.60,3,275,2,2,0,0.0,0,,,,0,0,División de Fútbol Profesional,2025
+3fa66ebd,Renan Terrazas Soliz,Renan Terrazas Soliz,bo BOL,MF,Always Ready,18,2006,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3fa66ebd,Renan Terrazas Soliz,Renan Terrazas Soliz,bo BOL,MF,Always Ready,18,2006,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3fa66ebd,Renan Terrazas Soliz,Renan Terrazas Soliz,bo BOL,MF,ABB,18,2006,10,4,346,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3fa66ebd,Renan Terrazas Soliz,Renan Terrazas Soliz,bo BOL,MF,ABB,18,2006,10,4,346,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d84de9fb,Jairo Thomas,Jairo Thomas,bo BOL,MF,Real Oruro,24,2000,22,19,"1,571",17.5,0,1,1,0,0,0,6,0,0.00,0.06,0.06,0.00,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5f15302c,Thomaz,Thomaz,br BRA,MF,Indep Petrolero,38,1986,27,27,"2,244",24.9,5,12,17,1,4,4,6,0,0.20,0.48,0.68,0.04,0.52,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8fc13cd2,Tommy Tobar,Tommy Tobar,co COL,FW,FC Universitario,38,1986,11,9,768,8.5,2,0,2,2,0,0,4,0,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8fc13cd2,Tommy Tobar,Tommy Tobar,co COL,FW,FC Universitario,38,1986,11,9,768,8.5,2,0,2,2,0,0,4,0,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8fc13cd2,Tommy Tobar,Tommy Tobar,co COL,FW,Nacional Potosí,38,1986,5,4,329,3.7,3,1,4,3,0,0,1,1,0.82,0.27,1.09,0.82,1.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+8fc13cd2,Tommy Tobar,Tommy Tobar,co COL,FW,Nacional Potosí,38,1986,5,4,329,3.7,3,1,4,3,0,0,1,1,0.82,0.27,1.09,0.82,1.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+87dffd92,Mirko Tomianovic,Mirko Tomianovic,bo BOL,MF,Oriente Petrolero,23,2001,6,3,210,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+87dffd92,Mirko Tomianovic,Mirko Tomianovic,bo BOL,MF,Oriente Petrolero,23,2001,6,3,210,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+87dffd92,Mirko Tomianovic,Mirko Tomianovic,bo BOL,MF,Real Tomayapo,23,2001,11,3,365,4.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+87dffd92,Mirko Tomianovic,Mirko Tomianovic,bo BOL,MF,Real Tomayapo,23,2001,11,3,365,4.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+99c6d6ce,Kevin Torres,Kevin Torres,co COL,MF,Nacional Potosí,22,2002,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d522a78b,Saúl Torres,Saúl Torres,bo BOL,DF,Nacional Potosí,34,1990,28,22,"1,970",21.9,2,2,4,2,0,0,5,0,0.09,0.09,0.18,0.09,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+00ba62cd,Alejandro Torrez,Alejandro Torrez,bo BOL,GK,The Strongest,26,1998,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,1,1.00,0,90,0,0,0,,0,,,,0,1,División de Fútbol Profesional,2025
+93fb70a3,Daniel Torrez,Daniel Torrez,bo BOL,DF,Real Tomayapo,18,2006,7,7,487,5.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+44249332,Andrés Torrico,Andrés Torrico,bo BOL,MF,Nacional Potosí,20,2004,27,25,"2,228",24.8,2,1,3,2,0,0,2,0,0.08,0.04,0.12,0.08,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6b73ad87,Dario Torrico,Dario Torrico,bo BOL,MF,Always Ready,24,2000,30,28,"2,266",25.2,8,4,12,8,0,0,4,0,0.32,0.16,0.48,0.32,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+be7bcbe9,Didí Torrico,Didí Torrico,bo BOL,MF,Aurora,36,1988,22,22,"1,840",20.4,1,0,1,1,0,0,9,1,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+2bec1063,Jair Torrico,Jair Torrico,bo BOL,DF,Aurora,38,1986,27,24,"2,199",24.4,2,7,9,1,1,1,7,0,0.08,0.29,0.37,0.04,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3306b9e8,Enrique Triverio,Enrique Triverio,ar ARG,FW,The Strongest,36,1988,12,12,"1,037",11.5,7,2,9,6,1,1,4,1,0.61,0.17,0.78,0.52,0.69,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3306b9e8,Enrique Triverio,Enrique Triverio,ar ARG,FW,The Strongest,36,1988,12,12,"1,037",11.5,7,2,9,6,1,1,4,1,0.61,0.17,0.78,0.52,0.69,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3306b9e8,Enrique Triverio,Enrique Triverio,ar ARG,FW,Always Ready,36,1988,14,14,"1,220",13.6,4,5,9,4,0,1,1,0,0.30,0.37,0.66,0.30,0.66,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3306b9e8,Enrique Triverio,Enrique Triverio,ar ARG,FW,Always Ready,36,1988,14,14,"1,220",13.6,4,5,9,4,0,1,1,0,0.30,0.37,0.66,0.30,0.66,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+db8135d9,Enrique Troncoso,Enrique Troncoso,bo BOL,MF,Aurora,23,2001,3,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f087534d,Bismark Ubah,Bismark Ubah,ng NGA,FW,Indep Petrolero,31,1994,13,5,635,7.1,3,0,3,3,0,0,2,0,0.43,0.00,0.43,0.43,0.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6713da0e,Braulio Uraezaña,Braulio Uraezaña,bo BOL,GK,Blooming,29,1995,23,23,"2,018",22.4,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,13.0,23,23,36,1.61,8,"2,018",6,8,1,14.3,1,,,,4,11,División de Fútbol Profesional,2025
+6cc2be84,Diego Ureña,Diego Ureña,,,GV San José,,,10,7,657,7.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d029d606,Luciano Ursino,Luciano Ursino,bo BOL,MF,The Strongest,36,1988,14,8,755,8.4,1,3,4,1,0,0,4,0,0.12,0.36,0.48,0.12,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0212bed0,Javier Uzeda,Javier Uzeda,bo BOL,FW,Always Ready,22,2002,21,19,"1,345",14.9,2,7,9,2,0,0,0,0,0.13,0.47,0.60,0.13,0.60,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+04b47c99,Angel Vaca,Angel Vaca,bo BOL,MF,San Antonio Bulo Bulo,23,2002,2,0,11,0.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+b85390ea,Ervin Vaca,Ervin Vaca,bo BOL,MF,Bolívar,20,2004,24,15,"1,460",16.2,2,0,2,2,0,0,2,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+777c092b,Gonzalo Vaca,Gonzalo Vaca,bo BOL,DF,Real Tomayapo,22,2002,3,2,182,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+777c092b,Gonzalo Vaca,Gonzalo Vaca,bo BOL,DF,Real Tomayapo,22,2002,3,2,182,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+777c092b,Gonzalo Vaca,Gonzalo Vaca,bo BOL,DF,Guabirá,22,2002,5,4,373,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+777c092b,Gonzalo Vaca,Gonzalo Vaca,bo BOL,DF,Guabirá,22,2002,5,4,373,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6b14e687,Henry Vaca,Henry Vaca,bo BOL,FW,Oriente Petrolero,27,1998,15,7,775,8.6,1,2,3,1,0,0,6,0,0.12,0.23,0.35,0.12,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6b14e687,Henry Vaca,Henry Vaca,bo BOL,FW,Oriente Petrolero,27,1998,15,7,775,8.6,1,2,3,1,0,0,6,0,0.12,0.23,0.35,0.12,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6b14e687,Henry Vaca,Henry Vaca,bo BOL,FW,Bolívar,27,1998,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+6b14e687,Henry Vaca,Henry Vaca,bo BOL,FW,Bolívar,27,1998,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+624c6018,Leonardo Vaca,Leonardo Vaca,bo BOL,FW,ABB,29,1995,9,5,484,5.4,1,1,2,1,0,0,0,0,0.19,0.19,0.37,0.19,0.37,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+624c6018,Leonardo Vaca,Leonardo Vaca,bo BOL,FW,ABB,29,1995,9,5,484,5.4,1,1,2,1,0,0,0,0,0.19,0.19,0.37,0.19,0.37,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+624c6018,Leonardo Vaca,Leonardo Vaca,bo BOL,FW,Real Oruro,29,1995,13,8,779,8.7,0,5,5,0,0,0,2,0,0.00,0.58,0.58,0.00,0.58,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+624c6018,Leonardo Vaca,Leonardo Vaca,bo BOL,FW,Real Oruro,29,1995,13,8,779,8.7,0,5,5,0,0,0,2,0,0.00,0.58,0.58,0.00,0.58,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d5249e8b,Oscar Vaca,Oscar Vaca,bo BOL,MF,Aurora,36,1988,10,8,724,8.0,0,1,1,0,0,0,1,0,0.00,0.12,0.12,0.00,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f4773a5c,Pablo Vaca,Pablo Vaca,bo BOL,MF,Oriente Petrolero,22,2002,13,9,808,9.0,1,0,1,1,0,0,3,1,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+e7849712,Ramiro Vaca,Ramiro Vaca,bo BOL,MF,Bolívar,25,1999,7,6,577,6.4,0,7,7,0,0,0,1,0,0.00,1.09,1.09,0.00,1.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+34bef2df,Guido Vadalá,Guido Vadalá,ar ARG,"FW,MF",Blooming,27,1997,27,24,"2,043",22.7,10,6,16,9,1,1,6,1,0.44,0.26,0.70,0.40,0.66,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+00e0f042,Denilson Valda,Denilson Valda,bo BOL,DF,FC Universitario,27,1997,17,7,871,9.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5f241083,Sebastián Valdez,Sebastián Valdez,,MF,GV San José,,,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+57fe95e2,Diego Valdivia,Diego Valdivia,bo BOL,GK,The Strongest,23,2001,2,1,131,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,100.0,2,1,0,0.00,0,131,0,0,0,,0,,,,0,1,División de Fútbol Profesional,2025
+4d8fef83,Cristian Valencia,Cristian Valencia,co COL,DF,San Antonio Bulo Bulo,33,1991,14,12,"1,133",12.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0943b85f,Yerco Vallejos,Yerco Vallejos,bo BOL,FW,Real Oruro,29,1995,23,16,"1,233",13.7,3,1,4,3,0,1,10,1,0.22,0.07,0.29,0.22,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5b41c3de,Rodrigo Vargas Castillo,Rodrigo Vargas Castillo,bo BOL,FW,San Antonio Bulo Bulo,30,1994,8,4,309,3.4,3,0,3,3,0,0,0,0,0.87,0.00,0.87,0.87,0.87,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+15387a67,Diego Vargas,Diego Vargas,,DF,GV San José,,,23,14,"1,245",13.8,0,1,1,0,0,0,6,0,0.00,0.07,0.07,0.00,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+65cb823b,Fabio Vargas,Fabio Vargas,bo BOL,MF,Oriente Petrolero,20,2004,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ad7eaed8,Jhojan Vargas,Jhojan Vargas,bo BOL,FW,GV San José,19,2005,12,6,565,6.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+cb7c9dc4,Luis Vargas,Luis Vargas,bo BOL,MF,Guabirá,29,1996,10,4,366,4.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+fb32f91e,Anthony Vásquez,Anthony Vásquez,co COL,FW,San Antonio Bulo Bulo,22,2002,15,15,"1,179",13.1,12,1,13,9,3,3,1,0,0.92,0.08,0.99,0.69,0.76,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ff0f5d07,Fabricio Vasquez,Fabricio Vasquez,bo BOL,FW,GV San José,21,2003,20,14,"1,261",14.0,8,0,8,8,0,0,1,0,0.57,0.00,0.57,0.57,0.57,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+86fdcbdd,Erick Veizaga,Erick Veizaga,bo BOL,,Wilstermann,18,2007,5,0,158,1.8,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+87abaa31,Andy Jhoel Velasquez Velasco,Andy Jhoel Velasquez Velasco,bo BOL,,Wilstermann,17,2007,4,2,155,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+4d6192e1,Jose Velasco Moreno,Jose Velasco Moreno,bo BOL,FW,Oriente Petrolero,26,1998,11,9,823,9.1,0,1,1,0,0,0,3,1,0.00,0.11,0.11,0.00,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+24f23636,William Velasco,William Velasco,bo BOL,MF,Real Oruro,24,2000,9,1,232,2.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3bbac340,Emerson Velasquez,Emerson Velasquez,bo BOL,MF,Indep Petrolero,25,1999,12,12,928,10.3,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c90c6120,Jesus Velasquez,Jesus Velasquez,bo BOL,,Bolívar,18,2006,11,6,551,6.1,1,0,1,1,0,0,1,0,0.16,0.00,0.16,0.16,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+59d7849a,Jhon Velásquez,Jhon Velásquez,bo BOL,MF,Bolívar,21,2003,23,19,"1,685",18.7,10,10,20,10,0,0,3,0,0.53,0.53,1.07,0.53,1.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3fa02d86,Fellipe Veloso,Fellipe Veloso,br BRA,FW,Guabirá,31,1994,5,5,360,4.0,1,0,1,1,0,0,0,1,0.25,0.00,0.25,0.25,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+71e3ef9c,Fernando Vera,Fernando Vera,,,FC Universitario,,,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+eef32dc1,Jhunior Vera,Jhunior Vera,bo BOL,GK,FC Universitario,21,2003,17,16,"1,475",16.4,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,25.0,17,16,26,1.59,7,"1,475",1,2,0,50.0,1,,,,4,5,División de Fútbol Profesional,2025
+d0e52a2b,Leonardo Vera,Leonardo Vera,ar ARG,MF,Real Tomayapo,30,1994,11,8,679,7.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c6735ac8,José Verdún,José Verdún,py PAR,FW,Aurora,32,1992,6,1,153,1.7,0,1,1,0,0,0,1,0,0.00,0.59,0.59,0.00,0.59,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+01e760e5,Iván Vidaurre,Iván Vidaurre,bo BOL,MF,Aurora,37,1987,15,13,"1,016",11.3,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+81eacbcd,Bruno Vides,Bruno Vides,ar ARG,"FW,MF",GV San José,31,1993,6,3,317,3.5,3,1,4,0,3,3,2,0,0.85,0.28,1.14,0.00,0.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+d2ba4f99,Julio Vila,Julio Vila,ar ARG,DF,Real Oruro,29,1996,27,27,"2,426",27.0,2,0,2,2,0,0,7,1,0.07,0.00,0.07,0.07,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+692f68f6,Damián Villalba,Damián Villalba,ar ARG,FW,Indep Petrolero,33,1991,28,24,"2,053",22.8,25,1,26,25,0,0,3,0,1.10,0.04,1.14,1.10,1.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+34710e8f,Jaime Villamil,Jaime Villamil,bo BOL,DF,GV San José,32,1992,14,8,807,9.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+59e205c0,Sergio Villamil,Sergio Villamil,bo BOL,MF,GV San José,30,1994,27,23,"1,872",20.8,1,1,2,1,0,0,7,1,0.05,0.05,0.10,0.05,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+5c3b0925,Moisés Villarroel Angulo,Moisés Villarroel Angulo,bo BOL,MF,Blooming,26,1998,28,26,"2,254",25.0,9,3,12,8,1,1,5,0,0.36,0.12,0.48,0.32,0.44,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+ae557d57,Miguel Villarroel,Miguel Villarroel,bo BOL,FW,Guabirá,22,2003,14,4,485,5.4,1,0,1,1,0,0,0,0,0.19,0.00,0.19,0.19,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+c4d7eea9,Nicolás Villarroel,Nicolás Villarroel,bo BOL,DF,Wilstermann,17,2007,25,24,"2,082",23.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f0131b85,Sebastian Villarroel,Sebastian Villarroel,bo BOL,,San Antonio Bulo Bulo,17,2007,4,4,225,2.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+142bcd12,Jefferson Virreira,Jefferson Virreira,bo BOL,DF,Real Oruro,28,1997,4,1,118,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7dc863c0,Sebastián Viveros,Sebastián Viveros,co COL,MF,San Antonio Bulo Bulo,27,1997,6,3,271,3.0,1,0,1,1,0,0,4,0,0.33,0.00,0.33,0.33,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+a62a4be8,Leonardo Viviani,Leonardo Viviani,bo BOL,FW,Aurora,17,2007,22,14,"1,392",15.5,7,2,9,7,0,0,3,1,0.45,0.13,0.58,0.45,0.58,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3e10021a,Diego Wayar,Diego Wayar,bo BOL,MF,Real Tomayapo,31,1993,5,1,151,1.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+086cb2c0,Wesley,Wesley,br BRA,FW,Aurora,27,1997,7,0,101,1.1,1,0,1,1,0,0,0,0,0.89,0.00,0.89,0.89,0.89,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+911d3312,Willie,Willie,br BRA,MF,Indep Petrolero,31,1993,23,15,"1,329",14.8,5,4,9,5,0,0,4,1,0.34,0.27,0.61,0.34,0.61,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+05c3e4f3,Lider Yanarico,Lider Yanarico,bo BOL,DF,The Strongest,18,2006,4,1,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+05c3e4f3,Lider Yanarico,Lider Yanarico,bo BOL,DF,The Strongest,18,2006,4,1,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+05c3e4f3,Lider Yanarico,Lider Yanarico,bo BOL,DF,San Antonio Bulo Bulo,18,2006,11,2,367,4.1,0,1,1,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+05c3e4f3,Lider Yanarico,Lider Yanarico,bo BOL,DF,San Antonio Bulo Bulo,18,2006,11,2,367,4.1,0,1,1,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+34a261ca,Jonathan Yarvi,Jonathan Yarvi,,MF,Real Tomayapo,,,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+3509576f,Cesar Yucra,Cesar Yucra,bo BOL,MF,San Antonio Bulo Bulo,21,2003,3,0,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+2a33e063,Diego Zamora,Diego Zamora,bo BOL,GK,Real Oruro,31,1993,6,6,540,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,6,6,18,3.00,4,540,0,1,0,100.0,1,,,,1,1,División de Fútbol Profesional,2025
+57d29667,Fabio Zamora,Fabio Zamora,bo BOL,MF,ABB,19,2005,5,4,235,2.6,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+699777b8,Rodrigo Zamora,Rodrigo Zamora,,,Indep Petrolero,,,4,1,107,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0d7d2ee7,Luis Zeballos,Luis Zeballos,bo BOL,FW,Nacional Potosí,22,2002,6,2,213,2.4,1,0,1,1,0,0,1,0,0.42,0.00,0.42,0.42,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0d7d2ee7,Luis Zeballos,Luis Zeballos,bo BOL,FW,Nacional Potosí,22,2002,6,2,213,2.4,1,0,1,1,0,0,1,0,0.42,0.00,0.42,0.42,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0d7d2ee7,Luis Zeballos,Luis Zeballos,bo BOL,FW,Oriente Petrolero,22,2002,3,2,142,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+0d7d2ee7,Luis Zeballos,Luis Zeballos,bo BOL,FW,Oriente Petrolero,22,2002,3,2,142,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+7b8cc221,Sebastián Zeballos,Sebastián Zeballos,ar ARG,FW,Real Oruro,23,2001,28,26,"2,046",22.7,12,3,15,10,2,2,3,0,0.53,0.13,0.66,0.44,0.57,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+f817b073,Jhojan Zenteno,Jhojan Zenteno,bo BOL,MF,Wilstermann,17,2007,1,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025
+1e9606b0,Santiago Zotes,Santiago Zotes,bo BOL,GK,Wilstermann,20,2004,8,8,720,8.0,0,1,1,0,0,0,0,0,0.00,0.12,0.12,0.00,0.12,Matches,,,,,,,,1,12.5,8,8,21,2.62,5,720,1,1,0,0.0,0,,,,1,2,División de Fútbol Profesional,2025
+d8b6a2a5,Alexander Zurita,Alexander Zurita,ar ARG,DF,Real Oruro,27,1997,7,5,493,5.5,1,0,1,1,0,0,1,0,0.18,0.00,0.18,0.18,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,División de Fútbol Profesional,2025

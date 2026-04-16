@@ -1,0 +1,823 @@
+﻿PlayerID,Name,player,nationality,position,team,age,birth_year,games,games_starts,minutes,minutes_90s,goals,assists,goals_assists,goals_pens,pens_made,pens_att,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,goals_pens_per90,goals_assists_pens_per90,matches,goals_per_shot,goals_per_shot_on_target,shots,shots_on_target,shots_on_target_pct,shots_on_target_per90,shots_per90,gk_clean_sheets,gk_clean_sheets_pct,gk_games,gk_games_starts,gk_goals_against,gk_goals_against_per90,gk_losses,gk_minutes,gk_pens_allowed,gk_pens_att,gk_pens_missed,gk_pens_save_pct,gk_pens_saved,gk_save_pct,gk_saves,gk_shots_on_target_against,gk_ties,gk_wins,League,Season
+44e4dfab,Jalal Abdulai,Jalal Abdulai,gh GHA,FW,Molde,21-099,2005,3,3,213,2.4,1,0,1,1,0,0,0,0,0.42,0.00,0.42,0.42,0.42,Matches,0.14,0.50,7,2,28.6,0.85,2.96,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3535a2cc,Mame Alassane Niang,Mame Alassane Niang,sn SEN,FW,HamKam,20-076,2006,2,1,102,1.1,1,0,1,1,0,0,0,0,0.88,0.00,0.88,0.88,0.88,Matches,0.50,1.00,2,1,50.0,0.88,1.76,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4085f08e,Haitam Aleesami,Haitam Aleesami,no NOR,DF,Bodø/Glimt,34-257,1991,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c1b0406f,Ruben Alte,Ruben Alte,no NOR,MF,Sandefjord,26-045,2000,2,0,64,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,2.81,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+280c37e9,Leander Alvheim,Leander Alvheim,no NOR,FW,Kristiansund,21-211,2004,2,1,118,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,2,40.0,1.53,3.81,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+a515f700,Brice Ambina,Brice Ambina,cm CMR,MF,Vålerenga,24-148,2001,3,0,62,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.45,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+1e6e37cb,James Ampofo,James Ampofo,gh GHA,FW,Start,22-176,2003,2,1,100,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,2.70,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+7fdb872a,Isak Amundsen,Isak Amundsen,no NOR,DF,Molde,26-182,1999,2,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+8f5996c3,Ethan Amundsen-Day,Ethan Amundsen-Day,no NOR,DF,HamKam,20-340,2005,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3724baa1,Fredrik André Bjørkan,Fredrik André Bjørkan,no NOR,DF,Bodø/Glimt,27-236,1998,2,2,152,1.7,1,0,1,1,0,0,0,0,0.59,0.00,0.59,0.59,0.59,Matches,1.00,1.00,1,1,100.0,0.59,0.59,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+ccf83ecd,Tore André Sørås,Tore André Sørås,no NOR,MF,KFUM Oslo,27-300,1998,2,2,138,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,1.96,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+b44abbe1,Aleksander Andresen,Aleksander Andresen,no NOR,FW,Fredrikstad,21-008,2005,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,8.18,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+e0755896,Marius Andresen,Marius Andresen,no NOR,DF,Aalesund,26-114,1999,1,1,45,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,4.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f816d98c,Viðar Ari Jónsson,Viðar Ari Jónsson,is ISL,"DF,FW",HamKam,32-035,1994,2,0,51,0.6,0,1,1,0,0,0,0,0,0.00,1.76,1.76,0.00,1.76,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+341eae2d,Kparobo Arierhi,Kparobo Arierhi,ng NGA,FW,Lillestrøm,19-093,2007,2,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,9.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+a69cc629,Kristoffer Askildsen,Kristoffer Askildsen,no NOR,MF,Viking,25-095,2001,4,4,312,3.5,1,0,1,1,0,0,2,0,0.29,0.00,0.29,0.29,0.29,Matches,0.13,1.00,8,1,12.5,0.29,2.31,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+2aa3ec53,Philip Aukland,Philip Aukland,no NOR,DF,Aalesund,27-105,1998,4,4,343,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.52,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+aa744585,Sondre Auklend,Sondre Auklend,no NOR,MF,Bodø/Glimt,22-308,2003,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,3,60.0,2.00,3.33,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+d8574eb8,Vetle Auklend,Vetle Auklend,no NOR,MF,Viking,21-023,2005,2,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+63b56730,Johan Bakke,Johan Bakke,no NOR,"MF,FW",Rosenborg,22-013,2004,3,2,168,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.54,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+0c38886e,Krzysztof Bąkowski,Krzysztof Bąkowski,pl POL,GK,KFUM Oslo,23-100,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,50.0,2,2,3,1.50,1,180,0,0,0,,0,66.7,6,9,0,1,Eliteserien,2026
+db15c677,Daniel Bassi,Daniel Bassi,no NOR,FW,Bodø/Glimt,21-165,2004,1,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+7825847e,Joe Bell,Joe Bell,nz NZL,MF,Viking,26-352,1999,4,4,360,4.0,0,1,1,0,0,0,0,0,0.00,0.25,0.25,0.00,0.25,Matches,0.00,0.00,4,1,25.0,0.25,1.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+e4114f5d,Patrick Berg,Patrick Berg,no NOR,MF,Bodø/Glimt,28-141,1997,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.50,1.50,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+e430080b,Bendik Berntsen,Bendik Berntsen,no NOR,MF,Sandefjord,18-362,2007,2,1,65,0.7,0,1,1,0,0,0,1,0,0.00,1.38,1.38,0.00,1.38,Matches,0.00,,1,0,0.0,0.00,1.38,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+7e2c5d75,Henrik Bjørdal,Henrik Bjørdal,no NOR,"FW,MF",Vålerenga,29-069,1997,4,4,355,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,2,25.0,0.51,2.03,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+d9e76115,Sondre Bjørshol,Sondre Bjørshol,no NOR,DF,Viking,31-349,1994,2,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,2.73,2.73,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+49399401,Odin Bjørtuft,Odin Bjørtuft,no NOR,DF,Bodø/Glimt,27-116,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c33f3864,Simen Bolkan Nordli,Simen Bolkan Nordli,no NOR,MF,Rosenborg,26-110,1999,2,1,61,0.7,1,0,1,1,0,0,0,0,1.48,0.00,1.48,1.48,1.48,Matches,0.33,1.00,3,1,33.3,1.48,4.43,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+a83a0dab,Mads Bomholt,Mads Bomholt,dk DEN,"MF,FW",Rosenborg,20-105,2005,4,4,360,4.0,1,0,1,1,0,0,1,0,0.25,0.00,0.25,0.25,0.25,Matches,0.13,0.50,8,2,25.0,0.50,2.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+907dc354,Daniel Braut,Daniel Braut,no NOR,FW,Tromsø,20-348,2005,4,1,135,1.5,2,0,2,2,0,0,0,0,1.33,0.00,1.33,1.33,1.33,Matches,0.67,1.00,3,2,66.7,1.33,2.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+611f4f60,Emil Breivik,Emil Breivik,no NOR,"FW,MF",Molde,25-307,2000,4,4,360,4.0,4,0,4,4,0,0,0,0,1.00,0.00,1.00,1.00,1.00,Matches,0.36,0.80,11,5,45.5,1.25,2.75,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c1d9bf1f,Sondre Brunstad Fet,Sondre Brunstad Fet,no NOR,MF,Bodø/Glimt,29-087,1997,2,2,142,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+5f004975,Heine Bruseth,Heine Bruseth,no NOR,"MF,FW",Kristiansund,22-008,2004,3,3,259,2.9,0,1,1,0,0,0,2,0,0.00,0.35,0.35,0.00,0.35,Matches,0.00,,1,0,0.0,0.00,0.35,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+fa51e105,Håkon Butli Hammer,Håkon Butli Hammer,no NOR,MF,Aalesund,26-017,2000,4,2,197,2.2,0,1,1,0,0,0,1,0,0.00,0.46,0.46,0.00,0.46,Matches,0.00,,2,0,0.0,0.00,0.91,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+d234b7e7,Anders Bærtelsen,Anders Bærtelsen,dk DEN,DF,Viking,25-340,2000,2,0,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,1.00,2.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+6ace6343,Anders Børset,Anders Børset,no NOR,DF,Kristiansund,20-051,2006,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+fbbd2476,Martin Børsheim,Martin Børsheim,no NOR,GK,Fredrikstad,21-055,2005,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,4,4,8,2.00,1,360,0,0,0,,0,70.4,19,27,1,2,Eliteserien,2026
+98a84572,Emil Ceide,Emil Ceide,no NOR,MF,Rosenborg,24-223,2001,4,4,358,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.25,1.51,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+1318200b,Mikkel Ceide,Mikkel Ceide,no NOR,DF,Rosenborg,24-223,2001,3,3,256,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+1553a7c4,Uba Charles Nwokoma,Uba Charles Nwokoma,ng NGA,DF,Aalesund,23-186,2002,3,2,169,1.9,0,1,1,0,0,0,0,0,0.00,0.53,0.53,0.00,0.53,Matches,0.00,0.00,1,1,100.0,0.53,0.53,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+53955b35,Amin Chiakha,Amin Chiakha,dz ALG,"FW,MF",Rosenborg,20-033,2006,4,4,350,3.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.77,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+324ff0da,Jacob Christensen,Jacob Christensen,dk DEN,MF,Molde,24-293,2001,4,4,304,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,2,40.0,0.59,1.48,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+68bb659d,Mathias Christensen,Mathias Christensen,,MF,Aalesund,24-155,2001,4,4,318,3.5,0,1,1,0,0,0,0,0,0.00,0.28,0.28,0.00,0.28,Matches,0.00,,2,0,0.0,0.00,0.57,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+6f8fc4e0,Ole Christian Sæter,Ole Christian Sæter,no NOR,FW,Vålerenga,30-015,1996,4,1,103,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.87,2.62,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+ffe0853e,Peter Christiansen,Peter Christiansen,dk DEN,FW,Viking,26-133,1999,3,3,251,2.8,1,3,4,1,0,0,1,0,0.36,1.08,1.43,0.36,1.43,Matches,0.13,0.50,8,2,25.0,0.72,2.87,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+15275ec6,Sander Christiansen,Sander Christiansen,no NOR,"DF,MF",Sarpsborg 08,24-350,2001,1,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,3.33,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+85f6fdda,Jesper Cornelius,Jesper Cornelius,dk DEN,FW,Start,24-292,2001,4,4,325,3.6,1,0,1,1,0,1,0,0,0.28,0.00,0.28,0.28,0.28,Matches,0.14,1.00,7,1,14.3,0.28,1.94,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+b3f8e966,Leo Cornic,Leo Cornic,no NOR,DF,Tromsø,25-102,2001,4,4,345,3.8,0,1,1,0,0,0,0,0,0.00,0.26,0.26,0.00,0.26,Matches,0.00,0.00,6,6,100.0,1.57,1.57,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+474beb8b,Jón Dagur Þorsteinsson,Jón Dagur Þorsteinsson,is ISL,FW,Brann,27-139,1998,4,4,279,3.1,1,0,1,1,0,0,1,0,0.32,0.00,0.32,0.32,0.32,Matches,0.10,0.50,10,2,20.0,0.65,3.23,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+6b14ce11,Erlend Dahl Reitan,Erlend Dahl Reitan,no NOR,DF,Start,28-215,1997,4,4,359,4.0,1,0,1,1,0,0,1,0,0.25,0.00,0.25,0.25,0.25,Matches,0.50,0.50,2,2,100.0,0.50,0.50,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+50be12ac,Tobias Dahl,Tobias Dahl,no NOR,DF,Rosenborg,21-092,2005,3,2,238,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+2475b06e,Pontus Dahlberg,Pontus Dahlberg,se SWE,GK,Lillestrøm,27-083,1999,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,33.3,3,3,2,0.67,0,270,0,0,0,,0,86.7,13,15,0,3,Eliteserien,2026
+3041c55c,Deni Dashaev,Deni Dashaev,no NOR,DF,Start,21-162,2004,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f5891ed1,Denzel De Roeve,Denzel De Roeve,be BEL,DF,Brann,21-247,2004,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,0.50,1.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+250abfbf,Ole Didrik Blomberg,Ole Didrik Blomberg,no NOR,FW,Bodø/Glimt,25-306,2000,2,2,149,1.7,1,1,2,1,0,0,1,0,0.60,0.60,1.21,0.60,1.21,Matches,0.33,0.50,3,2,66.7,1.21,1.81,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+69ef5362,Ivan Djantou,Ivan Djantou,cm CMR,FW,Aalesund,24-031,2002,3,1,85,0.9,1,0,1,1,0,0,0,0,1.06,0.00,1.06,1.06,1.06,Matches,0.33,0.50,3,2,66.7,2.12,3.18,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+55f40df2,Trent Doherty,Trent Doherty,ie IRL,MF,Molde,19-288,2006,4,2,162,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,4,80.0,2.22,2.78,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+6062bd22,Vetle Dragsnes,Vetle Dragsnes,no NOR,DF,Brann,32-067,1994,1,1,75,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f195e2b9,Salieu Drammeh,Salieu Drammeh,gm GAM,"MF,FW",Lillestrøm,23-017,2003,3,3,244,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,2,33.3,0.74,2.21,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+31d53305,Jakob Dunsby,Jakob Dunsby,no NOR,MF,Sandefjord,26-032,2000,4,4,339,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,10,5,50.0,1.33,2.65,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+5e0a43de,Dávid Ďuriš,Dávid Ďuriš,sk SVK,MF,Rosenborg,27-023,1999,1,1,59,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,1.53,3.05,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+00a0b181,Mathias Dyngeland,Mathias Dyngeland,no NOR,GK,Brann,30-189,1995,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,4,4,7,1.75,3,360,1,1,0,0.0,0,60.0,9,15,0,1,Eliteserien,2026
+e50c518b,Robin Dzabic,Robin Dzabic,se SWE,MF,Sandefjord,25-011,2001,2,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+558e1c93,David Edvardsson,David Edvardsson,se SWE,MF,Tromsø,24-040,2002,4,4,356,4.0,0,1,1,0,0,0,0,0,0.00,0.25,0.25,0.00,0.25,Matches,0.00,,1,0,0.0,0.00,0.25,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+fed7524b,Vetle Egeli,Vetle Egeli,no NOR,DF,Sandefjord,21-295,2004,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,2,28.6,0.50,1.75,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+a0313275,Vegar Eggen Hedenstad,Vegar Eggen Hedenstad,no NOR,"DF,MF",Vålerenga,34-292,1991,1,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+9a12e666,Daniel Eid,Daniel Eid,no NOR,DF,Fredrikstad,27-182,1998,3,3,269,3.0,1,0,1,1,0,0,0,0,0.33,0.00,0.33,0.33,0.33,Matches,0.25,0.50,4,2,50.0,0.67,1.34,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+9a88cf0e,Viktor Ekblom,Viktor Ekblom,se SWE,FW,Tromsø,27-273,1998,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4baa5459,Anton Ekeroth,Anton Ekeroth,se SWE,DF,HamKam,24-210,2001,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.67,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+fde057a7,Emil Engqvist,Emil Engqvist,se SWE,DF,Aalesund,26-322,1999,2,1,97,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4353dd07,Kristian Eriksen,Kristian Eriksen,no NOR,MF,Brann,30-270,1995,2,1,103,1.1,1,1,2,1,0,0,0,0,0.87,0.87,1.75,0.87,1.75,Matches,0.20,0.50,5,2,40.0,1.75,4.37,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4353dd07,Kristian Eriksen,Kristian Eriksen,no NOR,MF,Brann,30-270,1995,2,1,103,1.1,1,1,2,1,0,0,0,0,0.87,0.87,1.75,0.87,1.75,Matches,0.00,,2,0,0.0,0.00,1.09,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4353dd07,Kristian Eriksen,Kristian Eriksen,no NOR,"MF,FW",Molde,30-270,1995,2,2,165,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.20,0.50,5,2,40.0,1.75,4.37,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4353dd07,Kristian Eriksen,Kristian Eriksen,no NOR,"MF,FW",Molde,30-270,1995,2,2,165,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.09,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+d019d5db,Håkon Evjen,Håkon Evjen,no NOR,MF,Bodø/Glimt,26-059,2000,2,1,73,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.23,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+57fe6b9b,Henrik Falchener,Henrik Falchener,no NOR,DF,Viking,22-341,2003,4,4,315,3.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.29,0.57,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+78699620,Bård Finne,Bård Finne,no NOR,FW,Brann,31-060,1995,4,4,268,3.0,2,2,4,2,0,0,0,0,0.67,0.67,1.34,0.67,1.34,Matches,0.25,0.40,8,5,62.5,1.68,2.69,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+499f3876,Kolbeinn Finnsson,Kolbeinn Finnsson,is ISL,DF,Vålerenga,26-232,1999,4,4,360,4.0,0,1,1,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches,0.00,0.00,3,2,66.7,0.50,0.75,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+78080323,Frederik Flex,Frederik Flex,dk DEN,DF,Kristiansund,22-034,2004,2,2,168,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.54,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+dd6c1712,Sander Foss,Sander Foss,no NOR,DF,Lillestrøm,27-104,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+ce218223,Iver Fossum,Iver Fossum,no NOR,MF,Rosenborg,29-273,1996,4,3,220,2.4,0,1,1,0,0,0,0,0,0.00,0.41,0.41,0.00,0.41,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c3599514,Apetorgbor Foster,Apetorgbor Foster,gh GHA,MF,Sandefjord,18-044,2008,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,45.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f8242397,Ulrik Fredriksen,Ulrik Fredriksen,no NOR,DF,Fredrikstad,26-301,1999,4,4,341,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.26,0.79,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+15e3f477,Niklas Fuglestad,Niklas Fuglestad,no NOR,MF,Viking,19-329,2006,4,3,196,2.2,2,0,2,2,0,0,0,0,0.92,0.00,0.92,0.92,0.92,Matches,0.29,0.67,7,3,42.9,1.38,3.21,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+9e64fc85,Ruben Gabrielsen,Ruben Gabrielsen,no NOR,DF,Lillestrøm,34-035,1992,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f0d43928,Espen Garnås,Espen Garnås,no NOR,DF,Lillestrøm,31-104,1994,1,1,80,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+cad096f7,Lukas Gausdal,Lukas Gausdal,no NOR,MF,Start,18-359,2007,4,1,118,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.76,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+ad3a6904,Martin Gjone,Martin Gjone,no NOR,DF,HamKam,20-320,2005,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,0.67,1.33,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+0c194795,Eron Gojani,Eron Gojani,ee EST,DF,HamKam,19-133,2006,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3afe41f1,Julian Gonstad,Julian Gonstad,no NOR,FW,HamKam,19-289,2006,3,2,152,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.59,1.78,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+46ea4e5b,Eirik Granaas,Eirik Granaas,no NOR,MF,Fredrikstad,16-021,2010,3,0,33,0.4,1,0,1,1,0,0,1,0,2.73,0.00,2.73,2.73,2.73,Matches,0.50,1.00,2,1,50.0,2.73,5.45,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4ee141ed,Sondre Granaas,Sondre Granaas,no NOR,MF,Molde,19-227,2006,2,0,35,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,2.57,2.57,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+49a5c1a8,Mathias Grundetjern,Mathias Grundetjern,no NOR,FW,Vålerenga,25-263,2000,4,3,244,2.7,1,0,1,1,0,0,0,0,0.37,0.00,0.37,0.37,0.37,Matches,0.20,0.33,5,3,60.0,1.11,1.84,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f6e8ee38,Magnus Grødem,Magnus Grødem,no NOR,MF,KFUM Oslo,27-243,1998,3,0,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,1.64,4.91,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+60f95638,Tobias Guddal,Tobias Guddal,no NOR,DF,Tromsø,23-263,2002,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,7,0,0.0,0.00,1.75,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+7b33b227,Bop Guèye,Bop Guèye,sn SEN,MF,Sarpsborg 08,19-039,2007,2,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,3.91,3.91,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+b686f4c0,Fredrik Gulbrandsen,Fredrik Gulbrandsen,no NOR,"FW,MF",Molde,33-216,1992,4,0,127,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.71,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+bf4aca93,Jostein Gundersen,Jostein Gundersen,no NOR,DF,Bodø/Glimt,30-012,1996,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+86239fc8,Alexander Gurendal,Alexander Gurendal,no NOR,FW,Start,21-043,2005,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+aa5b60de,Ólafur Guðmundsson,Ólafur Guðmundsson,is ISL,DF,Aalesund,24-027,2002,3,2,179,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4b80d399,Markus Haaland,Markus Haaland,no NOR,MF,Brann,21-037,2005,4,0,80,0.9,1,0,1,1,0,0,0,0,1.13,0.00,1.13,1.13,1.13,Matches,0.25,0.50,4,2,50.0,2.25,4.50,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+6c43465f,Elias Hadaya,Elias Hadaya,sy SYR,GK,Sandefjord,27-226,1998,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,25.0,4,4,4,1.00,2,360,1,1,0,0.0,0,78.6,11,14,0,2,Eliteserien,2026
+7673e4bc,Elias Hagen,Elias Hagen,no NOR,MF,Vålerenga,26-084,2000,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+7673e4bc,Elias Hagen,Elias Hagen,no NOR,MF,Vålerenga,26-084,2000,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+7673e4bc,Elias Hagen,Elias Hagen,no NOR,MF,Aalesund,26-084,2000,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+7673e4bc,Elias Hagen,Elias Hagen,no NOR,MF,Aalesund,26-084,2000,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+60831426,Nikita Haikin,Nikita Haikin,ru RUS,GK,Bodø/Glimt,30-277,1995,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,50.0,2,2,5,2.50,1,180,0,0,0,,0,54.5,6,11,0,1,Eliteserien,2026
+8c494879,Teodor Haltvik,Teodor Haltvik,no NOR,FW,KFUM Oslo,26-005,2000,4,4,343,3.8,3,0,3,3,0,0,0,0,0.79,0.00,0.79,0.79,0.79,Matches,0.30,0.60,10,5,50.0,1.31,2.62,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+b0e2aed8,Victor Halvorsen,Victor Halvorsen,no NOR,MF,Sarpsborg 08,21-285,2004,3,3,234,2.6,0,1,1,0,0,0,0,0,0.00,0.38,0.38,0.00,0.38,Matches,0.00,,1,0,0.0,0.00,0.38,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+760809c1,Jakob Hansen,Jakob Hansen,no NOR,MF,Viking,20-302,2005,4,1,105,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.86,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+42c61698,Mikkel Hansen,Mikkel Hansen,dk DEN,FW,Bodø/Glimt,17-079,2009,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,6.43,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+72f0af6c,Sivert Hansen,Sivert Hansen,no NOR,DF,Molde,23-319,2002,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.25,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+dbfa5332,Jacob Hanstad,Jacob Hanstad,no NOR,MF,Sandefjord,23-163,2002,2,0,48,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+cad9feb8,Simen Haram,Simen Haram,no NOR,DF,Aalesund,21-078,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+8b41b144,Lucas Haren,Lucas Haren,dk DEN,MF,Vålerenga,28-183,1997,3,1,144,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.62,1.25,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+142741bb,Jakob Haugaard,Jakob Haugaard,dk DEN,GK,Tromsø,33-348,1992,4,4,360,4.0,0,1,1,0,0,0,0,0,0.00,0.25,0.25,0.00,0.25,Matches,,,0,0,,0.00,0.00,3,75.0,4,4,1,0.25,0,360,0,0,0,,0,83.3,5,6,0,4,Eliteserien,2026
+857411ed,Eirik Haugan,Eirik Haugan,no NOR,DF,Molde,28-230,1997,3,1,79,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,1.14,2.28,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+a5a9814c,Haakon Haugen,Haakon Haugen,no NOR,"MF,DF",Kristiansund,19-094,2007,3,3,225,2.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.40,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+da9f4fa3,Herman Haugen,Herman Haugen,no NOR,MF,Viking,25-354,2000,4,1,138,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.65,1.30,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+52d7f819,Kristoffer Haugen,Kristoffer Haugen,no NOR,DF,Viking,32-052,1994,4,4,347,3.9,0,1,1,0,0,0,0,0,0.00,0.26,0.26,0.00,0.26,Matches,0.00,0.00,5,2,40.0,0.52,1.30,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+cd775f17,Oscar Hedvall,Oscar Hedvall,dk DEN,GK,Vålerenga,27-248,1998,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,50.0,4,4,2,0.50,1,360,0,1,0,100.0,1,81.8,10,11,1,2,Eliteserien,2026
+8a3aabc1,Henrik Heggheim,Henrik Heggheim,no NOR,DF,Viking,24-357,2001,4,4,332,3.7,2,0,2,2,0,0,2,0,0.54,0.00,0.54,0.54,0.54,Matches,0.67,1.00,3,2,66.7,0.54,0.81,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+315e74cf,Eirik Hestad,Eirik Hestad,no NOR,MF,Molde,30-292,1995,3,2,185,2.1,1,0,1,1,0,0,2,0,0.49,0.00,0.49,0.49,0.49,Matches,0.25,1.00,4,1,25.0,0.49,1.95,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4fb076ca,Simen Hestnes,Simen Hestnes,no NOR,MF,KFUM Oslo,30-068,1996,4,4,360,4.0,1,0,1,1,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches,0.17,0.33,6,3,50.0,0.75,1.50,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+6fede8ed,Anders Hiim,Anders Hiim,no NOR,DF,Sarpsborg 08,23-213,2002,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c232eadd,Jens Hjertø-Dahl,Jens Hjertø-Dahl,no NOR,MF,Tromsø,20-165,2005,3,3,256,2.8,4,0,4,4,0,0,0,0,1.41,0.00,1.41,1.41,1.41,Matches,0.27,0.57,15,7,46.7,2.46,5.27,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4cda048f,Jonas Hjorth,Jonas Hjorth,no NOR,"DF,MF",KFUM Oslo,25-074,2001,4,3,216,2.4,0,2,2,0,0,0,0,0,0.00,0.83,0.83,0.00,0.83,Matches,0.00,0.00,4,1,25.0,0.42,1.67,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+7b462b1e,Vebjørn Hoff,Vebjørn Hoff,no NOR,MF,Molde,30-060,1996,4,4,341,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c0243229,Ian Hoffmann,Ian Hoffmann,us USA,DF,HamKam,24-218,2001,3,3,219,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.41,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+61b77d0a,Noah Holm,Noah Holm,no NOR,FW,Brann,24-326,2001,4,4,354,3.9,1,2,3,1,0,0,1,0,0.25,0.51,0.76,0.25,0.76,Matches,0.06,0.25,18,4,22.2,1.02,4.58,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+a5c20dfb,Samuel Holm,Samuel Holm,se SWE,MF,Fredrikstad,28-187,1997,4,2,242,2.7,1,0,1,1,0,0,0,0,0.37,0.00,0.37,0.37,0.37,Matches,0.25,1.00,4,1,25.0,0.37,1.49,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3dddb2e4,Fredrik Holmé,Fredrik Holmé,no NOR,DF,Fredrikstad,24-265,2001,3,3,217,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.41,2.07,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f6f90201,Rasmus Holten,Rasmus Holten,no NOR,DF,Brann,21-053,2005,3,2,168,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+aa424ade,Håkon Hoseth,Håkon Hoseth,no NOR,"MF,DF",KFUM Oslo,27-026,1999,4,2,204,2.3,1,0,1,1,0,0,1,0,0.44,0.00,0.44,0.44,0.44,Matches,0.25,0.50,4,2,50.0,0.88,1.76,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+1daa205b,Ylldren Ibrahimaj,Ylldren Ibrahimaj,xk KVX,MF,Lillestrøm,30-111,1995,3,3,270,3.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,5,0,0.0,0.00,1.67,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+6c82dc4f,Wilfred Igor,Wilfred Igor,ng NGA,MF,Kristiansund,21-053,2005,3,3,268,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.34,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f512a009,Jo Inge Berget,Jo Inge Berget,no NOR,"FW,MF",Sarpsborg 08,35-215,1990,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+5e388ecf,Bjørn Inge Utvik,Bjørn Inge Utvik,no NOR,DF,Sarpsborg 08,30-045,1996,3,3,270,3.0,0,1,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,0.00,0.00,1,1,100.0,0.33,0.33,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+dbf63d0f,Sander Innvær,Sander Innvær,no NOR,MF,Tromsø,21-185,2004,2,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+bc55e9d8,Mustapha Isah,Mustapha Isah,ng NGA,FW,Kristiansund,21-265,2004,3,3,208,2.3,1,0,1,0,1,1,0,0,0.43,0.00,0.43,0.00,0.00,Matches,0.00,0.00,5,3,60.0,1.30,2.16,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+721608e5,Dino Islamović,Dino Islamović,me MNE,FW,Rosenborg,32-087,1994,4,2,235,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.38,1.53,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+a9047a57,Blerton Isufi,Blerton Isufi,no NOR,MF,Molde,20-059,2006,2,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,3.60,7.20,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+bdcddafc,Omar Jebali,Omar Jebali,tn TUN,DF,Start,26-054,2000,3,0,47,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+af72b819,Camil Jebara,Camil Jebara,se SWE,FW,Lillestrøm,23-085,2003,3,0,41,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+cb6bdd4a,Niklas Jensen,Niklas Jensen,no NOR,MF,Brann,21-306,2004,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+99acacc8,Håvar Jenssen,Håvar Jenssen,no NOR,GK,KFUM Oslo,30-004,1996,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,2,4,2.00,1,180,1,1,0,0.0,0,66.7,6,9,1,0,Eliteserien,2026
+ea173715,Markus Johnsgård,Markus Johnsgård,no NOR,MF,HamKam,27-163,1998,2,0,51,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,1.76,1.76,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+70b480d3,Samukele Kabini,Samukele Kabini,za RSA,DF,Molde,22-030,2004,3,3,256,2.8,0,0,0,0,0,0,2,2,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.35,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3cedae52,Daniel Karlsbakk,Daniel Karlsbakk,no NOR,FW,Sarpsborg 08,23-007,2003,3,3,259,2.9,1,0,1,0,1,1,1,0,0.35,0.00,0.35,0.00,0.00,Matches,0.00,0.00,6,3,50.0,1.04,2.08,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c69c78ac,Markus Karlsbakk,Markus Karlsbakk,no NOR,MF,Lillestrøm,25-342,2000,3,3,254,2.8,2,0,2,2,0,0,0,0,0.71,0.00,0.71,0.71,0.71,Matches,0.40,1.00,5,2,40.0,0.71,1.77,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3ed8c654,Mads Kikkenborg,Mads Kikkenborg,dk DEN,GK,Molde,26-189,1999,4,4,342,3.8,0,1,1,0,0,0,0,0,0.00,0.26,0.26,0.00,0.26,Matches,,,0,0,,0.00,0.00,1,25.0,4,4,6,1.58,2,342,0,0,0,,0,50.0,6,12,0,2,Eliteserien,2026
+e020932a,Sander Kilen,Sander Kilen,no NOR,"MF,FW",Kristiansund,20-319,2005,3,3,217,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,5,0,0.0,0.00,2.07,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+9bdb6d1b,Eric Kitolano,Eric Kitolano,no NOR,MF,Lillestrøm,28-224,1997,3,3,265,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,1.36,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+0c99317b,Aleksander Kjelsen,Aleksander Kjelsen,no NOR,DF,Aalesund,20-101,2006,4,3,350,3.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.26,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3f70db80,Kristoffer Klaesson,Kristoffer Klaesson,no NOR,GK,Aalesund,25-138,2000,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,4,4,9,2.25,2,360,0,2,1,100.0,1,57.1,13,21,2,0,Eliteserien,2026
+bef3d795,Anders Klynge,Anders Klynge,dk DEN,MF,Bodø/Glimt,25-182,2000,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,9.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+55fabbd1,Menno Koch,Menno Koch,nl NED,DF,Sarpsborg 08,31-286,1994,2,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+83adf374,Stian Kristiansen,Stian Kristiansen,no NOR,DF,Sandefjord,27-098,1999,2,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+9f374280,Ilir Kukleci,Ilir Kukleci,no NOR,DF,HamKam,27-169,1998,1,1,60,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.50,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+63826865,Simen Kvia-Egeskog,Simen Kvia-Egeskog,no NOR,"MF,FW",Viking,22-323,2003,4,3,303,3.4,3,1,4,3,0,0,2,0,0.89,0.30,1.19,0.89,1.19,Matches,0.60,0.75,5,4,80.0,1.19,1.49,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+569ce58e,Sigurd Kvile,Sigurd Kvile,no NOR,DF,Fredrikstad,26-047,2000,1,0,8,0.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+790baa13,Nana Kwame Boakye,Nana Kwame Boakye,gh GHA,DF,Brann,20-130,2005,2,2,134,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+1ed180a5,Salim Laghzaoui,Salim Laghzaoui,no NOR,"MF,FW",Fredrikstad,20-158,2005,4,2,215,2.4,0,1,1,0,0,0,0,0,0.00,0.42,0.42,0.00,0.42,Matches,0.00,0.00,2,1,50.0,0.42,0.84,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+9b3457a8,Xander Lambrix,Xander Lambrix,be BEL,DF,Sandefjord,26-020,2000,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+1daf784e,Carl Lange,Carl Lange,dk DEN,MF,Vålerenga,27-189,1998,4,4,327,3.6,2,0,2,2,0,0,0,0,0.55,0.00,0.55,0.55,0.55,Matches,0.29,0.67,7,3,42.9,0.83,1.93,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+56a699c9,Heine Larsen,Heine Larsen,no NOR,FW,Tromsø,23-279,2002,4,4,295,3.3,2,1,3,2,0,0,0,0,0.61,0.31,0.92,0.61,0.92,Matches,0.20,0.67,10,3,30.0,0.92,3.05,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+20a2cc36,Viktor Larsen,Viktor Larsen,dk DEN,MF,Molde,18-276,2007,2,0,58,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+9dc3585e,Thomas Lehne Olsen,Thomas Lehne Olsen,no NOR,FW,Lillestrøm,34-289,1991,3,3,250,2.8,3,1,4,3,0,1,0,0,1.08,0.36,1.44,1.08,1.44,Matches,0.23,0.43,13,7,53.8,2.52,4.68,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+0e100630,Martin Linnes,Martin Linnes,no NOR,DF,Molde,34-206,1991,2,1,76,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.18,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+ea8507d2,Filip Loftesnes-Bjune,Filip Loftesnes-Bjune,no NOR,DF,Sandefjord,21-006,2005,3,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+cfe0ec53,Kristian Lonebu,Kristian Lonebu,no NOR,FW,Aalesund,20-055,2006,4,4,349,3.9,3,0,3,3,0,0,0,0,0.77,0.00,0.77,0.77,0.77,Matches,0.30,0.43,10,7,70.0,1.81,2.58,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f0e4a5cb,Håkon Lorentzen,Håkon Lorentzen,no NOR,FW,Start,28-255,1997,4,3,271,3.0,0,1,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,0.00,0.00,8,4,50.0,1.33,2.66,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+84cda7be,Julian Lægreid,Julian Lægreid,no NOR,MF,Brann,19-037,2007,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+9da07419,Isak Määttä,Isak Määttä,no NOR,"DF,FW",Bodø/Glimt,24-207,2001,2,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+97cd3af1,Hrannar Magnússon,Hrannar Magnússon,is ISL,MF,Kristiansund,24-108,2001,2,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,6.92,6.92,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4fb2183b,Kristall Máni Ingason,Kristall Máni Ingason,is ISL,MF,Brann,24-086,2002,3,1,109,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.83,0.83,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+46d32629,Júlíus Mar Júlíusson,Júlíus Mar Júlíusson,is ISL,DF,Kristiansund,21-311,2004,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.33,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+03a38533,Luc Mares,Luc Mares,nl NED,MF,HamKam,29-193,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,1.00,1.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+943b38ba,Bjørn Martin Kristensen,Bjørn Martin Kristensen,ph PHI,FW,KFUM Oslo,23-345,2002,4,1,116,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.78,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+fd6c5ec5,Sebastian Mathisen,Sebastian Mathisen,no NOR,FW,Sandefjord,20-315,2005,3,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,3.75,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4e32cf6d,Ulrik Mathisen,Ulrik Mathisen,no NOR,FW,Brann,27-086,1999,4,0,93,1.0,0,1,1,0,0,0,0,0,0.00,0.97,0.97,0.00,0.97,Matches,0.00,,1,0,0.0,0.00,0.97,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4887b64a,Marcus Melchior,Marcus Melchior,no NOR,MF,Sandefjord,25-064,2001,1,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+510a8447,Promise Meliga,Promise Meliga,ng NGA,FW,Kristiansund,18-236,2007,3,0,79,0.9,2,0,2,2,0,0,2,0,2.28,0.00,2.28,2.28,2.28,Matches,0.50,1.00,4,2,50.0,2.28,4.56,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+445ab36d,Henrik Melland,Henrik Melland,no NOR,MF,Aalesund,21-016,2005,4,4,294,3.3,2,1,3,2,0,0,0,0,0.61,0.31,0.92,0.61,0.92,Matches,0.18,0.67,11,3,27.3,0.92,3.37,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+427e3820,Patrick Metcalfe,Patrick Metcalfe,ca CAN,MF,HamKam,27-154,1998,1,1,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+1155bfe8,Loris Mettler,Loris Mettler,ch SUI,MF,HamKam,27-121,1998,2,2,117,1.3,1,0,1,1,0,0,0,0,0.77,0.00,0.77,0.77,0.77,Matches,0.25,1.00,4,1,25.0,0.77,3.08,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+5add9b29,Hilmir Mikaelsson,Hilmir Mikaelsson,is ISL,FW,Viking,22-071,2004,3,1,88,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,2.05,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+8f2fd783,August Mikkelsen,August Mikkelsen,no NOR,FW,Bodø/Glimt,25-172,2000,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+82893b6c,Mads Mikkelsen,Mads Mikkelsen,no NOR,DF,Tromsø,17-229,2008,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+5666512d,Nikolaj Moller,Nikolaj Moller,se SWE,FW,Sandefjord,23-268,2002,4,4,336,3.7,0,0,0,0,0,1,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,4,50.0,1.07,2.14,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+efb8f86f,Jonas Mortensen,Jonas Mortensen,dk DEN,DF,Rosenborg,25-088,2001,2,1,130,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.69,0.69,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+5155fe21,Alexander Munksgaard,Alexander Munksgaard,dk DEN,DF,Kristiansund,28-122,1997,3,3,246,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.37,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+2b089203,Steve Mvoué,Steve Mvoué,cm CMR,MF,Start,24-071,2002,1,1,44,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+cf8469d2,Felix Myhre,Felix Myhre,no NOR,MF,Brann,27-041,1999,4,4,360,4.0,1,0,1,1,0,0,1,0,0.25,0.00,0.25,0.25,0.25,Matches,0.25,0.50,4,2,50.0,0.50,1.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+2986b500,Elias Myrlid,Elias Myrlid,no NOR,FW,Aalesund,24-006,2002,3,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,3.10,9.31,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+6e945f87,Ivan Näsberg,Ivan Näsberg,no NOR,DF,Vålerenga,29-357,1996,4,4,360,4.0,1,0,1,1,0,0,1,0,0.25,0.00,0.25,0.25,0.25,Matches,0.33,1.00,3,1,33.3,0.25,0.75,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f87b1fe9,Mamour Ndiaye,Mamour Ndiaye,sn SEN,GK,Sarpsborg 08,20-174,2005,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.33,1,33.3,3,3,3,1.00,1,270,0,0,0,,0,76.9,10,13,1,1,Eliteserien,2026
+fe9f5ed2,Tomáš Nemčík,Tomáš Nemčík,sk SVK,DF,Rosenborg,24-360,2001,1,1,80,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+2e771be7,Kristoffer Nessø,Kristoffer Nessø,no NOR,DF,Aalesund,32-282,1993,4,1,178,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,2,100.0,1.01,1.01,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+1f4127c1,Andreas Nibe,Andreas Nibe,dk DEN,FW,Sarpsborg 08,22-318,2003,3,3,255,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.35,0.71,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+45b7d1d0,Max Nilsson,Max Nilsson,se SWE,MF,Fredrikstad,21-034,2005,1,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+904d34e0,Claus Niyukuri,Claus Niyukuri,bi BDI,DF,Sarpsborg 08,26-060,2000,3,3,231,2.6,1,0,1,1,0,0,0,0,0.39,0.00,0.39,0.39,0.39,Matches,0.25,0.50,4,2,50.0,0.78,1.56,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+ef97654b,Jonathan Norbye,Jonathan Norbye,no NOR,DF,Fredrikstad,19-019,2007,2,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,2.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f5690baa,Marius Nordal,Marius Nordal,no NOR,FW,Start,19-098,2007,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+2ea2178a,Amin Nouri,Amin Nouri,no NOR,"DF,MF",KFUM Oslo,36-094,1990,2,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+8e88eede,Johannes Nunez Godoy,Johannes Nunez Godoy,no NOR,FW,Fredrikstad,29-121,1996,4,2,214,2.4,1,1,2,1,0,0,1,0,0.42,0.42,0.84,0.42,0.84,Matches,0.25,0.33,4,3,75.0,1.26,1.68,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+603c5dd9,Troy Nyhammer,Troy Nyhammer,no NOR,MF,Tromsø,19-238,2006,4,0,46,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,1.96,1.96,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+7d0b3e46,Gustav Nyheim,Gustav Nyheim,no NOR,FW,Lillestrøm,20-060,2006,3,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+e7a2d77d,Kennedy Okpaleke,Kennedy Okpaleke,se SWE,DF,Fredrikstad,17-149,2008,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+cc8f5443,John Olav Norheim,John Olav Norheim,no NOR,DF,Start,31-009,1995,4,4,315,3.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+9e4df3ba,Lars Olden Larsen,Lars Olden Larsen,no NOR,"FW,MF",Tromsø,27-209,1998,4,4,326,3.6,1,0,1,1,0,0,1,0,0.28,0.00,0.28,0.28,0.28,Matches,0.17,0.50,6,2,33.3,0.55,1.66,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+a1e6b4e2,Aaron Olsen,Aaron Olsen,no NOR,DF,Vålerenga,24-329,2001,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.25,0.50,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+a9739ce0,Michael Opoku,Michael Opoku,dk DEN,MF,Sarpsborg 08,20-268,2005,3,2,172,1.9,0,1,1,0,0,0,0,0,0.00,0.52,0.52,0.00,0.52,Matches,0.00,0.00,5,1,20.0,0.52,2.62,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+34b87872,Halvor Opsahl,Halvor Opsahl,no NOR,DF,HamKam,23-188,2002,2,0,34,0.4,0,1,1,0,0,0,0,0,0.00,2.65,2.65,0.00,2.65,Matches,0.00,,1,0,0.0,0.00,2.65,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c7d94146,Endre Osenbroch,Endre Osenbroch,no NOR,FW,Aalesund,21-337,2004,4,0,72,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.25,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4718ce2a,William Osnes-Ringen,William Osnes-Ringen,no NOR,MF,HamKam,19-152,2006,2,1,92,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+6a036a64,Sturla Ottesen,Sturla Ottesen,no NOR,DF,Lillestrøm,24-324,2001,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.33,1.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+a06c6c8a,Leonard Owusu,Leonard Owusu,gh GHA,MF,Fredrikstad,28-315,1997,4,3,275,3.1,0,1,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,0.00,,2,0,0.0,0.00,0.65,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3dbb4356,Salomon Owusu,Salomon Owusu,gh GHA,DF,Fredrikstad,30-168,1995,3,3,206,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+863fd9c8,Yaw Paintsil,Yaw Paintsil,no NOR,MF,Lillestrøm,26-238,1999,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3a4c9e5c,Fredrik Pallesen Knudsen,Fredrik Pallesen Knudsen,no NOR,DF,Brann,29-227,1996,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.25,1.50,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+77d87bf0,Evangelos Patoulidis,Evangelos Patoulidis,be BEL,MF,Sandefjord,24-202,2001,4,3,264,2.9,1,0,1,0,1,1,0,0,0.34,0.00,0.34,0.00,0.00,Matches,0.00,0.00,8,3,37.5,1.02,2.73,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f49e5c45,Fredrik Pedersen,Fredrik Pedersen,no NOR,DF,Sandefjord,23-187,2002,4,4,339,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.27,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c4941340,Thore Pedersen,Thore Pedersen,no NOR,MF,Brann,29-246,1996,4,2,205,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+1c62f712,Adrian Pereira,Adrian Pereira,no NOR,DF,Rosenborg,26-226,1999,2,0,62,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.45,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f118d91f,Dan Peter Ulvestad,Dan Peter Ulvestad,no NOR,DF,Kristiansund,37-010,1989,3,3,268,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+12c35abe,Jens Petter Hauge,Jens Petter Hauge,no NOR,MF,Bodø/Glimt,26-184,1999,2,2,148,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.22,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4d5bbf8f,Edvard Pettersen,Edvard Pettersen,no NOR,MF,Sandefjord,19-281,2006,4,4,341,3.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,2,28.6,0.53,1.85,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+1cfb2a58,Albert Posiadala,Albert Posiadala,pl POL,GK,Molde,23-048,2003,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,,1,0,0,0.00,0,18,0,0,0,,0,100.0,1,1,0,0,Eliteserien,2026
+51be7d48,Aksel Potur,Aksel Potur,tr TUR,MF,HamKam,23-130,2002,3,3,233,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.39,1.16,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+5f5348a5,Jacob Pryts,Jacob Pryts,dk DEN,GK,Start,27-293,1998,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,4,4,7,1.75,2,360,0,0,0,,0,63.2,12,19,2,0,Eliteserien,2026
+df0ae81f,Simen Rafn,Simen Rafn,no NOR,DF,Fredrikstad,34-057,1992,2,1,109,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+77d5fcf1,Gabriel Rajkovic,Gabriel Rajkovic,no NOR,FW,Vålerenga,15-050,2011,3,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,4.09,4.09,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+73ed5e65,Lars Ranger,Lars Ranger,no NOR,DF,Lillestrøm,27-033,1999,3,3,270,3.0,0,1,1,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,0.00,0.00,5,2,40.0,0.67,1.67,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+72f86eb4,Robin Rasch,Robin Rasch,no NOR,MF,KFUM Oslo,32-094,1994,4,2,162,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.56,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+10ca5be0,Marcus Reed,Marcus Reed,no NOR,FW,Aalesund,18-059,2008,1,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f4d0403e,Jesper Reitan-Sunde,Jesper Reitan-Sunde,no NOR,FW,Rosenborg,20-073,2006,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,2,100.0,12.86,12.86,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c70b221c,Birk Risa,Birk Risa,no NOR,DF,Molde,28-060,1998,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.67,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+768cfef9,Sander Risan Mørk,Sander Risan Mørk,no NOR,"MF,DF",Sandefjord,25-129,2000,4,4,359,4.0,1,0,1,1,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches,0.20,1.00,5,1,20.0,0.25,1.25,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+5777eca0,Sigurd Rosted,Sigurd Rosted,no NOR,DF,Sarpsborg 08,31-266,1994,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.33,1.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4437cba4,Adrian Rønning,Adrian Rønning,no NOR,DF,Kristiansund,20-028,2006,3,0,64,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,1.41,1.41,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+467ac9d0,Håkon Røsten,Håkon Røsten,no NOR,DF,Rosenborg,21-052,2005,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+db6b5321,Noah Sahsah,Noah Sahsah,dk DEN,MF,Rosenborg,20-280,2005,2,1,71,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,5.07,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f6af14b0,Ulrik Saltnes,Ulrik Saltnes,no NOR,"DF,MF",Bodø/Glimt,33-155,1992,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+308d850e,Marcus Sandberg,Marcus Sandberg,se SWE,GK,HamKam,35-158,1990,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,3,3,10,3.33,2,270,0,0,0,,0,50.0,10,20,0,1,Eliteserien,2026
+a8cd459f,Eirik Saunes,Eirik Saunes,no NOR,DF,KFUM Oslo,27-204,1998,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.25,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+29e38e47,Daniel Schneider,Daniel Schneider,no NOR,DF,KFUM Oslo,24-044,2002,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.75,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3cc0fa71,Eirik Schulze,Eirik Schulze,no NOR,MF,Start,33-097,1993,4,4,290,3.2,0,1,1,0,0,0,0,0,0.00,0.31,0.31,0.00,0.31,Matches,0.00,0.00,5,1,20.0,0.31,1.55,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+2aa03e47,Abubacarr Sedi Kinteh,Abubacarr Sedi Kinteh,gm GAM,DF,Tromsø,19-135,2006,2,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+45178613,Erlend Segberg,Erlend Segberg,no NOR,MF,Start,29-002,1997,4,4,339,3.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.27,0.53,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4db2157a,Ole Selnæs,Ole Selnæs,no NOR,MF,Rosenborg,31-281,1994,3,1,154,1.7,0,1,1,0,0,0,1,0,0.00,0.58,0.58,0.00,0.58,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+2ea1013f,Rocco Shein,Rocco Shein,ee EST,MF,Fredrikstad,22-274,2003,4,4,334,3.7,2,0,2,2,0,0,0,0,0.54,0.00,0.54,0.54,0.54,Matches,0.40,1.00,5,2,40.0,0.54,1.35,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+ef301f96,Aimar Sher,Aimar Sher,iq IRQ,MF,Sarpsborg 08,23-115,2002,3,3,266,3.0,1,0,1,1,0,0,0,0,0.34,0.00,0.34,0.34,0.34,Matches,0.17,0.33,6,3,50.0,1.02,2.03,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+b77994c9,Gard Simenstad,Gard Simenstad,no NOR,MF,HamKam,27-002,1999,3,1,139,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+7e82a5d9,Håkon Sjåtil,Håkon Sjåtil,no NOR,DF,Vålerenga,23-108,2002,4,4,315,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.57,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+34a49f5b,Sander Sjøkvist,Sander Sjøkvist,no NOR,"MF,DF",KFUM Oslo,27-036,1999,4,3,284,3.2,0,1,1,0,0,0,0,0,0.00,0.32,0.32,0.00,0.32,Matches,0.00,0.00,3,3,100.0,0.95,0.95,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+ce22ca27,Fredrik Sjølstad,Fredrik Sjølstad,no NOR,DF,HamKam,32-016,1994,3,3,269,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.33,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+2ca0c63c,Fredrik Sjøvold,Fredrik Sjøvold,no NOR,DF,Bodø/Glimt,22-240,2003,2,2,180,2.0,1,0,1,1,0,0,0,0,0.50,0.00,0.50,0.50,0.50,Matches,0.50,1.00,2,1,50.0,0.50,1.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+719dd7dd,Syver Skeide,Syver Skeide,no NOR,MF,Kristiansund,21-229,2004,3,3,206,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.44,0.87,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+a7b1fe5e,Vetle Skjærvik,Vetle Skjærvik,no NOR,DF,Tromsø,25-211,2000,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.25,1.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+8353e96a,Henrik Skogvold,Henrik Skogvold,no NOR,"MF,FW",Fredrikstad,21-274,2004,4,3,258,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,2,40.0,0.70,1.74,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+5573df27,Nikolai Skuseth,Nikolai Skuseth,no NOR,DF,Kristiansund,21-331,2004,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+2ae9ca08,Zinedin Smajlovic,Zinedin Smajlovic,se SWE,DF,Sandefjord,22-115,2003,4,4,360,4.0,0,1,1,0,0,0,0,0,0.00,0.25,0.25,0.00,0.25,Matches,0.00,,2,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+cf6781e8,Davíð Snær Jóhannsson,Davíð Snær Jóhannsson,is ISL,"MF,FW",Aalesund,23-303,2002,4,3,257,2.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,9,4,44.4,1.40,3.15,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+fc3d86c8,Johan Solstad-Nøis,Johan Solstad-Nøis,no NOR,FW,Tromsø,18-074,2008,2,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+e1453b38,Joachim Soltvedt,Joachim Soltvedt,no NOR,DF,Brann,30-217,1995,4,3,285,3.2,1,0,1,0,1,1,0,0,0.32,0.00,0.32,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.32,1.58,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+b8553c0b,Markus Soomets,Markus Soomets,ee EST,MF,Start,26-043,2000,4,2,234,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.38,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+d1593f05,Halldor Stenevik,Halldor Stenevik,no NOR,DF,Molde,26-071,2000,4,4,359,4.0,0,1,1,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches,0.00,,2,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+b9549894,Gianni Stensness,Gianni Stensness,au AUS,DF,Viking,27-066,1999,4,4,315,3.5,1,0,1,1,0,0,1,0,0.29,0.00,0.29,0.29,0.29,Matches,0.17,0.33,6,3,50.0,0.86,1.71,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c38489c4,Snorre Strand Nilsen,Snorre Strand Nilsen,no NOR,DF,HamKam,29-090,1997,1,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c26e60c2,Petter Strand,Petter Strand,no NOR,"DF,FW",Vålerenga,31-233,1994,4,0,99,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,2.73,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+e2da3e4e,Tom Strannegard,Tom Strannegard,se SWE,DF,Start,23-350,2002,4,4,338,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.27,0.53,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c2a35241,Tobias Svendsen,Tobias Svendsen,no NOR,MF,Kristiansund,26-226,1999,3,0,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.17,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+605d018f,Lucas Svenningsen,Lucas Svenningsen,no NOR,FW,Lillestrøm,19-089,2007,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+deb20131,Jonas Svensson,Jonas Svensson,no NOR,"DF,MF",Rosenborg,33-039,1993,4,3,216,2.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.42,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+b3626735,Ulrik Syversen,Ulrik Syversen,no NOR,DF,Aalesund,22-357,2003,2,2,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.92,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+fc80982f,Adrian Sæther,Adrian Sæther,no NOR,GK,Kristiansund,24-317,2001,3,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,3,3,7,2.33,2,270,1,1,0,0.0,0,66.7,12,18,0,1,Eliteserien,2026
+bcda3f33,Elias Sørensen,Elias Sørensen,dk DEN,MF,Vålerenga,26-208,1999,4,4,261,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.34,1.72,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+953c30b0,Jakob Sørensen,Jakob Sørensen,dk DEN,MF,Brann,28-042,1998,4,4,360,4.0,0,1,1,0,0,0,1,0,0.00,0.25,0.25,0.00,0.25,Matches,0.00,,1,0,0.0,0.00,0.25,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+c2dadbf3,Sondre Sørli,Sondre Sørli,no NOR,MF,Sarpsborg 08,30-166,1995,3,3,270,3.0,1,0,1,1,0,0,0,0,0.33,0.00,0.33,0.33,0.33,Matches,0.14,0.33,7,3,42.9,1.00,2.33,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+e4d84e59,Sondre Sørløkk,Sondre Sørløkk,no NOR,DF,Fredrikstad,28-341,1997,4,4,272,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+a4050148,Filip Thorvaldsen,Filip Thorvaldsen,no NOR,MF,Vålerenga,19-364,2006,4,3,213,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.42,2.54,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+e6f47202,Fredrik Tobias Berglie,Fredrik Tobias Berglie,no NOR,DF,KFUM Oslo,29-107,1996,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+ad4f1f72,Ousmane Toure,Ousmane Toure,no NOR,DF,Start,23-033,2003,3,0,70,0.8,1,0,1,1,0,0,1,0,1.29,0.00,1.29,1.29,1.29,Matches,0.50,1.00,2,1,50.0,1.29,2.57,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f6d4b6b2,Zlatko Tripić,Zlatko Tripić,no NOR,MF,Viking,33-133,1992,4,4,351,3.9,1,3,4,1,0,0,1,0,0.26,0.77,1.03,0.26,1.03,Matches,0.20,0.50,5,2,40.0,0.51,1.28,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+438ae11e,Anders Trondsen,Anders Trondsen,no NOR,"DF,MF",HamKam,31-015,1995,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+9b0d7c6c,Kristoffer Tønnessen,Kristoffer Tønnessen,no NOR,DF,Start,28-195,1997,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+b2eff99e,Mathias Tønnessen,Mathias Tønnessen,no NOR,DF,Tromsø,22-143,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+bd5d1d10,Henrik Udahl,Henrik Udahl,no NOR,FW,HamKam,29-092,1997,3,3,269,3.0,2,0,2,2,0,0,0,0,0.67,0.00,0.67,0.67,0.67,Matches,0.22,0.50,9,4,44.4,1.34,3.01,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+29ae142a,Mikael Ugland,Mikael Ugland,no NOR,DF,Start,26-080,2000,4,4,345,3.8,0,1,1,0,0,0,2,0,0.00,0.26,0.26,0.00,0.26,Matches,0.00,0.00,5,1,20.0,0.26,1.30,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+b5cf91dc,Vá,Vá,ao ANG,"MF,FW",Lillestrøm,27-355,1998,3,3,253,2.8,2,1,3,2,0,0,1,0,0.71,0.36,1.07,0.71,1.07,Matches,1.00,1.00,2,2,100.0,0.71,0.71,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+63567ebc,Santeri Väänänen,Santeri Väänänen,fi FIN,MF,Rosenborg,24-103,2002,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3c8cb6d6,Isak Vådebu,Isak Vådebu,no NOR,DF,Tromsø,22-247,2003,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+5ef18511,Jakob Vester,Jakob Vester,dk DEN,MF,Sandefjord,21-107,2004,4,4,266,3.0,1,0,1,1,0,0,1,0,0.34,0.00,0.34,0.34,0.34,Matches,0.13,0.50,8,2,25.0,0.68,2.71,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+96cf8429,Rasmus Vinge,Rasmus Vinge,no NOR,"MF,FW",KFUM Oslo,25-076,2001,4,2,210,2.3,1,0,1,1,0,0,1,0,0.43,0.00,0.43,0.43,0.43,Matches,0.17,0.33,6,3,50.0,1.29,2.57,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+9ff2ea4f,Martin Vinjor,Martin Vinjor,no NOR,"MF,FW",KFUM Oslo,26-197,1999,4,4,312,3.5,0,2,2,0,0,0,1,0,0.00,0.58,0.58,0.00,0.58,Matches,0.00,0.00,8,3,37.5,0.87,2.31,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+d92e67d6,Ola Visted,Ola Visted,no NOR,MF,Viking,21-015,2005,4,0,56,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,1.61,1.61,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+afb425c2,Håkon Volden,Håkon Volden,no NOR,DF,Rosenborg,18-324,2007,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+a99ea089,Kasper Waarst Høgh,Kasper Waarst Høgh,dk DEN,FW,Bodø/Glimt,25-129,2000,2,2,166,1.8,0,2,2,0,0,0,0,0,0.00,1.08,1.08,0.00,1.08,Matches,0.00,0.00,1,1,100.0,0.54,0.54,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+9b26a433,Leopold Wahlstedt,Leopold Wahlstedt,se SWE,GK,Rosenborg,26-284,1999,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,4,4,7,1.75,3,360,0,0,0,,0,65.0,13,20,0,1,Eliteserien,2026
+ad3bc2e7,Alexander Warneryd,Alexander Warneryd,se SWE,DF,Tromsø,20-236,2005,4,4,340,3.8,1,0,1,1,0,0,0,0,0.26,0.00,0.26,0.26,0.26,Matches,0.20,0.50,5,2,40.0,0.53,1.32,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+398aa184,Magnus Westergaard,Magnus Westergaard,dk DEN,MF,Vålerenga,28-018,1998,4,4,343,3.8,0,1,1,0,0,0,1,0,0.00,0.26,0.26,0.00,0.26,Matches,0.00,0.00,4,1,25.0,0.26,1.05,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+aed60196,Eirik Wichne,Eirik Wichne,no NOR,"DF,MF",Sarpsborg 08,28-337,1997,2,0,35,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+0cb997b2,Noa Williams,Noa Williams,se SWE,MF,Sarpsborg 08,24-138,2001,3,1,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3f30f12a,Aslak Witry,Aslak Witry,no NOR,DF,Rosenborg,30-035,1996,3,3,198,2.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.45,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3a770838,Magnus Wolff Eikrem,Magnus Wolff Eikrem,no NOR,MF,KFUM Oslo,35-249,1990,3,1,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.92,0.92,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+f1f4f2b9,Harald Woxen,Harald Woxen,no NOR,FW,Lillestrøm,18-073,2008,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+630c02ad,Fanuel Yrga-Alem,Fanuel Yrga-Alem,no NOR,DF,Fredrikstad,19-132,2006,4,2,213,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.42,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+62e0b5c2,Ruben Yttergård Jenssen,Ruben Yttergård Jenssen,no NOR,MF,Tromsø,37-345,1988,4,4,359,4.0,0,3,3,0,0,0,0,0,0.00,0.75,0.75,0.00,0.75,Matches,0.00,0.00,4,2,50.0,0.50,1.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+0c97d846,Ulrik Yttergård Jenssen,Ulrik Yttergård Jenssen,no NOR,DF,Lillestrøm,29-271,1996,3,1,86,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+3f82980d,Caleb Zady Sery,Caleb Zady Sery,ci CIV,MF,Molde,26-115,1999,4,3,196,2.2,0,1,1,0,0,0,0,0,0.00,0.46,0.46,0.00,0.46,Matches,0.00,0.00,4,1,25.0,0.46,1.84,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+4fb49fb1,Magnar Ødegaard,Magnar Ødegaard,no NOR,DF,Sarpsborg 08,32-338,1993,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+88171255,Oskar Øhlenschlæger,Oskar Øhlenschlæger,dk DEN,MF,Fredrikstad,21-360,2004,4,4,325,3.6,0,1,1,0,0,0,0,0,0.00,0.28,0.28,0.00,0.28,Matches,0.00,0.00,6,2,33.3,0.55,1.66,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+e6d79c65,Jakob Ørsal,Jakob Ørsal,no NOR,DF,Aalesund,24-274,2001,3,3,240,2.7,0,2,2,0,0,0,0,0,0.00,0.75,0.75,0.00,0.75,Matches,0.00,,3,0,0.0,0.00,1.13,,,,,,,,,,,,,,,,,,,Eliteserien,2026
+30263816,Arild Østbø,Arild Østbø,no NOR,GK,Viking,34-360,1991,4,4,360,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,50.0,4,4,3,0.75,1,360,0,0,0,,0,78.6,10,14,0,3,Eliteserien,2026
+44e4dfab,Jalal Abdulai,Jalal Abdulai,gh GHA,FW,Molde,20,2005,20,8,894,9.9,4,1,5,4,0,0,6,0,0.40,0.10,0.50,0.40,0.50,Matches,0.09,0.20,43,20,46.5,2.01,4.33,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+bb281412,Ayoub Aleesami,Ayoub Aleesami,no NOR,DF,KFUM Oslo,28,1996,24,20,"1,836",20.4,1,1,2,1,0,0,4,0,0.05,0.05,0.10,0.05,0.10,Matches,0.20,0.50,5,2,40.0,0.10,0.25,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4085f08e,Haitam Aleesami,Haitam Aleesami,no NOR,DF,Bodø/Glimt,33,1991,25,15,"1,395",15.5,2,1,3,2,0,0,1,0,0.13,0.06,0.19,0.13,0.19,Matches,0.18,0.50,11,4,36.4,0.26,0.71,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+60dc8778,Pål Alexander Kirkevold,Pål Alexander Kirkevold,no NOR,FW,HamKam,34,1990,6,1,170,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.53,0.53,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c1b0406f,Ruben Alte,Ruben Alte,no NOR,MF,Kristiansund,24,2000,15,15,"1,289",14.3,3,2,5,3,0,0,3,0,0.21,0.14,0.35,0.21,0.35,Matches,0.08,0.27,36,11,30.6,0.77,2.51,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c1b0406f,Ruben Alte,Ruben Alte,no NOR,MF,Kristiansund,24,2000,15,15,"1,289",14.3,3,2,5,3,0,0,3,0,0.21,0.14,0.35,0.21,0.35,Matches,0.00,,2,0,0.0,0.00,0.60,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c1b0406f,Ruben Alte,Ruben Alte,no NOR,MF,Viking,24,2000,9,2,302,3.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.08,0.27,36,11,30.6,0.77,2.51,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c1b0406f,Ruben Alte,Ruben Alte,no NOR,MF,Viking,24,2000,9,2,302,3.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.60,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+280c37e9,Leander Alvheim,Leander Alvheim,no NOR,FW,Kristiansund,20,2004,21,7,722,8.0,5,0,5,4,1,1,3,0,0.62,0.00,0.62,0.50,0.50,Matches,0.15,0.31,27,13,48.1,1.62,3.37,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3b8b03d4,Martin Alvsaker,Martin Alvsaker,no NOR,MF,Haugesund,19,2005,4,0,54,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a515f700,Brice Ambina,Brice Ambina,cm CMR,MF,Vålerenga,23,2001,26,26,"2,118",23.5,4,4,8,4,0,0,6,1,0.17,0.17,0.34,0.17,0.34,Matches,0.11,0.44,38,9,23.7,0.38,1.61,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+7d8cd33b,Martin Åmot Lye,Martin Åmot Lye,no NOR,MF,Bryne,16,2008,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,2,66.7,12.00,18.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1e6e37cb,James Ampofo,James Ampofo,gh GHA,FW,Strømsgodset,21,2003,12,0,235,2.6,0,2,2,0,0,0,1,0,0.00,0.77,0.77,0.00,0.77,Matches,0.00,0.00,9,1,11.1,0.38,3.45,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+7fdb872a,Isak Amundsen,Isak Amundsen,no NOR,DF,Molde,25,1999,16,9,847,9.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.32,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+8f5996c3,Ethan Amundsen-Day,Ethan Amundsen-Day,no NOR,DF,HamKam,19,2005,13,11,898,10.0,1,0,1,1,0,0,2,1,0.10,0.00,0.10,0.10,0.10,Matches,0.14,0.50,7,2,28.6,0.20,0.70,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3724baa1,Fredrik André Bjørkan,Fredrik André Bjørkan,no NOR,DF,Bodø/Glimt,26,1998,29,29,"2,457",27.3,3,2,5,3,0,0,1,0,0.11,0.07,0.18,0.11,0.18,Matches,0.17,0.33,18,9,50.0,0.33,0.66,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ccf83ecd,Tore André Sørås,Tore André Sørås,no NOR,MF,HamKam,26,1998,27,21,"1,907",21.2,1,1,2,1,0,0,3,0,0.05,0.05,0.09,0.05,0.09,Matches,0.11,1.00,9,1,11.1,0.05,0.42,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+0a7fa520,Markus Andreas Kaasa,Markus Andreas Kaasa,no NOR,"MF,DF",Molde,27,1997,11,6,573,6.4,2,0,2,2,0,0,1,0,0.31,0.00,0.31,0.31,0.31,Matches,0.50,1.00,4,2,50.0,0.31,0.63,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f374a4b3,Kent-Are Antonsen,Kent-Are Antonsen,no NOR,MF,Tromsø,29,1995,13,6,607,6.7,1,0,1,1,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches,0.14,0.33,7,3,42.9,0.44,1.04,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a1b5c6cd,Fredrik Ardraa,Fredrik Ardraa,no NOR,MF,Strømsgodset,18,2006,29,22,"2,133",23.7,2,3,5,2,0,0,5,0,0.08,0.13,0.21,0.08,0.21,Matches,0.06,0.22,32,9,28.1,0.38,1.35,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f816d98c,Viðar Ari Jónsson,Viðar Ari Jónsson,is ISL,DF,HamKam,30,1994,25,14,"1,345",14.9,3,3,6,3,0,0,1,0,0.20,0.20,0.40,0.20,0.40,Matches,0.19,0.50,16,6,37.5,0.40,1.07,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+b6f76b6b,Eggert Aron Guðmundsson,Eggert Aron Guðmundsson,is ISL,MF,Brann,20,2004,28,24,"2,078",23.1,5,5,10,5,0,0,1,0,0.22,0.22,0.43,0.22,0.43,Matches,0.13,0.38,38,13,34.2,0.56,1.65,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a69cc629,Kristoffer Askildsen,Kristoffer Askildsen,no NOR,MF,Viking,24,2001,27,18,"1,552",17.2,3,4,7,3,0,0,2,0,0.17,0.23,0.41,0.17,0.41,Matches,0.11,0.38,28,8,28.6,0.46,1.62,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+aa744585,Sondre Auklend,Sondre Auklend,no NOR,"MF,FW",Bodø/Glimt,21,2003,22,13,"1,159",12.9,1,5,6,1,0,0,1,0,0.08,0.39,0.47,0.08,0.47,Matches,0.03,0.13,33,8,24.2,0.62,2.56,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+d8574eb8,Vetle Auklend,Vetle Auklend,no NOR,DF,Viking,19,2005,7,3,323,3.6,1,0,1,1,0,0,2,0,0.28,0.00,0.28,0.28,0.28,Matches,0.50,1.00,2,1,50.0,0.28,0.56,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+fbde2933,Edvin Austbø,Edvin Austbø,no NOR,MF,Viking,19,2005,27,26,"1,826",20.3,6,5,11,6,0,0,2,0,0.30,0.25,0.54,0.30,0.54,Matches,0.11,0.30,53,20,37.7,0.99,2.61,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+63b56730,Johan Bakke,Johan Bakke,no NOR,MF,Molde,20,2004,2,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+63b56730,Johan Bakke,Johan Bakke,no NOR,MF,Molde,20,2004,2,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.11,0.29,19,7,36.8,0.55,1.50,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+63b56730,Johan Bakke,Johan Bakke,no NOR,MF,Strømsgodset,20,2004,16,16,"1,140",12.7,2,1,3,2,0,0,4,0,0.16,0.08,0.24,0.16,0.24,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+63b56730,Johan Bakke,Johan Bakke,no NOR,MF,Strømsgodset,20,2004,16,16,"1,140",12.7,2,1,3,2,0,0,4,0,0.16,0.08,0.24,0.16,0.24,Matches,0.11,0.29,19,7,36.8,0.55,1.50,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+db15c677,Daniel Bassi,Daniel Bassi,no NOR,FW,Bodø/Glimt,20,2004,14,2,392,4.4,1,2,3,1,0,0,0,0,0.23,0.46,0.69,0.23,0.69,Matches,0.07,0.17,15,6,40.0,1.38,3.44,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+fe8157f3,Ludvig Begby,Ludvig Begby,no NOR,MF,Fredrikstad,27,1997,13,1,212,2.4,0,1,1,0,0,0,0,0,0.00,0.42,0.42,0.00,0.42,Matches,0.00,0.00,2,1,50.0,0.42,0.85,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+7825847e,Joe Bell,Joe Bell,nz NZL,MF,Viking,25,1999,29,28,"2,540",28.2,3,4,7,3,0,0,5,0,0.11,0.14,0.25,0.11,0.25,Matches,0.08,0.33,37,9,24.3,0.32,1.31,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e4114f5d,Patrick Berg,Patrick Berg,no NOR,MF,Bodø/Glimt,27,1997,28,25,"2,292",25.5,5,12,17,5,0,0,2,0,0.20,0.47,0.67,0.20,0.67,Matches,0.08,0.33,61,15,24.6,0.59,2.40,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+9c145144,Veton Berisha,Veton Berisha,no NOR,FW,Viking,30,1994,5,2,207,2.3,2,0,2,1,1,1,1,0,0.87,0.00,0.87,0.43,0.43,Matches,0.17,0.25,6,4,66.7,1.74,2.61,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+9c145144,Veton Berisha,Veton Berisha,no NOR,FW,Viking,30,1994,5,2,207,2.3,2,0,2,1,1,1,1,0,0.87,0.00,0.87,0.43,0.43,Matches,0.13,0.29,16,7,43.8,1.50,3.43,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+9c145144,Veton Berisha,Veton Berisha,no NOR,"FW,MF",Molde,30,1994,9,4,420,4.7,4,1,5,2,2,3,0,1,0.86,0.21,1.07,0.43,0.64,Matches,0.17,0.25,6,4,66.7,1.74,2.61,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+9c145144,Veton Berisha,Veton Berisha,no NOR,"FW,MF",Molde,30,1994,9,4,420,4.7,4,1,5,2,2,3,0,1,0.86,0.21,1.07,0.43,0.64,Matches,0.13,0.29,16,7,43.8,1.50,3.43,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e430080b,Bendik Berntsen,Bendik Berntsen,no NOR,"MF,FW",Sandefjord,17,2007,13,4,377,4.2,1,1,2,1,0,0,2,0,0.24,0.24,0.48,0.24,0.48,Matches,0.13,0.50,8,2,25.0,0.48,1.91,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+0c02d4dc,Parfait Bizoza,Parfait Bizoza,bi BDI,"MF,DF",Haugesund,25,1999,29,25,"2,006",22.3,0,1,1,0,0,0,3,0,0.00,0.04,0.04,0.00,0.04,Matches,0.00,0.00,15,5,33.3,0.22,0.67,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+00bd7e31,Jóannes Bjartalíð,Jóannes Bjartalíð,fo FRO,"FW,MF",Fredrikstad,28,1996,17,7,811,9.0,1,2,3,0,1,1,2,0,0.11,0.22,0.33,0.00,0.22,Matches,0.00,0.00,16,7,43.8,0.78,1.78,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+7e2c5d75,Henrik Bjørdal,Henrik Bjørdal,no NOR,"MF,FW",Vålerenga,27,1997,23,20,"1,822",20.2,4,6,10,4,0,0,3,2,0.20,0.30,0.49,0.20,0.49,Matches,0.13,0.44,32,9,28.1,0.44,1.58,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+eb49bd3f,Martin Bjørnbak,Martin Bjørnbak,no NOR,DF,Molde,32,1992,4,1,128,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.70,0.70,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+eb49bd3f,Martin Bjørnbak,Martin Bjørnbak,no NOR,DF,Molde,32,1992,4,1,128,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+eb49bd3f,Martin Bjørnbak,Martin Bjørnbak,no NOR,DF,Haugesund,32,1992,5,5,405,4.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.70,0.70,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+eb49bd3f,Martin Bjørnbak,Martin Bjørnbak,no NOR,DF,Haugesund,32,1992,5,5,405,4.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+d9e76115,Sondre Bjørshol,Sondre Bjørshol,no NOR,DF,Viking,30,1994,17,10,780,8.7,2,1,3,2,0,0,0,0,0.23,0.12,0.35,0.23,0.35,Matches,0.22,0.40,9,5,55.6,0.58,1.04,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+49399401,Odin Bjørtuft,Odin Bjørtuft,no NOR,DF,Bodø/Glimt,26,1998,28,25,"2,266",25.2,6,2,8,6,0,1,3,1,0.24,0.08,0.32,0.24,0.32,Matches,0.22,0.43,27,14,51.9,0.56,1.07,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+cb57cab3,Jan de Boer,Jan de Boer,nl NED,GK,Bryne,24,2000,29,29,"2,575",28.6,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,10.3,29,29,56,1.96,15,"2,575",7,8,0,12.5,1,59.8,74,122,7,7,Eliteserien,2025
+604646b7,Sanel Bojadzic,Sanel Bojadzic,no NOR,FW,Bryne,26,1998,24,15,"1,419",15.8,6,3,9,5,1,1,4,0,0.38,0.19,0.57,0.32,0.51,Matches,0.14,0.31,35,16,45.7,1.01,2.22,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c33f3864,Simen Bolkan Nordli,Simen Bolkan Nordli,no NOR,MF,Rosenborg,25,1999,12,12,860,9.6,2,2,4,2,0,0,2,0,0.21,0.21,0.42,0.21,0.42,Matches,0.11,0.67,18,3,16.7,0.31,1.88,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+7c4766ae,Anders Bondhus,Anders Bondhus,no NOR,"DF,MF",Haugesund,19,2005,15,7,788,8.8,0,1,1,0,0,0,0,0,0.00,0.11,0.11,0.00,0.11,Matches,0.00,,4,0,0.0,0.00,0.46,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4505c242,Christian Borchgrevink,Christian Borchgrevink,no NOR,DF,Vålerenga,25,1999,2,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+cb1ef81f,Alexander Borgersen,Alexander Borgersen,no NOR,MF,Rosenborg,15,2009,2,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+48ad9e94,Muamer Brajanac,Muamer Brajanac,dk DEN,FW,Vålerenga,23,2001,17,10,835,9.3,1,0,1,1,0,0,2,0,0.11,0.00,0.11,0.11,0.11,Matches,0.06,0.14,18,7,38.9,0.75,1.94,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+907dc354,Daniel Braut,Daniel Braut,no NOR,FW,Tromsø,19,2005,29,2,574,6.4,3,3,6,3,0,0,0,0,0.47,0.47,0.94,0.47,0.94,Matches,0.17,0.43,18,7,38.9,1.10,2.82,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+611f4f60,Emil Breivik,Emil Breivik,no NOR,"MF,FW",Molde,24,2000,28,28,"2,497",27.7,4,5,9,4,0,0,8,0,0.14,0.18,0.32,0.14,0.32,Matches,0.10,0.36,42,11,26.2,0.40,1.51,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+b5d543e4,Marius Broholm,Marius Broholm,no NOR,"FW,MF",Rosenborg,20,2004,11,11,947,10.5,5,1,6,4,1,1,3,0,0.48,0.10,0.57,0.38,0.48,Matches,0.15,0.33,27,12,44.4,1.14,2.57,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c1d9bf1f,Sondre Brunstad Fet,Sondre Brunstad Fet,no NOR,MF,Bodø/Glimt,28,1997,23,9,969,10.8,4,1,5,3,1,1,0,0,0.37,0.09,0.46,0.28,0.37,Matches,0.16,0.43,19,7,36.8,0.65,1.76,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5f004975,Heine Bruseth,Heine Bruseth,no NOR,MF,Sarpsborg 08,20,2004,8,3,387,4.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,10,0,0.0,0.00,2.33,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ffe5ecdb,Ola Brynhildsen,Ola Brynhildsen,no NOR,FW,Bodø/Glimt,25,1999,1,1,59,0.7,0,2,2,0,0,0,0,0,0.00,3.05,3.05,0.00,3.05,Matches,0.00,,1,0,0.0,0.00,1.53,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+d234b7e7,Anders Bærtelsen,Anders Bærtelsen,dk DEN,DF,Viking,24,2000,21,16,"1,391",15.5,2,1,3,2,0,0,1,0,0.13,0.06,0.19,0.13,0.19,Matches,0.11,0.33,18,6,33.3,0.39,1.16,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+fbbd2476,Martin Børsheim,Martin Børsheim,no NOR,GK,Fredrikstad,19,2005,12,12,"1,080",12.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.08,3,25.0,12,12,15,1.25,4,"1,080",0,0,0,,0,73.7,42,57,4,4,Eliteserien,2025
+ba7e66f6,Anton Cajtoft,Anton Cajtoft,se SWE,GK,Bryne,30,1994,2,1,114,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,100.0,2,1,1,0.79,0,114,0,0,0,,0,83.3,5,6,0,1,Eliteserien,2025
+ee97a8f8,Ieltsin Camões,Ieltsin Camões,,FW,Tromsø,25,1999,25,19,"1,518",16.9,13,4,17,11,2,2,3,0,0.77,0.24,1.01,0.65,0.89,Matches,0.24,0.61,45,18,40.0,1.07,2.67,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+25ef5b47,Christian Cappis,Christian Cappis,us USA,MF,Viking,25,1999,14,4,571,6.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,0.32,0.63,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+d3f4537d,Frederik Carstensen,Frederik Carstensen,dk DEN,MF,Sarpsborg 08,22,2002,9,7,499,5.5,4,0,4,4,0,0,0,0,0.72,0.00,0.72,0.72,0.72,Matches,0.57,1.00,7,4,57.1,0.72,1.26,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a5ae580c,Niklas Castro,Niklas Castro,cl CHI,"FW,MF",Brann,29,1996,17,11,979,10.9,4,3,7,0,4,4,1,0,0.37,0.28,0.64,0.00,0.28,Matches,0.00,0.00,21,10,47.6,0.92,1.93,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+98a84572,Emil Ceide,Emil Ceide,no NOR,"FW,MF",Rosenborg,23,2001,28,26,"2,274",25.3,5,8,13,5,0,0,4,0,0.20,0.32,0.51,0.20,0.51,Matches,0.10,0.23,50,22,44.0,0.87,1.98,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1318200b,Mikkel Ceide,Mikkel Ceide,no NOR,DF,Rosenborg,23,2001,25,24,"2,096",23.3,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3601f45e,Christopher Cheng,Christopher Cheng,no NOR,"DF,MF",Sandefjord,23,2001,27,21,"1,954",21.7,5,5,10,5,0,0,3,0,0.23,0.23,0.46,0.23,0.46,Matches,0.16,0.56,32,9,28.1,0.41,1.47,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+00ed70c6,Frederik Christensen,Frederik Christensen,dk DEN,FW,Tromsø,24,2001,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+324ff0da,Jacob Christensen,Jacob Christensen,dk DEN,MF,Molde,23,2001,6,5,356,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.25,1.01,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+6f8fc4e0,Ole Christian Sæter,Ole Christian Sæter,no NOR,FW,Rosenborg,28,1996,20,3,501,5.6,1,0,1,1,0,0,4,0,0.18,0.00,0.18,0.18,0.18,Matches,0.05,0.20,19,5,26.3,0.90,3.41,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ffe0853e,Peter Christiansen,Peter Christiansen,dk DEN,FW,Viking,25,1999,29,25,"2,098",23.3,14,2,16,13,1,2,1,0,0.60,0.09,0.69,0.56,0.64,Matches,0.21,0.43,61,30,49.2,1.29,2.62,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+15275ec6,Sander Christiansen,Sander Christiansen,no NOR,"MF,DF",Sarpsborg 08,23,2001,27,22,"1,975",21.9,1,0,1,1,0,0,3,0,0.05,0.00,0.05,0.05,0.05,Matches,0.04,0.17,23,6,26.1,0.27,1.05,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+6b41eaf5,Alan Cole,Alan Cole,no NOR,FW,HamKam,16,2008,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+82122322,Alie Conteh,Alie Conteh,sl SLE,FW,Strømsgodset,20,2004,16,12,"1,046",11.6,2,1,3,2,0,0,0,0,0.17,0.09,0.26,0.17,0.26,Matches,0.06,0.14,33,14,42.4,1.20,2.84,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+d171dc98,Rezan Corlu,Rezan Corlu,dk DEN,MF,Kristiansund,27,1997,26,19,"1,462",16.2,4,1,5,4,0,0,3,0,0.25,0.06,0.31,0.25,0.31,Matches,0.14,0.67,29,6,20.7,0.37,1.79,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+b3f8e966,Leo Cornic,Leo Cornic,no NOR,DF,Tromsø,24,2001,29,29,"2,596",28.8,5,3,8,5,0,0,5,0,0.17,0.10,0.28,0.17,0.28,Matches,0.24,0.71,21,7,33.3,0.24,0.73,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+99fb7a95,Nicholas D'Agostino,Nicholas D'Agostino,au AUS,FW,Viking,26,1998,10,1,280,3.1,3,1,4,2,1,1,1,0,0.96,0.32,1.29,0.64,0.96,Matches,0.17,0.67,12,3,25.0,0.96,3.86,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+2a077629,Daniel Daga,Daniel Daga,ng NGA,MF,Molde,18,2007,12,1,225,2.5,2,0,2,2,0,0,2,0,0.80,0.00,0.80,0.80,0.80,Matches,0.18,0.50,11,4,36.4,1.60,4.40,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+7a023506,Fredrik Dahl,Fredrik Dahl,no NOR,DF,Strømsgodset,26,1999,29,28,"2,317",25.7,2,3,5,2,0,0,1,0,0.08,0.12,0.19,0.08,0.19,Matches,0.17,0.50,12,4,33.3,0.16,0.47,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+6b14ce11,Erlend Dahl Reitan,Erlend Dahl Reitan,no NOR,DF,Rosenborg,27,1997,20,10,"1,057",11.7,0,1,1,0,0,0,2,0,0.00,0.09,0.09,0.00,0.09,Matches,0.00,0.00,3,1,33.3,0.09,0.26,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+50be12ac,Tobias Dahl,Tobias Dahl,no NOR,DF,Rosenborg,20,2005,4,1,133,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.68,0.68,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f5891ed1,Denzel De Roeve,Denzel De Roeve,be BEL,DF,Brann,20,2004,28,12,"1,441",16.0,3,2,5,2,1,1,2,0,0.19,0.12,0.31,0.12,0.25,Matches,0.17,0.33,12,6,50.0,0.37,0.75,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+60f5a54b,Aleksander van der Spa,Aleksander van der Spa,no NOR,FW,Sandefjord,19,2005,3,0,48,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+806d9ca1,Madiodio Dia,Madiodio Dia,sn SEN,DF,Haugesund,21,2004,23,23,"2,046",22.7,1,0,1,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04,Matches,0.06,0.17,16,6,37.5,0.26,0.70,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+250abfbf,Ole Didrik Blomberg,Ole Didrik Blomberg,no NOR,"FW,MF",Bodø/Glimt,24,2000,18,15,"1,196",13.3,7,4,11,7,0,0,1,0,0.53,0.30,0.83,0.53,0.83,Matches,0.23,0.47,30,15,50.0,1.13,2.26,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+6062bd22,Vetle Dragsnes,Vetle Dragsnes,no NOR,DF,Brann,30,1994,12,8,719,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,2,33.3,0.25,0.75,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+31d53305,Jakob Dunsby,Jakob Dunsby,no NOR,MF,Sandefjord,24,2000,27,25,"1,978",22.0,5,6,11,5,0,0,3,0,0.23,0.27,0.50,0.23,0.50,Matches,0.09,0.33,53,15,28.3,0.68,2.41,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5e0a43de,Dávid Ďuriš,Dávid Ďuriš,sk SVK,MF,Rosenborg,25,1999,12,11,980,10.9,4,1,5,4,0,0,0,0,0.37,0.09,0.46,0.37,0.46,Matches,0.22,0.57,18,7,38.9,0.64,1.65,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+00a0b181,Mathias Dyngeland,Mathias Dyngeland,no NOR,GK,Brann,29,1995,30,30,"2,700",30.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,5,16.7,30,30,46,1.53,8,"2,700",0,1,0,100.0,1,59.3,68,113,5,17,Eliteserien,2025
+e50c518b,Robin Dzabic,Robin Dzabic,se SWE,MF,Sandefjord,23,2001,21,9,771,8.6,3,2,5,3,0,0,3,0,0.35,0.23,0.58,0.35,0.58,Matches,0.16,0.43,19,7,36.8,0.82,2.22,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+558e1c93,David Edvardsson,David Edvardsson,se SWE,MF,Tromsø,22,2002,27,23,"2,045",22.7,3,2,5,3,0,0,8,0,0.13,0.09,0.22,0.13,0.22,Matches,0.11,0.30,28,10,35.7,0.44,1.23,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+fed7524b,Vetle Egeli,Vetle Egeli,no NOR,DF,Sandefjord,20,2004,25,12,"1,139",12.7,1,1,2,1,0,0,2,0,0.08,0.08,0.16,0.08,0.16,Matches,0.06,0.17,17,6,35.3,0.47,1.34,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a0313275,Vegar Eggen Hedenstad,Vegar Eggen Hedenstad,no NOR,DF,Vålerenga,33,1991,22,19,"1,529",17.0,0,3,3,0,0,0,1,0,0.00,0.18,0.18,0.00,0.18,Matches,0.00,0.00,7,3,42.9,0.18,0.41,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+9a12e666,Daniel Eid,Daniel Eid,no NOR,"DF,MF",Fredrikstad,26,1998,28,25,"2,059",22.9,1,3,4,1,0,0,5,0,0.04,0.13,0.17,0.04,0.17,Matches,0.05,0.13,20,8,40.0,0.35,0.87,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5c287e74,Lars Eide,Lars Eide,no NOR,"FW,MF",Haugesund,17,2007,10,3,325,3.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,2,100.0,0.55,0.55,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+61511322,Jostein Ekeland,Jostein Ekeland,no NOR,FW,Strømsgodset,27,1997,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,15.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4baa5459,Anton Ekeroth,Anton Ekeroth,se SWE,DF,HamKam,23,2001,29,27,"2,330",25.9,2,6,8,2,0,0,8,0,0.08,0.23,0.31,0.08,0.31,Matches,0.10,0.29,20,7,35.0,0.27,0.77,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f95dc7a4,Mads Enggård,Mads Enggård,dk DEN,MF,Molde,21,2004,9,7,590,6.6,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,1,12.5,0.15,1.22,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a7e03a99,Lars Erik Sødal,Lars Erik Sødal,no NOR,MF,Bryne,22,2002,25,24,"2,051",22.8,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,22,4,18.2,0.18,0.97,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4353dd07,Kristian Eriksen,Kristian Eriksen,no NOR,"MF,FW",Molde,29,1995,14,10,902,10.0,3,0,3,3,0,0,2,0,0.30,0.00,0.30,0.30,0.30,Matches,0.14,0.43,22,7,31.8,0.70,2.20,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+058b630f,Carljohan Eriksson,Carljohan Eriksson,fi FIN,GK,Sandefjord,29,1995,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,20.0,10,10,16,1.60,5,900,4,4,0,0.0,0,72.7,32,44,2,3,Eliteserien,2025
+5ee14fa7,Vegard Erlien,Vegard Erlien,no NOR,FW,Tromsø,27,1998,28,24,"2,086",23.2,9,4,13,7,2,2,1,0,0.39,0.17,0.56,0.30,0.47,Matches,0.12,0.29,58,24,41.4,1.04,2.50,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+35753f28,Julius Eskesen,Julius Eskesen,dk DEN,MF,Haugesund,25,1999,13,12,"1,072",11.9,1,0,1,1,0,0,3,0,0.08,0.00,0.08,0.08,0.08,Matches,0.08,0.50,12,2,16.7,0.17,1.01,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+16322a52,Runar Espejord,Runar Espejord,no NOR,FW,Haugesund,28,1996,7,6,371,4.1,1,0,1,0,1,1,0,0,0.24,0.00,0.24,0.00,0.00,Matches,0.00,0.00,8,4,50.0,0.97,1.94,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+d019d5db,Håkon Evjen,Håkon Evjen,no NOR,MF,Bodø/Glimt,24,2000,29,27,"2,198",24.4,4,4,8,4,0,0,3,0,0.16,0.16,0.33,0.16,0.33,Matches,0.12,0.50,33,8,24.2,0.33,1.35,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+57fe6b9b,Henrik Falchener,Henrik Falchener,no NOR,DF,Viking,21,2003,29,29,"2,576",28.6,6,0,6,6,0,0,4,0,0.21,0.00,0.21,0.21,0.21,Matches,0.19,0.46,32,13,40.6,0.45,1.12,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+2c8a91b9,Fallou Fall,Fallou Fall,sn SEN,DF,Fredrikstad,20,2004,10,10,879,9.8,1,0,1,1,0,0,4,0,0.10,0.00,0.10,0.10,0.10,Matches,0.17,0.50,6,2,33.3,0.20,0.61,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3d6e5fdd,Benjamin Faraas,Benjamin Faraas,no NOR,FW,Fredrikstad,19,2005,9,0,99,1.1,1,0,1,1,0,0,0,0,0.91,0.00,0.91,0.91,0.91,Matches,1.00,1.00,1,1,100.0,0.91,0.91,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e046cff6,Marko Farji,Marko Farji,iq IRQ,"MF,FW",Strømsgodset,20,2004,29,27,"2,338",26.0,9,4,13,9,0,1,6,0,0.35,0.15,0.50,0.35,0.50,Matches,0.13,0.36,71,25,35.2,0.96,2.73,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+2292d1c5,Einar Fauskanger,Einar Fauskanger,no NOR,GK,Haugesund,16,2008,11,11,990,11.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,11,11,32,2.91,9,990,2,3,1,0.0,0,57.7,41,71,1,1,Eliteserien,2025
+78699620,Bård Finne,Bård Finne,no NOR,FW,Brann,29,1995,26,19,"1,563",17.4,6,3,9,6,0,1,0,0,0.35,0.17,0.52,0.35,0.52,Matches,0.10,0.26,61,23,37.7,1.32,3.51,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f5bba427,Jonathan Fischer,Jonathan Fischer,dk DEN,GK,Fredrikstad,23,2001,17,17,"1,530",17.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.06,5,29.4,17,17,20,1.18,6,"1,530",0,0,0,,0,72.2,52,72,4,7,Eliteserien,2025
+d46b0268,Mikkel Fischer,Mikkel Fischer,dk DEN,DF,Haugesund,20,2004,24,21,"1,975",21.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,5,71.4,0.23,0.32,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+78080323,Frederik Flex,Frederik Flex,dk DEN,DF,Kristiansund,20,2004,20,6,728,8.1,0,3,3,0,0,0,1,0,0.00,0.37,0.37,0.00,0.37,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ce218223,Iver Fossum,Iver Fossum,no NOR,MF,Rosenborg,28,1996,22,19,"1,605",17.8,2,3,5,2,0,0,0,0,0.11,0.17,0.28,0.11,0.28,Matches,0.08,0.29,25,7,28.0,0.39,1.40,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f8242397,Ulrik Fredriksen,Ulrik Fredriksen,no NOR,DF,Fredrikstad,25,1999,30,30,"2,677",29.7,2,0,2,2,0,0,2,0,0.07,0.00,0.07,0.07,0.07,Matches,0.09,0.25,23,8,34.8,0.27,0.77,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+15e3f477,Niklas Fuglestad,Niklas Fuglestad,no NOR,FW,Viking,18,2006,4,0,52,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,5.19,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1cdece48,Dadi Gaye,Dadi Gaye,gm GAM,DF,Bryne,29,1995,14,5,606,6.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ad3a6904,Martin Gjone,Martin Gjone,no NOR,DF,Sandefjord,19,2005,12,6,517,5.7,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.17,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+0c194795,Eron Gojani,Eron Gojani,ee EST,DF,HamKam,18,2006,6,0,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,1.30,3.91,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3afe41f1,Julian Gonstad,Julian Gonstad,no NOR,FW,HamKam,18,2006,25,11,"1,009",11.2,4,2,6,3,1,1,0,0,0.36,0.18,0.54,0.27,0.45,Matches,0.12,0.27,25,11,44.0,0.98,2.23,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1f595f15,Luis Görlich,Luis Görlich,de GER,DF,Bryne,24,2000,8,6,497,5.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+7a47e738,Igor Gosik,Igor Gosik,no NOR,MF,Molde,16,2008,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+46ea4e5b,Eirik Granaas,Eirik Granaas,no NOR,MF,Fredrikstad,14,2010,5,0,50,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4ee141ed,Sondre Granaas,Sondre Granaas,no NOR,MF,Molde,18,2006,21,9,919,10.2,1,1,2,1,0,0,3,0,0.10,0.10,0.20,0.10,0.20,Matches,0.10,0.20,10,5,50.0,0.49,0.98,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+52cf894f,Gustav Granath,Gustav Granath,se SWE,DF,HamKam,27,1997,27,23,"2,108",23.4,1,2,3,1,0,0,1,1,0.04,0.09,0.13,0.04,0.13,Matches,0.10,0.25,10,4,40.0,0.17,0.43,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+140e344e,Jesper Gregersen,Jesper Gregersen,no NOR,"MF,DF",Bryne,20,2004,9,6,419,4.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.43,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+df7f09b5,Almar Grindhaug,Almar Grindhaug,no NOR,MF,Haugesund,18,2006,11,10,811,9.0,0,1,1,0,0,0,2,0,0.00,0.11,0.11,0.00,0.11,Matches,0.00,0.00,7,4,57.1,0.44,0.78,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+49a5c1a8,Mathias Grundetjern,Mathias Grundetjern,no NOR,FW,Vålerenga,24,2000,11,11,868,9.6,4,2,6,4,0,0,0,0,0.41,0.21,0.62,0.41,0.62,Matches,0.16,0.31,25,13,52.0,1.35,2.59,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f6e8ee38,Magnus Grødem,Magnus Grødem,no NOR,FW,Bryne,26,1998,7,5,398,4.4,3,0,3,3,0,0,2,0,0.68,0.00,0.68,0.68,0.68,Matches,0.38,0.75,8,4,50.0,0.90,1.81,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+adf15e08,Alf Grønneberg,Alf Grønneberg,no NOR,DF,Sandefjord,20,2004,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+60f95638,Tobias Guddal,Tobias Guddal,no NOR,DF,Tromsø,22,2002,29,29,"2,585",28.7,0,1,1,0,0,0,4,0,0.00,0.03,0.03,0.00,0.03,Matches,0.00,0.00,8,4,50.0,0.14,0.28,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e04dca4a,Axel Guessand,Axel Guessand,fr FRA,DF,Kristiansund,20,2004,5,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+b686f4c0,Fredrik Gulbrandsen,Fredrik Gulbrandsen,no NOR,FW,Molde,32,1992,24,16,"1,269",14.1,7,1,8,6,1,1,3,0,0.50,0.07,0.57,0.43,0.50,Matches,0.12,0.25,49,24,49.0,1.70,3.48,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+bf4aca93,Jostein Gundersen,Jostein Gundersen,no NOR,DF,Bodø/Glimt,28,1996,16,13,"1,093",12.1,1,0,1,1,0,0,0,1,0.08,0.00,0.08,0.08,0.08,Matches,0.17,1.00,6,1,16.7,0.08,0.49,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+6a7bdb3f,Sveinn Guðjohnsen,Sveinn Guðjohnsen,is ISL,FW,Sarpsborg 08,26,1998,19,2,399,4.4,3,0,3,3,0,0,0,0,0.68,0.00,0.68,0.68,0.68,Matches,0.15,0.75,20,4,20.0,0.90,4.51,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4b80d399,Markus Haaland,Markus Haaland,no NOR,"MF,FW",Brann,19,2005,13,2,318,3.5,2,1,3,2,0,0,0,0,0.57,0.28,0.85,0.57,0.85,Matches,0.20,0.40,10,5,50.0,1.42,2.83,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+6c43465f,Elias Hadaya,Elias Hadaya,sy SYR,GK,Sandefjord,26,1998,20,20,"1,798",20.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,8,40.0,20,20,26,1.30,7,"1,798",7,8,0,12.5,1,74.7,57,75,1,12,Eliteserien,2025
+7673e4bc,Elias Hagen,Elias Hagen,no NOR,MF,Vålerenga,25,2000,30,10,"1,198",13.3,3,1,4,2,1,1,2,0,0.23,0.08,0.30,0.15,0.23,Matches,0.07,0.15,30,13,43.3,0.98,2.25,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3f6d2cbb,Martin Håheim-Elveseter,Martin Håheim-Elveseter,no NOR,MF,Sarpsborg 08,19,2005,7,1,120,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.75,4.50,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+60831426,Nikita Haikin,Nikita Haikin,ru RUS,GK,Bodø/Glimt,29,1995,30,30,"2,700",30.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,13,43.3,30,30,28,0.93,4,"2,700",2,2,0,0.0,0,70.1,60,87,4,22,Eliteserien,2025
+03a7b8eb,Kristian Håland,Kristian Håland,no NOR,MF,Bryne,17,2007,15,3,378,4.2,1,2,3,1,0,0,1,0,0.24,0.48,0.71,0.24,0.71,Matches,0.25,0.50,4,2,50.0,0.48,0.95,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+8c494879,Teodor Haltvik,Teodor Haltvik,no NOR,"MF,FW",KFUM Oslo,24,2000,26,9,"1,030",11.4,2,1,3,2,0,0,2,0,0.17,0.09,0.26,0.17,0.26,Matches,0.07,0.29,29,7,24.1,0.61,2.53,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+b0e2aed8,Victor Halvorsen,Victor Halvorsen,no NOR,MF,Sarpsborg 08,20,2004,26,18,"1,446",16.1,1,0,1,1,0,0,0,0,0.06,0.00,0.06,0.06,0.06,Matches,0.07,0.25,15,4,26.7,0.25,0.93,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4435db1e,Niko Hämäläinen,Niko Hämäläinen,fi FIN,DF,Haugesund,27,1997,13,12,"1,040",11.6,1,1,2,1,0,0,2,0,0.09,0.09,0.17,0.09,0.17,Matches,0.11,0.33,9,3,33.3,0.26,0.78,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f8f687e1,Pyry Hannola,Pyry Hannola,fi FIN,"MF,FW",Haugesund,23,2001,13,12,"1,111",12.3,0,2,2,0,0,0,1,0,0.00,0.16,0.16,0.00,0.16,Matches,0.00,0.00,10,4,40.0,0.32,0.81,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+760809c1,Jakob Hansen,Jakob Hansen,no NOR,MF,Viking,19,2005,25,20,"1,545",17.2,2,1,3,2,0,0,3,0,0.12,0.06,0.17,0.12,0.17,Matches,0.09,0.33,22,6,27.3,0.35,1.28,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f04a3092,Mads Hansen,Mads Hansen,dk DEN,"FW,MF",Brann,22,2002,24,7,727,8.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,29,8,27.6,0.99,3.59,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+42c61698,Mikkel Hansen,Mikkel Hansen,dk DEN,FW,Bodø/Glimt,16,2009,5,0,59,0.7,1,1,2,0,1,1,0,0,1.53,1.53,3.05,0.00,1.53,Matches,0.00,0.00,3,1,33.3,1.53,4.58,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+dbfa5332,Jacob Hanstad,Jacob Hanstad,no NOR,MF,Sandefjord,22,2002,10,2,277,3.1,1,0,1,1,0,0,0,0,0.32,0.00,0.32,0.32,0.32,Matches,0.25,1.00,4,1,25.0,0.32,1.30,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+dbfa5332,Jacob Hanstad,Jacob Hanstad,no NOR,MF,Sandefjord,22,2002,10,2,277,3.1,1,0,1,1,0,0,0,0,0.32,0.00,0.32,0.32,0.32,Matches,0.00,,1,0,0.0,0.00,5.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+dbfa5332,Jacob Hanstad,Jacob Hanstad,no NOR,MF,Fredrikstad,22,2002,2,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.25,1.00,4,1,25.0,0.32,1.30,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+dbfa5332,Jacob Hanstad,Jacob Hanstad,no NOR,MF,Fredrikstad,22,2002,2,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,5.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+142741bb,Jakob Haugaard,Jakob Haugaard,dk DEN,GK,Tromsø,32,1992,30,30,"2,700",30.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,10,33.3,30,30,36,1.20,9,"2,700",7,8,0,12.5,1,67.8,62,90,3,18,Eliteserien,2025
+857411ed,Eirik Haugan,Eirik Haugan,no NOR,DF,Molde,27,1997,27,26,"2,366",26.3,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,11,2,18.2,0.08,0.42,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a5a9814c,Haakon Haugen,Haakon Haugen,no NOR,DF,Kristiansund,18,2007,11,2,394,4.4,1,0,1,1,0,0,0,0,0.23,0.00,0.23,0.23,0.23,Matches,0.50,1.00,2,1,50.0,0.23,0.46,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+da9f4fa3,Herman Haugen,Herman Haugen,no NOR,MF,Viking,24,2000,19,4,601,6.7,1,1,2,1,0,0,3,0,0.15,0.15,0.30,0.15,0.30,Matches,0.14,0.25,7,4,57.1,0.60,1.05,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+52d7f819,Kristoffer Haugen,Kristoffer Haugen,no NOR,DF,Viking,30,1994,15,14,"1,259",14.0,1,3,4,1,0,0,1,0,0.07,0.21,0.29,0.07,0.29,Matches,0.11,1.00,9,1,11.1,0.07,0.64,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+52d7f819,Kristoffer Haugen,Kristoffer Haugen,no NOR,DF,Viking,30,1994,15,14,"1,259",14.0,1,3,4,1,0,0,1,0,0.07,0.21,0.29,0.07,0.29,Matches,0.00,0.00,11,1,9.1,0.11,1.18,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+52d7f819,Kristoffer Haugen,Kristoffer Haugen,no NOR,DF,Molde,30,1994,11,10,840,9.3,0,1,1,0,0,0,0,0,0.00,0.11,0.11,0.00,0.11,Matches,0.11,1.00,9,1,11.1,0.07,0.64,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+52d7f819,Kristoffer Haugen,Kristoffer Haugen,no NOR,DF,Molde,30,1994,11,10,840,9.3,0,1,1,0,0,0,0,0,0.00,0.11,0.11,0.00,0.11,Matches,0.00,0.00,11,1,9.1,0.11,1.18,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+cd775f17,Oscar Hedvall,Oscar Hedvall,dk DEN,GK,Vålerenga,26,1998,14,14,"1,260",14.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,21.4,14,14,26,1.86,5,"1,260",4,5,0,20.0,1,69.0,50,71,1,8,Eliteserien,2025
+70d2c6e7,Aune Heggebø,Aune Heggebø,no NOR,FW,Brann,23,2001,13,13,"1,161",12.9,7,1,8,5,2,2,1,0,0.54,0.08,0.62,0.39,0.47,Matches,0.13,0.29,38,17,44.7,1.32,2.95,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+8a3aabc1,Henrik Heggheim,Henrik Heggheim,no NOR,DF,Viking,23,2001,29,21,"1,907",21.2,2,3,5,2,0,0,7,0,0.09,0.14,0.24,0.09,0.24,Matches,0.07,0.22,30,9,30.0,0.42,1.42,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1b6ff816,Eivind Helgeland,Eivind Helgeland,no NOR,DF,Haugesund,21,2003,5,2,205,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c6218f7a,Eivind Helland,Eivind Helland,no NOR,DF,Brann,19,2005,28,28,"2,502",27.8,0,1,1,0,0,0,9,1,0.00,0.04,0.04,0.00,0.04,Matches,0.00,0.00,12,3,25.0,0.11,0.43,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+400d29e7,Andreas Helmersen,Andreas Helmersen,no NOR,FW,Bodø/Glimt,26,1998,21,3,511,5.7,6,1,7,6,0,0,0,0,1.06,0.18,1.23,1.06,1.23,Matches,0.24,0.75,25,8,32.0,1.41,4.40,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a3b8212b,Andreas Heredia-Randen,Andreas Heredia-Randen,no NOR,MF,Strømsgodset,18,2006,8,2,252,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+315e74cf,Eirik Hestad,Eirik Hestad,no NOR,MF,Molde,29,1995,24,20,"1,455",16.2,3,4,7,3,0,0,1,0,0.19,0.25,0.43,0.19,0.43,Matches,0.11,0.30,27,10,37.0,0.62,1.67,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4fb076ca,Simen Hestnes,Simen Hestnes,no NOR,MF,KFUM Oslo,28,1996,26,26,"2,258",25.1,4,2,6,4,0,0,2,1,0.16,0.08,0.24,0.16,0.24,Matches,0.13,0.31,30,13,43.3,0.52,1.20,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+7fc11cf3,David Hickson Gyedu,David Hickson Gyedu,no NOR,"MF,FW",KFUM Oslo,27,1997,27,26,"2,086",23.2,5,1,6,5,0,0,3,0,0.22,0.04,0.26,0.22,0.26,Matches,0.15,0.50,33,10,30.3,0.43,1.42,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+6fede8ed,Anders Hiim,Anders Hiim,no NOR,DF,Sarpsborg 08,22,2002,10,2,288,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.31,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c232eadd,Jens Hjertø-Dahl,Jens Hjertø-Dahl,no NOR,MF,Tromsø,19,2005,30,28,"2,372",26.4,4,4,8,4,0,0,3,0,0.15,0.15,0.30,0.15,0.30,Matches,0.08,0.19,49,21,42.9,0.80,1.86,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4cda048f,Jonas Hjorth,Jonas Hjorth,no NOR,"MF,DF",KFUM Oslo,24,2001,27,25,"2,184",24.3,2,4,6,2,0,0,3,0,0.08,0.16,0.25,0.08,0.25,Matches,0.10,0.29,21,7,33.3,0.29,0.87,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c16c39cc,Elias Hoff Melkersen,Elias Hoff Melkersen,no NOR,FW,Strømsgodset,22,2002,8,8,507,5.6,0,1,1,0,0,0,1,0,0.00,0.18,0.18,0.00,0.18,Matches,0.00,0.00,9,4,44.4,0.71,1.60,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c0243229,Ian Hoffmann,Ian Hoffmann,us USA,DF,Kristiansund,23,2001,25,23,"1,960",21.8,0,2,2,0,0,0,6,0,0.00,0.09,0.09,0.00,0.09,Matches,0.00,0.00,10,2,20.0,0.09,0.46,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+61b77d0a,Noah Holm,Noah Holm,no NOR,FW,Brann,23,2001,9,5,519,5.8,1,1,2,1,0,0,1,0,0.17,0.17,0.35,0.17,0.35,Matches,0.08,0.25,13,4,30.8,0.69,2.25,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+61b77d0a,Noah Holm,Noah Holm,no NOR,FW,Brann,23,2001,9,5,519,5.8,1,1,2,1,0,0,1,0,0.17,0.17,0.35,0.17,0.35,Matches,0.05,0.25,21,4,19.0,0.37,1.95,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+61b77d0a,Noah Holm,Noah Holm,no NOR,FW,Rosenborg,23,2001,17,10,969,10.8,1,2,3,1,0,0,2,0,0.09,0.19,0.28,0.09,0.28,Matches,0.08,0.25,13,4,30.8,0.69,2.25,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+61b77d0a,Noah Holm,Noah Holm,no NOR,FW,Rosenborg,23,2001,17,10,969,10.8,1,2,3,1,0,0,2,0,0.09,0.19,0.28,0.09,0.28,Matches,0.05,0.25,21,4,19.0,0.37,1.95,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a1d8390a,Emil Holten,Emil Holten,dk DEN,FW,Fredrikstad,28,1996,18,15,"1,207",13.4,4,3,7,2,2,2,2,0,0.30,0.22,0.52,0.15,0.37,Matches,0.06,0.20,31,10,32.3,0.75,2.31,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f6f90201,Rasmus Holten,Rasmus Holten,no NOR,DF,Brann,19,2005,8,1,144,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.62,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+76d4770b,Mikkel Hope,Mikkel Hope,no NOR,"DF,MF",Haugesund,18,2006,21,11,"1,108",12.3,1,0,1,1,0,0,1,0,0.08,0.00,0.08,0.08,0.08,Matches,0.13,0.20,8,5,62.5,0.41,0.65,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+aa424ade,Håkon Hoseth,Håkon Hoseth,no NOR,"MF,DF",KFUM Oslo,25,1999,18,17,"1,414",15.7,1,3,4,1,0,0,1,0,0.06,0.19,0.25,0.06,0.25,Matches,0.07,0.25,15,4,26.7,0.25,0.95,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+18b50512,Jens Husebø,Jens Husebø,no NOR,DF,Bryne,25,1999,20,20,"1,711",19.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.05,0.26,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+18b50512,Jens Husebø,Jens Husebø,no NOR,DF,Bryne,25,1999,20,20,"1,711",19.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+18b50512,Jens Husebø,Jens Husebø,no NOR,DF,Tromsø,25,1999,4,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.05,0.26,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+18b50512,Jens Husebø,Jens Husebø,no NOR,DF,Tromsø,25,1999,4,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5e6ff6b1,Sory Ibrahim Diarra,Sory Ibrahim Diarra,ml MLI,FW,Haugesund,24,2000,21,17,"1,506",16.7,7,1,8,6,1,1,1,0,0.42,0.06,0.48,0.36,0.42,Matches,0.22,0.43,27,14,51.9,0.84,1.61,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1daa205b,Ylldren Ibrahimaj,Ylldren Ibrahimaj,xk KVX,MF,HamKam,29,1995,10,10,819,9.1,3,3,6,3,0,0,1,0,0.33,0.33,0.66,0.33,0.66,Matches,0.13,0.30,23,10,43.5,1.10,2.53,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+6c82dc4f,Wilfred Igor,Wilfred Igor,ng NGA,MF,Kristiansund,19,2005,24,24,"2,033",22.6,1,1,2,1,0,0,6,0,0.04,0.04,0.09,0.04,0.09,Matches,0.08,0.33,12,3,25.0,0.13,0.53,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f512a009,Jo Inge Berget,Jo Inge Berget,no NOR,"MF,FW",Sarpsborg 08,34,1990,22,12,"1,096",12.2,5,1,6,5,0,0,3,0,0.41,0.08,0.49,0.41,0.49,Matches,0.15,0.33,33,15,45.5,1.23,2.71,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5e388ecf,Bjørn Inge Utvik,Bjørn Inge Utvik,no NOR,DF,Sarpsborg 08,28,1996,12,12,"1,080",12.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,1,12.5,0.08,0.67,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+0434c1d5,Brynjar Ingi Bjarnason,Brynjar Ingi Bjarnason,is ISL,DF,HamKam,25,1999,13,13,"1,164",12.9,0,1,1,0,0,0,1,0,0.00,0.08,0.08,0.00,0.08,Matches,0.00,0.00,16,4,25.0,0.31,1.24,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c9933d81,Stefán Ingi Sigurðarson,Stefán Ingi Sigurðarson,is ISL,FW,Sandefjord,24,2001,27,25,"2,027",22.5,15,1,16,15,0,0,3,1,0.67,0.04,0.71,0.67,0.71,Matches,0.28,0.50,53,30,56.6,1.33,2.35,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+dbf63d0f,Sander Innvær,Sander Innvær,no NOR,MF,Tromsø,20,2004,2,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,8.18,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+dbf63d0f,Sander Innvær,Sander Innvær,no NOR,MF,Tromsø,20,2004,2,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.07,0.17,14,6,42.9,0.54,1.26,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+dbf63d0f,Sander Innvær,Sander Innvær,no NOR,"MF,FW",Haugesund,20,2004,18,12,998,11.1,1,0,1,1,0,0,0,0,0.09,0.00,0.09,0.09,0.09,Matches,0.00,,1,0,0.0,0.00,8.18,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+dbf63d0f,Sander Innvær,Sander Innvær,no NOR,"MF,FW",Haugesund,20,2004,18,12,998,11.1,1,0,1,1,0,0,0,0,0.09,0.00,0.09,0.09,0.09,Matches,0.07,0.17,14,6,42.9,0.54,1.26,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+bc55e9d8,Mustapha Isah,Mustapha Isah,ng NGA,"FW,MF",Kristiansund,20,2004,29,20,"1,653",18.4,6,2,8,6,0,0,2,0,0.33,0.11,0.44,0.33,0.44,Matches,0.18,0.38,34,16,47.1,0.87,1.85,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+721608e5,Dino Islamović,Dino Islamović,me MNE,FW,Rosenborg,31,1994,27,24,"2,152",23.9,14,3,17,10,4,4,3,0,0.59,0.13,0.71,0.42,0.54,Matches,0.14,0.30,72,33,45.8,1.38,3.01,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a9047a57,Blerton Isufi,Blerton Isufi,no NOR,MF,Sandefjord,18,2006,4,2,165,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.09,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+38c8662f,Fabian Jakobsen,Fabian Jakobsen,no NOR,FW,Haugesund,17,2007,5,0,93,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+d002e865,Sebastian Jarl,Sebastian Jarl,no NOR,DF,Vålerenga,25,2000,20,14,"1,382",15.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.07,0.26,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ea93bcd9,Mohanad Jeahze,Mohanad Jeahze,iq IRQ,DF,Sarpsborg 08,27,1997,19,17,"1,326",14.7,0,1,1,0,0,0,2,0,0.00,0.07,0.07,0.00,0.07,Matches,0.00,0.00,14,4,28.6,0.27,0.95,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+cb63d059,Igor Jeličić,Igor Jeličić,rs SRB,DF,Kristiansund,24,2000,12,4,555,6.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.16,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5f2e2b18,Elias Jemal,Elias Jemal,se SWE,MF,Sandefjord,21,2003,12,1,243,2.7,1,0,1,1,0,0,0,0,0.37,0.00,0.37,0.37,0.37,Matches,0.08,0.17,12,6,50.0,2.22,4.44,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e62d881a,Anders Jenssen,Anders Jenssen,no NOR,DF,Tromsø,31,1993,17,6,639,7.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+99acacc8,Håvar Jenssen,Håvar Jenssen,no NOR,GK,Sarpsborg 08,28,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,1,1,4,4.00,1,90,0,0,0,,0,50.0,4,8,0,0,Eliteserien,2025
+89a10996,Daniel Job,Daniel Job,ng NGA,MF,Sarpsborg 08,19,2005,11,2,391,4.3,1,1,2,1,0,0,0,0,0.23,0.23,0.46,0.23,0.46,Matches,0.11,0.25,9,4,44.4,0.92,2.07,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+576ea36c,Eirik Johansen,Eirik Johansen,no NOR,GK,Strømsgodset,32,1992,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,3,3,8,2.67,3,270,0,0,0,,0,38.5,5,13,0,0,Eliteserien,2025
+ea173715,Markus Johnsgård,Markus Johnsgård,no NOR,MF,HamKam,26,1998,7,2,264,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,2,33.3,0.68,2.05,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+d1e5afc0,Sjur Jonassen,Sjur Jonassen,no NOR,FW,Bryne,20,2004,6,2,201,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.45,1.79,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a854969f,Mathias Jørgensen,Mathias Jørgensen,dk DEN,"MF,FW",Bodø/Glimt,24,2000,10,3,372,4.1,4,0,4,4,0,0,0,0,0.97,0.00,0.97,0.97,0.97,Matches,0.25,0.80,16,5,31.3,1.21,3.87,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+70b480d3,Samukele Kabini,Samukele Kabini,za RSA,DF,Molde,20,2004,18,16,"1,505",16.7,1,3,4,1,0,0,8,0,0.06,0.18,0.24,0.06,0.24,Matches,0.06,0.14,17,7,41.2,0.42,1.02,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3cedae52,Daniel Karlsbakk,Daniel Karlsbakk,no NOR,"FW,MF",Sarpsborg 08,21,2003,28,28,"2,347",26.1,18,1,19,11,7,7,4,0,0.69,0.04,0.73,0.42,0.46,Matches,0.16,0.29,68,38,55.9,1.46,2.61,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c2a9f532,Håvard Karlsen,Håvard Karlsen,,FW,Haugesund,,,10,2,338,3.8,1,0,1,0,1,1,0,0,0.27,0.00,0.27,0.00,0.00,Matches,0.00,0.00,5,2,40.0,0.53,1.33,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+eb6fac77,Jacob Karlstrom,Jacob Karlstrom,no NOR,GK,Molde,28,1997,28,28,"2,520",28.0,0,1,1,0,0,0,3,0,0.00,0.04,0.04,0.00,0.04,Matches,,,0,0,,0.00,0.00,9,32.1,28,28,37,1.32,13,"2,520",3,6,2,25.0,1,68.2,73,107,3,12,Eliteserien,2025
+6d25f2fb,Neraysho Kasanwirjo,Neraysho Kasanwirjo,nl NED,DF,Molde,22,2002,7,4,425,4.7,0,1,1,0,0,0,4,0,0.00,0.21,0.21,0.00,0.21,Matches,0.00,,4,0,0.0,0.00,0.85,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e020932a,Sander Kilen,Sander Kilen,no NOR,"MF,FW",Kristiansund,19,2005,30,24,"2,066",23.0,5,3,8,5,0,1,2,0,0.22,0.13,0.35,0.22,0.35,Matches,0.13,0.25,38,20,52.6,0.87,1.66,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ce198036,Thomas Kinn,Thomas Kinn,no NOR,GK,Viking,25,1999,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,5,5,9,1.80,0,450,3,3,0,0.0,0,50.0,6,12,1,4,Eliteserien,2025
+01606530,Jeppe Kjær,Jeppe Kjær,dk DEN,FW,Bodø/Glimt,20,2004,3,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,2.00,4.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3f70db80,Kristoffer Klaesson,Kristoffer Klaesson,no NOR,GK,Viking,24,2000,14,14,"1,218",13.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,4,28.6,14,14,18,1.33,2,"1,218",0,0,0,,0,64.7,33,51,3,9,Eliteserien,2025
+bef3d795,Anders Klynge,Anders Klynge,dk DEN,MF,Bodø/Glimt,24,2000,9,2,163,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,1,14.3,0.55,3.87,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+55fabbd1,Menno Koch,Menno Koch,nl NED,DF,Sarpsborg 08,30,1994,29,29,"2,603",28.9,0,2,2,0,0,0,5,0,0.00,0.07,0.07,0.00,0.07,Matches,0.00,0.00,10,1,10.0,0.03,0.35,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+0f816ae5,Morten Konradsen,Morten Konradsen,no NOR,"MF,FW",Haugesund,28,1996,16,15,"1,296",14.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,8,2,25.0,0.14,0.56,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+35271c4d,Emil Kornvig,Emil Kornvig,dk DEN,MF,Brann,24,2000,29,29,"2,504",27.8,8,3,11,7,1,1,8,0,0.29,0.11,0.40,0.25,0.36,Matches,0.12,0.41,60,17,28.3,0.61,2.16,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+9eb4e4ee,Miika Koskela,Miika Koskela,fi FIN,DF,Haugesund,21,2003,8,6,532,5.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,0.34,0.68,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+03d254a7,Kreshnik Krasniqi,Kreshnik Krasniqi,xk KVX,MF,Strømsgodset,24,2000,21,13,"1,317",14.6,2,0,2,2,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matches,0.11,0.40,18,5,27.8,0.34,1.23,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5a54155a,Per Kristian Bråtveit,Per Kristian Bråtveit,no NOR,GK,Strømsgodset,28,1996,25,25,"2,218",24.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,8.0,25,25,53,2.15,17,"2,218",3,3,0,0.0,0,68.2,107,157,2,6,Eliteserien,2025
+5c79edf4,Ole Kristian Enersen,Ole Kristian Enersen,no NOR,"MF,FW",Strømsgodset,22,2002,12,5,330,3.7,1,1,2,1,0,0,1,0,0.27,0.27,0.55,0.27,0.55,Matches,0.20,0.33,5,3,60.0,0.82,1.36,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4d6f8360,Ruben Kristiansen,Ruben Kristiansen,no NOR,DF,Tromsø,36,1988,8,2,328,3.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+83adf374,Stian Kristiansen,Stian Kristiansen,no NOR,DF,Sandefjord,26,1999,29,29,"2,565",28.5,2,1,3,2,0,0,4,0,0.07,0.04,0.11,0.07,0.11,Matches,0.12,0.33,17,6,35.3,0.21,0.60,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ae252a1f,Oscar Krusnell,Oscar Krusnell,se SWE,"DF,MF",Haugesund,25,1999,14,12,"1,039",11.5,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,2,33.3,0.17,0.52,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+aaf0e970,Axel Kryger,Axel Kryger,no NOR,DF,Kristiansund,27,1997,4,2,201,2.2,0,2,2,0,0,0,1,0,0.00,0.90,0.90,0.00,0.90,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+aaf0e970,Axel Kryger,Axel Kryger,no NOR,DF,Kristiansund,27,1997,4,2,201,2.2,0,2,2,0,0,0,1,0,0.00,0.90,0.90,0.00,0.90,Matches,0.00,0.00,10,3,30.0,0.19,0.63,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+aaf0e970,Axel Kryger,Axel Kryger,no NOR,"DF,MF",Bryne,27,1997,17,17,"1,423",15.8,2,0,2,0,2,2,4,0,0.13,0.00,0.13,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+aaf0e970,Axel Kryger,Axel Kryger,no NOR,"DF,MF",Bryne,27,1997,17,17,"1,423",15.8,2,0,2,0,2,2,4,0,0.13,0.00,0.13,0.00,0.00,Matches,0.00,0.00,10,3,30.0,0.19,0.63,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+9f374280,Ilir Kukleci,Ilir Kukleci,no NOR,DF,Haugesund,26,1998,7,5,449,5.0,1,0,1,1,0,0,1,0,0.20,0.00,0.20,0.20,0.20,Matches,0.50,1.00,2,1,50.0,0.20,0.40,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+63826865,Simen Kvia-Egeskog,Simen Kvia-Egeskog,no NOR,MF,Viking,21,2003,28,8,"1,188",13.2,5,2,7,5,0,0,2,0,0.38,0.15,0.53,0.38,0.53,Matches,0.33,0.71,15,7,46.7,0.53,1.14,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+569ce58e,Sigurd Kvile,Sigurd Kvile,no NOR,DF,Fredrikstad,24,2000,9,5,381,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+790baa13,Nana Kwame Boakye,Nana Kwame Boakye,gh GHA,DF,Brann,19,2005,6,2,287,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.31,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1ed180a5,Salim Laghzaoui,Salim Laghzaoui,no NOR,FW,Fredrikstad,19,2005,6,2,248,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,3,50.0,1.09,2.18,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+634bb454,Simo Lampinen-Skaug,Simo Lampinen-Skaug,no NOR,GK,Strømsgodset,19,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,1,1,3,3.00,1,90,0,0,0,,0,57.1,4,7,0,0,Eliteserien,2025
+a2d29762,Christian Landu Landu,Christian Landu Landu,no NOR,MF,Bryne,33,1992,19,1,400,4.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,11,3,27.3,0.68,2.48,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1daf784e,Carl Lange,Carl Lange,dk DEN,MF,Vålerenga,26,1998,27,27,"2,249",25.0,1,2,3,1,0,0,4,0,0.04,0.08,0.12,0.04,0.12,Matches,0.03,0.14,33,7,21.2,0.28,1.32,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+42fe6b05,Yann-Erik de Lanlay,Yann-Erik de Lanlay,no NOR,"FW,MF",Viking,32,1992,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+21c35cd1,Michael Lansing,Michael Lansing,us USA,GK,Kristiansund,30,1994,3,3,204,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,3,3,4,1.76,1,204,0,0,0,,0,69.2,9,13,0,2,Eliteserien,2025
+56a699c9,Heine Larsen,Heine Larsen,no NOR,MF,Tromsø,22,2002,5,1,105,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,2,100.0,1.71,1.71,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+56a699c9,Heine Larsen,Heine Larsen,no NOR,MF,Tromsø,22,2002,5,1,105,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.14,0.31,28,13,46.4,0.78,1.68,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+56a699c9,Heine Larsen,Heine Larsen,no NOR,"MF,FW",Bryne,22,2002,20,16,"1,497",16.6,4,1,5,4,0,1,3,0,0.24,0.06,0.30,0.24,0.30,Matches,0.00,0.00,2,2,100.0,1.71,1.71,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+56a699c9,Heine Larsen,Heine Larsen,no NOR,"MF,FW",Bryne,22,2002,20,16,"1,497",16.6,4,1,5,4,0,1,3,0,0.24,0.06,0.30,0.24,0.30,Matches,0.14,0.31,28,13,46.4,0.78,1.68,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+0e99436f,Mads Larsen,Mads Larsen,no NOR,DF,HamKam,18,2006,3,0,127,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.42,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+571f8b30,Bruno Leite,Bruno Leite,cv CPV,"MF,FW",Haugesund,29,1995,21,16,"1,294",14.4,0,1,1,0,0,0,6,1,0.00,0.07,0.07,0.00,0.07,Matches,0.00,0.00,20,4,20.0,0.28,1.39,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+0e100630,Martin Linnes,Martin Linnes,no NOR,DF,Molde,33,1991,19,16,"1,383",15.4,0,3,3,0,0,0,2,0,0.00,0.20,0.20,0.00,0.20,Matches,0.00,0.00,9,2,22.2,0.13,0.59,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+59081fad,Momodou Lion Njie,Momodou Lion Njie,gm GAM,DF,Sarpsborg 08,23,2001,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+59081fad,Momodou Lion Njie,Momodou Lion Njie,gm GAM,DF,Sarpsborg 08,23,2001,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.32,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+59081fad,Momodou Lion Njie,Momodou Lion Njie,gm GAM,DF,KFUM Oslo,23,2001,10,7,557,6.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+59081fad,Momodou Lion Njie,Momodou Lion Njie,gm GAM,DF,KFUM Oslo,23,2001,10,7,557,6.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.32,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ea8507d2,Filip Loftesnes-Bjune,Filip Loftesnes-Bjune,no NOR,DF,Sandefjord,19,2005,8,7,606,6.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+cd1629bc,Valdemar Lund,Valdemar Lund,dk DEN,DF,Molde,21,2003,12,7,540,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.17,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+9da07419,Isak Määttä,Isak Määttä,no NOR,FW,Bodø/Glimt,23,2001,24,7,750,8.3,1,5,6,1,0,0,2,0,0.12,0.60,0.72,0.12,0.72,Matches,0.08,0.13,12,8,66.7,0.96,1.44,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+0e7c287a,Sævar Magnússon,Sævar Magnússon,is ISL,FW,Brann,24,2000,9,7,632,7.0,5,0,5,4,1,1,1,0,0.71,0.00,0.71,0.57,0.57,Matches,0.20,0.40,20,10,50.0,1.42,2.85,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+03a38533,Luc Mares,Luc Mares,nl NED,"DF,MF",HamKam,28,1996,26,26,"2,340",26.0,2,1,3,0,2,3,4,0,0.08,0.04,0.12,0.00,0.04,Matches,0.00,0.00,8,4,50.0,0.15,0.31,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+943b38ba,Bjørn Martin Kristensen,Bjørn Martin Kristensen,ph PHI,"FW,MF",KFUM Oslo,22,2002,26,8,950,10.6,2,1,3,2,0,0,5,0,0.19,0.09,0.28,0.19,0.28,Matches,0.10,0.25,21,8,38.1,0.76,1.99,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+fd6c5ec5,Sebastian Mathisen,Sebastian Mathisen,no NOR,FW,Sandefjord,19,2005,17,2,350,3.9,1,1,2,1,0,0,1,0,0.26,0.26,0.51,0.26,0.51,Matches,0.33,0.33,3,3,100.0,0.77,0.77,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4e32cf6d,Ulrik Mathisen,Ulrik Mathisen,no NOR,FW,Brann,26,1999,26,17,"1,411",15.7,2,4,6,2,0,0,1,0,0.13,0.26,0.38,0.13,0.38,Matches,0.07,0.17,27,12,44.4,0.77,1.72,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+2dd3f285,Moses Mawa,Moses Mawa,no NOR,"FW,MF",HamKam,28,1996,26,20,"1,677",18.6,4,0,4,4,0,0,3,0,0.21,0.00,0.21,0.21,0.21,Matches,0.08,0.29,48,14,29.2,0.75,2.58,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+fc5c05cb,Sean McDermott,Sean McDermott,ie IRL,GK,Molde,31,1993,2,2,180,2.0,0,1,1,0,0,0,0,0,0.00,0.50,0.50,0.00,0.50,Matches,,,0,0,,0.00,0.00,0,0.0,2,2,5,2.50,2,180,0,0,0,,0,58.3,7,12,0,0,Eliteserien,2025
+b99107bb,Marcus Mehnert,Marcus Mehnert,no NOR,"MF,FW",Strømsgodset,27,1997,20,12,"1,148",12.8,1,2,3,1,0,0,2,0,0.08,0.16,0.24,0.08,0.24,Matches,0.05,0.50,21,2,9.5,0.16,1.65,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4887b64a,Marcus Melchior,Marcus Melchior,no NOR,MF,Sandefjord,23,2001,15,10,830,9.2,1,4,5,1,0,0,3,0,0.11,0.43,0.54,0.11,0.54,Matches,0.06,0.25,16,4,25.0,0.43,1.73,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+510a8447,Promise Meliga,Promise Meliga,ng NGA,FW,Vålerenga,17,2007,8,0,141,1.6,1,2,3,1,0,0,2,0,0.64,1.28,1.91,0.64,1.91,Matches,0.11,0.33,9,3,33.3,1.91,5.74,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+57809b8e,Olav Mengshoel,Olav Mengshoel,no NOR,FW,HamKam,16,2008,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+427e3820,Patrick Metcalfe,Patrick Metcalfe,ca CAN,"MF,DF",Fredrikstad,26,1998,26,22,"1,941",21.6,1,0,1,1,0,0,1,0,0.05,0.00,0.05,0.05,0.05,Matches,0.06,0.25,17,4,23.5,0.19,0.79,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1155bfe8,Loris Mettler,Loris Mettler,ch SUI,MF,Sandefjord,26,1998,27,15,"1,440",16.0,3,1,4,2,1,1,5,0,0.19,0.06,0.25,0.12,0.19,Matches,0.04,0.15,45,13,28.9,0.81,2.81,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5add9b29,Hilmir Mikaelsson,Hilmir Mikaelsson,is ISL,FW,Viking,20,2004,12,2,268,3.0,2,0,2,1,1,1,2,0,0.67,0.00,0.67,0.34,0.34,Matches,0.11,0.17,9,6,66.7,2.01,3.02,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+8f2fd783,August Mikkelsen,August Mikkelsen,no NOR,FW,Tromsø,24,2000,16,5,429,4.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,0.84,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a55ba2f8,Brede Moe,Brede Moe,no NOR,DF,Bodø/Glimt,33,1991,6,3,249,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ea4642b3,Stian Molde,Stian Molde,no NOR,"DF,MF",Fredrikstad,28,1996,25,21,"1,856",20.6,2,0,2,2,0,0,0,0,0.10,0.00,0.10,0.10,0.10,Matches,0.09,0.33,22,6,27.3,0.29,1.07,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5666512d,Nikolaj Moller,Nikolaj Moller,se SWE,FW,Strømsgodset,22,2002,10,4,470,5.2,1,0,1,0,1,1,0,0,0.19,0.00,0.19,0.00,0.00,Matches,0.00,0.00,9,1,11.1,0.19,1.72,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+7fcf593b,Mame Mor Ndiaye,Mame Mor Ndiaye,sn SEN,FW,KFUM Oslo,27,1997,20,5,636,7.1,3,3,6,3,0,0,2,0,0.42,0.42,0.85,0.42,0.85,Matches,0.13,0.33,23,9,39.1,1.27,3.25,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+643d204a,Duarte Moreira,Duarte Moreira,pt POR,"FW,MF",Bryne,23,2001,30,28,"2,364",26.3,7,7,14,7,0,0,2,0,0.27,0.27,0.53,0.27,0.53,Matches,0.12,0.37,57,19,33.3,0.72,2.17,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ad850cf2,Mathias Mork,Mathias Mork,no NOR,MF,Molde,17,2007,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+efb8f86f,Jonas Mortensen,Jonas Mortensen,dk DEN,DF,Rosenborg,24,2001,13,9,722,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,0.25,0.50,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+cf8469d2,Felix Myhre,Felix Myhre,no NOR,MF,Brann,25,1999,24,23,"2,089",23.2,4,3,7,4,0,0,4,0,0.17,0.13,0.30,0.17,0.30,Matches,0.14,0.44,28,9,32.1,0.39,1.21,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+fcf5211e,Mats Møller Dæhli,Mats Møller Dæhli,no NOR,MF,Molde,29,1995,24,22,"1,893",21.0,0,2,2,0,0,0,0,0,0.00,0.10,0.10,0.00,0.10,Matches,0.00,0.00,9,1,11.1,0.05,0.43,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+6e945f87,Ivan Näsberg,Ivan Näsberg,no NOR,DF,Vålerenga,28,1996,10,10,843,9.4,0,1,1,0,0,0,0,0,0.00,0.11,0.11,0.00,0.11,Matches,0.00,0.00,3,1,33.3,0.11,0.32,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+7a32e71c,Faveur Ndayizeye,Faveur Ndayizeye,no NOR,DF,Molde,16,2008,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f87b1fe9,Mamour Ndiaye,Mamour Ndiaye,sn SEN,GK,Sarpsborg 08,19,2005,29,29,"2,609",29.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,6,20.7,29,29,46,1.59,10,"2,609",3,3,0,0.0,0,71.7,109,152,8,11,Eliteserien,2025
+6e3c43c9,Alioune Ndour,Alioune Ndour,sn SEN,FW,Kristiansund,27,1997,24,9,982,10.9,3,0,3,1,2,2,2,0,0.27,0.00,0.27,0.09,0.09,Matches,0.03,0.07,30,15,50.0,1.37,2.75,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+fe9f5ed2,Tomáš Nemčík,Tomáš Nemčík,sk SVK,DF,Rosenborg,23,2001,23,22,"1,965",21.8,1,1,2,1,0,0,1,0,0.05,0.05,0.09,0.05,0.09,Matches,0.33,1.00,3,1,33.3,0.05,0.14,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1f4127c1,Andreas Nibe,Andreas Nibe,dk DEN,"MF,FW",Sarpsborg 08,21,2003,8,7,522,5.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.17,0.86,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5243fe66,Villads Nielsen,Villads Nielsen,dk DEN,DF,Bodø/Glimt,20,2005,11,4,479,5.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.19,1.13,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+12ab5180,Alexander Nilsson,Alexander Nilsson,se SWE,GK,HamKam,27,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,3,3,9,3.00,2,270,1,1,0,0.0,0,65.2,15,23,0,1,Eliteserien,2025
+904d34e0,Claus Niyukuri,Claus Niyukuri,bi BDI,DF,Haugesund,24,2000,23,16,"1,331",14.8,2,2,4,2,0,0,1,0,0.14,0.14,0.27,0.14,0.27,Matches,0.17,0.50,12,4,33.3,0.27,0.81,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4ce1e02e,Bilal Njie,Bilal Njie,so SOM,"FW,MF",KFUM Oslo,26,1998,13,8,766,8.5,1,1,2,1,0,0,2,0,0.12,0.12,0.23,0.12,0.23,Matches,0.08,0.17,12,6,50.0,0.70,1.41,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+b7520ab1,Moussa Njie,Moussa Njie,no NOR,"FW,MF",KFUM Oslo,29,1995,20,15,"1,209",13.4,2,1,3,2,0,0,2,0,0.15,0.07,0.22,0.15,0.22,Matches,0.07,0.20,27,10,37.0,0.74,2.01,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f166b57c,Vinícius Nogueira,Vinícius Nogueira,br BRA,DF,Vålerenga,23,2001,25,24,"2,165",24.1,2,3,5,2,0,0,5,0,0.08,0.12,0.21,0.08,0.21,Matches,0.10,0.29,21,7,33.3,0.29,0.87,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f20b5af8,Runar Norheim,Runar Norheim,no NOR,DF,Tromsø,19,2005,19,17,"1,311",14.6,2,3,5,2,0,0,0,0,0.14,0.21,0.34,0.14,0.34,Matches,0.08,0.22,24,9,37.5,0.62,1.65,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+69eeede4,Sondre Norheim,Sondre Norheim,no NOR,DF,Bryne,27,1997,11,1,284,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.63,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+2ea2178a,Amin Nouri,Amin Nouri,no NOR,"DF,MF",KFUM Oslo,35,1990,25,11,"1,092",12.1,1,2,3,1,0,0,3,0,0.08,0.16,0.25,0.08,0.25,Matches,0.17,0.50,6,2,33.3,0.16,0.49,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+8e88eede,Johannes Nunez Godoy,Johannes Nunez Godoy,no NOR,FW,Fredrikstad,28,1996,4,2,215,2.4,2,0,2,1,1,2,0,0,0.84,0.00,0.84,0.42,0.42,Matches,0.20,0.50,5,2,40.0,0.84,2.09,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+8e88eede,Johannes Nunez Godoy,Johannes Nunez Godoy,no NOR,FW,Fredrikstad,28,1996,4,2,215,2.4,2,0,2,1,1,2,0,0,0.84,0.00,0.84,0.42,0.42,Matches,0.20,0.50,20,8,40.0,0.81,2.04,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+8e88eede,Johannes Nunez Godoy,Johannes Nunez Godoy,no NOR,FW,KFUM Oslo,28,1996,13,12,884,9.8,5,4,9,4,1,1,0,0,0.51,0.41,0.92,0.41,0.81,Matches,0.20,0.50,5,2,40.0,0.84,2.09,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+8e88eede,Johannes Nunez Godoy,Johannes Nunez Godoy,no NOR,FW,KFUM Oslo,28,1996,13,12,884,9.8,5,4,9,4,1,1,0,0,0.51,0.41,0.92,0.41,0.81,Matches,0.20,0.50,20,8,40.0,0.81,2.04,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+bd8df7cf,Franklin Nyenetue,Franklin Nyenetue,no NOR,FW,Kristiansund,24,2000,2,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,3.60,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+603c5dd9,Troy Nyhammer,Troy Nyhammer,no NOR,"MF,FW",Haugesund,18,2006,21,16,"1,353",15.0,1,1,2,1,0,0,3,0,0.07,0.07,0.13,0.07,0.13,Matches,0.04,0.17,23,6,26.1,0.40,1.53,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+7d0b3e46,Gustav Nyheim,Gustav Nyheim,no NOR,FW,Molde,18,2006,4,1,63,0.7,0,1,1,0,0,0,0,0,0.00,1.43,1.43,0.00,1.43,Matches,0.00,0.00,1,1,100.0,1.43,1.43,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3dde85f2,Sverre Nypan,Sverre Nypan,no NOR,"MF,FW",Rosenborg,18,2006,9,7,652,7.2,1,0,1,1,0,0,0,0,0.14,0.00,0.14,0.14,0.14,Matches,0.05,0.14,19,7,36.8,0.97,2.62,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+d210c7fe,Onyebuchi Obasi,Onyebuchi Obasi,ng NGA,FW,Vålerenga,19,2005,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+070f654b,Mohamed Ofkir,Mohamed Ofkir,no NOR,FW,Vålerenga,28,1996,10,9,730,8.1,2,3,5,2,0,0,0,0,0.25,0.37,0.62,0.25,0.62,Matches,0.11,0.33,18,6,33.3,0.74,2.22,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+d6bcbb7d,Obilor Okeke,Obilor Okeke,no NOR,"FW,MF",KFUM Oslo,22,2002,11,9,855,9.5,6,1,7,6,0,1,2,0,0.63,0.11,0.74,0.63,0.74,Matches,0.25,0.50,24,12,50.0,1.26,2.53,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e7a2d77d,Kennedy Okpaleke,Kennedy Okpaleke,se SWE,DF,Fredrikstad,16,2008,6,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,3.60,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+9e4df3ba,Lars Olden Larsen,Lars Olden Larsen,no NOR,"FW,MF",Tromsø,26,1998,12,7,624,6.9,3,0,3,3,0,0,0,0,0.43,0.00,0.43,0.43,0.43,Matches,0.18,0.33,17,9,52.9,1.30,2.45,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a1e6b4e2,Aaron Olsen,Aaron Olsen,no NOR,DF,Vålerenga,23,2001,28,26,"2,283",25.4,2,0,2,2,0,0,2,0,0.08,0.00,0.08,0.08,0.08,Matches,0.17,0.40,12,5,41.7,0.20,0.47,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ea0f47ce,Marius Olsen,Marius Olsen,no NOR,DF,Kristiansund,23,2001,27,26,"2,144",23.8,1,0,1,1,0,0,3,2,0.04,0.00,0.04,0.04,0.04,Matches,0.17,0.33,6,3,50.0,0.13,0.25,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a9739ce0,Michael Opoku,Michael Opoku,dk DEN,MF,Sarpsborg 08,19,2005,11,7,580,6.4,1,1,2,1,0,0,0,0,0.16,0.16,0.31,0.16,0.31,Matches,0.04,0.14,24,7,29.2,1.09,3.72,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f85a3f17,Herman Opsahl,Herman Opsahl,no NOR,MF,Kristiansund,17,2008,1,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+aadb22a8,David de Ornelas,David de Ornelas,no NOR,FW,HamKam,16,2008,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4718ce2a,William Osnes-Ringen,William Osnes-Ringen,no NOR,MF,HamKam,18,2006,21,7,780,8.7,0,1,1,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12,Matches,0.00,0.00,14,2,14.3,0.23,1.62,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+8c9d9599,Filip Ottosson,Filip Ottosson,se SWE,MF,Sandefjord,28,1996,30,30,"2,689",29.9,1,2,3,1,0,0,3,0,0.03,0.07,0.10,0.03,0.10,Matches,0.07,0.25,14,4,28.6,0.13,0.47,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+df3f0efa,Martin Ove Roseth,Martin Ove Roseth,no NOR,DF,Viking,26,1998,20,18,"1,441",16.0,4,0,4,4,0,0,4,1,0.25,0.00,0.25,0.25,0.25,Matches,0.25,0.80,16,5,31.3,0.31,1.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a06c6c8a,Leonard Owusu,Leonard Owusu,gh GHA,MF,Fredrikstad,27,1997,29,28,"2,458",27.3,2,0,2,2,0,0,5,0,0.07,0.00,0.07,0.07,0.07,Matches,0.10,0.40,20,5,25.0,0.18,0.73,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3dbb4356,Salomon Owusu,Salomon Owusu,gh GHA,DF,Fredrikstad,29,1995,9,7,569,6.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.16,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+863fd9c8,Yaw Paintsil,Yaw Paintsil,no NOR,DF,Tromsø,25,1999,8,1,191,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.47,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+dcef4788,Noah Pallas,Noah Pallas,fi FIN,DF,Vålerenga,23,2001,8,4,419,4.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.21,0.64,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3a4c9e5c,Fredrik Pallesen Knudsen,Fredrik Pallesen Knudsen,no NOR,DF,Brann,28,1996,17,16,"1,239",13.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,6,0,0.0,0.00,0.44,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+77d87bf0,Evangelos Patoulidis,Evangelos Patoulidis,be BEL,MF,Sandefjord,23,2001,29,26,"2,137",23.7,5,5,10,5,0,0,5,0,0.21,0.21,0.42,0.21,0.42,Matches,0.10,0.24,52,21,40.4,0.88,2.19,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f49e5c45,Fredrik Pedersen,Fredrik Pedersen,no NOR,DF,Sandefjord,22,2002,26,23,"2,110",23.4,1,2,3,1,0,0,1,0,0.04,0.09,0.13,0.04,0.13,Matches,0.07,0.25,15,4,26.7,0.17,0.64,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f0f8a5f5,Mats Pedersen,Mats Pedersen,no NOR,MF,HamKam,19,2005,7,1,161,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.56,1.12,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c4941340,Thore Pedersen,Thore Pedersen,no NOR,DF,Brann,28,1996,25,20,"1,522",16.9,0,2,2,0,0,0,4,0,0.00,0.12,0.12,0.00,0.12,Matches,0.00,0.00,4,1,25.0,0.06,0.24,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1c62f712,Adrian Pereira,Adrian Pereira,no NOR,DF,Rosenborg,25,1999,23,19,"1,704",18.9,1,1,2,1,0,0,5,0,0.05,0.05,0.11,0.05,0.11,Matches,0.03,0.11,29,9,31.0,0.48,1.53,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+be7df183,Ismael Petcho Camara,Ismael Petcho Camara,ci CIV,MF,Haugesund,18,2006,17,4,456,5.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,2,33.3,0.39,1.18,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f118d91f,Dan Peter Ulvestad,Dan Peter Ulvestad,no NOR,DF,Kristiansund,35,1989,30,30,"2,683",29.8,1,0,1,1,0,0,1,0,0.03,0.00,0.03,0.03,0.03,Matches,0.08,0.25,12,4,33.3,0.13,0.40,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+12c35abe,Jens Petter Hauge,Jens Petter Hauge,no NOR,"FW,MF",Bodø/Glimt,25,1999,28,27,"2,216",24.6,8,4,12,8,0,1,3,0,0.32,0.16,0.49,0.32,0.49,Matches,0.15,0.53,55,15,27.3,0.61,2.23,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4d5bbf8f,Edvard Pettersen,Edvard Pettersen,no NOR,MF,Sandefjord,18,2006,12,8,726,8.1,2,0,2,2,0,0,1,0,0.25,0.00,0.25,0.25,0.25,Matches,0.18,0.33,11,6,54.5,0.74,1.36,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+51be7d48,Aksel Potur,Aksel Potur,tr TUR,MF,HamKam,22,2002,25,13,"1,226",13.6,0,2,2,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches,0.00,0.00,14,9,64.3,0.66,1.03,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+70820349,Joachim Prent-Eckbo,Joachim Prent-Eckbo,no NOR,MF,KFUM Oslo,17,2007,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+0a1fdab3,Sigurd Prestmo,Sigurd Prestmo,no NOR,MF,Tromsø,18,2006,4,0,34,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+cb6ddbbe,Lasse Qvigstad,Lasse Qvigstad,no NOR,DF,Bryne,21,2003,23,20,"1,660",18.4,2,0,2,2,0,0,1,0,0.11,0.00,0.11,0.11,0.11,Matches,0.20,1.00,10,2,20.0,0.11,0.54,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+37e23b72,Luka Racic,Luka Racic,dk DEN,DF,Rosenborg,25,1999,7,2,187,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+df0ae81f,Simen Rafn,Simen Rafn,no NOR,"DF,MF",Fredrikstad,32,1992,24,10,"1,022",11.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,9,2,22.2,0.18,0.79,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a2af6be9,Mikkel Rakneberg,Mikkel Rakneberg,no NOR,DF,Kristiansund,22,2002,26,25,"2,057",22.9,0,1,1,0,0,0,1,0,0.00,0.04,0.04,0.00,0.04,Matches,0.00,0.00,15,3,20.0,0.13,0.66,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+72f86eb4,Robin Rasch,Robin Rasch,no NOR,MF,KFUM Oslo,31,1994,8,7,583,6.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,3,60.0,0.46,0.77,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+531a2f4d,Peter Reinhardsen,Peter Reinhardsen,no NOR,DF,Sarpsborg 08,25,1999,23,11,"1,023",11.4,2,1,3,2,0,0,3,0,0.18,0.09,0.26,0.18,0.26,Matches,0.13,0.22,16,9,56.3,0.79,1.41,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f4d0403e,Jesper Reitan-Sunde,Jesper Reitan-Sunde,no NOR,"FW,MF",Rosenborg,19,2006,17,9,782,8.7,0,1,1,0,0,0,1,0,0.00,0.12,0.12,0.00,0.12,Matches,0.00,0.00,6,1,16.7,0.12,0.69,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f96218d2,Lars Remmem,Lars Remmem,no NOR,MF,Brann,18,2006,10,0,145,1.6,0,1,1,0,0,0,1,0,0.00,0.62,0.62,0.00,0.62,Matches,0.00,,1,0,0.0,0.00,0.62,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f5f2a449,Magnus Riisnæs,Magnus Riisnæs,no NOR,MF,Vålerenga,20,2004,11,7,646,7.2,2,2,4,2,0,0,3,1,0.28,0.28,0.56,0.28,0.56,Matches,0.13,0.40,15,5,33.3,0.70,2.09,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f5f2a449,Magnus Riisnæs,Magnus Riisnæs,no NOR,MF,Vålerenga,20,2004,11,7,646,7.2,2,2,4,2,0,0,3,1,0.28,0.28,0.56,0.28,0.56,Matches,0.00,,4,0,0.0,0.00,1.79,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f5f2a449,Magnus Riisnæs,Magnus Riisnæs,no NOR,DF,Bodø/Glimt,20,2004,7,1,201,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.13,0.40,15,5,33.3,0.70,2.09,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f5f2a449,Magnus Riisnæs,Magnus Riisnæs,no NOR,DF,Bodø/Glimt,20,2004,7,1,201,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,1.79,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+449c6aae,Mees Rijks,Mees Rijks,nl NED,FW,Vålerenga,21,2003,14,4,467,5.2,1,2,3,1,0,0,1,0,0.19,0.39,0.58,0.19,0.58,Matches,0.07,0.20,14,5,35.7,0.96,2.70,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c70b221c,Birk Risa,Birk Risa,no NOR,DF,Molde,26,1998,15,15,"1,218",13.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,10,1,10.0,0.07,0.74,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+768cfef9,Sander Risan Mørk,Sander Risan Mørk,no NOR,MF,Sandefjord,24,2000,18,16,"1,416",15.7,2,2,4,2,0,0,4,0,0.13,0.13,0.25,0.13,0.25,Matches,0.10,0.29,21,7,33.3,0.44,1.33,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f7b72cd7,Alwande Roaldsøy,Alwande Roaldsøy,no NOR,MF,Molde,20,2004,8,3,352,3.9,1,0,1,1,0,0,2,0,0.26,0.00,0.26,0.26,0.26,Matches,0.13,0.50,8,2,25.0,0.51,2.05,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f7b72cd7,Alwande Roaldsøy,Alwande Roaldsøy,no NOR,MF,Molde,20,2004,8,3,352,3.9,1,0,1,1,0,0,2,0,0.26,0.00,0.26,0.26,0.26,Matches,0.21,0.80,19,5,26.3,0.35,1.31,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f7b72cd7,Alwande Roaldsøy,Alwande Roaldsøy,no NOR,MF,HamKam,20,2004,19,15,"1,301",14.5,4,2,6,4,0,0,3,0,0.28,0.14,0.42,0.28,0.42,Matches,0.13,0.50,8,2,25.0,0.51,2.05,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f7b72cd7,Alwande Roaldsøy,Alwande Roaldsøy,no NOR,MF,HamKam,20,2004,19,15,"1,301",14.5,4,2,6,4,0,0,3,0,0.28,0.14,0.42,0.28,0.42,Matches,0.21,0.80,19,5,26.3,0.35,1.31,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+eca5b054,William da Rocha,William da Rocha,no NOR,GK,KFUM Oslo,22,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,1,1,4,4.00,1,90,0,0,0,,0,42.9,3,7,0,0,Eliteserien,2025
+eeb03fcd,Jakob Romsaas,Jakob Romsaas,no NOR,FW,Tromsø,20,2004,8,5,393,4.4,1,2,3,1,0,0,2,0,0.23,0.46,0.69,0.23,0.69,Matches,0.08,0.20,13,5,38.5,1.15,2.98,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4437cba4,Adrian Rønning,Adrian Rønning,no NOR,DF,Kristiansund,18,2006,7,0,65,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,2,40.0,2.77,6.92,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f6af14b0,Ulrik Saltnes,Ulrik Saltnes,no NOR,MF,Bodø/Glimt,32,1992,23,19,"1,603",17.8,7,5,12,7,0,0,1,0,0.39,0.28,0.67,0.39,0.67,Matches,0.18,0.39,40,18,45.0,1.01,2.25,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+746df5d3,Martin Samuelsen,Martin Samuelsen,no NOR,MF,Haugesund,27,1997,6,1,142,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.27,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+505b4e06,Sverre Sandal,Sverre Sandal,no NOR,MF,KFUM Oslo,21,2003,26,25,"2,175",24.2,3,3,6,2,1,1,9,1,0.12,0.12,0.25,0.08,0.21,Matches,0.09,0.29,22,7,31.8,0.29,0.91,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+308d850e,Marcus Sandberg,Marcus Sandberg,se SWE,GK,HamKam,34,1990,27,27,"2,430",27.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,6,22.2,27,27,38,1.41,11,"2,430",2,3,0,33.3,1,73.3,100,135,7,9,Eliteserien,2025
+62a90cfb,Niklas Sandberg,Niklas Sandberg,no NOR,"MF,DF",Sarpsborg 08,29,1995,11,2,346,3.8,0,3,3,0,0,0,3,0,0.00,0.78,0.78,0.00,0.78,Matches,0.00,0.00,6,3,50.0,0.78,1.56,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+d3c59d4e,Mads Sande,Mads Sande,no NOR,"FW,MF",Brann,26,1998,21,9,803,8.9,3,0,3,3,0,0,1,0,0.34,0.00,0.34,0.34,0.34,Matches,0.17,0.50,18,6,33.3,0.67,2.02,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4dacb11a,Alagie Sanyang,Alagie Sanyang,gm GAM,MF,Sarpsborg 08,28,1996,19,9,872,9.7,0,1,1,0,0,0,2,0,0.00,0.10,0.10,0.00,0.10,Matches,0.00,0.00,26,11,42.3,1.14,2.68,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a8cd459f,Eirik Saunes,Eirik Saunes,no NOR,"DF,MF",Bryne,26,1998,28,28,"2,496",27.7,1,3,4,1,0,0,1,0,0.04,0.11,0.14,0.04,0.14,Matches,0.04,0.09,28,11,39.3,0.40,1.01,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+6a599406,Emil Schlichting,Emil Schlichting,dk DEN,"MF,FW",Haugesund,20,2004,25,15,"1,361",15.1,2,0,2,2,0,0,2,0,0.13,0.00,0.13,0.13,0.13,Matches,0.13,0.22,16,9,56.3,0.60,1.06,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+29e38e47,Daniel Schneider,Daniel Schneider,no NOR,DF,KFUM Oslo,22,2002,20,10,"1,042",11.6,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.09,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e1c77b42,Alfred Scriven,Alfred Scriven,ke KEN,MF,Bryne,27,1998,29,25,"2,185",24.3,3,4,7,3,0,0,6,0,0.12,0.16,0.29,0.12,0.29,Matches,0.08,0.20,40,15,37.5,0.62,1.65,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+2aa03e47,Abubacarr Sedi Kinteh,Abubacarr Sedi Kinteh,gm GAM,DF,Tromsø,18,2006,21,19,"1,645",18.3,1,1,2,1,0,0,8,1,0.05,0.05,0.11,0.05,0.11,Matches,0.09,0.33,11,3,27.3,0.16,0.60,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4db2157a,Ole Selnæs,Ole Selnæs,no NOR,"MF,FW",Rosenborg,30,1994,24,20,"1,829",20.3,0,2,2,0,0,0,6,0,0.00,0.10,0.10,0.00,0.10,Matches,0.00,,13,0,0.0,0.00,0.64,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+164cb6ad,Niclas Semmen,Niclas Semmen,no NOR,FW,KFUM Oslo,22,2002,7,0,114,1.3,1,0,1,1,0,0,1,0,0.79,0.00,0.79,0.79,0.79,Matches,0.33,1.00,3,1,33.3,0.79,2.37,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+bc31e0f3,Ismaël Seoné,Ismaël Seoné,bf BFA,FW,Haugesund,19,2005,16,6,658,7.3,1,0,1,1,0,0,0,0,0.14,0.00,0.14,0.14,0.14,Matches,0.08,0.17,12,6,50.0,0.82,1.64,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+03e7a498,Japhet Sery,Japhet Sery,dk DEN,DF,Brann,24,2000,20,16,"1,439",16.0,1,0,1,1,0,0,3,1,0.06,0.00,0.06,0.06,0.06,Matches,0.11,0.33,9,3,33.3,0.19,0.56,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+2ea1013f,Rocco Shein,Rocco Shein,ee EST,MF,Fredrikstad,21,2003,28,17,"1,597",17.7,1,4,5,1,0,0,4,0,0.06,0.23,0.28,0.06,0.28,Matches,0.03,0.08,30,13,43.3,0.73,1.69,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ef301f96,Aimar Sher,Aimar Sher,iq IRQ,MF,Sarpsborg 08,22,2002,19,18,"1,611",17.9,0,1,1,0,0,0,0,0,0.00,0.06,0.06,0.00,0.06,Matches,0.00,0.00,11,1,9.1,0.06,0.61,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a9592d57,Samuel Silalahi,Samuel Silalahi,no NOR,MF,Strømsgodset,19,2005,13,2,301,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,2,40.0,0.60,1.50,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+972df48e,Jasper Silva Torkildsen,Jasper Silva Torkildsen,no NOR,GK,Strømsgodset,21,2003,2,1,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,1,8,5.90,1,122,0,0,0,,0,38.5,5,13,0,0,Eliteserien,2025
+972df48e,Jasper Silva Torkildsen,Jasper Silva Torkildsen,no NOR,GK,Strømsgodset,21,2003,2,1,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,3,3,8,2.67,2,270,0,0,0,,0,68.0,17,25,0,1,Eliteserien,2025
+972df48e,Jasper Silva Torkildsen,Jasper Silva Torkildsen,no NOR,GK,Strømsgodset,21,2003,2,1,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,1,8,5.90,1,122,0,0,0,,0,38.5,5,13,0,0,Eliteserien,2025
+972df48e,Jasper Silva Torkildsen,Jasper Silva Torkildsen,no NOR,GK,Strømsgodset,21,2003,2,1,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,3,3,8,2.67,2,270,0,0,0,,0,68.0,17,25,0,1,Eliteserien,2025
+972df48e,Jasper Silva Torkildsen,Jasper Silva Torkildsen,no NOR,GK,Haugesund,21,2003,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,1,8,5.90,1,122,0,0,0,,0,38.5,5,13,0,0,Eliteserien,2025
+972df48e,Jasper Silva Torkildsen,Jasper Silva Torkildsen,no NOR,GK,Haugesund,21,2003,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,3,3,8,2.67,2,270,0,0,0,,0,68.0,17,25,0,1,Eliteserien,2025
+972df48e,Jasper Silva Torkildsen,Jasper Silva Torkildsen,no NOR,GK,Haugesund,21,2003,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,1,8,5.90,1,122,0,0,0,,0,38.5,5,13,0,0,Eliteserien,2025
+972df48e,Jasper Silva Torkildsen,Jasper Silva Torkildsen,no NOR,GK,Haugesund,21,2003,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,3,3,8,2.67,2,270,0,0,0,,0,68.0,17,25,0,1,Eliteserien,2025
+b77994c9,Gard Simenstad,Gard Simenstad,no NOR,"MF,DF",HamKam,25,1999,26,16,"1,451",16.1,3,1,4,3,0,0,3,0,0.19,0.06,0.25,0.19,0.25,Matches,0.10,0.25,30,12,40.0,0.74,1.86,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+41338ee5,Mansour Sinyan,Mansour Sinyan,no NOR,MF,KFUM Oslo,25,1999,3,1,73,0.8,1,0,1,1,0,0,1,0,1.23,0.00,1.23,1.23,1.23,Matches,0.33,1.00,3,1,33.3,1.23,3.70,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+7e82a5d9,Håkon Sjåtil,Håkon Sjåtil,no NOR,DF,Vålerenga,22,2002,23,13,"1,248",13.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.07,0.36,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+571262e6,Magnus Sjøeng,Magnus Sjøeng,no NOR,GK,Vålerenga,22,2002,9,9,810,9.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.11,2,22.2,9,9,14,1.56,5,810,2,2,0,0.0,0,53.8,14,26,1,3,Eliteserien,2025
+ce22ca27,Fredrik Sjølstad,Fredrik Sjølstad,no NOR,DF,HamKam,30,1994,25,23,"1,827",20.3,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.05,0.30,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+2ca0c63c,Fredrik Sjøvold,Fredrik Sjøvold,no NOR,DF,Bodø/Glimt,21,2003,30,30,"2,594",28.8,4,5,9,4,0,0,1,0,0.14,0.17,0.31,0.14,0.31,Matches,0.17,0.50,24,8,33.3,0.28,0.83,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5a349949,Brage Skaret,Brage Skaret,no NOR,DF,Fredrikstad,22,2002,8,3,284,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5a349949,Brage Skaret,Brage Skaret,no NOR,DF,Fredrikstad,22,2002,8,3,284,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.22,0.43,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5a349949,Brage Skaret,Brage Skaret,no NOR,"DF,MF",KFUM Oslo,22,2002,8,4,414,4.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5a349949,Brage Skaret,Brage Skaret,no NOR,"DF,MF",KFUM Oslo,22,2002,8,4,414,4.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.22,0.43,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+719dd7dd,Syver Skeide,Syver Skeide,no NOR,MF,Kristiansund,20,2004,13,4,522,5.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.17,0.52,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f354176d,André Skistad,André Skistad,no NOR,MF,Strømsgodset,18,2007,4,3,287,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,1,20.0,0.31,1.57,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+4b06552b,Knut-André Skjærstein,Knut-André Skjærstein,no NOR,GK,Kristiansund,29,1995,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,33.3,6,6,13,2.17,2,540,0,0,0,,0,63.9,23,36,3,1,Eliteserien,2025
+a7b1fe5e,Vetle Skjærvik,Vetle Skjærvik,no NOR,DF,Tromsø,24,2000,28,28,"2,456",27.3,2,1,3,2,0,0,8,0,0.07,0.04,0.11,0.07,0.11,Matches,0.18,1.00,11,2,18.2,0.07,0.40,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+8353e96a,Henrik Skogvold,Henrik Skogvold,no NOR,"FW,MF",Fredrikstad,20,2004,30,24,"1,983",22.0,5,1,6,5,0,1,2,0,0.23,0.05,0.27,0.23,0.27,Matches,0.14,0.25,37,20,54.1,0.91,1.68,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+43664f05,Andreas Skovgaard,Andreas Skovgaard,dk DEN,DF,Bryne,27,1997,9,8,746,8.3,0,1,1,0,0,0,3,0,0.00,0.12,0.12,0.00,0.12,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+5573df27,Nikolai Skuseth,Nikolai Skuseth,no NOR,DF,Sarpsborg 08,20,2004,5,1,114,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+cb69c62f,Henry Sletsjøe,Henry Sletsjøe,se SWE,DF,Rosenborg,24,2000,5,2,122,1.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.74,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+cb69c62f,Henry Sletsjøe,Henry Sletsjøe,se SWE,DF,Rosenborg,24,2000,5,2,122,1.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.20,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+cb69c62f,Henry Sletsjøe,Henry Sletsjøe,se SWE,MF,Kristiansund,24,2000,12,11,881,9.8,0,1,1,0,0,0,2,0,0.00,0.10,0.10,0.00,0.10,Matches,0.00,,1,0,0.0,0.00,0.74,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+cb69c62f,Henry Sletsjøe,Henry Sletsjøe,se SWE,MF,Kristiansund,24,2000,12,11,881,9.8,0,1,1,0,0,0,2,0,0.00,0.10,0.10,0.00,0.10,Matches,0.00,,2,0,0.0,0.00,0.20,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ee33cf89,Elias Slørdal,Elias Slørdal,no NOR,MF,Rosenborg,16,2008,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+2ae9ca08,Zinedin Smajlovic,Zinedin Smajlovic,se SWE,DF,Sandefjord,21,2003,26,25,"2,274",25.3,2,1,3,2,0,0,8,1,0.08,0.04,0.12,0.08,0.12,Matches,0.08,0.33,26,6,23.1,0.24,1.03,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+263f06a2,Elias Solberg,Elias Solberg,no NOR,MF,Fredrikstad,16,2008,2,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c68c6eb6,Jesper Solberg,Jesper Solberg,no NOR,DF,Fredrikstad,16,2008,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1f7df534,Vegard Solheim,Vegard Solheim,no NOR,"DF,MF",Haugesund,20,2004,11,8,593,6.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.46,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e1453b38,Joachim Soltvedt,Joachim Soltvedt,no NOR,DF,Brann,29,1995,24,20,"1,752",19.5,2,9,11,2,0,0,3,0,0.10,0.46,0.57,0.10,0.57,Matches,0.10,0.20,21,10,47.6,0.51,1.08,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+61c15075,Igor Spiridonov,Igor Spiridonov,lt LTU,GK,Bryne,36,1988,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,,1,0,0,0.00,0,9,0,0,0,,0,,0,0,0,0,Eliteserien,2025
+1d4cc903,Mats Spiten,Mats Spiten,no NOR,MF,Strømsgodset,19,2005,3,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c320b415,Oskar Spiten-Nysæter,Oskar Spiten-Nysæter,no NOR,MF,Molde,17,2007,13,10,857,9.5,4,0,4,4,0,0,2,0,0.42,0.00,0.42,0.42,0.42,Matches,0.14,0.50,29,8,27.6,0.84,3.05,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+579123c4,Jacob Steffensen,Jacob Steffensen,dk DEN,DF,Bryne,22,2002,27,27,"2,324",25.8,1,0,1,1,0,0,3,0,0.04,0.00,0.04,0.04,0.04,Matches,0.11,0.50,9,2,22.2,0.08,0.35,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+d1593f05,Halldor Stenevik,Halldor Stenevik,no NOR,"DF,MF",Molde,24,2000,24,11,"1,196",13.3,2,1,3,0,2,2,5,0,0.15,0.08,0.23,0.00,0.08,Matches,0.00,0.00,7,3,42.9,0.23,0.53,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+00608940,Herman Stengel,Herman Stengel,no NOR,MF,Strømsgodset,29,1995,29,29,"2,573",28.6,3,1,4,3,0,0,0,0,0.10,0.03,0.14,0.10,0.14,Matches,0.16,0.38,19,8,42.1,0.28,0.66,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+b9549894,Gianni Stensness,Gianni Stensness,au AUS,DF,Viking,25,1999,6,2,298,3.3,0,1,1,0,0,0,0,0,0.00,0.30,0.30,0.00,0.30,Matches,0.00,0.00,2,1,50.0,0.30,0.60,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+84088e33,Jacob Storevik,Jacob Storevik,no NOR,GK,Vålerenga,28,1996,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,28.6,7,7,13,1.86,3,630,0,0,0,,0,68.3,28,41,2,2,Eliteserien,2025
+c38489c4,Snorre Strand Nilsen,Snorre Strand Nilsen,no NOR,"DF,MF",HamKam,28,1997,21,17,"1,460",16.2,1,3,4,1,0,0,3,0,0.06,0.18,0.25,0.06,0.25,Matches,0.09,0.33,11,3,27.3,0.18,0.68,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c26e60c2,Petter Strand,Petter Strand,no NOR,"MF,FW",Vålerenga,30,1994,28,15,"1,487",16.5,5,1,6,5,0,0,3,0,0.30,0.06,0.36,0.30,0.36,Matches,0.17,0.56,30,9,30.0,0.54,1.82,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+beb5c4e6,Nicklas Strunck,Nicklas Strunck,dk DEN,MF,Bryne,25,1999,28,28,"2,363",26.3,2,1,3,2,0,0,5,0,0.08,0.04,0.11,0.08,0.11,Matches,0.05,0.14,38,14,36.8,0.53,1.45,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+0787a05e,Kristian Strømland Lien,Kristian Strømland Lien,no NOR,FW,HamKam,23,2001,30,28,"2,286",25.4,11,4,15,11,0,0,2,0,0.43,0.16,0.59,0.43,0.59,Matches,0.15,0.30,72,37,51.4,1.46,2.83,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+bef60b99,Peter Sunday,Peter Sunday,ng NGA,MF,HamKam,18,2007,1,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+da60fd2a,Sander Svendsen,Sander Svendsen,no NOR,MF,Viking,27,1997,24,18,"1,323",14.7,2,3,5,2,0,0,0,0,0.14,0.20,0.34,0.14,0.34,Matches,0.05,0.25,37,8,21.6,0.54,2.52,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1ef13749,Mathias Svenningsen-Grønn,Mathias Svenningsen-Grønn,no NOR,MF,Sarpsborg 08,16,2008,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+fb9df404,Jakob Swift,Jakob Swift,no NOR,MF,Sandefjord,17,2007,2,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+fc80982f,Adrian Sæther,Adrian Sæther,no NOR,GK,Kristiansund,23,2001,22,21,"1,956",21.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,14.3,22,21,42,1.93,11,"1,956",5,7,0,28.6,2,63.4,66,101,4,6,Eliteserien,2025
+bcda3f33,Elias Sørensen,Elias Sørensen,dk DEN,"MF,FW",Vålerenga,25,1999,28,22,"1,756",19.5,12,3,15,11,1,1,3,0,0.62,0.15,0.77,0.56,0.72,Matches,0.24,0.61,45,18,40.0,0.92,2.31,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+953c30b0,Jakob Sørensen,Jakob Sørensen,dk DEN,MF,Brann,26,1998,12,11,946,10.5,1,1,2,1,0,0,8,1,0.10,0.10,0.19,0.10,0.19,Matches,0.08,0.33,13,3,23.1,0.29,1.24,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c2dadbf3,Sondre Sørli,Sondre Sørli,no NOR,FW,Bodø/Glimt,29,1995,6,1,196,2.2,0,1,1,0,0,0,0,0,0.00,0.46,0.46,0.00,0.46,Matches,0.00,0.00,6,1,16.7,0.46,2.76,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c2dadbf3,Sondre Sørli,Sondre Sørli,no NOR,FW,Bodø/Glimt,29,1995,6,1,196,2.2,0,1,1,0,0,0,0,0,0.00,0.46,0.46,0.00,0.46,Matches,0.20,0.36,20,11,55.0,0.85,1.55,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c2dadbf3,Sondre Sørli,Sondre Sørli,no NOR,MF,Sarpsborg 08,29,1995,14,14,"1,161",12.9,4,2,6,4,0,0,0,0,0.31,0.16,0.47,0.31,0.47,Matches,0.00,0.00,6,1,16.7,0.46,2.76,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+c2dadbf3,Sondre Sørli,Sondre Sørli,no NOR,MF,Sarpsborg 08,29,1995,14,14,"1,161",12.9,4,2,6,4,0,0,0,0,0.31,0.16,0.47,0.31,0.47,Matches,0.20,0.36,20,11,55.0,0.85,1.55,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e4d84e59,Sondre Sørløkk,Sondre Sørløkk,no NOR,"MF,FW",Fredrikstad,27,1997,29,18,"1,742",19.4,5,4,9,5,0,0,0,0,0.26,0.21,0.46,0.26,0.46,Matches,0.14,0.29,37,17,45.9,0.88,1.91,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e19b566b,Bent Sørmo,Bent Sørmo,no NOR,DF,Strømsgodset,28,1996,20,6,979,10.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.09,0.09,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e9896bd8,Jesper Tåje,Jesper Tåje,no NOR,DF,Strømsgodset,27,1997,26,25,"2,186",24.3,4,0,4,4,0,0,5,0,0.16,0.00,0.16,0.16,0.16,Matches,0.18,0.67,22,6,27.3,0.25,0.91,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+550f5516,Harald Tangen,Harald Tangen,no NOR,MF,Sarpsborg 08,24,2001,21,16,"1,295",14.4,2,1,3,2,0,0,1,0,0.14,0.07,0.21,0.14,0.21,Matches,0.09,0.33,22,6,27.3,0.42,1.53,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+93525deb,Sander Tangvik,Sander Tangvik,no NOR,GK,Rosenborg,22,2002,30,30,"2,700",30.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,11,36.7,30,30,42,1.40,10,"2,700",3,4,0,25.0,1,70.9,96,134,9,11,Eliteserien,2025
+b37c5951,Franklin Tebo,Franklin Tebo,ng NGA,DF,Sarpsborg 08,25,2000,16,16,"1,438",16.0,1,0,1,1,0,0,2,0,0.06,0.00,0.06,0.06,0.06,Matches,0.13,0.25,8,4,50.0,0.25,0.50,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+9110eece,Rasmus Thellufsen,Rasmus Thellufsen,dk DEN,MF,Bryne,28,1997,8,4,357,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,2,66.7,0.50,0.76,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+94211340,Jonas Therkelsen,Jonas Therkelsen,no NOR,MF,Strømsgodset,21,2003,7,7,545,6.1,2,0,2,2,0,0,1,0,0.33,0.00,0.33,0.33,0.33,Matches,0.25,0.33,8,6,75.0,0.99,1.32,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e12836f9,Mats Thornes,Mats Thornes,no NOR,MF,Bryne,22,2002,14,7,576,6.4,1,0,1,1,0,0,1,0,0.16,0.00,0.16,0.16,0.16,Matches,0.20,0.50,5,2,40.0,0.31,0.78,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1ec48392,Valdemar Thorsen,Valdemar Thorsen,dk DEN,GK,Fredrikstad,23,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,100.0,1,1,0,0.00,0,90,0,0,0,,0,100.0,5,5,1,0,Eliteserien,2025
+633628b2,Stian Thorstensen,Stian Thorstensen,no NOR,"FW,MF",Vålerenga,18,2006,17,3,322,3.6,0,2,2,0,0,0,0,0,0.00,0.56,0.56,0.00,0.56,Matches,0.00,,2,0,0.0,0.00,0.56,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a4050148,Filip Thorvaldsen,Filip Thorvaldsen,no NOR,MF,Vålerenga,18,2006,21,15,"1,305",14.5,5,2,7,5,0,0,2,0,0.34,0.14,0.48,0.34,0.48,Matches,0.11,0.33,45,15,33.3,1.03,3.10,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e3da33fd,Darrell Tibell,Darrell Tibell,se SWE,FW,Sandefjord,22,2002,11,2,307,3.4,1,1,2,1,0,0,2,0,0.29,0.29,0.59,0.29,0.59,Matches,0.14,0.25,7,4,57.1,1.17,2.05,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+e6f47202,Fredrik Tobias Berglie,Fredrik Tobias Berglie,no NOR,DF,KFUM Oslo,28,1996,25,23,"1,979",22.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.05,0.18,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3d38dfe9,Logi Tómasson,Logi Tómasson,is ISL,"MF,DF",Strømsgodset,24,2000,9,6,511,5.7,1,0,1,1,0,0,2,0,0.18,0.00,0.18,0.18,0.18,Matches,0.07,0.25,15,4,26.7,0.70,2.64,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+7d335962,Jonas Torsvik,Jonas Torsvik,no NOR,FW,Brann,19,2005,4,0,74,0.8,0,1,1,0,0,0,0,0,0.00,1.22,1.22,0.00,1.22,Matches,0.00,,3,0,0.0,0.00,3.65,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+283001e1,Amidou Traoré,Amidou Traoré,ci CIV,MF,Haugesund,20,2004,7,0,109,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+f6d4b6b2,Zlatko Tripić,Zlatko Tripić,no NOR,MF,Viking,32,1992,25,22,"1,930",21.4,11,16,27,2,9,9,5,0,0.51,0.75,1.26,0.09,0.84,Matches,0.04,0.09,53,22,41.5,1.03,2.47,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+438ae11e,Anders Trondsen,Anders Trondsen,no NOR,MF,Sarpsborg 08,29,1995,7,1,118,1.3,0,1,1,0,0,0,0,0,0.00,0.76,0.76,0.00,0.76,Matches,0.00,0.00,1,1,100.0,0.76,0.76,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+fdae8b47,Kevin Tshiembe,Kevin Tshiembe,dk DEN,DF,Vålerenga,27,1997,19,11,"1,028",11.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,6,0,0.0,0.00,0.53,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+34826350,David Tufekcic,David Tufekcic,no NOR,"MF,FW",Kristiansund,21,2004,29,26,"2,154",23.9,4,3,7,2,2,2,6,0,0.17,0.13,0.29,0.08,0.21,Matches,0.06,0.22,32,9,28.1,0.38,1.34,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+b7705481,Jon-Helge Tveita,Jon-Helge Tveita,no NOR,MF,Bryne,33,1992,17,1,277,3.1,0,1,1,0,0,0,1,0,0.00,0.32,0.32,0.00,0.32,Matches,0.00,0.00,7,4,57.1,1.30,2.27,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+b2eff99e,Mathias Tønnessen,Mathias Tønnessen,no NOR,DF,KFUM Oslo,21,2003,29,28,"2,422",26.9,0,1,1,0,0,0,6,0,0.00,0.04,0.04,0.00,0.04,Matches,0.00,0.00,15,1,6.7,0.04,0.56,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+bd5d1d10,Henrik Udahl,Henrik Udahl,no NOR,FW,KFUM Oslo,28,1997,9,3,251,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.36,1.08,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+bd5d1d10,Henrik Udahl,Henrik Udahl,no NOR,FW,KFUM Oslo,28,1997,9,3,251,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+bd5d1d10,Henrik Udahl,Henrik Udahl,no NOR,FW,HamKam,28,1997,6,0,81,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.36,1.08,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+bd5d1d10,Henrik Udahl,Henrik Udahl,no NOR,FW,HamKam,28,1997,6,0,81,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a02d9c38,Robert Undheim,Robert Undheim,no NOR,MF,Bryne,32,1992,3,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a92dc6d1,Jošt Urbančič,Jošt Urbančič,si SVN,DF,Viking,23,2001,7,5,470,5.2,1,0,1,1,0,0,1,0,0.19,0.00,0.19,0.19,0.19,Matches,0.25,0.50,4,2,50.0,0.38,0.77,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+63567ebc,Santeri Väänänen,Santeri Väänänen,fi FIN,MF,Rosenborg,23,2002,22,18,"1,568",17.4,1,0,1,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches,0.11,0.50,9,2,22.2,0.11,0.52,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3c8cb6d6,Isak Vådebu,Isak Vådebu,no NOR,DF,Tromsø,21,2003,14,8,808,9.0,0,1,1,0,0,0,0,1,0.00,0.11,0.11,0.00,0.11,Matches,0.00,,2,0,0.0,0.00,0.22,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+88b34d5b,William Valenza,William Valenza,no NOR,MF,Haugesund,16,2008,2,0,43,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,2.09,2.09,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+482e9289,Gustav Valsvik,Gustav Valsvik,no NOR,DF,Strømsgodset,31,1993,29,29,"2,610",29.0,2,1,3,2,0,0,4,0,0.07,0.03,0.10,0.07,0.10,Matches,0.08,0.25,24,8,33.3,0.28,0.83,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+35350f21,Mike Vestergård,Mike Vestergård,dk DEN,MF,Sarpsborg 08,27,1997,8,1,165,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+fc5656a1,Viljar Vevatne,Viljar Vevatne,no NOR,DF,Viking,30,1994,8,2,235,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.38,1.15,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+35a43937,Lars-Christopher Vilsvik,Lars-Christopher Vilsvik,no NOR,DF,Strømsgodset,36,1988,28,26,"2,063",22.9,2,3,5,2,0,0,2,0,0.09,0.13,0.22,0.09,0.22,Matches,0.12,0.50,17,4,23.5,0.17,0.74,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+afb425c2,Håkon Volden,Håkon Volden,no NOR,DF,Rosenborg,17,2007,13,7,726,8.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+b352be65,Marko Vuckovic,Marko Vuckovic,rs SRB,MF,KFUM Oslo,14,2010,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a99ea089,Kasper Waarst Høgh,Kasper Waarst Høgh,dk DEN,"FW,MF",Bodø/Glimt,24,2000,28,26,"2,054",22.8,17,5,22,14,3,3,0,0,0.74,0.22,0.96,0.61,0.83,Matches,0.18,0.39,79,36,45.6,1.58,3.46,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+ad3bc2e7,Alexander Warneryd,Alexander Warneryd,se SWE,DF,Tromsø,19,2005,13,11,891,9.9,1,0,1,1,0,0,1,0,0.10,0.00,0.10,0.10,0.10,Matches,0.06,0.50,17,2,11.8,0.20,1.72,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+1a665ebc,Sivert Westerlund,Sivert Westerlund,no NOR,DF,Strømsgodset,25,1999,12,6,629,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,1,14.3,0.14,1.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+0432ab24,Amund Wichne,Amund Wichne,no NOR,GK,Haugesund,27,1997,16,16,"1,440",16.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,12.5,16,16,40,2.50,14,"1,440",7,7,0,0.0,0,66.0,63,97,2,0,Eliteserien,2025
+aed60196,Eirik Wichne,Eirik Wichne,no NOR,DF,Sarpsborg 08,27,1997,28,24,"2,023",22.5,0,3,3,0,0,0,4,0,0.00,0.13,0.13,0.00,0.13,Matches,0.00,0.00,15,4,26.7,0.18,0.67,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a42ee00f,Patrick Wik,Patrick Wik,no NOR,DF,Bryne,20,2004,6,3,280,3.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+063ae595,Gustav Wikheim,Gustav Wikheim,no NOR,"MF,FW",Strømsgodset,31,1993,14,12,990,11.0,1,3,4,1,0,0,1,1,0.09,0.27,0.36,0.09,0.36,Matches,0.07,0.20,15,5,33.3,0.45,1.36,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+a30f80de,Max Williamsen,Max Williamsen,no NOR,DF,Kristiansund,21,2003,9,2,255,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.35,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3f30f12a,Aslak Witry,Aslak Witry,no NOR,DF,Rosenborg,28,1996,9,7,582,6.5,1,1,2,1,0,0,2,0,0.15,0.15,0.31,0.15,0.31,Matches,0.09,0.50,11,2,18.2,0.31,1.70,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+2b8798a6,Maxwell Woledzi,Maxwell Woledzi,gh GHA,DF,Fredrikstad,23,2001,29,28,"2,494",27.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,21,4,19.0,0.14,0.76,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3a770838,Magnus Wolff Eikrem,Magnus Wolff Eikrem,no NOR,"FW,MF",Molde,34,1990,27,18,"1,623",18.0,3,4,7,3,0,0,1,0,0.17,0.22,0.39,0.17,0.39,Matches,0.07,0.21,42,14,33.3,0.78,2.33,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+630c02ad,Fanuel Yrga-Alem,Fanuel Yrga-Alem,no NOR,DF,Fredrikstad,18,2006,2,0,42,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+62e0b5c2,Ruben Yttergård Jenssen,Ruben Yttergård Jenssen,no NOR,MF,Tromsø,36,1988,30,30,"2,700",30.0,2,7,9,2,0,0,2,0,0.07,0.23,0.30,0.07,0.30,Matches,0.11,0.33,18,6,33.3,0.20,0.60,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+0c97d846,Ulrik Yttergård Jenssen,Ulrik Yttergård Jenssen,no NOR,DF,Rosenborg,28,1996,25,18,"1,521",16.9,2,2,4,2,0,0,8,0,0.12,0.12,0.24,0.12,0.24,Matches,0.20,0.33,10,6,60.0,0.36,0.59,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+3f82980d,Caleb Zady Sery,Caleb Zady Sery,ci CIV,MF,Molde,25,1999,18,10,886,9.8,3,0,3,3,0,0,2,1,0.30,0.00,0.30,0.30,0.30,Matches,0.20,1.00,15,3,20.0,0.30,1.52,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+eca2b6b8,Moustafa Zeidan,Moustafa Zeidan,ps PLE,MF,Rosenborg,26,1998,20,9,890,9.9,1,1,2,1,0,0,1,1,0.10,0.10,0.20,0.10,0.20,Matches,0.07,0.33,14,3,21.4,0.30,1.42,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+71639b7c,Emil Ødegaard,Emil Ødegaard,no NOR,GK,KFUM Oslo,25,1999,29,29,"2,610",29.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,7,24.1,29,29,37,1.28,10,"2,610",7,7,0,0.0,0,60.0,45,75,11,8,Eliteserien,2025
+4fb49fb1,Magnar Ødegaard,Magnar Ødegaard,no NOR,DF,Sarpsborg 08,31,1993,14,4,527,5.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.17,0.51,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+461e14c9,Arne Ødegård,Arne Ødegård,no NOR,MF,HamKam,20,2004,1,1,62,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+76d0e227,Niklas Ødegård,Niklas Ødegård,no NOR,MF,Kristiansund,20,2004,29,21,"1,981",22.0,2,3,5,2,0,0,3,0,0.09,0.14,0.23,0.09,0.23,Matches,0.07,0.25,29,8,27.6,0.36,1.32,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+88171255,Oskar Øhlenschlæger,Oskar Øhlenschlæger,dk DEN,"MF,FW",Fredrikstad,20,2004,28,25,"2,128",23.6,6,3,9,6,0,1,8,0,0.25,0.13,0.38,0.25,0.38,Matches,0.19,0.50,31,12,38.7,0.51,1.31,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+9ffe5479,Sondre Ørjasæter,Sondre Ørjasæter,no NOR,MF,Sarpsborg 08,21,2003,14,14,"1,245",13.8,2,2,4,2,0,0,1,0,0.14,0.14,0.29,0.14,0.29,Matches,0.05,0.13,39,15,38.5,1.08,2.82,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+30263816,Arild Østbø,Arild Østbø,no NOR,GK,Viking,33,1991,12,11,"1,032",11.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,5,45.5,12,11,9,0.78,1,"1,032",0,0,0,,0,80.0,36,45,1,9,Eliteserien,2025
+6c3d07eb,Jaran Østrem,Jaran Østrem,,FW,Bryne,,,1,0,30,0.3,1,0,1,1,0,0,0,0,3.00,0.00,3.00,3.00,3.00,Matches,1.00,1.00,1,1,100.0,3.00,3.00,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+12dfd92a,Casper Øyvann,Casper Øyvann,no NOR,DF,Molde,25,1999,11,7,687,7.6,0,1,1,0,0,0,0,0,0.00,0.13,0.13,0.00,0.13,Matches,0.00,0.00,7,2,28.6,0.26,0.92,,,,,,,,,,,,,,,,,,,Eliteserien,2025
+6ef3f0ae,Ísak Þorvaldsson,Ísak Þorvaldsson,is ISL,FW,Rosenborg,23,2001,5,0,73,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,1.23,3.70,,,,,,,,,,,,,,,,,,,Eliteserien,2025
