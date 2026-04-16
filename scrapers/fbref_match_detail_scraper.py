@@ -14,9 +14,9 @@ class FBrefMatchDetailScraper:
         # self.output_dir = "data/raw/fbref_match_details"
         # self.output_jsonl = f"{self.output_dir}/details_2026.jsonl"
         
-        self.input_csv = "data/raw/fbref_all_matches/fbref_all_matches_2024.csv"
+        self.input_csv = "data/raw/fbref_all_matches/fbref_all_matches_2025.csv"
         self.output_dir = "data/raw/fbref_match_details"
-        self.output_jsonl = f"{self.output_dir}/details_2024.jsonl"
+        self.output_jsonl = f"{self.output_dir}/details_2025.jsonl"
 
         if not os.path.exists(self.output_dir):
             os.makedirs(self.output_dir)
