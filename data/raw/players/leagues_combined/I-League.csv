@@ -1,0 +1,598 @@
+﻿PlayerID,Name,player,nationality,position,team,age,birth_year,games,games_starts,minutes,minutes_90s,goals,assists,goals_assists,goals_pens,pens_made,pens_att,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,goals_pens_per90,goals_assists_pens_per90,matches,goals_per_shot,goals_per_shot_on_target,shots,shots_on_target,shots_on_target_pct,shots_on_target_per90,shots_per90,gk_clean_sheets,gk_clean_sheets_pct,gk_games,gk_games_starts,gk_goals_against,gk_goals_against_per90,gk_losses,gk_minutes,gk_pens_allowed,gk_pens_att,gk_pens_missed,gk_pens_save_pct,gk_pens_saved,gk_save_pct,gk_saves,gk_shots_on_target_against,gk_ties,gk_wins,League,Season
+2cc37b42,Sunday Afolabi,Sunday Afolabi,ng NGA,"DF,MF",Diamond Harbour,26-278,1999,7,4,356,4.0,2,0,2,2,0,0,0,0,0.51,0.00,0.51,0.51,0.51,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+ca10f8ae,Emmanuel Agyeman Badu,Emmanuel Agyeman Badu,gh GHA,"MF,DF",Chanmari FC,30-129,1995,2,2,142,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+9ecb2f86,Aman Ahlawat,Aman Ahlawat,in IND,DF,Shillong Lajong,23-061,2003,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+19a9c893,Furqan Ahmad Dar,Furqan Ahmad Dar,in IND,GK,Real Kashmir,27-065,1999,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,5,5,8,1.60,3,450,1,1,0,0.0,0,,,,1,1,I-League,2026
+09d815a5,Mohamed Ali,Mohamed Ali,in IND,DF,Dempo,33-275,1992,7,4,451,5.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+39f9fa1a,CK Aman,CK Aman,in IND,FW,Gokulam Kerala,23-026,2003,3,1,77,0.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+6eec25eb,Abhishek Ambekar,Abhishek Ambekar,in IND,DF,Rajasthan United FC,34-246,1991,7,7,630,7.0,1,0,1,1,0,0,1,0,0.14,0.00,0.14,0.14,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+0ecccd80,Mohd Aqib,Mohd Aqib,in IND,DF,Sreenidi Deccan FC,28-287,1997,1,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+5cda61be,Amid Arezou,Amid Arezou,af AFG,"DF,MF",Gokulam Kerala,30-056,1996,5,5,420,4.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+18d156a3,Gerard Artigas,Gerard Artigas,es ESP,FW,Rajasthan United FC,31-094,1995,4,2,192,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+53e9320c,Melroy Assisi,Melroy Assisi,in IND,DF,Diamond Harbour,27-107,1998,7,7,614,6.8,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+ad45ae5b,Pedro Astray,Pedro Astray,es ESP,"MF,FW",Rajasthan United FC,34-027,1992,4,4,306,3.4,2,0,2,2,0,0,0,0,0.59,0.00,0.59,0.59,0.59,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+401773be,Amay Avinash Morajkar,Amay Avinash Morajkar,in IND,"MF,FW",Dempo,25-298,2000,6,2,211,2.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+c6f8a7c7,Saiesh Bagkar,Saiesh Bagkar,in IND,"MF,DF",Dempo,23-164,2002,7,6,487,5.4,0,1,1,0,0,0,0,0,0.00,0.18,0.18,0.00,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+5b06fb2f,Vítor Barata,Vítor Barata,pt POR,MF,Gokulam Kerala,30-042,1996,1,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+d68bf52f,Calvin Baretto,Calvin Baretto,in IND,MF,Real Kashmir,26-217,1999,2,0,1,0.0,1,0,1,1,0,0,0,1,90.00,0.00,90.00,90.00,90.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+a4b86e25,Hayat Bashir,Hayat Bashir,in IND,FW,Real Kashmir,26-141,1999,2,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+67f42f8c,Armand Bazié,Armand Bazié,ci CIV,"MF,DF",Gokulam Kerala,34-025,1992,3,3,243,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+69366e97,Basit Bhat,Basit Bhat,in IND,"DF,MF",Real Kashmir,28-056,1998,8,6,549,6.1,0,1,1,0,0,0,1,0,0.00,0.16,0.16,0.00,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+43c2df4d,Hardik Bhatt,Hardik Bhatt,in IND,DF,Sreenidi Deccan FC,28-362,1997,8,8,720,8.0,0,1,1,0,0,0,2,0,0.00,0.12,0.12,0.00,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+a9a2e9b0,Pranjal Bhumij,Pranjal Bhumij,in IND,FW,Rajasthan United FC,27-043,1999,4,1,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+022873f4,Roly Bonevacia,Roly Bonevacia,cw CUW,MF,Sreenidi Deccan FC,34-188,1991,2,1,67,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+117a8c67,Aminou Bouba,Aminou Bouba,cm CMR,"DF,MF",Gokulam Kerala,35-076,1991,3,3,243,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+88634bbb,Thabiso Brown,Thabiso Brown,ls LES,"MF,FW",Gokulam Kerala,30-193,1995,8,7,632,7.0,2,4,6,2,0,1,1,0,0.28,0.57,0.85,0.28,0.85,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+05bc838e,Knerkitalang Buam,Knerkitalang Buam,in IND,"MF,DF",Dempo,23-113,2002,8,6,609,6.8,0,1,1,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+5f89eab2,Phrangki Buam,Phrangki Buam,in IND,FW,Shillong Lajong,25-119,2000,8,8,666,7.4,3,1,4,2,1,1,1,0,0.41,0.14,0.54,0.27,0.41,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+8faba2eb,Paulo César,Paulo César,br BRA,FW,Sreenidi Deccan FC,32-127,1993,7,1,168,1.9,1,1,2,1,0,0,1,0,0.54,0.54,1.07,0.54,1.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+d6daf4f1,Shedrack Charles,Shedrack Charles,ng NGA,"FW,MF",Real Kashmir,22-278,2003,8,7,567,6.3,3,3,6,3,0,0,0,0,0.48,0.48,0.95,0.48,0.95,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+1c9a8e2b,Lalchungnunga Chhangte,Lalchungnunga Chhangte,in IND,MF,Sreenidi Deccan FC,25-080,2001,4,0,55,0.6,0,1,1,0,0,0,0,0,0.00,1.64,1.64,0.00,1.64,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+770e4b31,Ajay Chhetri,Ajay Chhetri,in IND,MF,Sreenidi Deccan FC,26-281,1999,7,6,539,6.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+46eae007,Seigougin Chongloi,Seigougin Chongloi,,MF,Namdhari FC,,,1,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+8b8d4ad7,Vieri Colaco,Vieri Colaco,in IND,MF,Dempo,22-266,2003,3,1,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+1f845772,Ariston Costa,Ariston Costa,in IND,MF,Dempo,26-056,2000,5,4,281,3.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+d2e929ec,Deepak D P,Deepak D P,in IND,DF,Sreenidi Deccan FC,22-060,2004,7,5,463,5.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+1d2bed6f,Rakshit Dagar,Rakshit Dagar,in IND,GK,Gokulam Kerala,33-180,1992,2,1,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,1,4,3.96,0,91,1,1,0,0.0,0,,,,0,1,I-League,2026
+5a90c828,Ateeb Dar,Ateeb Dar,in IND,"MF,FW",Real Kashmir,24-050,2002,7,5,468,5.2,2,0,2,2,0,0,0,0,0.38,0.00,0.38,0.38,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+cddf5142,Juan David Castañeda,Juan David Castañeda,co COL,"FW,MF",Sreenidi Deccan FC,31-078,1995,8,8,675,7.5,1,1,2,1,0,0,1,0,0.13,0.13,0.27,0.13,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+ba3343f0,Kyle Degelman,Kyle Degelman,ca CAN,DF,Chanmari FC,22-049,2004,1,1,66,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+5bc463ad,Abdoulaye Diallo,Abdoulaye Diallo,sn SEN,MF,Namdhari FC,30-089,1996,5,1,211,2.3,1,1,2,1,0,0,0,0,0.43,0.43,0.85,0.43,0.85,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+b826ea60,Nestor Dias,Nestor Dias,in IND,MF,Dempo,27-156,1998,4,3,230,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+26aca9f0,Salgeo Dias,Salgeo Dias,in IND,MF,Dempo,21-342,2004,1,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+97599ed2,Trijoy Dias,Trijoy Dias,in IND,"MF,GK",Gokulam Kerala,26-223,1999,8,8,673,7.5,1,1,2,1,0,0,1,0,0.13,0.13,0.27,0.13,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+35554a44,Hugo Díaz,Hugo Díaz,es ESP,MF,Diamond Harbour,29-064,1997,8,4,379,4.2,2,1,3,2,0,0,0,0,0.47,0.24,0.71,0.47,0.71,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+2f95873d,Seigoumang Doungel,Seigoumang Doungel,in IND,MF,Dempo,24-032,2002,3,2,138,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+96dcf86c,Lalthankhuma Duhvela,Lalthankhuma Duhvela,in IND,MF,Sreenidi Deccan FC,25-222,2000,4,4,353,3.9,1,0,1,1,0,0,1,0,0.25,0.00,0.25,0.25,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+30d6524c,Malsawmtluanga Fanai,Malsawmtluanga Fanai,,DF,Chanmari FC,,,8,7,654,7.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+549e8305,Djibril Fandjé Touré,Djibril Fandjé Touré,gn GUI,FW,Real Kashmir,23-164,2002,3,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+bf753e0b,Fernandes,Fernandes,br BRA,MF,Rajasthan United FC,31-052,1995,6,6,523,5.8,1,2,3,0,1,1,0,0,0.17,0.34,0.52,0.00,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+0a66a7d9,Kingslee Fernandes,Kingslee Fernandes,in IND,MF,Gokulam Kerala,28-078,1998,3,3,193,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+f1cfa387,Pape Gassama,Pape Gassama,sn SEN,MF,Sreenidi Deccan FC,29-225,1996,6,6,532,5.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+3d022757,Cèdric Gogoua,Cèdric Gogoua,ci CIV,DF,Rajasthan United FC,31-278,1994,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+d5ca712f,Milos Gordic,Milos Gordic,rs SRB,MF,Namdhari FC,33-125,1992,2,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+072d7a98,Abhay Gurung,Abhay Gurung,in IND,FW,Shillong Lajong,23-138,2002,7,3,316,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+1f35561e,Novin Gurung,Novin Gurung,in IND,DF,Rajasthan United FC,27-351,1998,2,1,112,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+e45832eb,Sebastián Gutiérrez,Sebastián Gutiérrez,co COL,"MF,FW",Dempo,28-197,1997,7,4,395,4.4,2,2,4,2,0,0,2,0,0.46,0.46,0.91,0.46,0.91,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+27175098,Muhammad Hammad,Muhammad Hammad,in IND,DF,Sreenidi Deccan FC,28-242,1997,4,3,277,3.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+d192f6d7,Seijoseph Haokip,Seijoseph Haokip,in IND,"MF,FW",Real Kashmir,22-121,2003,6,4,334,3.7,1,1,2,1,0,0,0,0,0.27,0.27,0.54,0.27,0.54,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+6492e8f1,Sahil Harijan,Sahil Harijan,in IND,FW,Diamond Harbour,20-215,2005,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+2859287a,Kapil Hoble,Kapil Hoble,in IND,MF,Dempo,27-330,1998,5,4,312,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+3e0d1c41,Manbhakupar Iawphniaw,Manbhakupar Iawphniaw,in IND,FW,Shillong Lajong,25-237,2000,6,0,54,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+941eb350,Najib Ibrahim,Najib Ibrahim,gh GHA,"FW,GK",Namdhari FC,24-227,2001,8,7,504,5.6,1,0,1,1,0,0,1,0,0.18,0.00,0.18,0.18,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+52472ad6,Hadi Idrissou,Hadi Idrissou,tg TOG,DF,Sreenidi Deccan FC,24-104,2001,8,8,708,7.9,2,0,2,2,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+08e75d67,Mohammad Inam,Mohammad Inam,in IND,"MF,DF",Real Kashmir,25-169,2000,8,8,714,7.9,1,1,2,1,0,0,1,0,0.13,0.13,0.25,0.13,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+b72936f0,Kamal Issah,Kamal Issah,gh GHA,"MF,FW",Real Kashmir,33-227,1992,7,7,623,6.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+728ad8d4,Abelson Jachi,Abelson Jachi,in IND,MF,Shillong Lajong,20-048,2006,3,1,111,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+124fa0de,Marcus Joseph,Marcus Joseph,tt TRI,"FW,MF",Dempo,34-350,1991,8,7,653,7.3,6,1,7,4,2,2,0,0,0.83,0.14,0.96,0.55,0.69,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+defcf986,Soyal Joshy,Soyal Joshy,in IND,DF,Gokulam Kerala,23-356,2002,1,0,58,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+f04e99c2,Jobby Justin,Jobby Justin,in IND,"FW,MF",Diamond Harbour,32-155,1993,8,7,616,6.8,0,2,2,0,0,0,1,0,0.00,0.29,0.29,0.00,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+391cffee,Abhijith K,Abhijith K,in IND,"MF,FW",Sreenidi Deccan FC,29-080,1997,5,4,273,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+ad8f5ade,Vanlalhriatzuala K,Vanlalhriatzuala K,in IND,MF,Aizawl,25-063,2001,8,8,712,7.9,1,0,1,1,0,0,2,0,0.13,0.00,0.13,0.13,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+75bce0ad,Sayad Kadir,Sayad Kadir,,GK,Real Kashmir,,,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,3,3,6,2.00,2,270,1,1,0,0.0,0,,,,1,0,I-League,2026
+4b17c840,Christopher Kamei,Christopher Kamei,in IND,"MF,FW",Chanmari FC,31-292,1994,8,6,553,6.1,1,3,4,1,0,0,0,0,0.16,0.49,0.65,0.16,0.65,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+401fe62a,John Kennedy,John Kennedy,br BRA,FW,Gokulam Kerala,25-227,2000,3,2,162,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+404c4d24,Gladdy Kharbuli,Gladdy Kharbuli,in IND,MF,Shillong Lajong,21-249,2004,8,7,497,5.5,1,2,3,1,0,0,0,0,0.18,0.36,0.54,0.18,0.54,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+070e77dd,Kenstar Kharshong,Kenstar Kharshong,in IND,DF,Shillong Lajong,26-346,1999,8,8,720,8.0,1,0,1,1,0,0,2,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+a35cc4f2,Lethaolen Khongsai,Lethaolen Khongsai,in IND,MF,Real Kashmir,26-237,1999,3,0,39,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+a3713ab4,Kynsailang Khongsit,Kynsailang Khongsit,in IND,DF,Rajasthan United FC,25-124,2000,1,1,67,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+ca0e24aa,Girik Khosla,Girik Khosla,in IND,MF,Diamond Harbour,31-013,1995,3,1,55,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+9e1ba003,Kitboklang Khyriem,Kitboklang Khyriem,in IND,DF,Shillong Lajong,23-161,2002,4,4,360,4.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+ba08c8a5,Mikel Kortazar,Mikel Kortazar,es ESP,"DF,MF",Diamond Harbour,27-035,1999,8,8,720,8.0,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+12b267db,Aubin Kouakou,Aubin Kouakou,ci CIV,"DF,MF",Dempo,34-077,1992,8,8,633,7.0,1,0,1,1,0,0,1,0,0.14,0.00,0.14,0.14,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+ec125e72,Nidhin Krishna,Nidhin Krishna,in IND,"DF,FW",Gokulam Kerala,27-204,1998,6,5,479,5.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+5d87a590,Benjamin Kuku,Benjamin Kuku,ng NGA,DF,Gokulam Kerala,31-037,1995,2,1,109,1.2,1,0,1,1,0,0,0,0,0.83,0.00,0.83,0.83,0.83,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+c8ba47f3,Ajith Kumar,Ajith Kumar,in IND,DF,Diamond Harbour,29-152,1996,3,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+0fc60d11,Niraj Kumar,Niraj Kumar,in IND,"GK,MF",Namdhari FC,23-149,2002,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,14.3,7,7,13,1.86,3,630,1,1,0,0.0,0,,,,3,1,I-League,2026
+f4ceb1fa,Karan Kumar Sharma,Karan Kumar Sharma,in IND,"DF,MF",Namdhari FC,20-023,2006,8,7,651,7.2,0,1,1,0,0,0,1,0,0.00,0.14,0.14,0.00,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+c0259600,R Lalbiakliana,R Lalbiakliana,in IND,MF,Sreenidi Deccan FC,21-286,2004,5,2,224,2.5,1,0,1,1,0,0,0,0,0.40,0.00,0.40,0.40,0.40,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+a0a82592,Michael Lalbiaksanga,Michael Lalbiaksanga,in IND,MF,Chanmari FC,19-256,2006,4,2,154,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+96223467,Emanuel Lalchhanchhuaha,Emanuel Lalchhanchhuaha,in IND,MF,Namdhari FC,24-067,2002,2,0,82,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+8317999f,Laldanmawia,Laldanmawia,in IND,DF,Aizawl,21-315,2004,6,4,309,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+faf5559d,Laldawngzuala,Laldawngzuala,,DF,Aizawl,,,6,4,411,4.6,2,1,3,2,0,0,1,0,0.44,0.22,0.66,0.44,0.66,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+b908b98a,Vincent Lalduhawma,Vincent Lalduhawma,in IND,"FW,MF",Aizawl,23-250,2002,8,8,623,6.9,2,2,4,2,0,0,0,0,0.29,0.29,0.58,0.29,0.58,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+7adc8980,Lalfelkima,Lalfelkima,in IND,DF,Rajasthan United FC,24-261,2001,3,1,118,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+9c45ffa2,T Lalmuanawma,T Lalmuanawma,in IND,DF,Aizawl,21-191,2004,6,5,493,5.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+3fc17ff9,C Lalmuanpuia,C Lalmuanpuia,in IND,MF,Chanmari FC,22-233,2003,6,2,201,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+e65cbe19,Samuel Lalmuanpuia,Samuel Lalmuanpuia,in IND,MF,Diamond Harbour,27-261,1998,1,1,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+510592f4,Zomuansanga Lalnunzira,Zomuansanga Lalnunzira,in IND,"FW,MF",Aizawl,23-198,2002,8,7,627,7.0,3,0,3,2,1,2,1,0,0.43,0.00,0.43,0.29,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+5a3851ef,Joel Lalramengmawia,Joel Lalramengmawia,in IND,"MF,FW",Chanmari FC,19-256,2006,8,7,641,7.1,0,1,1,0,0,0,3,0,0.00,0.14,0.14,0.00,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+48a02445,H Lalrempuia,H Lalrempuia,in IND,"DF,MF",Aizawl,27-023,1999,7,7,621,6.9,0,3,3,0,0,0,2,0,0.00,0.43,0.43,0.00,0.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+03530c6e,Lalremruata,Lalremruata,in IND,DF,Diamond Harbour,23-358,2002,2,2,134,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+a7dc7836,Ephraim Lalremtluanga,Ephraim Lalremtluanga,in IND,FW,Shillong Lajong,24-187,2001,3,1,124,1.4,1,1,2,1,0,0,1,0,0.73,0.73,1.45,0.73,1.45,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+b2c374b7,Lalhriatpuia Lalrinfela,Lalhriatpuia Lalrinfela,in IND,FW,Aizawl,24-213,2001,8,1,191,2.1,2,0,2,2,0,0,2,0,0.94,0.00,0.94,0.94,0.94,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+1321b62f,Stephen Lalrinfela,Stephen Lalrinfela,in IND,DF,Aizawl,21-018,2005,3,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+dbc7e59b,Moses Lalrinzuala,Moses Lalrinzuala,in IND,"MF,FW",Gokulam Kerala,24-108,2001,7,5,402,4.5,2,1,3,2,0,0,1,0,0.45,0.22,0.67,0.45,0.67,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+bb3f31f4,Lalromawia,Lalromawia,in IND,MF,Sreenidi Deccan FC,27-303,1998,7,7,503,5.6,0,1,1,0,0,0,5,2,0.00,0.18,0.18,0.00,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+91575a1c,K Lalruatdika,K Lalruatdika,in IND,"DF,MF",Chanmari FC,18-136,2007,8,8,720,8.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+21391cdf,H Lalruatfela,H Lalruatfela,in IND,DF,Aizawl,17-247,2008,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+a926ec8e,Felix Lalruatsanga,Felix Lalruatsanga,in IND,MF,Aizawl,24-031,2002,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+f16855cc,J Lalruatsanga,J Lalruatsanga,in IND,"FW,DF",Chanmari FC,18-337,2007,8,3,310,3.4,2,0,2,2,0,0,0,0,0.58,0.00,0.58,0.58,0.58,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+c1d64df0,Laltlanzova,Laltlanzova,in IND,"FW,MF",Aizawl,22-102,2004,8,8,672,7.5,0,2,2,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+ca3d5553,Joseph Lalvenhima,Joseph Lalvenhima,in IND,"MF,FW",Rajasthan United FC,23-322,2002,5,4,297,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+a592bfaa,Lalthangliana Lalvenkima,Lalthangliana Lalvenkima,in IND,MF,Chanmari FC,22-002,2004,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+dafa4310,Aryan Lamba,Aryan Lamba,in IND,GK,Sreenidi Deccan FC,23-168,2002,2,1,161,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,100.0,2,1,2,1.12,1,161,0,0,0,,0,,,,0,0,I-League,2026
+ad3257c9,Jordan Lamela,Jordan Lamela,es ESP,FW,Rajasthan United FC,25-103,2001,5,1,172,1.9,0,1,1,0,0,0,0,0,0.00,0.52,0.52,0.00,0.52,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+fcd67989,Treimiki Lamurong,Treimiki Lamurong,in IND,"MF,FW",Shillong Lajong,21-108,2004,7,3,257,2.9,1,0,1,1,0,0,0,0,0.35,0.00,0.35,0.35,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+26db4517,Lalbiakhlua Lianzela,Lalbiakhlua Lianzela,in IND,DF,Gokulam Kerala,24-276,2001,1,0,35,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+fd1c1d5d,Seilenthang Lotjem,Seilenthang Lotjem,in IND,MF,Namdhari FC,22-002,2004,8,8,639,7.1,2,1,3,2,0,0,0,0,0.28,0.14,0.42,0.28,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+79f0a14d,Damaitphang Lyngdoh,Damaitphang Lyngdoh,in IND,"MF,DF",Shillong Lajong,22-189,2003,8,8,638,7.1,0,1,1,0,0,0,1,0,0.00,0.14,0.14,0.00,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+7e3feb29,Samuel Lyngdoh Kynshi,Samuel Lyngdoh Kynshi,in IND,MF,Gokulam Kerala,26-034,2000,3,0,49,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+46e76f92,Pintu Mahata,Pintu Mahata,in IND,MF,Diamond Harbour,28-315,1997,4,1,102,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+2be2514b,Luka Majcen,Luka Majcen,si SVN,"FW,MF",Diamond Harbour,36-263,1989,8,8,694,7.7,3,0,3,3,0,0,2,0,0.39,0.00,0.39,0.39,0.39,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+6d78ead8,Bhabindra Malla Thakuri,Bhabindra Malla Thakuri,in IND,"GK,DF",Rajasthan United FC,33-019,1993,8,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,37.5,8,8,9,1.13,2,720,0,1,0,100.0,1,,,,2,4,I-League,2026
+0aca28f6,KC Malsawmsanga,KC Malsawmsanga,in IND,"MF,FW",Chanmari FC,21-132,2004,8,7,613,6.8,1,0,1,1,0,0,0,0,0.15,0.00,0.15,0.15,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+d40a0ad7,Robilal Mandi,Robilal Mandi,in IND,"DF,MF",Diamond Harbour,25-295,2000,7,6,554,6.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+53772b01,Marlon,Marlon,br BRA,"DF,MF",Chanmari FC,29-327,1996,5,4,368,4.1,2,0,2,2,0,0,0,0,0.49,0.00,0.49,0.49,0.49,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+77cb40b3,Darell Mascarenhas,Darell Mascarenhas,in IND,DF,Dempo,26-205,1999,3,3,209,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+d0df8d61,Adersh Mattummal,Adersh Mattummal,in IND,MF,Namdhari FC,24-177,2001,5,5,368,4.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+1537b848,Pangambam Meitei,Pangambam Meitei,in IND,"MF,FW",Rajasthan United FC,21-044,2005,8,2,303,3.4,2,0,2,2,0,0,1,0,0.59,0.00,0.59,0.59,0.59,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+d330fe16,Bryce Miranda,Bryce Miranda,in IND,"FW,MF",Diamond Harbour,26-203,1999,8,7,534,5.9,0,3,3,0,0,0,1,0,0.00,0.51,0.51,0.00,0.51,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+470d3338,Mittal Mohit,Mittal Mohit,in IND,MF,Diamond Harbour,27-180,1998,4,4,342,3.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+16abaa54,Lamine Moro,Lamine Moro,gh GHA,"DF,MF",Namdhari FC,32-060,1994,7,7,614,6.8,1,0,1,1,0,0,6,1,0.15,0.00,0.15,0.15,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+c9ce5935,Christian Moses,Christian Moses,sl SLE,FW,Real Kashmir,32-247,1993,1,1,90,1.0,0,1,1,0,0,0,0,0,0.00,1.00,1.00,0.00,1.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+dae880d4,Antonio Moyano,Antonio Moyano,es ESP,MF,Diamond Harbour,25-275,2000,8,7,657,7.3,4,4,8,4,0,0,0,0,0.55,0.55,1.10,0.55,1.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+06a3027a,Samuel Muansang,Samuel Muansang,in IND,"DF,MF",Shillong Lajong,18-311,2007,4,4,360,4.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+8d59f8a8,Daniel Muthu,Daniel Muthu,in IND,"DF,MF",Dempo,29-183,1996,5,5,365,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+696cf5b8,Everbrightson Mylliempdah,Everbrightson Mylliempdah,in IND,FW,Shillong Lajong,23-107,2002,8,8,652,7.2,3,1,4,3,0,1,0,0,0.41,0.14,0.55,0.41,0.55,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+71338d6c,Shighil Nambrath,Shighil Nambrath,in IND,MF,Gokulam Kerala,23-082,2003,6,5,430,4.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+0078d798,Halicharan Narzary,Halicharan Narzary,in IND,FW,Diamond Harbour,31-339,1994,7,1,170,1.9,3,0,3,3,0,0,1,0,1.59,0.00,1.59,1.59,1.59,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+944f58ed,Shahid Nazir Wani,Shahid Nazir Wani,in IND,DF,Real Kashmir,29-030,1997,3,2,198,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+6f1cce9a,Nili,Nili,es ESP,"FW,DF",Gokulam Kerala,32-055,1994,3,3,236,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+7ca27a3c,Fabrice Nkwoh,Fabrice Nkwoh,cm CMR,"MF,FW",Sreenidi Deccan FC,30-036,1996,6,5,387,4.3,3,0,3,3,0,0,0,0,0.70,0.00,0.70,0.70,0.70,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+714325f9,Norberto,Norberto,ao ANG,MF,Rajasthan United FC,31-154,1994,1,1,80,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+abf8eabf,Isaac Nortey,Isaac Nortey,gh GHA,MF,Rajasthan United FC,26-001,2000,3,1,152,1.7,1,1,2,1,0,0,1,0,0.59,0.59,1.18,0.59,1.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+77b181c2,Francis Nuer Addo,Francis Nuer Addo,gh GHA,"MF,DF",Namdhari FC,31-081,1995,8,8,719,8.0,1,0,1,1,0,0,2,0,0.13,0.00,0.13,0.13,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+9b1fcaf4,Marius Obekop,Marius Obekop,cm CMR,"MF,FW",Real Kashmir,31-116,1994,5,4,348,3.9,3,0,3,3,0,0,2,0,0.78,0.00,0.78,0.78,0.78,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+216361e4,Arnold Oliveira,Arnold Oliveira,in IND,MF,Dempo,21-328,2004,5,1,179,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+ac482da0,Habib Omar Fofana,Habib Omar Fofana,ci CIV,DF,Real Kashmir,27-149,1998,6,6,460,5.1,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+341f5b08,Mamoud Oshie,Mamoud Oshie,gh GHA,"MF,DF",Real Kashmir,27-110,1998,7,5,423,4.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+fa50c056,Richmond Owusu,Richmond Owusu,gh GHA,FW,Dempo,23-071,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+c4d3021a,Richmond Owusu,Richmond Owusu,gh GHA,FW,Dempo,18-303,2007,7,5,445,4.9,2,0,2,1,1,1,1,0,0.40,0.00,0.40,0.20,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+99c36b75,Rishad P,Rishad P,in IND,MF,Gokulam Kerala,30-282,1995,4,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+724a6e5c,William Pauliankhum,William Pauliankhum,in IND,"MF,DF",Rajasthan United FC,27-200,1998,4,2,190,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+5f6fdd9a,Pruthvesh Pednekar,Pruthvesh Pednekar,in IND,DF,Dempo,26-159,1999,8,8,695,7.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+50583102,José Luis Moreno Peña,José Luis Moreno Peña,co COL,DF,Dempo,29-174,1996,7,6,530,5.9,1,0,1,1,0,0,3,0,0.17,0.00,0.17,0.17,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+d08a43fc,Shafeel PP,Shafeel PP,in IND,"DF,MF",Rajasthan United FC,28-095,1998,8,8,669,7.4,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+30a5b4f8,Ashish Pradhan,Ashish Pradhan,in IND,MF,Gokulam Kerala,26-313,1999,1,0,51,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+641e3944,Mirjalol Qosimov,Mirjalol Qosimov,uz UZB,"MF,DF",Gokulam Kerala,30-145,1995,6,4,386,4.3,1,0,1,0,1,1,1,0,0.23,0.00,0.23,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+8555080b,Shibin Raj Kunniyil,Shibin Raj Kunniyil,in IND,"GK,MF",Gokulam Kerala,33-025,1993,7,7,629,7.0,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,28.6,7,7,11,1.57,4,629,0,0,0,,0,,,,2,1,I-League,2026
+66016fb7,Rahul Raju,Rahul Raju,in IND,"MF,FW",Gokulam Kerala,22-145,2003,7,6,582,6.5,2,1,3,2,0,0,1,0,0.31,0.15,0.46,0.31,0.46,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+68c99c59,Lalhmangaihsanga Ralte,Lalhmangaihsanga Ralte,in IND,"DF,MF",Chanmari FC,26-134,1999,8,8,720,8.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+44cf43f2,Lalpekhlua Ralte,Lalpekhlua Ralte,in IND,MF,Chanmari FC,18-349,2007,4,0,42,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+9929d907,Paul Ramfangzauva,Paul Ramfangzauva,in IND,MF,Diamond Harbour,27-019,1999,6,3,326,3.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+214f3dc7,Laximanrao Rane,Laximanrao Rane,in IND,MF,Dempo,21-325,2004,6,0,109,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+e1850dbc,Salam Ranjan Singh,Salam Ranjan Singh,in IND,DF,Real Kashmir,31-002,1995,5,2,248,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+94ecbe5e,Asrar Rehbar,Asrar Rehbar,in IND,MF,Real Kashmir,28-006,1998,4,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+b75bded3,JH Remlala,JH Remlala,in IND,MF,Aizawl,21-103,2005,2,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+982f92e8,Eric Rempuatpuia Chhangte,Eric Rempuatpuia Chhangte,in IND,MF,Aizawl,24-031,2002,7,5,532,5.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+b5e22d41,Higor Renato,Higor Renato,br BRA,FW,Aizawl,22-325,2003,3,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+ac255094,Lalliansanga Renthlei,Lalliansanga Renthlei,in IND,MF,Diamond Harbour,26-313,1999,4,0,16,0.2,1,0,1,1,0,0,1,0,5.63,0.00,5.63,5.63,5.63,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+846871dc,Malsawmsanga Renthlei,Malsawmsanga Renthlei,in IND,DF,Chanmari FC,21-124,2004,4,4,339,3.8,1,0,1,1,0,0,1,1,0.27,0.00,0.27,0.27,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+c47c67b8,Damián Roa,Damián Roa,ar ARG,MF,Dempo,31-004,1995,5,0,54,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+082ba04b,Luis Rodríguez,Luis Rodríguez,co COL,DF,Aizawl,31-058,1995,4,2,137,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+075d5d31,Rohmingthanga,Rohmingthanga,in IND,DF,Aizawl,26-007,2000,8,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+a6e8f1a7,PC Rosangzuala,PC Rosangzuala,in IND,FW,Chanmari FC,20-232,2005,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+c7f157f9,Bhaskar Roy,Bhaskar Roy,in IND,GK,Sreenidi Deccan FC,33-099,1993,1,1,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,100.0,1,1,0,0.00,0,19,0,1,0,100.0,1,,,,0,1,I-League,2026
+0b3f6a7b,Siwel Rymbai,Siwel Rymbai,in IND,GK,Shillong Lajong,27-222,1998,7,7,630,7.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,28.6,7,7,8,1.14,2,630,1,1,0,0.0,0,,,,2,3,I-League,2026
+e9b2392a,Wadajied Ryngkhlem,Wadajied Ryngkhlem,in IND,MF,Shillong Lajong,22-092,2004,6,0,105,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+dbced4b1,Lalawmpuia Sailo,Lalawmpuia Sailo,in IND,"MF,FW",Aizawl,22-219,2003,7,4,443,4.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+00c64459,Mohammad Sajid Dhot,Mohammad Sajid Dhot,in IND,"DF,FW",Namdhari FC,28-125,1997,4,3,315,3.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+b5e5d045,Abdul Samed Ango,Abdul Samed Ango,gh GHA,DF,Rajasthan United FC,22-278,2003,5,5,428,4.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+81c82a09,Pedro Santanna,Pedro Santanna,,MF,Chanmari FC,,,3,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+96760186,Shubham Sarangi,Shubham Sarangi,in IND,DF,Diamond Harbour,25-294,2000,1,0,16,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+28550db8,Ranit Sarkar,Ranit Sarkar,in IND,GK,Shillong Lajong,21-156,2004,1,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,100.0,1,1,0,0.00,0,90,0,0,0,,0,,,,0,1,I-League,2026
+9a69855b,Lunkim Seigoulun Khongsai,Lunkim Seigoulun Khongsai,in IND,MF,Rajasthan United FC,25-171,2000,2,2,176,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+e6e61f26,Mashoor Shereef,Mashoor Shereef,in IND,"DF,FW",Real Kashmir,33-099,1993,7,6,527,5.9,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+35ffc536,Thomyo Shimray,Thomyo Shimray,in IND,"FW,MF",Rajasthan United FC,24-030,2002,7,6,476,5.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+c7b32e5e,Ashish Sibi,Ashish Sibi,in IND,GK,Dempo,25-053,2001,8,8,720,8.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,25.0,8,8,12,1.50,3,720,1,3,1,50.0,1,,,,3,2,I-League,2026
+2fbf9cf6,Sachu Siby,Sachu Siby,in IND,"DF,MF",Gokulam Kerala,24-318,2001,7,7,573,6.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+fbe55c7c,Akashdeep Singh,Akashdeep Singh,in IND,DF,Namdhari FC,32-262,1993,3,1,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+9f4058a6,Akashdeep Singh,Akashdeep Singh,in IND,FW,Rajasthan United FC,24-055,2002,1,1,80,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+0cc058bc,Balkaran Singh,Balkaran Singh,in IND,DF,Namdhari FC,20-087,2006,3,1,83,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+04cec139,Bhupinder Singh,Bhupinder Singh,in IND,"MF,DF",Namdhari FC,28-214,1997,5,3,318,3.5,0,2,2,0,0,0,0,0,0.00,0.57,0.57,0.00,0.57,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+345aee91,Bidyashagar Singh,Bidyashagar Singh,in IND,FW,Namdhari FC,28-034,1998,4,1,172,1.9,1,0,1,1,0,0,0,0,0.52,0.00,0.52,0.52,0.52,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+19137b95,Dharmpreet Singh,Dharmpreet Singh,in IND,MF,Namdhari FC,27-128,1998,1,0,24,0.3,1,0,1,1,0,0,0,0,3.75,0.00,3.75,3.75,3.75,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+ebc634a6,Dheeraj Singh,Dheeraj Singh,in IND,GK,Diamond Harbour,25-284,2000,8,8,720,8.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,12.5,8,8,10,1.25,1,720,1,1,0,0.0,0,,,,1,6,I-League,2026
+ad920aa6,Gurmukh Singh,Gurmukh Singh,in IND,DF,Sreenidi Deccan FC,27-103,1999,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+0a4f62de,Gurshan Singh,Gurshan Singh,in IND,"DF,MF",Namdhari FC,18-187,2007,5,5,372,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+9eed8944,Gursimrat Singh,Gursimrat Singh,in IND,DF,Rajasthan United FC,28-163,1997,7,6,547,6.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+6c3c23aa,Gursimrat Singh,Gursimrat Singh,in IND,"DF,MF",Gokulam Kerala,27-252,1998,8,8,719,8.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+7eed3ade,Harpreet Singh,Harpreet Singh,in IND,"DF,GK",Gokulam Kerala,23-164,2002,5,4,330,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+c289572e,Jagdeep Singh,Jagdeep Singh,in IND,"DF,FW",Sreenidi Deccan FC,24-183,2001,8,8,656,7.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+c9a384d0,Jaskaranpreet Singh,Jaskaranpreet Singh,in IND,"FW,MF",Namdhari FC,25-254,2000,8,6,522,5.8,0,2,2,0,0,0,2,0,0.00,0.34,0.34,0.00,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+8512ed05,Kamaljit Singh,Kamaljit Singh,in IND,GK,Sreenidi Deccan FC,30-107,1995,6,6,540,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,33.3,6,6,4,0.67,0,540,0,0,0,,0,,,,3,3,I-League,2026
+3ad19061,Kamalpreet Singh,Kamalpreet Singh,in IND,"DF,FW",Namdhari FC,28-150,1997,8,7,584,6.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+93967c36,Manbir Singh,Manbir Singh,in IND,DF,Namdhari FC,29-089,1997,3,2,225,2.5,0,1,1,0,0,0,0,0,0.00,0.40,0.40,0.00,0.40,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+af2ecdca,Manvir Singh,Manvir Singh,in IND,"FW,MF",Namdhari FC,29-103,1997,8,8,625,6.9,3,0,3,3,0,0,1,0,0.43,0.00,0.43,0.43,0.43,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+9ca3c357,Naresh Singh,Naresh Singh,in IND,DF,Diamond Harbour,28-013,1998,8,8,703,7.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+5977f525,Ngouba Singh,Ngouba Singh,in IND,"DF,MF",Sreenidi Deccan FC,31-044,1995,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+7697920a,Nishan Singh,Nishan Singh,in IND,GK,Namdhari FC,21-273,2004,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,1,1.00,0,90,0,0,0,,0,,,,1,0,I-League,2026
+9c32ea99,Oinam Singh,Oinam Singh,in IND,"DF,MF",Real Kashmir,24-156,2001,8,8,699,7.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+22097de9,Rohen Singh,Rohen Singh,in IND,"MF,FW",Real Kashmir,23-044,2003,5,5,374,4.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+a2318490,Amadou Soukouna,Amadou Soukouna,fr FRA,"FW,MF",Rajasthan United FC,33-297,1992,7,7,610,6.8,4,0,4,4,0,0,2,0,0.59,0.00,0.59,0.59,0.59,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+92d9943a,Suanngaihmuana,Suanngaihmuana,,"FW,MF",Chanmari FC,,,8,5,397,4.4,1,0,1,1,0,0,1,0,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+c5fdbeef,Pragyan Sundar Gogoi,Pragyan Sundar Gogoi,in IND,MF,Rajasthan United FC,27-079,1999,4,4,293,3.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+f02050fb,Figo Syndai,Figo Syndai,in IND,FW,Shillong Lajong,24-217,2001,1,1,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+fd50741e,Timur Talipov,Timur Talipov,uz UZB,"DF,MF",Aizawl,30-331,1995,4,3,222,2.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+118dbffe,Saveme Tariang,Saveme Tariang,in IND,DF,Shillong Lajong,22-318,2003,8,8,720,8.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+2f65f8f1,João Tchê,João Tchê,br BRA,"MF,DF",Chanmari FC,23-208,2002,8,7,645,7.2,2,2,4,1,1,1,1,0,0.28,0.28,0.56,0.14,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+4d20906f,Fahad Temuri,Fahad Temuri,in IND,FW,Chanmari FC,21-267,2004,2,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+4f519502,Abhas Thapa,Abhas Thapa,in IND,MF,Sreenidi Deccan FC,27-116,1998,6,1,146,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+1187085b,Alan Thapa,Alan Thapa,in IND,MF,Rajasthan United FC,27-055,1999,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+33a83395,Tharpuia,Tharpuia,in IND,FW,Diamond Harbour,23-234,2002,5,1,117,1.3,1,1,2,1,0,0,0,0,0.77,0.77,1.54,0.77,1.54,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+91c1065f,Komal Thatal,Komal Thatal,in IND,MF,Gokulam Kerala,25-208,2000,2,0,32,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+e87234d9,Malsawmzuala Tlangte,Malsawmzuala Tlangte,in IND,FW,Aizawl,20-233,2005,5,0,65,0.7,1,0,1,1,0,0,0,0,1.38,0.00,1.38,1.38,1.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+b8ca2571,Lalhruai Tluanga,Lalhruai Tluanga,in IND,GK,Aizawl,20-342,2005,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,4,2.00,1,180,0,0,0,,0,,,,1,0,I-League,2026
+7a66181c,Lalrinchhana Tochhawng,Lalrinchhana Tochhawng,in IND,MF,Chanmari FC,30-330,1995,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+fe428225,Djakaridja Traoré,Djakaridja Traoré,ci CIV,FW,Real Kashmir,27-255,1998,5,2,268,3.0,2,0,2,1,1,1,1,0,0.67,0.00,0.67,0.34,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+0321e0b7,Athul Unnikrishnan,Athul Unnikrishnan,in IND,DF,Gokulam Kerala,26-072,2000,3,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+a2bf9e95,Lamlallian Vaiphei,Lamlallian Vaiphei,in IND,MF,Shillong Lajong,19-364,2006,8,8,720,8.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+3d3e5b0b,Vanlalawmpuia,Vanlalawmpuia,in IND,MF,Aizawl,20-204,2005,6,5,245,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+1960f520,Jakob Vanlalhlimpuia,Jakob Vanlalhlimpuia,in IND,FW,Shillong Lajong,27-038,1999,8,0,93,1.0,0,1,1,0,0,0,0,0,0.00,0.97,0.97,0.00,0.97,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+dcfd51ad,Vanlalhriatpuia,Vanlalhriatpuia,in IND,GK,Aizawl,25-003,2001,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,6,6,12,2.00,2,540,1,1,0,0.0,0,,,,2,2,I-League,2026
+3e5e9a80,Crespo Vanlalhriatpuia,Crespo Vanlalhriatpuia,in IND,MF,Chanmari FC,23-016,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+da48e8e3,Brandon Vanlalremdika,Brandon Vanlalremdika,in IND,"MF,FW",Sreenidi Deccan FC,32-076,1994,8,3,363,4.0,1,1,2,1,0,0,1,0,0.25,0.25,0.50,0.25,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+65030933,Aron Vanlalrinchhana,Aron Vanlalrinchhana,in IND,"MF,FW",Chanmari FC,22-027,2004,8,7,532,5.9,0,1,1,0,0,0,0,0,0.00,0.17,0.17,0.00,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+bd77bfc0,Rudra Ved,Rudra Ved,in IND,DF,Shillong Lajong,26-062,2000,8,8,720,8.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+283e132b,Gautam Virwani,Gautam Virwani,in IND,"MF,GK",Rajasthan United FC,24-348,2001,7,5,454,5.0,0,2,2,0,0,0,3,0,0.00,0.40,0.40,0.00,0.40,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+69c457eb,Maxderidoff Wahlang,Maxderidoff Wahlang,in IND,MF,Shillong Lajong,23-104,2002,3,0,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+c317d510,Hyder Yousuf,Hyder Yousuf,in IND,DF,Real Kashmir,23-209,2002,4,2,160,1.8,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2026
+ed83d013,Zothanmawia,Zothanmawia,in IND,GK,Chanmari FC,28-220,1997,8,8,720,8.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,12.5,8,8,14,1.75,4,720,1,1,0,0.0,0,,,,2,2,I-League,2026
+ccf66914,Lukman Abegunrin,Lukman Abegunrin,ng NGA,"FW,MF",Dempo,30,1994,6,3,302,3.4,1,1,2,1,0,0,0,0,0.30,0.30,0.60,0.30,0.60,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+4926c8e1,Stephen Abeiku,Stephen Abeiku,gh GHA,DF,Delhi FC,24,1999,15,9,739,8.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+5cd91b46,Nacho Abeledo,Nacho Abeledo,es ESP,"MF,FW",Gokulam Kerala,28,1996,21,20,"1,829",20.3,9,8,17,9,0,0,4,0,0.44,0.39,0.84,0.44,0.84,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+9ecb2f86,Aman Ahlawat,Aman Ahlawat,in IND,DF,Shillong Lajong,21,2003,11,8,795,8.8,1,0,1,1,0,0,5,0,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+19a9c893,Furqan Ahmad Dar,Furqan Ahmad Dar,in IND,GK,Real Kashmir,25,1999,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,3,3,3,1.00,0,270,1,2,0,50.0,1,,,,2,1,I-League,2024-2025
+266c0dba,Shakir Ahmad Sheikh,Shakir Ahmad Sheikh,in IND,MF,Real Kashmir,24,2000,6,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c4f1d211,Bibin Ajayan,Bibin Ajayan,in IND,DF,Gokulam Kerala,26,1998,10,4,494,5.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+2a53fe9a,Faisal Ali,Faisal Ali,in IND,FW,Real Kashmir,24,1999,7,0,106,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+09d815a5,Mohamed Ali,Mohamed Ali,in IND,DF,Dempo,32,1992,22,22,"1,980",22.0,0,1,1,0,0,0,3,0,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c4e26b47,Rafique Ali Sardar,Rafique Ali Sardar,in IND,GK,Aizawl,26,1998,11,11,990,11.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,36.4,11,11,20,1.82,5,990,3,3,0,0.0,0,,,,2,4,I-League,2024-2025
+1b261f14,Bektur Amangeldiev,Bektur Amangeldiev,kg KGZ,MF,Rajasthan United FC,25,1998,13,10,885,9.8,1,1,2,1,0,0,4,0,0.10,0.10,0.20,0.10,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+6eec25eb,Abhishek Ambekar,Abhishek Ambekar,in IND,DF,Sreenidi Deccan FC,32,1991,18,17,"1,497",16.6,0,4,4,0,0,0,2,0,0.00,0.24,0.24,0.00,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a7d4fd7b,Rafiq Aminu,Rafiq Aminu,gh GHA,"FW,MF",Churchill Brothers,24,1999,12,5,555,6.2,2,2,4,2,0,0,1,0,0.32,0.32,0.65,0.32,0.65,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+0ecccd80,Mohd Aqib,Mohd Aqib,in IND,DF,Real Kashmir,27,1997,22,21,"1,897",21.1,0,5,5,0,0,0,1,0,0.00,0.24,0.24,0.00,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+453df987,Arana,Arana,es ESP,MF,Shillong Lajong,27,1997,5,4,372,4.1,1,2,3,0,1,1,1,0,0.24,0.48,0.73,0.00,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+6e522160,Mohd Arbaz,Mohd Arbaz,in IND,GK,Real Kashmir,19,2005,13,12,"1,121",12.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,16.7,13,12,16,1.28,4,"1,121",1,2,0,50.0,1,,,,4,4,I-League,2024-2025
+18d156a3,Gerard Artigas,Gerard Artigas,es ESP,"FW,MF",Rajasthan United FC,29,1995,6,5,426,4.7,4,0,4,3,1,1,1,0,0.85,0.00,0.85,0.63,0.63,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+f4e51ade,Dhanajit Ashangbam,Dhanajit Ashangbam,in IND,DF,Delhi FC,17,2006,3,2,129,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+6c193e38,Mohammad Asif Khan,Mohammad Asif Khan,in IND,"MF,DF",Inter Kashi,23,2001,17,8,761,8.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+401773be,Amay Avinash Morajkar,Amay Avinash Morajkar,in IND,"MF,FW",Dempo,24,2000,7,2,274,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+d6a2e81d,Matija Babović,Matija Babović,rs SRB,FW,Dempo,25,1999,6,5,469,5.2,2,0,2,2,0,0,0,0,0.38,0.00,0.38,0.38,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+d6a2e81d,Matija Babović,Matija Babović,rs SRB,FW,Dempo,25,1999,6,5,469,5.2,2,0,2,2,0,0,0,0,0.38,0.00,0.38,0.38,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+d6a2e81d,Matija Babović,Matija Babović,rs SRB,FW,Inter Kashi,25,1999,13,10,800,8.9,2,0,2,2,0,0,1,0,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+d6a2e81d,Matija Babović,Matija Babović,rs SRB,FW,Inter Kashi,25,1999,13,10,800,8.9,2,0,2,2,0,0,1,0,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+d12e6cc2,Sajal Bag,Sajal Bag,in IND,"MF,FW",Delhi FC,21,2003,5,3,220,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c6f8a7c7,Saiesh Bagkar,Saiesh Bagkar,in IND,DF,Dempo,21,2002,20,19,"1,667",18.5,1,0,1,1,0,0,2,0,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+925e9baa,Arijit Bagui,Arijit Bagui,in IND,DF,Sreenidi Deccan FC,30,1993,1,1,64,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e8a9b6d5,Mario Barco,Mario Barco,es ESP,FW,Inter Kashi,31,1992,9,5,556,6.2,4,1,5,3,1,1,6,0,0.65,0.16,0.81,0.49,0.65,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+0f22bd61,Ashray Bardwaj,Ashray Bardwaj,in IND,DF,Inter Kashi,23,2001,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+d68bf52f,Calvin Baretto,Calvin Baretto,in IND,DF,Namdhari FC,24,1999,17,13,"1,181",13.1,0,1,1,0,0,0,1,0,0.00,0.08,0.08,0.00,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+183ec9ca,Emil Benny,Emil Benny,in IND,MF,Gokulam Kerala,23,2000,5,1,131,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ab307db1,Domingo Berlanga,Domingo Berlanga,ma MAR,"FW,MF",Inter Kashi,29,1995,13,11,992,11.0,6,0,6,6,0,1,3,0,0.54,0.00,0.54,0.54,0.54,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+69366e97,Basit Bhat,Basit Bhat,in IND,"FW,DF",Real Kashmir,26,1998,17,5,527,5.9,0,1,1,0,0,0,0,0,0.00,0.17,0.17,0.00,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+43c2df4d,Hardik Bhatt,Hardik Bhatt,in IND,"DF,MF",Sreenidi Deccan FC,27,1997,9,9,810,9.0,0,2,2,0,0,0,1,0,0.00,0.22,0.22,0.00,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a082cc80,Arindam Bhattacharya,Arindam Bhattacharya,in IND,GK,Inter Kashi,35,1989,21,21,"1,890",21.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,6,28.6,21,21,30,1.43,5,"1,890",3,3,0,0.0,0,,,,6,10,I-League,2024-2025
+6f520480,Chirag Bhujel,Chirag Bhujel,in IND,FW,Inter Kashi,20,2004,1,0,9,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a9a2e9b0,Pranjal Bhumij,Pranjal Bhumij,in IND,"MF,FW",Rajasthan United FC,25,1999,14,2,394,4.4,1,0,1,1,0,0,0,0,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+278bfa2f,Stéphane Binong,Stéphane Binong,cm CMR,FW,Delhi FC,26,1997,19,14,"1,397",15.5,7,2,9,7,0,0,1,0,0.45,0.13,0.58,0.45,0.58,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ce79d0db,Laiwang Bohham,Laiwang Bohham,in IND,FW,Shillong Lajong,24,2000,2,0,36,0.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+022873f4,Roly Bonevacia,Roly Bonevacia,cw CUW,MF,Sreenidi Deccan FC,32,1991,17,8,660,7.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+3943da3e,Satyajit Bordoloi,Satyajit Bordoloi,in IND,GK,SC Bengaluru,28,1996,4,3,286,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,33.3,4,3,5,1.57,3,286,1,1,0,0.0,0,,,,0,0,I-League,2024-2025
+117a8c67,Aminou Bouba,Aminou Bouba,cm CMR,DF,Real Kashmir,33,1991,20,19,"1,574",17.5,4,0,4,4,0,0,2,1,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+157ee97b,Didier Brossou,Didier Brossou,ci CIV,MF,Dempo,34,1989,10,2,365,4.1,2,0,2,2,0,0,0,0,0.49,0.00,0.49,0.49,0.49,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+88634bbb,Thabiso Brown,Thabiso Brown,ls LES,"FW,MF",Gokulam Kerala,28,1995,9,6,619,6.9,11,1,12,11,0,0,1,0,1.60,0.15,1.74,1.60,1.74,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+05bc838e,Knerkitalang Buam,Knerkitalang Buam,in IND,MF,Dempo,21,2002,18,17,"1,455",16.2,0,1,1,0,0,0,1,0,0.00,0.06,0.06,0.00,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+5f89eab2,Phrangki Buam,Phrangki Buam,in IND,MF,Shillong Lajong,23,2000,22,19,"1,809",20.1,6,2,8,6,0,0,3,0,0.30,0.10,0.40,0.30,0.40,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+aad0e751,Ubaid C. K.,Ubaid C. K.,in IND,GK,Sreenidi Deccan FC,34,1990,10,10,841,9.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,10.0,10,10,17,1.82,4,841,2,2,0,0.0,0,,,,3,3,I-League,2024-2025
+5d99cfb9,Maicol Cabrera,Maicol Cabrera,uy URU,FW,Rajasthan United FC,28,1996,9,8,716,8.0,5,1,6,5,0,0,3,0,0.63,0.13,0.75,0.63,0.75,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e20da144,Abhishek Calvin,Abhishek Calvin,in IND,GK,Delhi FC,30,1994,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,33.3,3,3,4,1.33,1,270,0,0,0,,0,,,,1,1,I-League,2024-2025
+fa8ef8e4,Mateo Caprile,Mateo Caprile,uy URU,"MF,FW",Rajasthan United FC,20,2004,11,2,259,2.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+8faba2eb,Paulo César,Paulo César,br BRA,FW,Real Kashmir,30,1993,18,13,"1,192",13.2,7,1,8,5,2,2,2,0,0.53,0.08,0.60,0.38,0.45,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+8089e1e6,Neithovilie Chalieu,Neithovilie Chalieu,in IND,GK,Shillong Lajong,24,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,4,2.00,1,180,0,0,0,,0,,,,1,0,I-League,2024-2025
+72a41bf4,Nishchal Chandan,Nishchal Chandan,in IND,DF,Churchill Brothers,25,1999,19,18,"1,440",16.0,1,0,1,1,0,0,5,0,0.06,0.00,0.06,0.06,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+5aeef382,Manish Chaudhary,Manish Chaudhary,in IND,DF,Namdhari FC,20,2003,1,0,21,0.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a4cb04eb,Martín Cháves,Martín Cháves,uy URU,"FW,MF",Gokulam Kerala,26,1998,19,14,"1,139",12.7,2,3,5,2,0,0,5,0,0.16,0.24,0.40,0.16,0.40,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c574cd86,Anil Chawan,Anil Chawan,in IND,DF,Inter Kashi,25,1999,8,4,459,5.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+1c9a8e2b,Lalchungnunga Chhangte,Lalchungnunga Chhangte,in IND,MF,Sreenidi Deccan FC,23,2001,12,5,517,5.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+770e4b31,Ajay Chhetri,Ajay Chhetri,in IND,"MF,FW",Sreenidi Deccan FC,25,1999,15,9,835,9.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+5e8d8b1a,Nathaniel Chilhang,Nathaniel Chilhang,in IND,MF,Rajasthan United FC,24,1999,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e76bffc9,Thiyam Chingkheinganba,Thiyam Chingkheinganba,in IND,MF,Churchill Brothers,28,1996,2,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a640707b,Dé Cledson,Dé Cledson,br BRA,FW,Namdhari FC,26,1998,19,19,"1,632",18.1,12,4,16,9,3,3,8,2,0.66,0.22,0.88,0.50,0.72,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+8b8d4ad7,Vieri Colaco,Vieri Colaco,in IND,"MF,DF",Dempo,21,2003,13,7,559,6.2,0,1,1,0,0,0,2,0,0.00,0.16,0.16,0.00,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+1f845772,Ariston Costa,Ariston Costa,in IND,MF,Dempo,24,2000,15,10,858,9.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+d2e929ec,Deepak D P,Deepak D P,in IND,DF,Sreenidi Deccan FC,20,2004,13,13,"1,170",13.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+4fd79764,Sanwil D'Costa,Sanwil D'Costa,in IND,DF,Dempo,26,1997,4,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+1d2bed6f,Rakshit Dagar,Rakshit Dagar,in IND,GK,Gokulam Kerala,31,1992,4,4,325,3.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,25.0,4,4,4,1.11,1,325,0,0,0,,0,,,,0,3,I-League,2024-2025
+e8df3a8f,Stephane Dang,Stephane Dang,cm CMR,"MF,FW",Delhi FC,24,2000,3,3,209,2.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+5a90c828,Ateeb Dar,Ateeb Dar,in IND,FW,Real Kashmir,22,2002,4,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+58f1dedf,Aritra Das,Aritra Das,in IND,"MF,DF",Inter Kashi,21,2003,10,2,163,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c9707079,Narayan Das,Narayan Das,in IND,DF,Inter Kashi,30,1993,21,21,"1,884",20.9,0,2,2,0,0,0,6,0,0.00,0.10,0.10,0.00,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+cddf5142,Juan David Castañeda,Juan David Castañeda,co COL,FW,Sreenidi Deccan FC,29,1995,22,19,"1,722",19.1,17,2,19,16,1,2,3,0,0.89,0.10,0.99,0.84,0.94,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+08399331,Nikhil Deka,Nikhil Deka,in IND,GK,Shillong Lajong,21,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,100.0,1,1,0,0.00,0,90,0,1,0,100.0,1,,,,1,0,I-League,2024-2025
+1a2b9cee,Maibam Deny Singh,Maibam Deny Singh,in IND,"MF,DF",Churchill Brothers,21,2002,8,2,256,2.8,0,2,2,0,0,0,1,0,0.00,0.70,0.70,0.00,0.70,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+07bb1fb4,Jibin Devassy,Jibin Devassy,in IND,MF,SC Bengaluru,28,1996,18,14,"1,176",13.1,0,2,2,0,0,0,2,0,0.00,0.15,0.15,0.00,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+b826ea60,Nestor Dias,Nestor Dias,in IND,MF,Dempo,25,1998,14,2,289,3.2,1,1,2,1,0,0,1,0,0.31,0.31,0.62,0.31,0.62,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+97599ed2,Trijoy Dias,Trijoy Dias,in IND,"MF,FW",Churchill Brothers,24,1999,20,13,"1,211",13.5,6,2,8,6,0,0,5,0,0.45,0.15,0.59,0.45,0.59,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+2f95873d,Seigoumang Doungel,Seigoumang Doungel,in IND,MF,Dempo,22,2002,22,22,"1,719",19.1,2,1,3,2,0,0,0,0,0.10,0.05,0.16,0.10,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+1dcf8c01,Manas Dubey,Manas Dubey,in IND,GK,Shillong Lajong,22,2001,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,50.0,4,4,10,2.50,1,360,2,2,0,0.0,0,,,,1,2,I-League,2024-2025
+96dcf86c,Lalthankhuma Duhvela,Lalthankhuma Duhvela,in IND,MF,Aizawl,23,2000,18,18,"1,599",17.8,0,0,0,0,0,0,11,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+b9a4ea39,Clarence Fernandes,Clarence Fernandes,in IND,DF,SC Bengaluru,20,2004,11,10,864,9.6,3,1,4,3,0,0,7,0,0.31,0.10,0.42,0.31,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+0a66a7d9,Kingslee Fernandes,Kingslee Fernandes,in IND,MF,Churchill Brothers,26,1998,17,13,"1,154",12.8,1,0,1,1,0,0,7,0,0.08,0.00,0.08,0.08,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+65384c7d,Stendly Fernandes,Stendly Fernandes,in IND,MF,Churchill Brothers,24,2000,20,14,"1,182",13.1,4,1,5,4,0,0,2,0,0.30,0.08,0.38,0.30,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+56fd5e37,Rosenberg Gabriel,Rosenberg Gabriel,in IND,MF,Sreenidi Deccan FC,25,1998,9,6,461,5.1,1,0,1,1,0,0,3,0,0.20,0.00,0.20,0.20,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+9f55a133,Bali Gagandeep,Bali Gagandeep,in IND,"DF,FW",Delhi FC,34,1990,14,6,629,7.0,0,1,1,0,0,0,0,0,0.00,0.14,0.14,0.00,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a63bc122,Anil Gaonkar,Anil Gaonkar,in IND,MF,Churchill Brothers,27,1997,16,15,"1,192",13.2,1,4,5,1,0,0,1,0,0.08,0.30,0.38,0.08,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+f1cfa387,Pape Gassama,Pape Gassama,sn SEN,MF,Churchill Brothers,27,1996,21,21,"1,875",20.8,6,1,7,3,3,4,6,0,0.29,0.05,0.34,0.14,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+232f7281,Gwgwmsar Gayary,Gwgwmsar Gayary,in IND,FW,Delhi FC,19,2005,16,5,628,7.0,1,0,1,1,0,0,0,0,0.14,0.00,0.14,0.14,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a0a3f3a9,Justin George,Justin George,in IND,DF,Delhi FC,26,1998,7,7,629,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ca9db161,Tanmoy Ghosh,Tanmoy Ghosh,in IND,MF,Rajasthan United FC,32,1992,4,1,126,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+3055dc1f,Lamgoulen Gogou Hangshing,Lamgoulen Gogou Hangshing,in IND,DF,Churchill Brothers,26,1997,22,22,"1,926",21.4,2,1,3,2,0,0,2,0,0.09,0.05,0.14,0.09,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+d696499f,Sarthak Golui,Sarthak Golui,in IND,DF,Inter Kashi,26,1997,20,19,"1,571",17.5,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+7966f08b,Gonçalves,Gonçalves,br BRA,DF,Shillong Lajong,28,1996,20,20,"1,779",19.8,4,1,5,4,0,0,6,1,0.20,0.05,0.25,0.20,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+eae1950a,Joseph Gordon,Joseph Gordon,gh GHA,MF,Namdhari FC,29,1994,19,17,"1,494",16.6,0,1,1,0,0,0,5,0,0.00,0.06,0.06,0.00,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+71e10bb8,Arjun Gouda,Arjun Gouda,in IND,DF,SC Bengaluru,19,2005,2,1,93,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+1f35561e,Novin Gurung,Novin Gurung,in IND,DF,Rajasthan United FC,26,1998,5,4,337,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+7fe7249d,Kurtis Guthrie,Kurtis Guthrie,eng ENG,FW,Churchill Brothers,31,1993,4,2,166,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e45832eb,Sebastián Gutiérrez,Sebastián Gutiérrez,co COL,"MF,FW",Churchill Brothers,26,1997,18,17,"1,478",16.4,4,9,13,4,0,0,7,0,0.24,0.55,0.79,0.24,0.79,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+27175098,Muhammad Hammad,Muhammad Hammad,in IND,DF,Real Kashmir,26,1997,16,16,"1,440",16.0,1,0,1,1,0,0,2,0,0.06,0.00,0.06,0.06,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+18726185,Lunminlen Haokip,Lunminlen Haokip,in IND,FW,Churchill Brothers,23,2001,4,0,19,0.2,1,0,1,1,0,0,0,0,4.74,0.00,4.74,4.74,4.74,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+0c76c6df,Peter Haokip,Peter Haokip,in IND,"MF,FW",Namdhari FC,26,1998,11,9,713,7.9,2,0,2,2,0,0,2,0,0.25,0.00,0.25,0.25,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+f93288c2,Vinay Harji,Vinay Harji,in IND,MF,Dempo,20,2003,21,16,"1,408",15.6,1,1,2,1,0,0,2,0,0.06,0.06,0.13,0.06,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+2859287a,Kapil Hoble,Kapil Hoble,in IND,MF,Dempo,26,1998,19,10,991,11.0,2,2,4,2,0,0,2,0,0.18,0.18,0.36,0.18,0.36,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+4cbc1f3e,David Humanes,David Humanes,es ESP,DF,Inter Kashi,27,1996,16,16,"1,300",14.4,1,0,1,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+7d576499,Ocran Idan,Ocran Idan,gh GHA,MF,Real Kashmir,27,1996,20,16,"1,392",15.5,0,2,2,0,0,0,8,0,0.00,0.13,0.13,0.00,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+f4692f4b,Zothanpuia II,Zothanpuia II,in IND,"MF,DF",Aizawl,29,1994,8,8,540,6.0,1,1,2,1,0,0,1,0,0.17,0.17,0.33,0.17,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+08e75d67,Mohammad Inam,Mohammad Inam,in IND,"MF,FW",Real Kashmir,23,2000,22,22,"1,824",20.3,3,1,4,3,0,0,3,0,0.15,0.05,0.20,0.15,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+b72936f0,Kamal Issah,Kamal Issah,gh GHA,MF,Real Kashmir,31,1992,17,15,"1,293",14.4,2,2,4,2,0,0,1,0,0.14,0.14,0.28,0.14,0.28,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+6b92b9d1,Hridaya Jain,Hridaya Jain,in IND,"FW,MF",Delhi FC,18,2005,21,13,"1,195",13.3,4,1,5,3,1,1,1,0,0.30,0.08,0.38,0.23,0.30,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+f733fa5e,Thokchom James Singh,Thokchom James Singh,in IND,DF,Delhi FC,24,1999,6,4,425,4.7,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+42a4f173,Himanshu Jangra,Himanshu Jangra,in IND,MF,Delhi FC,20,2004,4,1,194,2.2,2,0,2,1,1,1,0,0,0.93,0.00,0.93,0.46,0.46,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+9a016dcd,Ashish Jha,Ashish Jha,in IND,"MF,FW",SC Bengaluru,25,1999,13,3,460,5.1,0,2,2,0,0,0,4,0,0.00,0.39,0.39,0.00,0.39,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ce4b20ec,Jacob John Kattookaren,Jacob John Kattookaren,in IND,MF,Dempo,24,1999,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ce4b20ec,Jacob John Kattookaren,Jacob John Kattookaren,in IND,MF,Dempo,24,1999,1,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ce4b20ec,Jacob John Kattookaren,Jacob John Kattookaren,in IND,FW,Rajasthan United FC,24,1999,4,1,96,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ce4b20ec,Jacob John Kattookaren,Jacob John Kattookaren,in IND,FW,Rajasthan United FC,24,1999,4,1,96,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+568263e4,Ronaldo Johnson,Ronaldo Johnson,ec ECU,DF,Rajasthan United FC,29,1995,19,19,"1,692",18.8,1,1,2,1,0,0,3,0,0.05,0.05,0.11,0.05,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+124fa0de,Marcus Joseph,Marcus Joseph,tt TRI,"FW,MF",Dempo,33,1991,9,9,804,8.9,10,4,14,10,0,1,0,0,1.12,0.45,1.57,1.12,1.57,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+391cffee,Abhijith K,Abhijith K,in IND,MF,Gokulam Kerala,27,1997,16,11,"1,006",11.2,2,0,2,2,0,0,2,0,0.18,0.00,0.18,0.18,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ad8f5ade,Vanlalhriatzuala K,Vanlalhriatzuala K,in IND,MF,Delhi FC,23,2001,20,16,"1,380",15.3,1,1,2,1,0,0,2,0,0.07,0.07,0.13,0.07,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+8e3d0d52,Thomas K. Cherian,Thomas K. Cherian,in IND,DF,Churchill Brothers,19,2005,3,1,97,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+75bce0ad,Sayad Kadir,Sayad Kadir,,GK,Churchill Brothers,,,22,22,"1,980",22.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,13.6,22,22,22,1.00,4,"1,980",4,5,1,0.0,0,,,,7,11,I-League,2024-2025
+1c479a30,Victor Kamhuka,Victor Kamhuka,zw ZIM,"DF,MF",Delhi FC,34,1990,7,7,630,7.0,1,0,1,1,0,0,4,0,0.14,0.00,0.14,0.14,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+98140879,Manoj Kannan,Manoj Kannan,in IND,DF,SC Bengaluru,28,1996,18,12,"1,056",11.7,0,1,1,0,0,0,3,0,0.00,0.09,0.09,0.00,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+2e3aace6,Abdou Karim Samb,Abdou Karim Samb,sn SEN,"FW,MF",Real Kashmir,28,1996,22,20,"1,771",19.7,5,3,8,4,1,2,1,0,0.25,0.15,0.41,0.20,0.36,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+8576c46c,Prasanth Karuthadathkuni,Prasanth Karuthadathkuni,in IND,"MF,FW",Inter Kashi,27,1997,6,4,353,3.9,2,1,3,2,0,0,1,0,0.51,0.25,0.76,0.51,0.76,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+fee565d6,Joni Kauko,Joni Kauko,fi FIN,"MF,FW",Inter Kashi,34,1990,18,17,"1,486",16.5,3,5,8,3,0,0,2,1,0.18,0.30,0.48,0.18,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+861b0e5f,Samson Keishing,Samson Keishing,in IND,"MF,DF",Delhi FC,20,2004,10,7,588,6.5,1,0,1,1,0,0,2,0,0.15,0.00,0.15,0.15,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+4323cdaf,Harmanjot Khabra,Harmanjot Khabra,in IND,"DF,MF",Delhi FC,35,1988,5,4,371,4.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+404c4d24,Gladdy Kharbuli,Gladdy Kharbuli,in IND,"MF,FW",Shillong Lajong,19,2004,19,7,743,8.3,1,1,2,1,0,0,3,0,0.12,0.12,0.24,0.12,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+070e77dd,Kenstar Kharshong,Kenstar Kharshong,in IND,DF,Shillong Lajong,25,1999,18,18,"1,560",17.3,1,0,1,1,0,0,7,1,0.06,0.00,0.06,0.06,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+6730fc75,Aryan Khokhar,Aryan Khokhar,,MF,Shillong Lajong,,,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+2e98514f,Rahul Khokhar,Rahul Khokhar,in IND,DF,Gokulam Kerala,25,1999,3,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a3713ab4,Kynsailang Khongsit,Kynsailang Khongsit,in IND,DF,Shillong Lajong,23,2000,20,20,"1,731",19.2,0,2,2,0,0,0,4,0,0.00,0.10,0.10,0.00,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+9e1ba003,Kitboklang Khyriem,Kitboklang Khyriem,in IND,DF,Shillong Lajong,21,2002,4,1,161,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+057a0abe,Henry Kiseka,Henry Kiseka,ug UGA,FW,SC Bengaluru,34,1989,15,14,"1,280",14.2,4,3,7,3,1,1,0,0,0.28,0.21,0.49,0.21,0.42,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+de738e06,Chongtham Kishan Singh,Chongtham Kishan Singh,in IND,MF,SC Bengaluru,26,1998,19,14,"1,290",14.3,1,0,1,1,0,0,3,0,0.07,0.00,0.07,0.07,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+fa2f9013,James Kithan,James Kithan,in IND,GK,Rajasthan United FC,29,1994,10,10,900,10.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,20.0,10,10,12,1.20,3,900,0,0,0,,0,,,,1,6,I-League,2024-2025
+11083a9e,Ashley Koli,Ashley Koli,,,Churchill Brothers,,,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+12b267db,Aubin Kouakou,Aubin Kouakou,ci CIV,DF,Churchill Brothers,32,1992,13,8,639,7.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ec125e72,Nidhin Krishna,Nidhin Krishna,in IND,DF,Gokulam Kerala,25,1998,21,20,"1,854",20.6,0,1,1,0,0,0,4,0,0.00,0.05,0.05,0.00,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+852f26f6,Tejas Krishna,Tejas Krishna,in IND,DF,Rajasthan United FC,23,2001,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+7e172cb7,Gnohere Krizo,Gnohere Krizo,ci CIV,FW,Churchill Brothers,27,1997,2,0,38,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+7e172cb7,Gnohere Krizo,Gnohere Krizo,ci CIV,FW,Churchill Brothers,27,1997,2,0,38,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+7e172cb7,Gnohere Krizo,Gnohere Krizo,ci CIV,FW,Real Kashmir,27,1997,13,4,446,5.0,4,1,5,3,1,1,3,0,0.81,0.20,1.01,0.61,0.81,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+7e172cb7,Gnohere Krizo,Gnohere Krizo,ci CIV,FW,Real Kashmir,27,1997,13,4,446,5.0,4,1,5,3,1,1,3,0,0.81,0.20,1.01,0.61,0.81,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+fcc344cb,Arun Kumar D,Arun Kumar D,in IND,MF,Sreenidi Deccan FC,24,2000,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+5a5a0590,Tarun Kumar,Tarun Kumar,,,SC Bengaluru,,,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+bc338e59,Yuya Kuriyama,Yuya Kuriyama,jp JPN,GK,SC Bengaluru,24,2000,13,12,"1,105",12.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,33.3,13,12,25,2.04,5,"1,105",3,3,0,0.0,0,,,,3,4,I-League,2024-2025
+c0259600,R Lalbiakliana,R Lalbiakliana,in IND,FW,Sreenidi Deccan FC,20,2004,10,0,104,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+8a7a3c59,Lalrinzuala Lalbiaknia,Lalrinzuala Lalbiaknia,in IND,FW,Aizawl,23,2000,20,18,"1,504",16.7,12,0,12,10,2,3,3,0,0.72,0.00,0.72,0.60,0.60,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+4e1e5bc6,Lalbiakzuala Lalbiakzuala,Lalbiakzuala Lalbiakzuala,in IND,DF,Delhi FC,24,2000,5,4,395,4.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+764f3b7c,Lalchhawnkima,Lalchhawnkima,in IND,DF,Aizawl,33,1991,14,14,"1,239",13.8,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+8317999f,Laldanmawia,Laldanmawia,in IND,DF,Aizawl,20,2004,7,5,443,4.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+7adc8980,Lalfelkima,Lalfelkima,in IND,DF,Aizawl,23,2001,20,19,"1,651",18.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+45e06f10,Lalmalsawma,Lalmalsawma,in IND,DF,Delhi FC,24,1999,8,8,684,7.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+b21873e4,Joseph Lalmuanawma,Joseph Lalmuanawma,in IND,"DF,MF",Delhi FC,19,2004,11,9,842,9.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+9c45ffa2,T Lalmuanawma,T Lalmuanawma,in IND,DF,Aizawl,19,2004,2,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e65cbe19,Samuel Lalmuanpuia,Samuel Lalmuanpuia,in IND,MF,Aizawl,26,1998,15,12,895,9.9,2,4,6,2,0,0,3,0,0.20,0.40,0.60,0.20,0.60,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+30315081,Lalmuansanga,Lalmuansanga,in IND,GK,Delhi FC,26,1997,16,13,"1,307",14.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,15.4,16,13,33,2.27,8,"1,307",1,2,0,50.0,1,,,,4,1,I-League,2024-2025
+128a1832,Lalnuntluanga,Lalnuntluanga,in IND,MF,Sreenidi Deccan FC,24,1999,21,16,"1,373",15.3,0,1,1,0,0,0,7,0,0.00,0.07,0.07,0.00,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+510592f4,Zomuansanga Lalnunzira,Zomuansanga Lalnunzira,in IND,"MF,FW",Aizawl,21,2002,10,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+f7d6516d,Joel Lalramchhana,Joel Lalramchhana,in IND,GK,Aizawl,17,2006,6,5,519,5.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,6,5,15,2.60,4,519,2,3,1,0.0,0,,,,1,0,I-League,2024-2025
+48a02445,H Lalrempuia,H Lalrempuia,in IND,DF,Aizawl,25,1999,21,20,"1,804",20.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+03530c6e,Lalremruata,Lalremruata,in IND,DF,Churchill Brothers,22,2002,21,21,"1,873",20.8,2,3,5,2,0,0,6,0,0.10,0.14,0.24,0.10,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+12f5c27d,Edmund Lalrindika,Edmund Lalrindika,in IND,"FW,MF",Inter Kashi,25,1999,19,16,"1,489",16.5,5,5,10,5,0,0,2,0,0.30,0.30,0.60,0.30,0.60,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+b2c374b7,Lalhriatpuia Lalrinfela,Lalhriatpuia Lalrinfela,in IND,"FW,MF",Aizawl,22,2001,19,6,722,8.0,4,0,4,4,0,0,3,0,0.50,0.00,0.50,0.50,0.50,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+965d7b3e,Peter Lalrinhlua,Peter Lalrinhlua,in IND,MF,Aizawl,27,1997,3,0,78,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+f0f00a50,Augustine Lalrochana,Augustine Lalrochana,in IND,"MF,FW",Aizawl,19,2004,19,13,"1,208",13.4,1,1,2,1,0,0,1,0,0.07,0.07,0.15,0.07,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+bb3f31f4,Lalromawia,Lalromawia,in IND,"MF,DF",Sreenidi Deccan FC,26,1998,21,18,"1,557",17.3,2,1,3,2,0,0,3,0,0.12,0.06,0.17,0.12,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+21391cdf,H Lalruatfela,H Lalruatfela,in IND,MF,Aizawl,15,2008,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+7e80b11d,John Lalruatfela,John Lalruatfela,in IND,GK,Aizawl,21,2003,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,5,2.50,1,180,1,1,0,0.0,0,,,,0,1,I-League,2024-2025
+1ac3bb31,Lalruatthara,Lalruatthara,in IND,DF,Aizawl,29,1995,5,2,251,2.8,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c1d64df0,Laltlanzova,Laltlanzova,in IND,"FW,MF",Aizawl,20,2004,11,5,460,5.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+857acc83,Bishal Lama,Bishal Lama,in IND,GK,SC Bengaluru,21,2002,7,7,587,6.5,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,14.3,7,7,12,1.84,3,587,1,1,0,0.0,0,,,,3,1,I-League,2024-2025
+dafa4310,Aryan Lamba,Aryan Lamba,in IND,GK,Sreenidi Deccan FC,21,2002,13,12,"1,139",12.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,16.7,13,12,17,1.34,4,"1,139",2,2,0,0.0,0,,,,4,4,I-League,2024-2025
+ad3257c9,Jordan Lamela,Jordan Lamela,es ESP,"MF,FW",SC Bengaluru,23,2001,17,14,"1,195",13.3,3,3,6,3,0,0,1,0,0.23,0.23,0.45,0.23,0.45,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+fcd67989,Treimiki Lamurong,Treimiki Lamurong,in IND,MF,Shillong Lajong,19,2004,16,3,475,5.3,0,2,2,0,0,0,1,0,0.00,0.38,0.38,0.00,0.38,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+b1f41aea,Wayde Lekay,Wayde Lekay,za RSA,FW,Churchill Brothers,27,1997,21,20,"1,783",19.8,12,4,16,9,3,3,5,0,0.61,0.20,0.81,0.45,0.66,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+26db4517,Lalbiakhlua Lianzela,Lalbiakhlua Lianzela,in IND,DF,Churchill Brothers,23,2001,18,7,924,10.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+660c06df,Laken Limbu,Laken Limbu,np NEP,MF,Delhi FC,22,2002,12,11,908,10.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ca64ddf5,Sergio Llamas,Sergio Llamas,es ESP,MF,Gokulam Kerala,31,1993,20,20,"1,733",19.3,1,4,5,1,0,0,5,0,0.05,0.21,0.26,0.05,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+f73ca697,Carlos Alberto Silva Lomba,Carlos Alberto Silva Lomba,pt POR,"MF,DF",SC Bengaluru,32,1992,16,15,"1,190",13.2,0,1,1,0,0,0,5,2,0.00,0.08,0.08,0.00,0.08,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+fd1c1d5d,Seilenthang Lotjem,Seilenthang Lotjem,in IND,MF,Sreenidi Deccan FC,20,2004,2,0,12,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+12f46704,Slavko Lukić,Slavko Lukić,rs SRB,DF,SC Bengaluru,35,1989,1,1,65,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+79f0a14d,Damaitphang Lyngdoh,Damaitphang Lyngdoh,in IND,MF,Shillong Lajong,20,2003,17,15,"1,147",12.7,1,1,2,1,0,0,2,0,0.08,0.08,0.16,0.08,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+7e3feb29,Samuel Lyngdoh Kynshi,Samuel Lyngdoh Kynshi,in IND,MF,Rajasthan United FC,24,2000,8,2,283,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+6d78ead8,Bhabindra Malla Thakuri,Bhabindra Malla Thakuri,in IND,GK,Rajasthan United FC,31,1993,11,11,990,11.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,36.4,11,11,13,1.18,3,990,0,0,0,,0,,,,5,3,I-League,2024-2025
+0362fee0,Seiminmang Manchong,Seiminmang Manchong,in IND,"FW,MF",Rajasthan United FC,24,2000,17,13,"1,008",11.2,4,1,5,4,0,0,2,0,0.36,0.09,0.45,0.36,0.45,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+79311d2c,Saurav Mandal,Saurav Mandal,in IND,FW,Gokulam Kerala,23,2000,7,1,177,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+77cb40b3,Darell Mascarenhas,Darell Mascarenhas,in IND,DF,Dempo,24,1999,2,2,169,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+1537b848,Pangambam Meitei,Pangambam Meitei,in IND,"FW,MF",Rajasthan United FC,19,2005,22,20,"1,681",18.7,1,2,3,1,0,0,2,0,0.05,0.11,0.16,0.05,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+2ead694f,Juan Mera,Juan Mera,es ESP,"MF,FW",Dempo,30,1993,7,7,481,5.3,2,2,4,1,1,1,1,0,0.37,0.37,0.75,0.19,0.56,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+2ead694f,Juan Mera,Juan Mera,es ESP,"MF,FW",Dempo,30,1993,7,7,481,5.3,2,2,4,1,1,1,1,0,0.37,0.37,0.75,0.19,0.56,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+2ead694f,Juan Mera,Juan Mera,es ESP,MF,Churchill Brothers,30,1993,5,0,74,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+2ead694f,Juan Mera,Juan Mera,es ESP,MF,Churchill Brothers,30,1993,5,0,74,0.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+814d34d1,David Mills,David Mills,gh GHA,FW,Namdhari FC,29,1995,4,1,118,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+d330fe16,Bryce Miranda,Bryce Miranda,in IND,MF,Inter Kashi,24,1999,13,11,970,10.8,2,0,2,2,0,0,1,0,0.19,0.00,0.19,0.19,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+cd9bd0b8,Monirul Molla,Monirul Molla,in IND,FW,Rajasthan United FC,19,2005,9,0,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+70658511,Debnath Mondal,Debnath Mondal,in IND,GK,Delhi FC,27,1997,6,6,403,4.5,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,6,6,8,1.79,5,403,0,1,1,,0,,,,0,1,I-League,2024-2025
+63da5cf7,Adri Montoro,Adri Montoro,es ESP,"MF,DF",Namdhari FC,29,1995,3,2,141,1.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+16abaa54,Lamine Moro,Lamine Moro,gh GHA,DF,Namdhari FC,30,1994,14,14,"1,155",12.8,0,2,2,0,0,0,4,1,0.00,0.16,0.16,0.00,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+8d59f8a8,Daniel Muthu,Daniel Muthu,in IND,DF,Dempo,27,1996,5,0,79,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+696cf5b8,Everbrightson Mylliempdah,Everbrightson Mylliempdah,in IND,MF,Shillong Lajong,21,2002,8,1,156,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+0aff8d71,Nongdamba Naorem,Nongdamba Naorem,in IND,FW,Delhi FC,24,2000,5,1,185,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+944f58ed,Shahid Nazir Wani,Shahid Nazir Wani,in IND,DF,Real Kashmir,27,1997,12,10,794,8.8,1,0,1,1,0,0,2,0,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+1ac3b888,Adama Niane,Adama Niane,ml MLI,FW,Gokulam Kerala,31,1993,19,11,"1,031",11.5,6,2,8,6,0,1,2,0,0.52,0.17,0.70,0.52,0.70,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+8465a2f8,Hardy Nongbri,Hardy Nongbri,in IND,"MF,FW",Shillong Lajong,26,1997,17,16,"1,296",14.4,2,5,7,2,0,0,5,0,0.14,0.35,0.49,0.14,0.49,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+1ebccd07,Emboklang Nongkhlaw,Emboklang Nongkhlaw,in IND,DF,Sreenidi Deccan FC,19,2004,7,5,483,5.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+77b181c2,Francis Nuer Addo,Francis Nuer Addo,gh GHA,MF,Namdhari FC,29,1995,21,19,"1,571",17.5,4,0,4,4,0,0,5,1,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+29e40615,Asif O M,Asif O M,in IND,"MF,FW",SC Bengaluru,22,2001,20,14,"1,146",12.7,2,1,3,2,0,0,3,0,0.16,0.08,0.24,0.16,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+15cefdcb,Nelson Okwa,Nelson Okwa,ng NGA,"MF,FW",Delhi FC,30,1993,17,4,512,5.7,1,0,1,1,0,0,2,0,0.18,0.00,0.18,0.18,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+696c77d3,Junior Onguene,Junior Onguene,cm CMR,FW,Delhi FC,23,2001,12,11,775,8.6,1,0,1,1,0,0,2,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+eb6319bb,Ángel Orelién,Ángel Orelién,pa PAN,"FW,MF",Sreenidi Deccan FC,23,2001,16,14,"1,233",13.7,5,7,12,5,0,0,2,0,0.36,0.51,0.88,0.36,0.88,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+8159c16a,Alain Oyarzun,Alain Oyarzun,es ESP,MF,Rajasthan United FC,30,1993,20,20,"1,673",18.6,8,8,16,4,4,6,5,0,0.43,0.43,0.86,0.22,0.65,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+99c36b75,Rishad P,Rishad P,in IND,MF,Gokulam Kerala,29,1995,14,6,540,6.0,1,0,1,1,0,0,0,0,0.17,0.00,0.17,0.17,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+59c673a7,Sharon Padattil,Sharon Padattil,in IND,GK,Inter Kashi,24,2000,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,3,3.00,0,90,1,1,0,0.0,0,,,,0,1,I-League,2024-2025
+55e29ad0,Aniket Panchal,Aniket Panchal,in IND,MF,Rajasthan United FC,22,2002,14,2,300,3.3,0,1,1,0,0,0,2,0,0.00,0.30,0.30,0.00,0.30,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+995c81ed,Karthik Panicker,Karthik Panicker,in IND,"MF,DF",Inter Kashi,21,2003,10,8,684,7.6,0,1,1,0,0,0,2,0,0.00,0.13,0.13,0.00,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e4ea0fb3,Sumeet Passi,Sumeet Passi,in IND,"MF,DF",Inter Kashi,29,1994,21,21,"1,850",20.6,2,4,6,2,0,0,6,0,0.10,0.19,0.29,0.10,0.29,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+724a6e5c,William Pauliankhum,William Pauliankhum,in IND,"DF,FW",Rajasthan United FC,25,1998,18,16,"1,404",15.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+5f6fdd9a,Pruthvesh Pednekar,Pruthvesh Pednekar,in IND,DF,Dempo,24,1999,21,21,"1,890",21.0,3,4,7,3,0,0,3,0,0.14,0.19,0.33,0.14,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+50583102,José Luis Moreno Peña,José Luis Moreno Peña,co COL,DF,Churchill Brothers,27,1996,12,10,850,9.4,1,0,1,1,0,0,7,1,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+0c67939e,Sanson Pereira,Sanson Pereira,in IND,DF,Delhi FC,26,1997,11,10,837,9.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+3c9e071f,Julen Pérez,Julen Pérez,es ESP,MF,Inter Kashi,24,2000,8,3,357,4.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e948d2d7,Shallum Pires,Shallum Pires,in IND,DF,Dempo,31,1992,10,5,566,6.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e147b9eb,Vinil Poojary,Vinil Poojary,in IND,"DF,FW",Delhi FC,26,1997,15,11,978,10.9,0,1,1,0,0,0,3,0,0.00,0.09,0.09,0.00,0.09,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+d08a43fc,Shafeel PP,Shafeel PP,in IND,DF,SC Bengaluru,26,1998,20,20,"1,767",19.6,0,2,2,0,0,0,5,0,0.00,0.10,0.10,0.00,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ec08dadf,Akhil Praveen,Akhil Praveen,in IND,DF,Gokulam Kerala,30,1993,6,4,382,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e276bde8,Danilo Quipapá,Danilo Quipapá,br BRA,DF,Delhi FC,30,1994,6,6,540,6.0,0,2,2,0,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+4e6434a7,Ishaan Raghunanda,Ishaan Raghunanda,in IND,"MF,FW",SC Bengaluru,18,2005,5,4,334,3.7,1,0,1,1,0,0,2,0,0.27,0.00,0.27,0.27,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+750f544b,Tangva Ragui,Tangva Ragui,in IND,MF,SC Bengaluru,20,2003,7,2,186,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a8315914,Faslu Rahman,Faslu Rahman,in IND,"MF,FW",SC Bengaluru,29,1995,9,5,359,4.0,1,0,1,1,0,0,0,1,0.25,0.00,0.25,0.25,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+43372478,Martand Raina,Martand Raina,in IND,DF,Rajasthan United FC,23,2000,21,20,"1,767",19.6,4,0,4,4,0,0,6,0,0.20,0.00,0.20,0.20,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+8555080b,Shibin Raj Kunniyil,Shibin Raj Kunniyil,in IND,GK,Gokulam Kerala,31,1993,16,15,"1,372",15.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,6,40.0,16,15,16,1.05,4,"1,372",1,1,0,0.0,0,,,,4,7,I-League,2024-2025
+6132f8c6,Soosai Raj,Soosai Raj,in IND,"MF,DF",Gokulam Kerala,29,1994,13,4,378,4.2,1,0,1,1,0,0,0,0,0.24,0.00,0.24,0.24,0.24,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+66016fb7,Rahul Raju,Rahul Raju,in IND,"MF,FW",Gokulam Kerala,20,2003,12,7,604,6.7,1,0,1,1,0,0,3,0,0.15,0.00,0.15,0.15,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+7aac4238,Lalramdinsanga Ralte,Lalramdinsanga Ralte,in IND,MF,Real Kashmir,22,2001,22,11,"1,080",12.0,1,1,2,1,0,0,2,0,0.08,0.08,0.17,0.08,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+0282563e,Ramsanga,Ramsanga,in IND,MF,Real Kashmir,24,2000,21,21,"1,822",20.2,3,2,5,3,0,0,4,0,0.15,0.10,0.25,0.15,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+f0ec7f9a,Jenishsinh Rana,Jenishsinh Rana,in IND,DF,Namdhari FC,24,2000,3,0,55,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+214f3dc7,Laximanrao Rane,Laximanrao Rane,in IND,MF,Dempo,20,2004,18,2,344,3.8,0,1,1,0,0,0,0,0,0.00,0.26,0.26,0.00,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e1850dbc,Salam Ranjan Singh,Salam Ranjan Singh,in IND,DF,Gokulam Kerala,29,1995,12,11,993,11.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+319c862c,Gaurav Rawat,Gaurav Rawat,in IND,"MF,FW",Delhi FC,24,2000,13,6,392,4.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+1b868bfa,Rahul Rawat,Rahul Rawat,in IND,"MF,DF",Delhi FC,28,1995,13,9,784,8.7,1,0,1,1,0,0,1,0,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+17bbf8e3,Shubham Rawat,Shubham Rawat,in IND,FW,Dempo,23,2000,16,7,596,6.6,0,1,1,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+29c2adc5,Lesly Rebello,Lesly Rebello,in IND,DF,Churchill Brothers,24,2000,4,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+94ecbe5e,Asrar Rehbar,Asrar Rehbar,in IND,"FW,MF",Real Kashmir,26,1998,12,8,614,6.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+4f70c7c9,Renan,Renan,br BRA,MF,Shillong Lajong,29,1995,17,16,"1,346",15.0,3,4,7,2,1,1,7,2,0.20,0.27,0.47,0.13,0.40,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ac255094,Lalliansanga Renthlei,Lalliansanga Renthlei,in IND,MF,Churchill Brothers,25,1999,13,11,926,10.3,1,0,1,1,0,0,4,0,0.10,0.00,0.10,0.10,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c47c67b8,Damián Roa,Damián Roa,ar ARG,"FW,MF",Dempo,29,1995,17,13,"1,050",11.7,6,6,12,5,1,1,1,0,0.51,0.51,1.03,0.43,0.94,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+3d410ba9,Lucas Rodríguez,Lucas Rodríguez,uy URU,"FW,MF",Rajasthan United FC,21,2003,15,8,787,8.7,1,2,3,1,0,0,2,0,0.11,0.23,0.34,0.11,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+082ba04b,Luis Rodríguez,Luis Rodríguez,co COL,DF,Aizawl,29,1995,9,8,765,8.5,1,0,1,1,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+9043dc26,Ronny Rodríguez,Ronny Rodríguez,co COL,MF,Rajasthan United FC,30,1994,6,6,471,5.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+226245ab,Rohit,Rohit,,MF,Namdhari FC,,,2,0,24,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+3a35c9c7,Alexander Romario Jesuraj,Alexander Romario Jesuraj,in IND,MF,Churchill Brothers,28,1996,5,0,54,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+355e1bf9,Douglas Rosa Tardin,Douglas Rosa Tardin,br BRA,FW,Shillong Lajong,32,1992,17,17,"1,417",15.7,13,2,15,12,1,1,0,0,0.83,0.13,0.95,0.76,0.89,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+2b67e1f7,Sangramjit Roy Chowdhury,Sangramjit Roy Chowdhury,in IND,GK,Dempo,25,1998,1,1,56,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,1,1.61,0,56,0,0,0,,0,,,,1,0,I-League,2024-2025
+e52bd74b,Mahitosh Roy,Mahitosh Roy,in IND,MF,Rajasthan United FC,25,1998,2,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+0c558cc2,Rudwere,Rudwere,br BRA,"FW,MF",Shillong Lajong,23,2000,14,9,839,9.3,5,0,5,3,2,2,2,1,0.54,0.00,0.54,0.32,0.32,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e9b2392a,Wadajied Ryngkhlem,Wadajied Ryngkhlem,in IND,MF,Shillong Lajong,20,2004,9,2,181,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+bb776cfe,Eli Sabiá,Eli Sabiá,br BRA,DF,Sreenidi Deccan FC,35,1988,20,19,"1,629",18.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a7591cb9,Sekh Sahil,Sekh Sahil,in IND,MF,Inter Kashi,24,2000,3,1,94,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a7591cb9,Sekh Sahil,Sekh Sahil,in IND,MF,Inter Kashi,24,2000,3,1,94,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a7591cb9,Sekh Sahil,Sekh Sahil,in IND,MF,SC Bengaluru,24,2000,3,1,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a7591cb9,Sekh Sahil,Sekh Sahil,in IND,MF,SC Bengaluru,24,2000,3,1,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a596d218,Bilel Saidani,Bilel Saidani,in IND,DF,Inter Kashi,31,1993,4,3,204,2.3,0,1,1,0,0,0,2,1,0.00,0.44,0.44,0.00,0.44,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+dbced4b1,Lalawmpuia Sailo,Lalawmpuia Sailo,in IND,MF,Aizawl,20,2003,20,11,"1,188",13.2,1,1,2,1,0,0,3,0,0.08,0.08,0.15,0.08,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+9c3fbba1,Lalchhanhima Sailo,Lalchhanhima Sailo,in IND,MF,Aizawl,21,2003,9,2,331,3.7,0,1,1,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c50f96c4,Lalhrezuala Sailung,Lalhrezuala Sailung,in IND,DF,Aizawl,23,2001,17,16,"1,395",15.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+322e1a70,Umair Saiyyad,Umair Saiyyad,in IND,MF,SC Bengaluru,23,2000,14,4,496,5.5,1,0,1,1,0,0,0,0,0.18,0.00,0.18,0.18,0.18,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+00c64459,Mohammad Sajid Dhot,Mohammad Sajid Dhot,in IND,DF,Sreenidi Deccan FC,26,1997,11,9,824,9.2,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+940f1500,Shankar Sampingiraj,Shankar Sampingiraj,in IND,DF,SC Bengaluru,29,1994,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+927c7264,Álex Sánchez,Álex Sánchez,es ESP,FW,SC Bengaluru,35,1989,8,5,408,4.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+28550db8,Ranit Sarkar,Ranit Sarkar,in IND,GK,Shillong Lajong,19,2004,15,15,"1,350",15.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,4,26.7,15,15,31,2.07,6,"1,350",3,3,0,0.0,0,,,,4,5,I-League,2024-2025
+9a69855b,Lunkim Seigoulun Khongsai,Lunkim Seigoulun Khongsai,in IND,MF,Rajasthan United FC,23,2000,11,9,754,8.4,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+22cde97e,Anant Shah,Anant Shah,in IND,GK,Rajasthan United FC,16,2007,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,8,8.00,1,90,1,1,0,0.0,0,,,,0,0,I-League,2024-2025
+d5cecbca,Shaher Shahen,Shaher Shahen,sy SYR,DF,Dempo,34,1990,17,17,"1,445",16.1,2,0,2,2,0,0,2,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+d64c8547,Arif Shaikh,Arif Shaikh,in IND,FW,SC Bengaluru,30,1993,3,1,54,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c352aaf7,Senthamil Shanbagam,Senthamil Shanbagam,in IND,FW,Gokulam Kerala,24,2000,2,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+13bf14ff,Faysal Shayesteh,Faysal Shayesteh,af AFG,MF,Sreenidi Deccan FC,33,1991,19,16,"1,384",15.4,2,2,4,1,1,1,3,0,0.13,0.13,0.26,0.07,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e6e61f26,Mashoor Shereef,Mashoor Shereef,in IND,DF,Gokulam Kerala,31,1993,18,16,"1,228",13.6,1,1,2,1,0,0,5,1,0.07,0.07,0.15,0.07,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+4bcc7f71,Shravan Shetty,Shravan Shetty,in IND,DF,SC Bengaluru,29,1995,17,14,"1,306",14.5,1,1,2,1,0,0,1,0,0.07,0.07,0.14,0.07,0.14,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+35ffc536,Thomyo Shimray,Thomyo Shimray,in IND,"FW,MF",SC Bengaluru,22,2002,20,15,"1,416",15.7,4,0,4,4,0,0,2,0,0.25,0.00,0.25,0.25,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c7b32e5e,Ashish Sibi,Ashish Sibi,in IND,GK,Dempo,23,2001,22,21,"1,924",21.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,6,28.6,22,21,32,1.50,9,"1,924",0,2,0,100.0,2,,,,4,8,I-League,2024-2025
+0ad73e7a,Ajmer Singh,Ajmer Singh,,MF,Namdhari FC,,,2,0,3,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+fbe55c7c,Akashdeep Singh,Akashdeep Singh,in IND,DF,Namdhari FC,31,1993,13,12,"1,053",11.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+9f4058a6,Akashdeep Singh,Akashdeep Singh,in IND,"MF,FW",Namdhari FC,22,2002,15,9,805,8.9,2,0,2,2,0,0,1,0,0.22,0.00,0.22,0.22,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+04cec139,Bhupinder Singh,Bhupinder Singh,in IND,"MF,FW",Namdhari FC,26,1997,20,19,"1,709",19.0,3,3,6,3,0,0,0,0,0.16,0.16,0.32,0.16,0.32,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+345aee91,Bidyashagar Singh,Bidyashagar Singh,in IND,"MF,FW",Inter Kashi,26,1998,16,3,366,4.1,2,1,3,2,0,0,0,0,0.49,0.25,0.74,0.49,0.74,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+8a78f4e8,Bishorjit Singh,Bishorjit Singh,in IND,GK,Gokulam Kerala,32,1992,4,3,283,3.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,66.7,4,3,7,2.23,2,283,1,1,0,0.0,0,,,,0,1,I-League,2024-2025
+19137b95,Dharmpreet Singh,Dharmpreet Singh,in IND,FW,Namdhari FC,25,1998,14,3,355,3.9,1,0,1,1,0,0,1,0,0.25,0.00,0.25,0.25,0.25,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ad920aa6,Gurmukh Singh,Gurmukh Singh,in IND,DF,Sreenidi Deccan FC,25,1999,11,8,751,8.3,1,0,1,1,0,0,0,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+6c3c23aa,Gursimrat Singh,Gursimrat Singh,in IND,DF,Namdhari FC,25,1998,19,17,"1,572",17.5,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+9eed8944,Gursimrat Singh,Gursimrat Singh,in IND,DF,Delhi FC,26,1997,8,8,696,7.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+7eed3ade,Harpreet Singh,Harpreet Singh,in IND,DF,Namdhari FC,21,2002,19,16,"1,429",15.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c289572e,Jagdeep Singh,Jagdeep Singh,in IND,DF,Sreenidi Deccan FC,22,2001,5,5,420,4.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c9a384d0,Jaskaranpreet Singh,Jaskaranpreet Singh,in IND,"MF,FW",Namdhari FC,23,2000,9,5,442,4.9,0,2,2,0,0,0,0,0,0.00,0.41,0.41,0.00,0.41,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+0b5f597f,Jaspreet Singh,Jaspreet Singh,in IND,GK,Namdhari FC,25,1999,17,17,"1,469",16.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,8,47.1,17,17,14,0.86,4,"1,469",2,2,0,0.0,0,,,,5,8,I-League,2024-2025
+4c22a9d1,Johnson Singh,Johnson Singh,in IND,DF,Gokulam Kerala,19,2005,6,5,482,5.4,0,1,1,0,0,0,1,0,0.00,0.19,0.19,0.00,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+449d3df7,Karandeep Singh,Karandeep Singh,in IND,DF,Real Kashmir,25,1999,3,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+0782199a,Karandeep Singh,Karandeep Singh,in IND,FW,Namdhari FC,17,2006,3,0,85,0.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+145e2e98,Khungdongbam Singh,Khungdongbam Singh,in IND,"MF,FW",SC Bengaluru,28,1996,11,6,555,6.2,1,0,1,1,0,0,0,0,0.16,0.00,0.16,0.16,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+93967c36,Manbir Singh,Manbir Singh,in IND,DF,Namdhari FC,27,1997,3,3,246,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+0734399f,Mandeep Singh,Mandeep Singh,in IND,FW,Namdhari FC,22,2002,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+af2ecdca,Manvir Singh,Manvir Singh,in IND,"FW,MF",Namdhari FC,27,1997,12,11,986,11.0,2,2,4,2,0,0,2,1,0.18,0.18,0.37,0.18,0.37,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c4619c70,Mohit Singh,Mohit Singh,in IND,DF,Rajasthan United FC,23,2000,4,3,212,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+13ca46fd,Suraj Singh Negi,Suraj Singh Negi,in IND,DF,Rajasthan United FC,28,1996,10,4,529,5.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+7697920a,Nishan Singh,Nishan Singh,in IND,GK,Namdhari FC,20,2004,6,5,511,5.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,6,5,13,2.29,4,511,0,1,0,100.0,1,,,,0,1,I-League,2024-2025
+9c32ea99,Oinam Singh,Oinam Singh,in IND,"DF,MF",SC Bengaluru,22,2001,14,11,"1,044",11.6,0,0,0,0,0,0,3,2,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+796f6418,Pardeep Singh,Pardeep Singh,in IND,DF,Real Kashmir,28,1995,4,2,222,2.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e3ca0346,Phijam Singh,Phijam Singh,in IND,MF,Inter Kashi,21,2003,2,0,37,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c4879015,Pinderjit Singh,Pinderjit Singh,,MF,Namdhari FC,,,2,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+5c702981,Ranjeet Singh,Ranjeet Singh,in IND,FW,Gokulam Kerala,29,1995,9,1,189,2.1,1,0,1,1,0,0,1,0,0.48,0.00,0.48,0.48,0.48,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+26163828,Salam Singh,Salam Singh,in IND,"FW,MF",SC Bengaluru,22,2001,10,6,439,4.9,1,0,1,1,0,0,2,0,0.21,0.00,0.21,0.21,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a95bacd7,Simranjit Singh,Simranjit Singh,in IND,MF,Namdhari FC,32,1992,2,0,27,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+9aecd016,Soraisam Singh,Soraisam Singh,in IND,DF,Rajasthan United FC,28,1995,3,2,174,1.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+80d20126,Sukhandeep Singh,Sukhandeep Singh,in IND,DF,Namdhari FC,22,2001,14,14,"1,196",13.3,0,2,2,0,0,0,3,1,0.00,0.15,0.15,0.00,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+01b1adbd,Tondomba Singh,Tondomba Singh,in IND,MF,Delhi FC,25,1999,13,11,987,11.0,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+fd3f4b69,Sohktung,Sohktung,in IND,"MF,FW",Shillong Lajong,27,1997,19,10,885,9.8,0,2,2,0,0,0,3,0,0.00,0.20,0.20,0.00,0.20,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+2f95bc53,Siniša Stanisavić,Siniša Stanisavić,me MNE,"FW,MF",Gokulam Kerala,29,1995,12,10,853,9.5,5,0,5,5,0,0,1,0,0.53,0.00,0.53,0.53,0.53,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c993037b,Nikola Stojanović,Nikola Stojanović,rs SRB,MF,Inter Kashi,29,1995,22,22,"1,980",22.0,9,1,10,7,2,2,3,0,0.41,0.05,0.45,0.32,0.36,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c5fdbeef,Pragyan Sundar Gogoi,Pragyan Sundar Gogoi,in IND,"MF,FW",Namdhari FC,25,1999,8,7,553,6.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+f02050fb,Figo Syndai,Figo Syndai,in IND,"MF,FW",Shillong Lajong,22,2001,15,10,786,8.7,4,0,4,4,0,0,1,0,0.46,0.00,0.46,0.46,0.46,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+d06f1110,Sheikh Tahir,Sheikh Tahir,,,Rajasthan United FC,,,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+118dbffe,Saveme Tariang,Saveme Tariang,in IND,DF,Shillong Lajong,21,2003,11,6,565,6.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+3355cfbd,Ifham Tariq Mir,Ifham Tariq Mir,in IND,FW,Real Kashmir,28,1996,7,0,57,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+40d2192f,Batskhemlang Thangkhiew,Batskhemlang Thangkhiew,in IND,"MF,DF",Shillong Lajong,22,2001,9,4,384,4.3,1,0,1,1,0,0,2,0,0.23,0.00,0.23,0.23,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+b799d150,Sebastian Thangmuansang,Sebastian Thangmuansang,in IND,DF,Gokulam Kerala,26,1998,13,12,951,10.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+4f519502,Abhas Thapa,Abhas Thapa,in IND,DF,Rajasthan United FC,25,1998,22,20,"1,792",19.9,1,0,1,1,0,0,0,0,0.05,0.00,0.05,0.05,0.05,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+33a83395,Tharpuia,Tharpuia,in IND,"MF,FW",Gokulam Kerala,21,2002,9,3,226,2.5,1,1,2,1,0,0,3,0,0.40,0.40,0.80,0.40,0.80,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e5cbd3a3,Akash Tirkey,Akash Tirkey,in IND,"MF,FW",Delhi FC,17,2006,3,2,180,2.0,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+e87234d9,Malsawmzuala Tlangte,Malsawmzuala Tlangte,in IND,"MF,FW",Aizawl,18,2005,14,5,482,5.4,1,1,2,1,0,0,1,0,0.19,0.19,0.37,0.19,0.37,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+b8ca2571,Lalhruai Tluanga,Lalhruai Tluanga,in IND,GK,Aizawl,19,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,6,6.00,1,90,1,1,0,0.0,0,,,,0,0,I-League,2024-2025
+55184be2,Haobam Tomba Singh,Haobam Tomba Singh,in IND,MF,Inter Kashi,21,2003,9,2,145,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a561c71c,Leandro Torres,Leandro Torres,in IND,MF,Inter Kashi,24,2000,3,1,144,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+50fe9d7d,Yash Tripathi,Yash Tripathi,in IND,FW,Rajasthan United FC,23,2001,2,2,105,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+28864aed,Dawa Tshering,Dawa Tshering,bt BHU,"FW,MF",Delhi FC,26,1998,7,4,279,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+91117e15,Ramazani Tshimanga,Ramazani Tshimanga,,DF,Real Kashmir,22,2002,9,1,141,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+0321e0b7,Athul Unnikrishnan,Athul Unnikrishnan,in IND,DF,Gokulam Kerala,24,2000,20,18,"1,621",18.0,2,0,2,2,0,0,3,0,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+48bacf1e,Suhair V.P.,Suhair V.P.,in IND,"MF,FW",Gokulam Kerala,32,1992,17,15,"1,256",14.0,0,3,3,0,0,0,2,0,0.00,0.21,0.21,0.00,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+4e8d6a5f,Shanid Valan,Shanid Valan,in IND,DF,SC Bengaluru,28,1996,14,9,825,9.2,1,0,1,1,0,0,0,1,0.11,0.00,0.11,0.11,0.11,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+1960f520,Jakob Vanlalhlimpuia,Jakob Vanlalhlimpuia,in IND,"FW,MF",Delhi FC,25,1999,8,4,393,4.4,0,1,1,0,0,0,0,0,0.00,0.23,0.23,0.00,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+dcfd51ad,Vanlalhriatpuia,Vanlalhriatpuia,in IND,GK,Aizawl,23,2001,3,3,201,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,2,66.7,3,3,0,0.00,0,201,0,0,0,,0,,,,2,1,I-League,2024-2025
+da48e8e3,Brandon Vanlalremdika,Brandon Vanlalremdika,in IND,"MF,FW",Sreenidi Deccan FC,30,1994,22,16,"1,405",15.6,2,0,2,2,0,0,0,0,0.13,0.00,0.13,0.13,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+3f4367cb,Lalbiakdika Vanlalvunga,Lalbiakdika Vanlalvunga,in IND,"FW,MF",Aizawl,24,1999,21,19,"1,669",18.5,5,6,11,5,0,0,4,1,0.27,0.32,0.59,0.27,0.59,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+a42cf133,Bijoy Varghese,Bijoy Varghese,in IND,DF,Inter Kashi,24,2000,12,12,"1,080",12.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+d867959a,Wayne Vaz,Wayne Vaz,in IND,"MF,DF",Rajasthan United FC,25,1998,19,19,"1,591",17.7,1,2,3,1,0,0,7,0,0.06,0.11,0.17,0.06,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+ea808f69,Vignesh Velan,Vignesh Velan,in IND,MF,SC Bengaluru,24,1999,8,0,120,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+277ad9de,Vicente,Vicente,br BRA,"MF,FW",Namdhari FC,28,1996,18,10,996,11.1,2,3,5,1,1,1,0,0,0.18,0.27,0.45,0.09,0.36,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+283e132b,Gautam Virwani,Gautam Virwani,in IND,DF,Rajasthan United FC,23,2001,9,1,138,1.5,1,0,1,1,0,0,1,0,0.65,0.00,0.65,0.65,0.65,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+69c457eb,Maxderidoff Wahlang,Maxderidoff Wahlang,in IND,MF,Shillong Lajong,21,2002,3,0,61,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+6cd69646,Wander,Wander,br BRA,FW,Gokulam Kerala,32,1992,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+aad1353d,William,William,br BRA,FW,Sreenidi Deccan FC,32,1991,21,7,886,9.8,3,1,4,2,1,1,3,0,0.30,0.10,0.41,0.20,0.30,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+5b9083f6,Ronney Willson,Ronney Willson,in IND,DF,Shillong Lajong,21,2003,15,14,"1,193",13.3,2,1,3,2,0,0,3,0,0.15,0.08,0.23,0.15,0.23,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+c317d510,Hyder Yousuf,Hyder Yousuf,in IND,DF,Real Kashmir,21,2002,19,16,"1,439",16.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+11d74d44,Syed Zahid Bukhari,Syed Zahid Bukhari,in IND,GK,Real Kashmir,21,2003,7,7,589,6.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,3,42.9,7,7,6,0.92,1,589,0,0,0,,0,,,,1,5,I-League,2024-2025
+71c45f15,C Zomuanpuia,C Zomuanpuia,in IND,DF,Aizawl,16,2007,2,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025
+9e65cdb6,Zothanpuia,Zothanpuia,in IND,"MF,DF",Aizawl,19,2005,19,17,"1,362",15.1,2,2,4,2,0,0,4,0,0.13,0.13,0.26,0.13,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,I-League,2024-2025

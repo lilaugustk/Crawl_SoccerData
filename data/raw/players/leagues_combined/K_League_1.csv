@@ -1,0 +1,794 @@
+﻿PlayerID,Name,player,nationality,position,team,age,birth_year,games,games_starts,minutes,minutes_90s,goals,assists,goals_assists,goals_pens,pens_made,pens_att,cards_yellow,cards_red,goals_per90,assists_per90,goals_assists_per90,goals_pens_per90,goals_assists_pens_per90,matches,goals_per_shot,goals_per_shot_on_target,shots,shots_on_target,shots_on_target_pct,shots_on_target_per90,shots_per90,gk_clean_sheets,gk_clean_sheets_pct,gk_games,gk_games_starts,gk_goals_against,gk_goals_against_per90,gk_losses,gk_minutes,gk_pens_allowed,gk_pens_att,gk_pens_missed,gk_pens_save_pct,gk_pens_saved,gk_save_pct,gk_saves,gk_shots_on_target_against,gk_ties,gk_wins,League,Season
+751ef075,Airton,Airton,br BRA,FW,FC Anyang,27-071,1999,6,3,318,3.5,1,0,1,1,0,0,1,0,0.28,0.00,0.28,0.28,0.28,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+4242a0a1,Anderson,Anderson,br BRA,"FW,MF",FC Seoul,27-272,1998,4,4,314,3.5,0,1,1,0,0,0,1,0,0.00,0.29,0.29,0.00,0.29,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+44415755,Juan Antonio Ros,Juan Antonio Ros,es ESP,DF,FC Seoul,30-030,1996,6,6,540,6.0,2,0,2,2,0,0,2,0,0.33,0.00,0.33,0.33,0.33,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+32878a09,Yazan Al-Arab,Yazan Al-Arab,jo JOR,DF,FC Seoul,30-073,1996,5,5,404,4.5,0,1,1,0,0,0,1,0,0.00,0.22,0.22,0.00,0.22,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+fe77168c,Hrvoje Babec,Hrvoje Babec,hr CRO,MF,FC Seoul,26-260,1999,5,5,433,4.8,0,1,1,0,0,0,3,1,0.00,0.21,0.21,0.00,0.21,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2fe4b303,Gong Baehyeon,Gong Baehyeon,kr KOR,DF,Gwangju FC,19-040,2007,5,2,253,2.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+a66767ae,Rodrigo Bassani,Rodrigo Bassani,br BRA,FW,Bucheon FC 1995,28-179,1997,2,1,103,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+35c2aa94,Yoon Bit-garam,Yoon Bit-garam,kr KOR,"MF,FW",Bucheon FC 1995,35-342,1990,6,5,412,4.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+587ddfd6,Kim Bo-kyung,Kim Bo-kyung,kr KOR,FW,FC Anyang,36-190,1989,3,1,71,0.8,0,1,1,0,0,0,0,0,0.00,1.27,1.27,0.00,1.27,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+572a8297,Victor Bobsin,Victor Bobsin,br BRA,MF,Daejeon Citizen,26-092,2000,7,4,417,4.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+aa09d373,Darijan Bojanić,Darijan Bojanić,se SWE,MF,Ulsan HD,31-107,1994,6,6,497,5.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+76854562,Kim Bongsoo,Kim Bongsoo,kr KOR,MF,Daejeon Citizen,26-109,1999,6,5,495,5.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2455c2d6,Song Bumkeun,Song Bumkeun,kr KOR,GK,Jeonbuk Hyundai,28-181,1997,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,42.9,7,7,6,0.86,2,630,1,1,0,0.0,0,,,,2,3,K League 1,2026
+e739b04e,Choe Byeongchan,Choe Byeongchan,kr KOR,FW,Gangwon FC,30-010,1996,4,2,154,1.7,0,1,1,0,0,0,0,0,0.00,0.58,0.58,0.00,0.58,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+86746ccb,Jeon Byeonggwan,Jeon Byeonggwan,kr KOR,MF,Gimcheon Sangmu,23-155,2002,6,1,143,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+34a6c7d0,Choi Byeongwook,Choi Byeongwook,kr KOR,MF,Jeju United,21-003,2005,5,0,27,0.3,1,0,1,1,0,0,0,0,3.33,0.00,3.33,3.33,3.33,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+ba15f491,Yago Cariello,Yago Cariello,br BRA,FW,Ulsan HD,26-261,1999,6,6,491,5.5,5,0,5,5,0,0,1,0,0.92,0.00,0.92,0.92,0.92,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+3dd4379b,Julien Celestine,Julien Celestine,fr FRA,DF,Jeju United,28-264,1997,7,7,630,7.0,1,1,2,1,0,0,3,0,0.14,0.14,0.29,0.14,0.29,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+265cd8eb,Park Chan-yong,Park Chan-yong,kr KOR,DF,Pohang Steelers,30-077,1996,5,5,428,4.8,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+7961f7aa,Kwon Chang-hoon,Kwon Chang-hoon,kr KOR,MF,Jeju United,31-288,1994,5,3,250,2.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+703a5565,Lee Chang-keun,Lee Chang-keun,kr KOR,GK,Daejeon Citizen,32-227,1993,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,7,7,8,1.14,3,630,3,3,0,0.0,0,,,,3,1,K League 1,2026
+90bce33a,Lee Chang-min,Lee Chang-min,kr KOR,MF,Jeju United,32-084,1994,2,2,124,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+033952ee,Sin Chang-moo,Sin Chang-moo,kr KOR,MF,Gwangju FC,33-209,1992,7,6,601,6.7,2,0,2,1,1,1,1,0,0.30,0.00,0.30,0.15,0.15,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+84ce3617,Ha Chang-rae,Ha Chang-rae,kr KOR,DF,Daejeon Citizen,31-180,1994,4,4,297,3.3,1,1,2,1,0,0,2,0,0.30,0.30,0.61,0.30,0.61,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+3aa04ad0,Lee Chang-yong,Lee Chang-yong,kr KOR,DF,FC Anyang,35-230,1990,4,4,297,3.3,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+51dc505b,Park Changjun,Park Changjun,kr KOR,MF,Jeju United,29-112,1996,3,0,87,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+61ffd835,Lee Changwoo,Lee Changwoo,kr KOR,MF,Pohang Steelers,20-033,2006,3,2,160,1.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+9b46db4a,Lee Chanouk,Lee Chanouk,kr KOR,DF,Gimcheon Sangmu,23-070,2003,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+edbd81c9,Park Cheolwoo,Park Cheolwoo,kr KOR,DF,Gimcheon Sangmu,28-175,1997,7,7,601,6.7,1,1,2,1,0,0,1,0,0.15,0.15,0.30,0.15,0.30,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+efd8c074,Jung Chiin,Jung Chiin,kr KOR,MF,Incheon United FC,28-236,1997,5,3,184,2.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+9c55d736,Park Chung-hyo,Park Chung-hyo,kr KOR,GK,Gangwon FC,36-060,1990,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,42.9,7,7,6,0.86,2,630,0,0,0,,0,,,,3,2,K League 1,2026
+49b05a83,Lee Chung-yong,Lee Chung-yong,kr KOR,"FW,MF",Incheon United FC,37-286,1988,7,0,289,3.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+9bca7c41,Lee Chunghyun,Lee Chunghyun,kr KOR,FW,Bucheon FC 1995,18-214,2007,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+00917f74,Kim Da-sol,Kim Da-sol,kr KOR,GK,FC Anyang,37-100,1989,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,1,1,1,1.00,1,90,0,0,0,,0,,,,0,0,K League 1,2026
+3edb252e,Kim Daewon,Kim Daewon,kr KOR,"MF,FW",Gangwon FC,29-063,1997,7,7,605,6.7,1,0,1,1,0,0,2,0,0.15,0.00,0.15,0.15,0.15,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+4e365f70,Diogo,Diogo,br BRA,FW,Daejeon Citizen,29-131,1996,6,2,244,2.7,1,1,2,1,0,0,1,1,0.37,0.37,0.74,0.37,0.74,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+3a8909ce,Kim Dohyun,Kim Dohyun,kr KOR,DF,Gangwon FC,21-337,2004,6,2,322,3.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+a6828876,Lee Dong-gyeong,Lee Dong-gyeong,kr KOR,MF,Ulsan HD,28-206,1997,6,5,454,5.0,1,3,4,0,1,1,1,0,0.20,0.59,0.79,0.00,0.59,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+138bbc1f,Kim Dong-jin,Kim Dong-jin,kr KOR,"MF,DF",FC Anyang,33-107,1992,7,7,598,6.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5c44f13c,Kim Dong-jun,Kim Dong-jun,kr KOR,GK,Jeju United,31-116,1994,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,42.9,7,7,7,1.00,3,630,1,2,0,50.0,1,,,,2,2,K League 1,2026
+1473e57a,Baek Dong-kyu,Baek Dong-kyu,kr KOR,DF,Bucheon FC 1995,34-319,1991,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+bfa412a7,Kim Dongheon,Kim Dongheon,kr KOR,GK,Incheon United FC,29-042,1997,7,7,630,7.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,14.3,7,7,12,1.71,4,630,1,1,0,0.0,0,,,,1,2,K League 1,2026
+594fad7c,Kim Donghyeon,Kim Donghyeon,kr KOR,FW,Bucheon FC 1995,23-120,2002,4,1,138,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+ef38c606,Kim Dongjin,Kim Dongjin,kr KOR,MF,Pohang Steelers,22-258,2003,6,2,212,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+96d0b6f0,Lee Dongjun,Lee Dongjun,kr KOR,MF,Jeonbuk Hyundai,29-072,1997,7,7,545,6.1,3,0,3,3,0,0,1,0,0.50,0.00,0.50,0.50,0.50,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+4fb71185,Lee Dongryul,Lee Dongryul,kr KOR,MF,Incheon United FC,25-309,2000,6,3,209,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+816f2cbf,Hwang Doyun,Hwang Doyun,kr KOR,MF,FC Seoul,23-005,2003,2,1,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+17ae8824,Lim Dugkeun,Lim Dugkeun,kr KOR,MF,Gimcheon Sangmu,26-048,2000,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+4180ede6,Lee Euihyung,Lee Euihyung,kr KOR,"FW,MF",Bucheon FC 1995,28-042,1998,5,3,261,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+43cbe937,Gerso Fernandes,Gerso Fernandes,pt POR,MF,Incheon United FC,35-050,1991,7,4,437,4.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+00c8db49,Morgan Ferrier,Morgan Ferrier,gy GUY,FW,Incheon United FC,31-150,1994,4,0,110,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+352cabbc,Tobias Figueiredo,Tobias Figueiredo,pt POR,DF,Jeju United,32-071,1994,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5e175384,Hólmbert Friðjónsson,Hólmbert Friðjónsson,is ISL,FW,Gwangju FC,32-360,1993,6,2,274,3.0,1,0,1,0,1,1,2,0,0.33,0.00,0.33,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+094c2abd,Vitor Gabriel,Vitor Gabriel,br BRA,FW,Bucheon FC 1995,26-084,2000,3,0,87,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+a14b8d2d,Jefferson Galego,Jefferson Galego,br BRA,FW,Bucheon FC 1995,29-010,1997,7,5,553,6.1,4,1,5,2,2,2,0,0,0.65,0.16,0.81,0.33,0.49,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+7687777c,Kim Geonhui,Kim Geonhui,kr KOR,DF,Incheon United FC,23-210,2002,4,4,356,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+6bb6684d,Choi Geonju,Choi Geonju,kr KOR,FW,FC Anyang,26-292,1999,7,5,426,4.7,1,0,1,1,0,0,2,0,0.21,0.00,0.21,0.21,0.21,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+18c8c3c7,Lee Gihyuk,Lee Gihyuk,kr KOR,"DF,MF",Gangwon FC,25-281,2000,7,7,627,7.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+cbb61de9,Kim Gun-hee,Kim Gun-hee,kr KOR,FW,Gangwon FC,31-051,1995,1,0,26,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+be39c302,Min Gyeonghyeon,Min Gyeonghyeon,kr KOR,MF,Gimcheon Sangmu,24-119,2001,3,0,72,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+399d642c,Choi Gyuhyeon,Choi Gyuhyeon,kr KOR,MF,FC Anyang,25-207,2000,3,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+7096de36,Jung Gyumin,Jung Gyumin,kr KOR,MF,Gwangju FC,19-100,2007,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+87d50cdc,Kim Hajun,Kim Hajun,kr KOR,DF,Jeonbuk Hyundai,23-271,2002,1,0,2,0.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+9b5cb7de,Lee Han-do,Lee Han-do,kr KOR,DF,FC Seoul,32-029,1994,4,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+4deb2dfe,Jung Hanmin,Jung Hanmin,kr KOR,MF,Pohang Steelers,25-096,2001,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+3a77c3af,Roh Heedong,Roh Heedong,kr KOR,GK,Gwangju FC,23-315,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,1,1,1,1.00,1,90,0,0,0,,0,,,,0,0,K League 1,2026
+83b2c094,Breno Herculano,Breno Herculano,br BRA,FW,FC Anyang,27-057,1999,6,2,157,1.7,0,1,1,0,0,0,0,0,0.00,0.57,0.57,0.00,0.57,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+28c144b9,Abdallah Hleihil,Abdallah Hleihil,il ISR,FW,Gangwon FC,25-093,2001,7,1,194,2.2,2,0,2,2,0,0,1,0,0.93,0.00,0.93,0.93,0.93,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+558c9a3d,Lee Hojae,Lee Hojae,kr KOR,FW,Pohang Steelers,25-182,2000,7,7,630,7.0,3,0,3,2,1,1,1,0,0.43,0.00,0.43,0.29,0.29,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+0b94353d,Jeong Hojin,Jeong Hojin,kr KOR,DF,Bucheon FC 1995,26-251,1999,4,3,299,3.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+66b4612d,Kim Hojin,Kim Hojin,kr KOR,DF,Pohang Steelers,20-197,2005,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+3d9d4045,Park Homin,Park Homin,kr KOR,FW,Incheon United FC,24-187,2001,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+56ba7888,Park Hoyoung,Park Hoyoung,kr KOR,DF,Gangwon FC,27-007,1999,4,1,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2cb40392,Lee Huigyun,Lee Huigyun,kr KOR,MF,Ulsan HD,27-350,1998,6,6,466,5.2,1,0,1,1,0,0,1,0,0.19,0.00,0.19,0.19,0.19,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+e4aea221,Kang Huisu,Kang Huisu,kr KOR,MF,Gwangju FC,23-048,2003,4,1,71,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5235e9e6,Oh Huseong,Oh Huseong,kr KOR,"MF,FW",Incheon United FC,26-232,1999,7,7,477,5.3,1,0,1,1,0,0,0,0,0.19,0.00,0.19,0.19,0.19,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+f7c18620,Ahn Hyeokju,Ahn Hyeokju,kr KOR,"MF,FW",Gwangju FC,21-223,2004,6,3,274,3.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+c75a3145,Jo Hyeon-woo,Jo Hyeon-woo,kr KOR,GK,Ulsan HD,34-201,1991,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,33.3,6,6,5,0.83,1,540,0,0,0,,0,,,,1,4,K League 1,2026
+65fad235,Kim Hyeongug,Kim Hyeongug,kr KOR,MF,Daejeon Citizen,30-296,1995,4,1,96,1.1,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+b88d8478,Han Hyeonseo,Han Hyeonseo,kr KOR,DF,Pohang Steelers,22-102,2004,5,4,410,4.6,0,1,1,0,0,0,1,0,0.00,0.22,0.22,0.00,0.22,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+ffb5964d,Chae Hyeonu,Chae Hyeonu,kr KOR,MF,FC Anyang,21-238,2004,3,0,29,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+a767baaa,Kim Hyeonyeob,Kim Hyeonyeob,kr KOR,GK,Bucheon FC 1995,24-235,2001,2,1,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,100.0,2,1,0,0.00,0,135,0,0,0,,0,,,,1,0,K League 1,2026
+dc1be7c5,Kim Hyung-keun,Kim Hyung-keun,kr KOR,GK,Bucheon FC 1995,32-098,1994,6,6,495,5.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,33.3,6,6,6,1.09,2,495,1,1,0,0.0,0,,,,2,2,K League 1,2026
+c65a4b65,Lee Hyunsik,Lee Hyunsik,kr KOR,MF,Daejeon Citizen,30-024,1996,3,1,112,1.2,0,1,1,0,0,0,0,0,0.00,0.80,0.80,0.00,0.80,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+a4552ad4,Cho Hyuntaek,Cho Hyuntaek,kr KOR,DF,Ulsan HD,24-255,2001,6,6,539,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+1cee961c,Kim Hyunwoo,Kim Hyunwoo,kr KOR,DF,Gimcheon Sangmu,27-038,1999,5,3,287,3.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+3fd69c15,Juan Ibiza,Juan Ibiza,es ESP,DF,Incheon United FC,30-240,1995,7,7,630,7.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+eed53c90,Yu In-soo,Yu In-soo,kr KOR,"DF,MF",Jeju United,31-107,1994,7,7,593,6.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+ae7d1c33,Kim In-sung,Kim In-sung,kr KOR,MF,Pohang Steelers,36-217,1989,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+cd4041b9,Kim Ingyun,Kim Ingyun,kr KOR,MF,Gimcheon Sangmu,27-265,1998,4,1,90,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+e923520a,Hwang Injae,Hwang Injae,kr KOR,GK,Pohang Steelers,31-357,1994,7,7,630,7.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,42.9,7,7,5,0.71,2,630,0,0,0,,0,,,,3,2,K League 1,2026
+e74a9233,Jo Injung,Jo Injung,kr KOR,DF,Jeju United,20-157,2005,2,1,67,0.7,1,0,1,1,0,0,0,0,1.34,0.00,1.34,1.34,1.34,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2b34a458,Masatoshi Ishida,Masatoshi Ishida,jp JPN,"MF,FW",Daejeon Citizen,30-345,1995,5,2,175,1.9,1,0,1,1,0,0,0,0,0.51,0.00,0.51,0.51,0.51,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+6cb94039,Italo,Italo,br BRA,"MF,FW",Jeju United,28-254,1997,5,5,391,4.3,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+6116cf00,Jeong Jae-hee,Jeong Jae-hee,kr KOR,MF,Daejeon Citizen,31-351,1994,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+168b3b82,Kim Jae-woo,Kim Jae-woo,kr KOR,DF,Jeju United,28-067,1998,4,4,348,3.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+b5f8ec6c,Hwang Jaehwan,Hwang Jaehwan,kr KOR,FW,Pohang Steelers,25-002,2001,1,1,45,0.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+48087cca,Oh Jaehyeok,Oh Jaehyeok,kr KOR,"MF,FW",Jeju United,23-297,2002,2,2,138,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+09a163a6,Go Jaehyeon,Go Jaehyeon,kr KOR,MF,Gimcheon Sangmu,27-040,1999,7,6,479,5.3,3,0,3,3,0,0,1,0,0.56,0.00,0.56,0.56,0.56,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+f8833ba8,Mo Jaehyeon,Mo Jaehyeon,kr KOR,"MF,FW",Gangwon FC,29-202,1996,7,7,626,7.0,1,1,2,1,0,1,1,0,0.14,0.14,0.29,0.14,0.29,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+feeea28b,Lee Jaeik,Lee Jaeik,kr KOR,DF,Ulsan HD,26-328,1999,6,5,488,5.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+025cc566,An Jaejun,An Jaejun,kr KOR,FW,Pohang Steelers,25-011,2001,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+28f9e82d,Jeong Jaemin,Jeong Jaemin,kr KOR,FW,Gimcheon Sangmu,24-168,2001,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+fadf572f,Seo Jaemin,Seo Jaemin,kr KOR,MF,Incheon United FC,22-210,2003,7,7,630,7.0,1,1,2,1,0,0,0,0,0.14,0.14,0.29,0.14,0.29,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+edcdc82f,Jeong Jaesang,Jeong Jaesang,kr KOR,FW,Ulsan HD,21-324,2004,3,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+95cc4b1d,Yoon Jaeseok,Yoon Jaeseok,kr KOR,DF,Gimcheon Sangmu,22-174,2003,2,0,56,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+085104e8,Shin Jaewon,Shin Jaewon,kr KOR,MF,Bucheon FC 1995,27-210,1998,6,3,271,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+378918bd,Park Janghangyeol,Park Janghangyeol,kr KOR,MF,FC Seoul,22-058,2004,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+3040570c,Yeon Je-woon,Yeon Je-woon,kr KOR,DF,Jeonbuk Hyundai,31-229,1994,2,1,105,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+564be0fa,Yu Jeho,Yu Jeho,kr KOR,MF,Gwangju FC,25-242,2000,7,7,561,6.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+41e8bc92,Kim Jeong-Hyun,Kim Jeong-Hyun,kr KOR,MF,FC Anyang,32-317,1993,5,5,403,4.5,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+f2ecca12,Son Jeongbeom,Son Jeongbeom,kr KOR,MF,FC Seoul,18-198,2007,5,3,217,2.4,1,1,2,1,0,0,0,0,0.41,0.41,0.83,0.41,0.83,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+345bb582,Kim JeongHoon,Kim JeongHoon,kr KOR,GK,FC Anyang,24-359,2001,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,6,6,7,1.17,1,540,1,2,0,50.0,1,,,,4,1,K League 1,2026
+de7c8518,Park Jeonghun,Park Jeonghun,kr KOR,FW,FC Anyang,21-236,2004,2,0,49,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+64d36b21,Park Jeongin,Park Jeongin,kr KOR,"FW,MF",Gwangju FC,25-189,2000,6,5,369,4.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+415271d2,Eo Jeongwon,Eo Jeongwon,kr KOR,DF,Pohang Steelers,26-280,1999,7,7,630,7.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+09a46932,Han Ji-ho,Han Ji-ho,kr KOR,"MF,FW",Bucheon FC 1995,37-120,1988,5,2,152,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+cb7a0acf,Park Ji-soo,Park Ji-soo,kr KOR,DF,Jeonbuk Hyundai,31-305,1994,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+b4b76bb7,Lee Jiho,Lee Jiho,kr KOR,FW,Gangwon FC,23-363,2002,2,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+d1d67516,Kang Jihoon,Kang Jihoon,kr KOR,MF,FC Anyang,29-098,1997,5,2,155,1.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+08bd7baf,Kim JiHoon,Kim JiHoon,kr KOR,DF,FC Anyang,21-182,2004,3,1,127,1.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+ebacc162,Joung Jihun,Joung Jihun,kr KOR,MF,Gwangju FC,22-005,2004,5,3,216,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+90624e56,Lee Jin-hyun,Lee Jin-hyun,kr KOR,MF,Ulsan HD,28-231,1997,5,5,384,4.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+7c0479b1,Kim Jin-kyu,Kim Jin-kyu,kr KOR,MF,Jeonbuk Hyundai,29-049,1997,7,7,465,5.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+8e6ff136,Kim Jin-su,Kim Jin-su,kr KOR,DF,FC Seoul,33-305,1992,5,5,450,5.0,0,1,1,0,0,0,0,0,0.00,0.20,0.20,0.00,0.20,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+4d39aa4c,Kim Jinho,Kim Jinho,kr KOR,DF,Gwangju FC,26-083,2000,7,6,572,6.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+3b022f77,Seo Jinsu,Seo Jinsu,kr KOR,"MF,FW",Daejeon Citizen,25-178,2000,4,4,292,3.2,2,1,3,2,0,0,0,0,0.62,0.31,0.92,0.62,0.92,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+468819c5,Lee Jinyong,Lee Jinyong,kr KOR,MF,FC Anyang,24-348,2001,5,2,206,2.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+c734146f,Lim Jong-eun,Lim Jong-eun,kr KOR,DF,Daejeon Citizen,35-300,1990,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5b6af1ad,Yoon Jong-gyu,Yoon Jong-gyu,kr KOR,DF,Ulsan HD,28-025,1998,2,1,103,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+7c216b30,Baek Jongbum,Baek Jongbum,kr KOR,GK,Gimcheon Sangmu,25-083,2001,7,7,630,7.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,14.3,7,7,7,1.00,1,630,2,2,0,0.0,0,,,,6,0,K League 1,2026
+0c409e7e,Kim Jongwoo,Kim Jongwoo,kr KOR,MF,Bucheon FC 1995,32-195,1993,3,1,98,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+fa2685fe,Lee Ju-yong,Lee Ju-yong,kr KOR,DF,Incheon United FC,33-200,1992,7,7,626,7.0,0,1,1,0,0,0,0,0,0.00,0.14,0.14,0.00,0.14,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+27d3e87c,Kim Juchan,Kim Juchan,kr KOR,MF,Gimcheon Sangmu,22-016,2004,2,2,104,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+39a945ac,Ivan Jukić,Ivan Jukić,ba BIH,FW,FC Anyang,29-297,1996,5,2,214,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+9547dffe,Choi Jun,Choi Jun,kr KOR,DF,FC Seoul,26-362,1999,6,6,540,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+59235d98,Lee Jungtaek,Lee Jungtaek,kr KOR,DF,Gimcheon Sangmu,27-326,1998,7,7,630,7.0,0,2,2,0,0,0,1,0,0.00,0.29,0.29,0.00,0.29,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+6da9f1be,Kim Junha,Kim Junha,kr KOR,"FW,MF",Jeju United,20-133,2005,7,3,341,3.8,0,1,1,0,0,0,0,0,0.00,0.26,0.26,0.00,0.26,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5603064d,Kang Junhyuk,Kang Junhyuk,kr KOR,DF,Gangwon FC,26-176,1999,7,6,515,5.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+609fc015,Song Junseok,Song Junseok,kr KOR,DF,Gangwon FC,25-067,2001,5,5,349,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+43dfbf49,Yu Kanghyun,Yu Kanghyun,kr KOR,FW,Daejeon Citizen,29-352,1996,3,0,38,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+43ba633b,Han Karam,Han Karam,kr KOR,MF,FC Anyang,28-064,1998,5,4,305,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+df416e60,Kim Keon-woong,Kim Keon-woong,kr KOR,"DF,MF",Jeju United,28-228,1997,5,4,372,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+0bf3c11c,Patryk Klimala,Patryk Klimala,pl POL,FW,FC Seoul,27-252,1998,6,5,430,4.8,4,0,4,4,0,0,3,0,0.84,0.00,0.84,0.84,0.84,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2e755dfe,Anton Krivotsyuk,Anton Krivotsyuk,az AZE,DF,Daejeon Citizen,27-229,1998,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2a69bff3,Lee Kunhee,Lee Kunhee,kr KOR,FW,Gimcheon Sangmu,28-056,1998,7,7,529,5.9,1,1,2,1,0,0,3,0,0.17,0.17,0.34,0.17,0.34,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+b2390654,Shin Kwang-hoon,Shin Kwang-hoon,kr KOR,DF,Pohang Steelers,39-027,1987,4,3,220,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+a4f42989,Kim Kyeong-min,Kim Kyeong-min,kr KOR,GK,Gwangju FC,34-164,1991,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,33.3,6,6,11,1.83,2,540,0,1,0,100.0,1,,,,3,1,K League 1,2026
+f9552f68,Choi Kyoung-rok,Choi Kyoung-rok,kr KOR,FW,Gwangju FC,31-030,1995,4,3,271,3.0,1,0,1,1,0,0,0,0,0.33,0.00,0.33,0.33,0.33,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+e69c1a93,Lee Kyu-seong,Lee Kyu-seong,kr KOR,MF,Ulsan HD,31-339,1994,6,6,539,6.0,0,1,1,0,0,0,2,0,0.00,0.17,0.17,0.00,0.17,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+88ed2a5e,Park Kyuhyun,Park Kyuhyun,kr KOR,DF,Daejeon Citizen,25-000,2001,2,2,172,1.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+ad1516af,Kwon Kyung-won,Kwon Kyung-won,kr KOR,DF,FC Anyang,34-073,1992,5,5,409,4.5,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+250567f7,Park Kyungsub,Park Kyungsub,kr KOR,DF,Incheon United FC,21-286,2004,4,3,274,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+585fe2f8,Gustav Ludwigson,Gustav Ludwigson,se SWE,"MF,FW",Daejeon Citizen,32-176,1993,7,6,486,5.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+63b74b47,Jorge Luiz,Jorge Luiz,br BRA,"MF,FW",Pohang Steelers,26-297,1999,4,3,252,2.8,0,1,1,0,0,0,0,0,0.00,0.36,0.36,0.00,0.36,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+7e57dcf9,Marcão,Marcão,br BRA,FW,Ulsan HD,31-301,1994,1,0,8,0.1,1,0,1,1,0,0,0,0,11.25,0.00,11.25,11.25,11.25,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+151ca25f,Benji Michel,Benji Michel,us USA,"FW,MF",Ulsan HD,28-173,1997,6,0,134,1.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5cd0e178,Jeon Min-gwang,Jeon Min-gwang,kr KOR,DF,Pohang Steelers,33-087,1993,4,4,300,3.3,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+b7e6f5fe,Lee Min-ki,Lee Min-ki,kr KOR,DF,Gwangju FC,32-330,1993,3,2,143,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+aa128730,Joo Min-kyu,Joo Min-kyu,kr KOR,FW,Daejeon Citizen,36-001,1990,7,5,429,4.8,0,1,1,0,0,0,0,0,0.00,0.21,0.21,0.00,0.21,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+cdd82dc4,Kim Minduk,Kim Minduk,kr KOR,DF,Daejeon Citizen,29-280,1996,3,2,243,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+f877c1c5,Kang Mingeu,Kang Mingeu,kr KOR,FW,Gimcheon Sangmu,27-219,1998,5,0,86,1.0,0,1,1,0,0,0,0,0,0.00,1.05,1.05,0.00,1.05,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+c9237648,Jang Mingyu,Jang Mingyu,kr KOR,MF,Jeju United,27-039,1999,7,6,585,6.5,1,0,1,1,0,0,0,0,0.15,0.00,0.15,0.15,0.15,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+b343eab8,Shin Minha,Shin Minha,kr KOR,DF,Gangwon FC,20-211,2005,6,3,232,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5e7b2380,Lee Minhyeok,Lee Minhyeok,kr KOR,MF,Ulsan HD,24-085,2002,4,0,26,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+bd6dac23,Kong Minhyu,Kong Minhyu,kp PRK,FW,FC Anyang,36-085,1990,4,3,228,2.5,1,0,1,1,0,0,0,0,0.39,0.00,0.39,0.39,0.39,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+df5adfaf,Park MinJae,Park MinJae,kr KOR,FW,Jeju United,20-135,2005,2,0,51,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+1c3e60fc,Kang Minjun,Kang Minjun,kr KOR,DF,Pohang Steelers,23-006,2003,4,2,227,2.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5c47fcbd,Kim Minjun,Kim Minjun,kr KOR,FW,Bucheon FC 1995,26-061,2000,3,2,124,1.4,1,0,1,1,0,0,0,0,0.73,0.00,0.73,0.73,0.73,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+8fe02d3b,Kim Minkyu,Kim Minkyu,kr KOR,DF,Gimcheon Sangmu,28-013,1998,4,4,348,3.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+97d38555,Song Minkyu,Song Minkyu,kr KOR,"MF,FW",FC Seoul,26-214,1999,6,5,477,5.3,1,1,2,1,0,0,0,0,0.19,0.19,0.38,0.19,0.38,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+411544b3,Moon Minseo,Moon Minseo,kr KOR,"MF,FW",Gwangju FC,22-055,2004,7,7,625,6.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+662f05ad,Seo Minwoo,Seo Minwoo,kr KOR,MF,Gangwon FC,28-033,1998,7,6,500,5.6,0,1,1,0,0,0,2,0,0.00,0.18,0.18,0.00,0.18,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2809cc5f,Jhon Montaño,Jhon Montaño,co COL,FW,Bucheon FC 1995,28-342,1997,5,5,394,4.4,1,1,2,1,0,0,2,0,0.23,0.23,0.46,0.23,0.46,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+6bce7dd8,Kim Moonhwan,Kim Moonhwan,kr KOR,DF,Daejeon Citizen,30-256,1995,7,6,548,6.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+89ff1b5d,Bruno Mota,Bruno Mota,br BRA,FW,Jeonbuk Hyundai,30-063,1996,7,5,460,5.1,2,1,3,2,0,0,0,0,0.39,0.20,0.59,0.39,0.59,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+c41ca3d8,Stefan Mugoša,Stefan Mugoša,me MNE,FW,Incheon United FC,34-047,1992,7,7,623,6.9,7,1,8,5,2,3,1,0,1.01,0.14,1.16,0.72,0.87,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+08d00071,Lee Myung-jae,Lee Myung-jae,kr KOR,DF,Daejeon Citizen,32-161,1993,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+92ae9dec,Lee Myung-joo,Lee Myung-joo,kr KOR,MF,Incheon United FC,35-355,1990,7,5,439,4.9,0,1,1,0,0,0,0,0,0.00,0.21,0.21,0.00,0.21,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+f355dcf2,Kim Myungsun,Kim Myungsun,kr KOR,DF,Incheon United FC,25-271,2000,7,7,617,6.9,0,1,1,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+0df60055,Emerson Negueba,Emerson Negueba,br BRA,MF,Jeju United,25-141,2000,7,7,569,6.3,1,0,1,0,1,1,0,0,0.16,0.00,0.16,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+459c5cc3,Kento Nishiya,Kento Nishiya,jp JPN,MF,Pohang Steelers,26-158,1999,6,6,353,3.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+6dee0d6c,Oberdan,Oberdan,br BRA,MF,Jeonbuk Hyundai,30-258,1995,7,7,609,6.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+df0d179d,Matheus Oliveira Santos,Matheus Oliveira Santos,br BRA,"FW,MF",FC Anyang,28-198,1997,7,6,519,5.8,3,2,5,1,2,2,0,0,0.52,0.35,0.87,0.17,0.52,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5dd7d165,Tiago Orobó,Tiago Orobó,br BRA,FW,Jeonbuk Hyundai,32-168,1993,7,2,185,2.1,0,1,1,0,0,0,2,0,0.00,0.49,0.49,0.00,0.49,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+b9c19ad9,Thomas Oude Kotte,Thomas Oude Kotte,nl NED,"DF,MF",FC Anyang,30-025,1996,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+e857a755,Patrick,Patrick,br BRA,DF,Bucheon FC 1995,28-315,1997,5,5,421,4.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+738b30cd,Gytis Paulauskas,Gytis Paulauskas,lt LTU,FW,Jeju United,26-199,1999,3,2,206,2.3,0,1,1,0,0,0,1,0,0.00,0.44,0.44,0.00,0.44,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+f27c48db,Pedrinho,Pedrinho,br BRA,MF,Ulsan HD,24-053,2002,3,2,122,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+e7540cda,Juninho Rocha,Juninho Rocha,br BRA,"MF,FW",Pohang Steelers,28-160,1997,7,4,365,4.1,0,1,1,0,0,0,2,0,0.00,0.25,0.25,0.00,0.25,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5ed6bf7a,Leonardo Ruiz,Leonardo Ruiz,co COL,FW,FC Seoul,29-361,1996,2,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+38ea198d,Kim Ryunseong,Kim Ryunseong,kr KOR,DF,Jeju United,23-314,2002,6,6,537,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+12885cbe,Min Sang-gi,Min Sang-gi,kr KOR,DF,Gwangju FC,34-230,1991,2,2,96,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+e0672ada,Lee Sang-heon,Lee Sang-heon,kr KOR,FW,Gimcheon Sangmu,28-047,1998,5,2,191,2.1,0,0,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5c28bdc3,Sim Sang-min,Sim Sang-min,kr KOR,DF,Ulsan HD,32-328,1993,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+416a0ca6,Cho Sanghyeok,Cho Sanghyeok,kr KOR,FW,Pohang Steelers,22-081,2004,1,0,6,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+86d937a1,Lee Sanghyeok,Lee Sanghyeok,kr KOR,DF,Bucheon FC 1995,25-098,2001,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+711cba8c,Park Sanghyeok,Park Sanghyeok,kr KOR,FW,Gangwon FC,23-295,2002,6,4,352,3.9,1,0,1,1,0,0,1,0,0.26,0.00,0.26,0.26,0.26,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+ef54a718,Kim Sangjun,Kim Sangjun,kr KOR,MF,Bucheon FC 1995,24-195,2001,7,4,393,4.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+630b4f37,Shin Sangun,Shin Sangun,kr KOR,FW,Jeju United,26-237,1999,7,4,321,3.6,1,0,1,1,0,0,1,0,0.28,0.00,0.28,0.28,0.28,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+40276392,Kang Sangyoon,Kang Sangyoon,kr KOR,MF,Jeonbuk Hyundai,21-318,2004,6,5,486,5.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2427390a,Thiaguinho Santos,Thiaguinho Santos,br BRA,MF,Bucheon FC 1995,26-100,2000,6,5,475,5.3,0,1,1,0,0,0,1,0,0.00,0.19,0.19,0.00,0.19,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+ca8ca082,Ju Se-jong,Ju Se-jong,kr KOR,"MF,FW",Gwangju FC,35-166,1990,5,2,216,2.4,0,1,1,0,0,0,2,0,0.00,0.42,0.42,0.00,0.42,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+02ad10de,Park Sejin,Park Sejin,kr KOR,FW,Gimcheon Sangmu,22-026,2004,5,5,311,3.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2b5e2806,Choi Seokhyun,Choi Seokhyun,kr KOR,DF,Ulsan HD,23-091,2003,5,5,424,4.7,0,1,1,0,0,0,1,0,0.00,0.21,0.21,0.00,0.21,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+61c75363,Moon Seon-min,Moon Seon-min,kr KOR,MF,FC Seoul,33-309,1992,5,1,120,1.3,0,2,2,0,0,0,0,0,0.00,1.50,1.50,0.00,1.50,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+245ed47f,Cho Seonggwon,Cho Seonggwon,kr KOR,DF,Daejeon Citizen,25-049,2001,4,4,360,4.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+20e1537f,Park Seonghoon,Park Seonghoon,kr KOR,DF,FC Seoul,23-077,2003,2,1,135,1.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+715dfd8e,Maeng Seongung,Maeng Seongung,kr KOR,MF,Jeonbuk Hyundai,28-069,1998,7,2,220,2.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+77111930,Hwang Seoung,Hwang Seoung,kr KOR,MF,Pohang Steelers,21-082,2005,7,5,403,4.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+e0446c82,Jung Seung-hyun,Jung Seung-hyun,kr KOR,DF,Ulsan HD,32-011,1994,6,4,362,4.0,1,0,1,1,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2fc16a80,Lee Seung-mo,Lee Seung-mo,kr KOR,MF,FC Seoul,28-015,1998,6,3,322,3.6,2,0,2,2,0,0,0,0,0.56,0.00,0.56,0.56,0.56,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+0f22b650,Lee Seung-woo,Lee Seung-woo,kr KOR,"FW,MF",Jeonbuk Hyundai,28-098,1998,7,0,233,2.6,1,0,1,1,0,0,1,0,0.39,0.00,0.39,0.39,0.39,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+87b430e2,Kim Seungbin,Kim Seungbin,kr KOR,MF,Bucheon FC 1995,26-045,2000,1,1,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+c0b7b170,Choi Seunggu,Choi Seunggu,kr KOR,DF,Incheon United FC,20-198,2005,2,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+3555b6b3,Kim Seungho,Kim Seungho,kr KOR,MF,Pohang Steelers,27-195,1998,4,4,293,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+67de0445,Park Seungho,Park Seungho,kr KOR,FW,Incheon United FC,22-225,2003,4,4,185,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+3f5922fa,Kim Seungsub,Kim Seungsub,kr KOR,MF,Jeonbuk Hyundai,29-164,1996,7,7,487,5.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+9a7727b5,Ha Seungun,Ha Seungun,kr KOR,"MF,DF",Gwangju FC,27-345,1998,7,7,585,6.5,0,1,1,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+7f4b180f,Jeong Seungwon,Jeong Seungwon,kr KOR,MF,FC Seoul,29-046,1997,6,4,384,4.3,0,1,1,0,0,0,0,0,0.00,0.23,0.23,0.00,0.23,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+ba11efea,Lee Seungwon,Lee Seungwon,kr KOR,"MF,FW",Gangwon FC,23-039,2003,6,2,226,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2fb674e9,Yeo Seungwon,Yeo Seungwon,kr KOR,DF,Incheon United FC,25-344,2000,3,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5fb82d00,Kim Sinjin,Kim Sinjin,kr KOR,FW,Jeju United,24-275,2001,4,1,125,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+22b95e8a,Jin Siwoo,Jin Siwoo,kr KOR,DF,Pohang Steelers,23-252,2002,1,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+3e51ccb2,Jang Siyoung,Jang Siyoung,kr KOR,FW,Ulsan HD,24-014,2002,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+a6a63445,Lee Soobin,Lee Soobin,kr KOR,MF,Gimcheon Sangmu,25-342,2000,5,3,301,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+ec158ffd,Park Sooil,Park Sooil,kr KOR,DF,FC Seoul,30-051,1996,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+90539ec6,Lee Soonmin,Lee Soonmin,kr KOR,MF,Daejeon Citizen,31-327,1994,6,5,337,3.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+1d8c99b0,Ki Sung-yueng,Ki Sung-yueng,kr KOR,MF,Pohang Steelers,37-080,1989,4,1,140,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+d10453b9,Gu Sung-yun,Gu Sung-yun,kr KOR,GK,FC Seoul,31-291,1994,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,3,50.0,6,6,3,0.50,0,540,1,1,0,0.0,0,,,,1,5,K League 1,2026
+2bb39944,Park Sunghyun,Park Sunghyun,kr KOR,DF,Gwangju FC,22-335,2003,1,0,9,0.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+28bbed0c,Hong Sungwook,Hong Sungwook,kr KOR,DF,Bucheon FC 1995,23-209,2002,7,7,630,7.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+0a8dc1d3,Kwon Sungyun,Kwon Sungyun,kr KOR,DF,Gwangju FC,25-015,2001,6,2,228,2.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+fdfacbb5,Lee Tae-hee,Lee Tae-hee,kr KOR,"MF,DF",FC Anyang,33-302,1992,6,6,540,6.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+484e9d32,Nam Tae-hee,Nam Tae-hee,kr KOR,"FW,MF",Jeju United,34-285,1991,5,4,299,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2e2f2a1c,Kim Tae-hwan,Kim Tae-hwan,kr KOR,DF,Jeonbuk Hyundai,36-264,1989,7,7,630,7.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+eee918fb,An Tae-hyun,An Tae-hyun,kr KOR,MF,Bucheon FC 1995,33-044,1993,7,6,514,5.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+40146931,Jin Taeho,Jin Taeho,kr KOR,FW,Jeonbuk Hyundai,20-084,2006,2,0,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2d0b6c94,Kim Taehwan,Kim Taehwan,kr KOR,DF,Gimcheon Sangmu,26-020,2000,7,7,630,7.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+143204a4,Kim Taehyun,Kim Taehyun,kr KOR,DF,Jeonbuk Hyundai,29-116,1996,4,4,346,3.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+219fdd3c,Park Taejun,Park Taejun,kr KOR,MF,Gimcheon Sangmu,27-085,1999,7,7,619,6.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+96e7578a,Kazuki Takahashi,Kazuki Takahashi,jp JPN,MF,Bucheon FC 1995,29-190,1996,6,5,415,4.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+65bf5976,Jakob Tranziska,Jakob Tranziska,de GER,MF,Pohang Steelers,24-293,2001,5,1,144,1.6,1,0,1,1,0,0,2,1,0.62,0.00,0.62,0.62,0.62,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+d02ffcea,Miłosz Trojak,Miłosz Trojak,pl POL,DF,Ulsan HD,31-344,1994,4,0,61,0.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+cea3ddc7,Marko Tuci,Marko Tuci,me MNE,DF,Gangwon FC,27-131,1998,6,6,540,6.0,1,0,1,1,0,0,3,0,0.17,0.00,0.17,0.17,0.17,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+e3993b65,Patrick Twumasi,Patrick Twumasi,gh GHA,"FW,MF",Jeonbuk Hyundai,31-340,1994,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+ed21e2f8,Iker Undabarrena,Iker Undabarrena,es ESP,MF,Incheon United FC,30-331,1995,4,2,188,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5049696b,João Victor,João Victor,br BRA,"MF,FW",Daejeon Citizen,27-048,1999,7,6,448,5.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+98cc3363,Wanderson,Wanderson,br BRA,"DF,MF",Pohang Steelers,37-014,1989,5,0,144,1.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+dcf21532,Cho Wije,Cho Wije,kr KOR,DF,Jeonbuk Hyundai,24-232,2001,5,5,435,4.8,1,0,1,1,0,0,3,0,0.21,0.00,0.21,0.21,0.21,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+9157dbbf,Um Wonsang,Um Wonsang,kr KOR,"FW,MF",Daejeon Citizen,27-098,1999,4,0,101,1.1,1,1,2,1,0,0,0,0,0.89,0.89,1.78,0.89,1.78,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+b53e9cdd,Choi Woojin,Choi Woojin,kr KOR,DF,Jeonbuk Hyundai,21-270,2004,5,3,282,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+e4c18bc4,Lee Yeong-jae,Lee Yeong-jae,kr KOR,MF,Jeonbuk Hyundai,31-213,1994,6,0,36,0.4,0,1,1,0,0,0,0,0,0.00,2.50,2.50,0.00,2.50,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+09027759,Kim Yesung,Kim Yesung,kr KOR,DF,Pohang Steelers,29-175,1996,4,3,312,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+da2489c8,Kim Yiseok,Kim Yiseok,kr KOR,MF,Gimcheon Sangmu,27-299,1998,7,4,286,3.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+be92df85,Kim Yonghak,Kim Yonghak,kr KOR,"MF,FW",Pohang Steelers,22-329,2003,7,3,253,2.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+200262e8,Hong Yongjun,Hong Yongjun,kr KOR,MF,Gwangju FC,23-019,2003,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+dc938ca2,Kim Yongwook,Kim Yongwook,,DF,Gwangju FC,,,6,6,466,5.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+2880ba02,Heo Yool,Heo Yool,kr KOR,FW,Ulsan HD,25-002,2001,5,0,41,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+a4cf8951,Lee You-hyeon,Lee You-hyeon,kr KOR,MF,Gangwon FC,29-065,1997,6,5,477,5.3,1,0,1,1,0,0,3,0,0.19,0.00,0.19,0.19,0.19,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+3d3da10c,Kim Young-bin,Kim Young-bin,kr KOR,DF,Jeonbuk Hyundai,34-206,1991,7,7,630,7.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+145c7bde,Kim Young-chan,Kim Young-chan,kr KOR,DF,FC Anyang,32-222,1993,6,3,361,4.0,1,0,1,1,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+9459ace1,Kim Young-gwon,Kim Young-gwon,kr KOR,DF,Ulsan HD,36-046,1990,3,3,231,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+979307e9,Ahn Young-kyu,Ahn Young-kyu,kr KOR,DF,Gwangju FC,36-131,1989,6,4,436,4.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+9caae30d,Seo Youngjae,Seo Youngjae,kr KOR,DF,Daejeon Citizen,30-326,1995,2,2,132,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+f1c1e9c3,Goh Youngjun,Goh Youngjun,kr KOR,"FW,MF",Gangwon FC,24-279,2001,6,5,356,4.0,0,1,1,0,0,0,0,0,0.00,0.25,0.25,0.00,0.25,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+c0b4f2c7,Cho Youngwook,Cho Youngwook,kr KOR,"MF,FW",FC Seoul,27-068,1999,6,4,335,3.7,2,0,2,2,0,0,1,0,0.54,0.00,0.54,0.54,0.54,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+81c93371,Kang Yun-seong,Kang Yun-seong,kr KOR,DF,Daejeon Citizen,28-287,1997,4,1,138,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+a9f44951,Kang Yungu,Kang Yungu,kr KOR,FW,Gangwon FC,24-006,2002,4,1,132,1.5,0,1,1,0,0,0,1,0,0.00,0.68,0.68,0.00,0.68,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+e817879a,Kim Yunho,Kim Yunho,kr KOR,FW,Gwangju FC,18-336,2007,2,0,20,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+ee945e21,Hong Yunsang,Hong Yunsang,kr KOR,MF,Gimcheon Sangmu,24-026,2002,7,4,433,4.8,1,0,1,1,0,0,0,0,0.21,0.00,0.21,0.21,0.21,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2026
+5af2731a,Leroy Abanda,Leroy Abanda,fr FRA,MF,Suwon FC,24,2000,5,3,170,1.9,0,1,1,0,0,0,0,0,0.00,0.53,0.53,0.00,0.53,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+222bc419,Bismark Adjei-Boateng,Bismark Adjei-Boateng,gh GHA,MF,Jeonbuk Hyundai,30,1994,5,3,247,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+ebb904ed,Tiago Alves,Tiago Alves,br BRA,FW,Jeju United,32,1993,4,1,115,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+4242a0a1,Anderson,Anderson,br BRA,MF,FC Seoul,26,1998,17,13,"1,333",14.8,1,2,3,1,0,0,4,0,0.07,0.14,0.20,0.07,0.20,Matches,0.09,0.20,11,5,45.5,0.34,0.74,,,,,,,,,,,,,,,,,,,K League 1,2025
+4242a0a1,Anderson,Anderson,br BRA,MF,FC Seoul,26,1998,17,13,"1,333",14.8,1,2,3,1,0,0,4,0,0.07,0.14,0.20,0.07,0.20,Matches,0.83,2.50,6,2,33.3,0.10,0.31,,,,,,,,,,,,,,,,,,,K League 1,2025
+4242a0a1,Anderson,Anderson,br BRA,"MF,FW",Suwon FC,26,1998,20,18,"1,735",19.3,5,6,11,5,0,1,0,0,0.26,0.31,0.57,0.26,0.57,Matches,0.09,0.20,11,5,45.5,0.34,0.74,,,,,,,,,,,,,,,,,,,K League 1,2025
+4242a0a1,Anderson,Anderson,br BRA,"MF,FW",Suwon FC,26,1998,20,18,"1,735",19.3,5,6,11,5,0,1,0,0,0.26,0.31,0.57,0.26,0.57,Matches,0.83,2.50,6,2,33.3,0.10,0.31,,,,,,,,,,,,,,,,,,,K League 1,2025
+8b400e13,Andrigo,Andrigo,br BRA,"MF,FW",Suwon FC,29,1995,16,7,748,8.3,0,2,2,0,0,0,1,0,0.00,0.24,0.24,0.00,0.24,Matches,0.00,0.00,11,5,45.5,0.60,1.32,,,,,,,,,,,,,,,,,,,K League 1,2025
+32878a09,Yazan Al-Arab,Yazan Al-Arab,jo JOR,DF,FC Seoul,29,1996,34,34,"3,058",34.0,1,1,2,1,0,0,2,0,0.03,0.03,0.06,0.03,0.06,Matches,0.14,,7,0,0.0,0.00,0.21,,,,,,,,,,,,,,,,,,,K League 1,2025
+6354ac8c,Jasir Asani,Jasir Asani,al ALB,"MF,FW",Gwangju FC,29,1995,22,17,"1,646",18.3,8,2,10,6,2,3,2,0,0.44,0.11,0.55,0.33,0.44,Matches,0.86,1.20,7,5,71.4,0.27,0.38,,,,,,,,,,,,,,,,,,,K League 1,2025
+1df6573d,Jonathan Aspropotamitis,Jonathan Aspropotamitis,au AUS,DF,Pohang Steelers,28,1996,5,3,299,3.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.30,0.30,,,,,,,,,,,,,,,,,,,K League 1,2025
+5b8f8b86,Romário Baldé,Romário Baldé,gw GNB,"FW,MF",Gangwon FC,28,1996,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+35c2aa94,Yoon Bit-garam,Yoon Bit-garam,kr KOR,MF,Suwon FC,34,1990,11,7,722,8.0,1,0,1,1,0,0,1,0,0.12,0.00,0.12,0.12,0.12,Matches,0.17,0.33,6,3,50.0,0.37,0.75,,,,,,,,,,,,,,,,,,,K League 1,2025
+587ddfd6,Kim Bo-kyung,Kim Bo-kyung,kr KOR,"MF,FW",FC Anyang,35,1989,19,7,718,8.0,2,0,2,2,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches,0.67,2.00,3,1,33.3,0.13,0.38,,,,,,,,,,,,,,,,,,,K League 1,2025
+572a8297,Victor Bobsin,Victor Bobsin,br BRA,MF,Daejeon Citizen,25,2000,14,12,"1,189",13.2,1,0,1,1,0,0,3,0,0.08,0.00,0.08,0.08,0.08,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+aa09d373,Darijan Bojanić,Darijan Bojanić,se SWE,MF,Ulsan HD,30,1994,26,17,"1,636",18.2,2,3,5,2,0,0,0,0,0.11,0.17,0.28,0.11,0.28,Matches,1.00,2.00,2,1,50.0,0.06,0.11,,,,,,,,,,,,,,,,,,,K League 1,2025
+76854562,Kim Bongsoo,Kim Bongsoo,kr KOR,MF,Daejeon Citizen,25,1999,20,20,"1,786",19.8,0,2,2,0,0,0,2,0,0.00,0.10,0.10,0.00,0.10,Matches,0.00,,2,0,0.0,0.00,0.10,,,,,,,,,,,,,,,,,,,K League 1,2025
+76854562,Kim Bongsoo,Kim Bongsoo,kr KOR,MF,Daejeon Citizen,25,1999,20,20,"1,786",19.8,0,2,2,0,0,0,2,0,0.00,0.10,0.10,0.00,0.10,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+76854562,Kim Bongsoo,Kim Bongsoo,kr KOR,MF,Gimcheon Sangmu,25,1999,15,15,"1,349",15.0,0,2,2,0,0,0,0,0,0.00,0.13,0.13,0.00,0.13,Matches,0.00,,2,0,0.0,0.00,0.10,,,,,,,,,,,,,,,,,,,K League 1,2025
+76854562,Kim Bongsoo,Kim Bongsoo,kr KOR,MF,Gimcheon Sangmu,25,1999,15,15,"1,349",15.0,0,2,2,0,0,0,0,0,0.00,0.13,0.13,0.00,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+f7195df8,Goo Booncheul,Goo Booncheul,kr KOR,"MF,FW",Gangwon FC,25,1999,14,10,693,7.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,0.26,0.52,,,,,,,,,,,,,,,,,,,K League 1,2025
+2455c2d6,Song Bumkeun,Song Bumkeun,kr KOR,GK,Jeonbuk Hyundai,27,1997,38,38,"3,420",38.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,15,39.5,38,38,32,0.84,5,"3,420",2,3,0,33.3,1,43.4,36,53,10,23,K League 1,2025
+e739b04e,Choe Byeongchan,Choe Byeongchan,kr KOR,"FW,MF",Gangwon FC,28,1996,10,7,431,4.8,1,0,1,1,0,0,1,0,0.21,0.00,0.21,0.21,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+cbc7bf3b,Hwang Byeonggeun,Hwang Byeonggeun,kr KOR,GK,FC Anyang,30,1994,4,3,277,3.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,1,33.3,4,3,4,1.30,1,277,1,2,0,50.0,1,,,,1,1,K League 1,2025
+86746ccb,Jeon Byeonggwan,Jeon Byeonggwan,kr KOR,MF,Gimcheon Sangmu,22,2002,13,3,517,5.7,0,2,2,0,0,0,0,0,0.00,0.35,0.35,0.00,0.35,Matches,0.00,0.00,2,1,50.0,0.17,0.35,,,,,,,,,,,,,,,,,,,K League 1,2025
+86746ccb,Jeon Byeonggwan,Jeon Byeonggwan,kr KOR,MF,Gimcheon Sangmu,22,2002,13,3,517,5.7,0,2,2,0,0,0,0,0,0.00,0.35,0.35,0.00,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+86746ccb,Jeon Byeonggwan,Jeon Byeonggwan,kr KOR,"FW,MF",Jeonbuk Hyundai,22,2002,7,5,430,4.8,1,2,3,1,0,0,1,0,0.21,0.42,0.63,0.21,0.63,Matches,0.00,0.00,2,1,50.0,0.17,0.35,,,,,,,,,,,,,,,,,,,K League 1,2025
+86746ccb,Jeon Byeonggwan,Jeon Byeonggwan,kr KOR,"FW,MF",Jeonbuk Hyundai,22,2002,7,5,430,4.8,1,2,3,1,0,0,1,0,0.21,0.42,0.63,0.21,0.63,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+34a6c7d0,Choi Byeongwook,Choi Byeongwook,kr KOR,FW,Jeju United,19,2005,28,4,733,8.1,0,1,1,0,0,0,3,1,0.00,0.12,0.12,0.00,0.12,Matches,0.00,,1,0,0.0,0.00,0.12,,,,,,,,,,,,,,,,,,,K League 1,2025
+f460cf8c,Aaron Calver,Aaron Calver,au AUS,DF,Daejeon Citizen,29,1996,1,0,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+ba15f491,Yago Cariello,Yago Cariello,br BRA,FW,Ulsan HD,25,1999,5,2,153,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+790ee3a1,Yago César,Yago César,br BRA,"MF,FW",FC Anyang,27,1997,31,11,"1,444",16.0,4,6,10,3,1,2,0,0,0.25,0.37,0.62,0.19,0.56,Matches,0.17,0.38,18,8,44.4,0.50,1.12,,,,,,,,,,,,,,,,,,,K League 1,2025
+43d5c062,Cesinha,Cesinha,br BRA,"FW,MF",Daegu FC,35,1989,25,23,"2,157",24.0,12,12,24,9,3,3,4,0,0.50,0.50,1.00,0.38,0.88,Matches,0.30,0.90,30,10,33.3,0.42,1.25,,,,,,,,,,,,,,,,,,,K League 1,2025
+53de7e59,Lim Chaimin,Lim Chaimin,kr KOR,DF,Jeju United,34,1990,33,29,"2,616",29.1,0,0,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,4,57.1,0.14,0.24,,,,,,,,,,,,,,,,,,,K League 1,2025
+f8553940,Kim Chan,Kim Chan,kr KOR,FW,Gimcheon Sangmu,24,2000,4,0,27,0.3,1,0,1,0,1,1,0,0,3.33,0.00,3.33,0.00,0.00,Matches,0.00,0.00,1,1,100.0,3.33,3.33,,,,,,,,,,,,,,,,,,,K League 1,2025
+7c128e70,Lee Chan-dong,Lee Chan-dong,kr KOR,"MF,DF",Daegu FC,32,1993,12,4,505,5.6,0,1,1,0,0,0,3,0,0.00,0.18,0.18,0.00,0.18,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+18ca22cf,Han Chan-hee,Han Chan-hee,kr KOR,MF,Suwon FC,27,1997,18,16,"1,280",14.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,13,2,15.4,0.14,0.91,,,,,,,,,,,,,,,,,,,K League 1,2025
+18ca22cf,Han Chan-hee,Han Chan-hee,kr KOR,MF,Suwon FC,27,1997,18,16,"1,280",14.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+18ca22cf,Han Chan-hee,Han Chan-hee,kr KOR,MF,Pohang Steelers,27,1997,9,3,384,4.3,0,2,2,0,0,0,1,0,0.00,0.47,0.47,0.00,0.47,Matches,0.00,0.00,13,2,15.4,0.14,0.91,,,,,,,,,,,,,,,,,,,K League 1,2025
+18ca22cf,Han Chan-hee,Han Chan-hee,kr KOR,MF,Pohang Steelers,27,1997,9,3,384,4.3,0,2,2,0,0,0,1,0,0.00,0.47,0.47,0.00,0.47,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+265cd8eb,Park Chan-yong,Park Chan-yong,kr KOR,DF,Pohang Steelers,29,1996,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.25,,,,,,,,,,,,,,,,,,,K League 1,2025
+265cd8eb,Park Chan-yong,Park Chan-yong,kr KOR,DF,Pohang Steelers,29,1996,4,4,360,4.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.11,,,,,,,,,,,,,,,,,,,K League 1,2025
+265cd8eb,Park Chan-yong,Park Chan-yong,kr KOR,DF,Gimcheon Sangmu,29,1996,30,27,"2,466",27.4,0,1,1,0,0,0,0,0,0.00,0.04,0.04,0.00,0.04,Matches,0.00,,1,0,0.0,0.00,0.25,,,,,,,,,,,,,,,,,,,K League 1,2025
+265cd8eb,Park Chan-yong,Park Chan-yong,kr KOR,DF,Gimcheon Sangmu,29,1996,30,27,"2,466",27.4,0,1,1,0,0,0,0,0,0.00,0.04,0.04,0.00,0.04,Matches,0.00,,3,0,0.0,0.00,0.11,,,,,,,,,,,,,,,,,,,K League 1,2025
+7961f7aa,Kwon Chang-hoon,Kwon Chang-hoon,kr KOR,DF,Jeonbuk Hyundai,30,1994,23,1,550,6.1,0,3,3,0,0,0,0,0,0.00,0.49,0.49,0.00,0.49,Matches,0.00,,6,0,0.0,0.00,0.98,,,,,,,,,,,,,,,,,,,K League 1,2025
+703a5565,Lee Chang-keun,Lee Chang-keun,kr KOR,GK,Daejeon Citizen,31,1993,27,27,"2,384",26.5,0,1,1,0,0,0,4,0,0.00,0.04,0.04,0.00,0.04,Matches,,,0,0,,0.00,0.00,7,25.9,27,27,31,1.17,5,"2,384",2,2,0,0.0,0,-141.7,3,12,10,12,K League 1,2025
+90bce33a,Lee Chang-min,Lee Chang-min,kr KOR,MF,Jeju United,31,1994,31,29,"2,481",27.6,2,3,5,2,0,0,6,1,0.07,0.11,0.18,0.07,0.18,Matches,0.14,0.50,14,4,28.6,0.15,0.51,,,,,,,,,,,,,,,,,,,K League 1,2025
+033952ee,Sin Chang-moo,Sin Chang-moo,kr KOR,"FW,MF",Gwangju FC,32,1992,23,15,"1,241",13.8,2,4,6,2,0,0,3,0,0.15,0.29,0.44,0.15,0.44,Matches,0.29,0.67,7,3,42.9,0.22,0.51,,,,,,,,,,,,,,,,,,,K League 1,2025
+84ce3617,Ha Chang-rae,Ha Chang-rae,kr KOR,DF,Daejeon Citizen,30,1994,24,23,"2,027",22.5,0,0,0,0,0,0,8,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.09,,,,,,,,,,,,,,,,,,,K League 1,2025
+8de323e0,Rim Chang-woo,Rim Chang-woo,kr KOR,"DF,MF",Jeju United,32,1992,24,20,"1,780",19.8,1,2,3,1,0,0,5,0,0.05,0.10,0.15,0.05,0.15,Matches,0.14,0.50,7,2,28.6,0.10,0.35,,,,,,,,,,,,,,,,,,,K League 1,2025
+3aa04ad0,Lee Chang-yong,Lee Chang-yong,kr KOR,DF,FC Anyang,34,1990,37,34,"3,046",33.8,2,0,2,2,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches,2.00,2.00,1,1,100.0,0.03,0.03,,,,,,,,,,,,,,,,,,,K League 1,2025
+71e40242,An Changi,An Changi,kr KOR,GK,Jeju United,26,1998,8,7,642,7.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,14.3,8,7,12,1.68,4,642,1,1,0,0.0,0,45.0,14,20,2,1,K League 1,2025
+61ffd835,Lee Changwoo,Lee Changwoo,kr KOR,MF,Pohang Steelers,18,2006,11,6,437,4.9,0,1,1,0,0,0,1,0,0.00,0.21,0.21,0.00,0.21,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+9b46db4a,Lee Chanouk,Lee Chanouk,kr KOR,MF,Gimcheon Sangmu,21,2003,5,3,258,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.70,,,,,,,,,,,,,,,,,,,K League 1,2025
+edbd81c9,Park Cheolwoo,Park Cheolwoo,kr KOR,"DF,FW",Suwon FC,27,1997,4,3,284,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+edbd81c9,Park Cheolwoo,Park Cheolwoo,kr KOR,"DF,FW",Suwon FC,27,1997,4,3,284,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,0.35,,,,,,,,,,,,,,,,,,,K League 1,2025
+edbd81c9,Park Cheolwoo,Park Cheolwoo,kr KOR,DF,Gimcheon Sangmu,27,1997,15,10,"1,035",11.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+edbd81c9,Park Cheolwoo,Park Cheolwoo,kr KOR,DF,Gimcheon Sangmu,27,1997,15,10,"1,035",11.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,4,0,0.0,0.00,0.35,,,,,,,,,,,,,,,,,,,K League 1,2025
+efd8c074,Jung Chiin,Jung Chiin,kr KOR,"MF,FW",Daegu FC,27,1997,31,24,"1,889",21.0,3,1,4,3,0,0,3,0,0.14,0.05,0.19,0.14,0.19,Matches,0.30,0.60,10,5,50.0,0.24,0.48,,,,,,,,,,,,,,,,,,,K League 1,2025
+5b448f41,Choi Chiung,Choi Chiung,kr KOR,FW,Suwon FC,23,2001,13,1,174,1.9,1,0,1,1,0,0,1,0,0.52,0.00,0.52,0.52,0.52,Matches,0.50,1.00,2,1,50.0,0.52,1.03,,,,,,,,,,,,,,,,,,,K League 1,2025
+c7de2245,Hong Chul,Hong Chul,kr KOR,DF,Gangwon FC,34,1990,21,11,894,9.9,1,0,1,1,0,0,3,0,0.10,0.00,0.10,0.10,0.10,Matches,0.50,1.00,2,1,50.0,0.10,0.20,,,,,,,,,,,,,,,,,,,K League 1,2025
+a351b0e9,Choi Chul-soon,Choi Chul-soon,kr KOR,DF,Jeonbuk Hyundai,37,1987,9,8,675,7.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+0393e278,Choi Chulwon,Choi Chulwon,kr KOR,GK,FC Seoul,30,1994,9,7,680,7.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,14.3,9,7,12,1.59,3,680,2,2,0,0.0,0,52.4,11,21,2,2,K League 1,2025
+9c55d736,Park Chung-hyo,Park Chung-hyo,kr KOR,GK,Gangwon FC,34,1990,19,19,"1,691",18.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,8,42.1,19,19,19,1.01,3,"1,691",3,5,1,25.0,1,59.0,24,39,9,7,K League 1,2025
+49b05a83,Lee Chung-yong,Lee Chung-yong,kr KOR,"MF,FW",Ulsan HD,36,1988,24,11,"1,162",12.9,4,3,7,3,1,1,1,0,0.31,0.23,0.54,0.23,0.46,Matches,0.60,0.75,5,4,80.0,0.31,0.39,,,,,,,,,,,,,,,,,,,K League 1,2025
+eb9bcb88,Andrea Compagno,Andrea Compagno,it ITA,FW,Jeonbuk Hyundai,28,1996,26,20,"1,516",16.8,13,1,14,10,3,3,3,0,0.77,0.06,0.83,0.59,0.65,Matches,0.91,1.11,11,9,81.8,0.53,0.65,,,,,,,,,,,,,,,,,,,K League 1,2025
+9cfa4d3f,Mario Čuže,Mario Čuže,hr CRO,"FW,MF",Gangwon FC,25,1999,2,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+00917f74,Kim Da-sol,Kim Da-sol,kr KOR,GK,FC Anyang,36,1989,35,35,"3,120",34.7,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,5,14.3,35,35,42,1.21,16,"3,120",2,3,1,0.0,0,31.0,36,58,6,13,K League 1,2025
+8ab5396a,Park Daehoon,Park Daehoon,kr KOR,FW,Daegu FC,28,1996,25,10,"1,021",11.3,2,0,2,2,0,0,0,0,0.18,0.00,0.18,0.18,0.18,Matches,0.29,0.67,7,3,42.9,0.26,0.62,,,,,,,,,,,,,,,,,,,K League 1,2025
+3edb252e,Kim Daewon,Kim Daewon,kr KOR,"MF,FW",Gangwon FC,27,1997,18,17,"1,464",16.3,2,3,5,2,0,0,4,1,0.12,0.18,0.31,0.12,0.31,Matches,0.11,0.33,19,6,31.6,0.37,1.17,,,,,,,,,,,,,,,,,,,K League 1,2025
+3edb252e,Kim Daewon,Kim Daewon,kr KOR,"MF,FW",Gangwon FC,27,1997,18,17,"1,464",16.3,2,3,5,2,0,0,4,1,0.12,0.18,0.31,0.12,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+3edb252e,Kim Daewon,Kim Daewon,kr KOR,MF,Gimcheon Sangmu,27,1997,11,1,312,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.11,0.33,19,6,31.6,0.37,1.17,,,,,,,,,,,,,,,,,,,K League 1,2025
+3edb252e,Kim Daewon,Kim Daewon,kr KOR,MF,Gimcheon Sangmu,27,1997,11,1,312,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+820488c4,Park Daewon,Park Daewon,kr KOR,DF,Gimcheon Sangmu,26,1998,11,3,458,5.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+3f97ddac,Kim Daewoo,Kim Daewoo,kr KOR,MF,Gangwon FC,24,2000,17,12,"1,050",11.7,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.09,0.09,,,,,,,,,,,,,,,,,,,K League 1,2025
+37cb3ca4,Denilson,Denilson,br BRA,FW,Jeju United,24,2000,8,0,186,2.1,1,0,1,1,0,0,0,0,0.48,0.00,0.48,0.48,0.48,Matches,0.25,0.50,4,2,50.0,0.97,1.94,,,,,,,,,,,,,,,,,,,K League 1,2025
+a342ce1e,Luan Dias,Luan Dias,br BRA,"MF,FW",Suwon FC,27,1997,34,31,"2,701",30.0,5,0,5,5,0,0,5,0,0.17,0.00,0.17,0.17,0.17,Matches,0.20,0.38,25,13,52.0,0.43,0.83,,,,,,,,,,,,,,,,,,,K League 1,2025
+3a8909ce,Kim Dohyun,Kim Dohyun,kr KOR,"MF,DF",Gangwon FC,20,2004,24,4,473,5.3,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.19,0.57,,,,,,,,,,,,,,,,,,,K League 1,2025
+a6828876,Lee Dong-gyeong,Lee Dong-gyeong,kr KOR,"MF,FW",Ulsan HD,27,1997,2,2,180,2.0,0,1,1,0,0,0,0,0,0.00,0.50,0.50,0.00,0.50,Matches,0.00,0.00,4,1,25.0,0.50,2.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+a6828876,Lee Dong-gyeong,Lee Dong-gyeong,kr KOR,"MF,FW",Ulsan HD,27,1997,2,2,180,2.0,0,1,1,0,0,0,0,0,0.00,0.50,0.50,0.00,0.50,Matches,0.33,0.65,33,17,51.5,0.56,1.09,,,,,,,,,,,,,,,,,,,K League 1,2025
+a6828876,Lee Dong-gyeong,Lee Dong-gyeong,kr KOR,FW,Gimcheon Sangmu,27,1997,34,30,"2,725",30.3,13,11,24,11,2,4,1,0,0.43,0.36,0.79,0.36,0.73,Matches,0.00,0.00,4,1,25.0,0.50,2.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+a6828876,Lee Dong-gyeong,Lee Dong-gyeong,kr KOR,FW,Gimcheon Sangmu,27,1997,34,30,"2,725",30.3,13,11,24,11,2,4,1,0,0.43,0.36,0.79,0.36,0.73,Matches,0.33,0.65,33,17,51.5,0.56,1.09,,,,,,,,,,,,,,,,,,,K League 1,2025
+138bbc1f,Kim Dong-jin,Kim Dong-jin,kr KOR,"DF,MF",FC Anyang,32,1992,24,23,"2,054",22.8,0,5,5,0,0,0,4,0,0.00,0.22,0.22,0.00,0.22,Matches,0.00,,4,0,0.0,0.00,0.18,,,,,,,,,,,,,,,,,,,K League 1,2025
+c9a39356,Park Dong-jin,Park Dong-jin,kr KOR,"FW,MF",Jeju United,30,1994,10,6,413,4.6,0,0,0,0,0,1,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.22,0.22,,,,,,,,,,,,,,,,,,,K League 1,2025
+5c44f13c,Kim Dong-jun,Kim Dong-jun,kr KOR,GK,Jeju United,30,1994,31,31,"2,777",30.9,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,8,25.8,31,31,41,1.33,15,"2,777",2,2,0,0.0,0,33.9,37,59,7,9,K League 1,2025
+7d841904,Ji Dong-won,Ji Dong-won,kr KOR,"FW,MF",Suwon FC,33,1991,11,6,450,5.0,0,1,1,0,0,0,0,0,0.00,0.20,0.20,0.00,0.20,Matches,0.00,0.00,4,1,25.0,0.20,0.80,,,,,,,,,,,,,,,,,,,K League 1,2025
+4d331636,Lee Donghee,Lee Donghee,kr KOR,DF,Pohang Steelers,24,2000,14,7,742,8.2,1,0,1,1,0,0,2,1,0.12,0.00,0.12,0.12,0.12,Matches,0.50,1.00,2,1,50.0,0.12,0.24,,,,,,,,,,,,,,,,,,,K League 1,2025
+bfa412a7,Kim Dongheon,Kim Dongheon,kr KOR,GK,Gimcheon Sangmu,27,1997,17,17,"1,530",17.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,6,35.3,17,17,18,1.06,6,"1,530",4,5,0,20.0,1,,,,4,7,K League 1,2025
+56d14d24,Kim Donghwa,Kim Donghwa,kr KOR,GK,Gwangju FC,21,2003,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,1,1,3,3.00,1,90,0,0,0,,0,,,,0,0,K League 1,2025
+863294a7,Lee Donghyeop,Lee Donghyeop,kr KOR,MF,Pohang Steelers,21,2003,3,1,47,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+999d1192,Kim Donghyun,Kim Donghyun,kr KOR,MF,Gangwon FC,27,1997,22,18,"1,401",15.6,1,1,2,0,1,1,1,0,0.06,0.06,0.13,0.00,0.06,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+ef38c606,Kim Dongjin,Kim Dongjin,kr KOR,MF,Pohang Steelers,21,2003,20,17,"1,259",14.0,0,2,2,0,0,0,1,1,0.00,0.14,0.14,0.00,0.14,Matches,0.00,0.00,3,1,33.3,0.07,0.21,,,,,,,,,,,,,,,,,,,K League 1,2025
+96d0b6f0,Lee Dongjun,Lee Dongjun,kr KOR,MF,Gimcheon Sangmu,27,1997,29,14,"1,243",13.8,5,3,8,5,0,0,3,0,0.36,0.22,0.58,0.36,0.58,Matches,0.36,0.71,14,7,50.0,0.51,1.01,,,,,,,,,,,,,,,,,,,K League 1,2025
+96d0b6f0,Lee Dongjun,Lee Dongjun,kr KOR,MF,Gimcheon Sangmu,27,1997,29,14,"1,243",13.8,5,3,8,5,0,0,3,0,0.36,0.22,0.58,0.36,0.58,Matches,1.00,,2,0,0.0,0.00,0.80,,,,,,,,,,,,,,,,,,,K League 1,2025
+96d0b6f0,Lee Dongjun,Lee Dongjun,kr KOR,FW,Jeonbuk Hyundai,27,1997,4,2,226,2.5,2,0,2,2,0,0,0,0,0.80,0.00,0.80,0.80,0.80,Matches,0.36,0.71,14,7,50.0,0.51,1.01,,,,,,,,,,,,,,,,,,,K League 1,2025
+96d0b6f0,Lee Dongjun,Lee Dongjun,kr KOR,FW,Jeonbuk Hyundai,27,1997,4,2,226,2.5,2,0,2,2,0,0,0,0,0.80,0.00,0.80,0.80,0.80,Matches,1.00,,2,0,0.0,0.00,0.80,,,,,,,,,,,,,,,,,,,K League 1,2025
+6e58b36c,Kwon Doyeong,Kwon Doyeong,kr KOR,MF,Suwon FC,21,2003,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+446ae6a7,Yoon Doyong,Yoon Doyong,kr KOR,"MF,FW",Daejeon Citizen,18,2006,12,12,592,6.6,0,1,1,0,0,0,0,0,0.00,0.15,0.15,0.00,0.15,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+42d90da8,Kim Doyoon,Kim Doyoon,kr KOR,"MF,FW",Suwon FC,19,2005,11,8,343,3.8,1,0,1,1,0,0,0,0,0.26,0.00,0.26,0.26,0.26,Matches,0.50,1.00,2,1,50.0,0.26,0.52,,,,,,,,,,,,,,,,,,,K League 1,2025
+816f2cbf,Hwang Doyun,Hwang Doyun,kr KOR,MF,FC Seoul,21,2003,34,27,"2,193",24.4,1,4,5,1,0,0,2,0,0.04,0.16,0.21,0.04,0.21,Matches,0.17,0.50,6,2,33.3,0.08,0.25,,,,,,,,,,,,,,,,,,,K League 1,2025
+3dc941af,Marko Dugandžić,Marko Dugandžić,hr CRO,FW,FC Seoul,30,1994,32,15,"1,319",14.7,4,0,4,4,0,0,5,0,0.27,0.00,0.27,0.27,0.27,Matches,0.67,2.00,6,2,33.3,0.14,0.41,,,,,,,,,,,,,,,,,,,K League 1,2025
+17ae8824,Lim Dugkeun,Lim Dugkeun,kr KOR,MF,Daejeon Citizen,24,2000,3,3,188,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+652d878f,Edgar,Edgar,br BRA,FW,Daegu FC,38,1987,31,7,"1,303",14.5,6,2,8,6,0,0,4,0,0.41,0.14,0.55,0.41,0.55,Matches,0.27,0.67,22,9,40.9,0.62,1.52,,,,,,,,,,,,,,,,,,,K League 1,2025
+828a04fa,Eduardo,Eduardo,br BRA,MF,FC Anyang,28,1997,18,12,"1,019",11.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.26,,,,,,,,,,,,,,,,,,,K League 1,2025
+f50ae991,Erick Farias,Erick Farias,br BRA,FW,Ulsan HD,28,1997,28,23,"2,011",22.3,10,0,10,7,3,3,3,0,0.45,0.00,0.45,0.31,0.31,Matches,0.50,2.33,14,3,21.4,0.13,0.63,,,,,,,,,,,,,,,,,,,K League 1,2025
+5e175384,Hólmbert Friðjónsson,Hólmbert Friðjónsson,is ISL,FW,Gwangju FC,31,1993,9,1,242,2.7,2,0,2,2,0,0,0,0,0.74,0.00,0.74,0.74,0.74,Matches,0.29,0.67,7,3,42.9,1.12,2.60,,,,,,,,,,,,,,,,,,,K League 1,2025
+094c2abd,Vitor Gabriel,Vitor Gabriel,br BRA,FW,Gangwon FC,25,2000,27,16,"1,395",15.5,4,1,5,4,0,0,5,0,0.26,0.06,0.32,0.26,0.32,Matches,0.80,4.00,5,1,20.0,0.06,0.32,,,,,,,,,,,,,,,,,,,K League 1,2025
+f5dfeb5d,João Gamboa,João Gamboa,pt POR,MF,Jeonbuk Hyundai,28,1996,13,4,599,6.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.15,,,,,,,,,,,,,,,,,,,K League 1,2025
+d4e6d83d,Kim Gangsan,Kim Gangsan,kr KOR,"DF,MF",Daegu FC,26,1998,4,4,359,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,1,25.0,0.25,1.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+d4e6d83d,Kim Gangsan,Kim Gangsan,kr KOR,"DF,MF",Daegu FC,26,1998,4,4,359,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.50,0.67,4,3,75.0,0.17,0.22,,,,,,,,,,,,,,,,,,,K League 1,2025
+d4e6d83d,Kim Gangsan,Kim Gangsan,kr KOR,DF,Gimcheon Sangmu,26,1998,19,18,"1,622",18.0,2,0,2,2,0,0,4,0,0.11,0.00,0.11,0.11,0.11,Matches,0.00,0.00,4,1,25.0,0.25,1.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+d4e6d83d,Kim Gangsan,Kim Gangsan,kr KOR,DF,Gimcheon Sangmu,26,1998,19,18,"1,622",18.0,2,0,2,2,0,0,4,0,0.11,0.00,0.11,0.11,0.11,Matches,0.50,0.67,4,3,75.0,0.17,0.22,,,,,,,,,,,,,,,,,,,K League 1,2025
+e27814cc,Samuel Gbato,Samuel Gbato,ci CIV,MF,FC Seoul,18,2006,2,1,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+6bb6684d,Choi Geonju,Choi Geonju,kr KOR,"FW,MF",Daejeon Citizen,25,1999,15,15,943,10.5,4,0,4,4,0,0,2,0,0.38,0.00,0.38,0.38,0.38,Matches,4.00,4.00,1,1,100.0,0.10,0.10,,,,,,,,,,,,,,,,,,,K League 1,2025
+cead8aa3,Geovani,Geovani,br BRA,"MF,FW",Daegu FC,23,2001,11,6,545,6.1,2,0,2,2,0,0,0,0,0.33,0.00,0.33,0.33,0.33,Matches,0.25,0.67,8,3,37.5,0.50,1.32,,,,,,,,,,,,,,,,,,,K League 1,2025
+18c8c3c7,Lee Gihyuk,Lee Gihyuk,kr KOR,DF,Gangwon FC,24,2000,31,25,"2,397",26.6,0,1,1,0,0,0,6,0,0.00,0.04,0.04,0.00,0.04,Matches,0.00,,2,0,0.0,0.00,0.08,,,,,,,,,,,,,,,,,,,K League 1,2025
+cbb61de9,Kim Gun-hee,Kim Gun-hee,kr KOR,FW,Gangwon FC,29,1995,20,12,"1,183",13.1,5,0,5,4,1,1,2,0,0.38,0.00,0.38,0.30,0.30,Matches,0.20,0.40,20,10,50.0,0.76,1.52,,,,,,,,,,,,,,,,,,,K League 1,2025
+9e55849b,Vladislavs Gutkovskis,Vladislavs Gutkovskis,lv LVA,FW,Daejeon Citizen,29,1995,18,5,511,5.7,4,0,4,3,1,1,1,1,0.70,0.00,0.70,0.53,0.53,Matches,1.00,1.50,3,2,66.7,0.35,0.53,,,,,,,,,,,,,,,,,,,K League 1,2025
+25ecad69,Lee Gwangyeon,Lee Gwangyeon,kr KOR,GK,Gangwon FC,25,1999,20,19,"1,729",19.2,0,1,1,0,0,0,1,0,0.00,0.05,0.05,0.00,0.05,Matches,,,0,0,,0.00,0.00,7,36.8,20,19,22,1.15,9,"1,729",1,1,0,0.0,0,,0,0,4,6,K League 1,2025
+be39c302,Min Gyeonghyeon,Min Gyeonghyeon,kr KOR,MF,Gimcheon Sangmu,23,2001,6,1,176,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+6f67ce88,Kim Gyeongjoon,Kim Gyeongjoon,kr KOR,FW,Gimcheon Sangmu,28,1996,7,0,193,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.47,,,,,,,,,,,,,,,,,,,K League 1,2025
+60685a26,Kim Gyeonmin,Kim Gyeonmin,kr KOR,"MF,FW",Suwon FC,28,1997,18,11,875,9.7,0,3,3,0,0,0,0,0,0.00,0.31,0.31,0.00,0.31,Matches,0.00,0.00,9,3,33.3,0.31,0.93,,,,,,,,,,,,,,,,,,,K League 1,2025
+60685a26,Kim Gyeonmin,Kim Gyeonmin,kr KOR,"MF,FW",Suwon FC,28,1997,18,11,875,9.7,0,3,3,0,0,0,0,0,0.00,0.31,0.31,0.00,0.31,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+60685a26,Kim Gyeonmin,Kim Gyeonmin,kr KOR,MF,Gangwon FC,28,1997,14,8,779,8.7,1,0,1,1,0,0,1,1,0.12,0.00,0.12,0.12,0.12,Matches,0.00,0.00,9,3,33.3,0.31,0.93,,,,,,,,,,,,,,,,,,,K League 1,2025
+60685a26,Kim Gyeonmin,Kim Gyeonmin,kr KOR,MF,Gangwon FC,28,1997,14,8,779,8.7,1,0,1,1,0,0,1,1,0.12,0.00,0.12,0.12,0.12,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+253822c4,Lee Gyubaek,Lee Gyubaek,kr KOR,DF,Pohang Steelers,20,2004,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+399d642c,Choi Gyuhyeon,Choi Gyuhyeon,kr KOR,MF,FC Anyang,24,2000,19,9,915,10.2,2,0,2,2,0,0,3,0,0.20,0.00,0.20,0.20,0.20,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+04d3ef28,Lee Gyumin,Lee Gyumin,kr KOR,FW,Pohang Steelers,19,2005,1,0,13,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+87d50cdc,Kim Hajun,Kim Hajun,kr KOR,DF,Jeonbuk Hyundai,22,2002,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+9b5cb7de,Lee Han-do,Lee Han-do,kr KOR,DF,FC Seoul,30,1994,7,6,535,5.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.17,0.50,,,,,,,,,,,,,,,,,,,K League 1,2025
+163de361,Kim Hangil,Kim Hangil,kr KOR,"DF,MF",Gwangju FC,29,1995,18,9,922,10.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+4deb2dfe,Jung Hanmin,Jung Hanmin,kr KOR,FW,FC Seoul,24,2001,13,5,365,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+b90dddb1,Choi Hansol,Choi Hansol,kr KOR,DF,Gangwon FC,27,1997,6,2,245,2.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+3a77c3af,Roh Heedong,Roh Heedong,kr KOR,GK,Gwangju FC,22,2002,5,4,395,4.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,50.0,5,4,4,0.91,0,395,1,1,0,0.0,0,0.0,0,3,1,3,K League 1,2025
+73baf5d0,Lee Heonjae,Lee Heonjae,kr KOR,FW,Pohang Steelers,18,2006,2,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+e2c9de21,Jeong Heontaek,Jeong Heontaek,kr KOR,"DF,MF",Daegu FC,22,2002,10,7,610,6.8,0,1,1,0,0,0,3,0,0.00,0.15,0.15,0.00,0.15,Matches,0.00,,1,0,0.0,0.00,0.15,,,,,,,,,,,,,,,,,,,K League 1,2025
+58e3d593,Hernandes,Hernandes,br BRA,FW,Jeonbuk Hyundai,25,1999,3,1,91,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+58e3d593,Hernandes,Hernandes,br BRA,FW,Jeonbuk Hyundai,25,1999,3,1,91,1.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.15,0.29,13,7,53.8,0.71,1.32,,,,,,,,,,,,,,,,,,,K League 1,2025
+58e3d593,Hernandes,Hernandes,br BRA,"MF,FW",Daejeon Citizen,25,1999,15,4,884,9.8,4,3,7,2,2,2,1,0,0.41,0.31,0.71,0.20,0.51,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+58e3d593,Hernandes,Hernandes,br BRA,"MF,FW",Daejeon Citizen,25,1999,15,4,884,9.8,4,3,7,2,2,2,1,0,0.41,0.31,0.71,0.20,0.51,Matches,0.15,0.29,13,7,53.8,0.71,1.32,,,,,,,,,,,,,,,,,,,K League 1,2025
+558c9a3d,Lee Hojae,Lee Hojae,kr KOR,FW,Pohang Steelers,24,2000,34,32,"2,765",30.7,15,1,16,10,5,7,5,0,0.49,0.03,0.52,0.33,0.36,Matches,0.56,0.77,18,13,72.2,0.42,0.59,,,,,,,,,,,,,,,,,,,K League 1,2025
+56ba7888,Park Hoyoung,Park Hoyoung,kr KOR,"DF,FW",Gangwon FC,25,1999,20,7,881,9.8,0,1,1,0,0,0,4,0,0.00,0.10,0.10,0.00,0.10,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+2cb40392,Lee Huigyun,Lee Huigyun,kr KOR,MF,Ulsan HD,26,1998,26,8,896,10.0,1,1,2,1,0,0,3,0,0.10,0.10,0.20,0.10,0.20,Matches,0.33,,3,0,0.0,0.00,0.30,,,,,,,,,,,,,,,,,,,K League 1,2025
+e4aea221,Kang Huisu,Kang Huisu,kr KOR,MF,Gwangju FC,21,2003,11,4,261,2.9,1,0,1,1,0,0,2,0,0.34,0.00,0.34,0.34,0.34,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+5235e9e6,Oh Huseong,Oh Huseong,kr KOR,MF,Gwangju FC,25,1999,33,15,"1,928",21.4,4,4,8,2,2,2,1,0,0.19,0.19,0.37,0.09,0.28,Matches,0.40,0.67,5,3,60.0,0.14,0.23,,,,,,,,,,,,,,,,,,,K League 1,2025
+f7c18620,Ahn Hyeokju,Ahn Hyeokju,kr KOR,MF,Gwangju FC,20,2004,6,3,144,1.6,0,1,1,0,0,0,0,0,0.00,0.62,0.62,0.00,0.62,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+c3433ad5,Ahn Hyeon-beom,Ahn Hyeon-beom,kr KOR,"DF,FW",Jeonbuk Hyundai,30,1994,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+c3433ad5,Ahn Hyeon-beom,Ahn Hyeon-beom,kr KOR,"DF,FW",Jeonbuk Hyundai,30,1994,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.07,0.20,14,5,35.7,0.61,1.71,,,,,,,,,,,,,,,,,,,K League 1,2025
+c3433ad5,Ahn Hyeon-beom,Ahn Hyeon-beom,kr KOR,MF,Suwon FC,30,1994,18,5,738,8.2,1,2,3,1,0,0,1,0,0.12,0.24,0.37,0.12,0.37,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+c3433ad5,Ahn Hyeon-beom,Ahn Hyeon-beom,kr KOR,MF,Suwon FC,30,1994,18,5,738,8.2,1,2,3,1,0,0,1,0,0.12,0.24,0.37,0.12,0.37,Matches,0.07,0.20,14,5,35.7,0.61,1.71,,,,,,,,,,,,,,,,,,,K League 1,2025
+b851f7a7,Jeong Hyeon-cheol,Jeong Hyeon-cheol,kr KOR,MF,Daegu FC,31,1993,1,1,63,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+e478ba46,Kang Hyeon-mu,Kang Hyeon-mu,kr KOR,GK,FC Seoul,29,1995,31,31,"2,740",30.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,10,32.3,31,31,40,1.31,10,"2,740",4,4,0,0.0,0,-20.0,10,30,11,10,K League 1,2025
+c75a3145,Jo Hyeon-woo,Jo Hyeon-woo,kr KOR,GK,Ulsan HD,33,1991,33,33,"2,970",33.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,9,27.3,33,33,45,1.36,14,"2,970",2,4,0,50.0,2,20.4,27,54,10,9,K League 1,2025
+7bf46719,Joo Hyeon-woo,Joo Hyeon-woo,kr KOR,"MF,DF",FC Anyang,34,1990,7,7,469,5.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+1124d65f,Kim Hyeondeok,Kim Hyeondeok,kr KOR,DF,FC Seoul,20,2004,1,0,1,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+65fad235,Kim Hyeongug,Kim Hyeongug,kr KOR,"MF,FW",Daejeon Citizen,29,1995,26,10,"1,329",14.8,2,3,5,0,2,2,4,0,0.14,0.20,0.34,0.00,0.20,Matches,0.00,0.00,2,1,50.0,0.07,0.14,,,,,,,,,,,,,,,,,,,K League 1,2025
+bcdbe822,Kang Hyeonje,Kang Hyeonje,kr KOR,"MF,FW",Pohang Steelers,22,2002,13,2,341,3.8,1,1,2,1,0,0,0,0,0.26,0.26,0.53,0.26,0.53,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+f8f9b07c,Kim Hyeonjun,Kim Hyeonjun,kr KOR,DF,Daegu FC,22,2002,21,14,"1,482",16.5,3,1,4,3,0,0,1,0,0.18,0.06,0.24,0.18,0.24,Matches,1.00,1.50,3,2,66.7,0.12,0.18,,,,,,,,,,,,,,,,,,,K League 1,2025
+be979b26,Kim Hyeonoh,Kim Hyeonoh,kr KOR,"MF,FW",Daejeon Citizen,17,2007,14,13,366,4.1,1,0,1,1,0,0,0,0,0.25,0.00,0.25,0.25,0.25,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+b88d8478,Han Hyeonseo,Han Hyeonseo,kr KOR,DF,Pohang Steelers,21,2004,21,16,"1,466",16.3,0,1,1,0,0,0,1,0,0.00,0.06,0.06,0.00,0.06,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+ffb5964d,Chae Hyeonu,Chae Hyeonu,kr KOR,MF,FC Anyang,20,2004,33,23,"1,508",16.8,4,0,4,4,0,0,4,0,0.24,0.00,0.24,0.24,0.24,Matches,0.33,1.33,12,3,25.0,0.18,0.72,,,,,,,,,,,,,,,,,,,K League 1,2025
+32028051,Moon Hyunho,Moon Hyunho,kr KOR,GK,Gimcheon Sangmu,21,2003,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,2,4,2.00,2,180,0,0,0,,0,0.0,0,4,0,0,K League 1,2025
+c65a4b65,Lee Hyunsik,Lee Hyunsik,kr KOR,MF,Gimcheon Sangmu,28,1996,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+8d556b4a,Jo Hyuntae,Jo Hyuntae,kr KOR,DF,Gangwon FC,20,2004,3,1,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,1.48,1.48,,,,,,,,,,,,,,,,,,,K League 1,2025
+a4552ad4,Cho Hyuntaek,Cho Hyuntaek,kr KOR,"DF,MF",Ulsan HD,23,2001,11,9,740,8.2,1,1,2,1,0,0,0,0,0.12,0.12,0.24,0.12,0.24,Matches,0.50,1.00,2,1,50.0,0.12,0.24,,,,,,,,,,,,,,,,,,,K League 1,2025
+a4552ad4,Cho Hyuntaek,Cho Hyuntaek,kr KOR,"DF,MF",Ulsan HD,23,2001,11,9,740,8.2,1,1,2,1,0,0,0,0,0.12,0.12,0.24,0.12,0.24,Matches,1.00,,1,0,0.0,0.00,0.07,,,,,,,,,,,,,,,,,,,K League 1,2025
+a4552ad4,Cho Hyuntaek,Cho Hyuntaek,kr KOR,DF,Gimcheon Sangmu,23,2001,18,9,"1,221",13.6,1,2,3,1,0,0,1,0,0.07,0.15,0.22,0.07,0.22,Matches,0.50,1.00,2,1,50.0,0.12,0.24,,,,,,,,,,,,,,,,,,,K League 1,2025
+a4552ad4,Cho Hyuntaek,Cho Hyuntaek,kr KOR,DF,Gimcheon Sangmu,23,2001,18,9,"1,221",13.6,1,2,3,1,0,0,1,0,0.07,0.15,0.22,0.07,0.22,Matches,1.00,,1,0,0.0,0.00,0.07,,,,,,,,,,,,,,,,,,,K League 1,2025
+1cee961c,Kim Hyunwoo,Kim Hyunwoo,kr KOR,DF,Daejeon Citizen,25,1999,9,6,584,6.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+1cee961c,Kim Hyunwoo,Kim Hyunwoo,kr KOR,DF,Daejeon Citizen,25,1999,9,6,584,6.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+1cee961c,Kim Hyunwoo,Kim Hyunwoo,kr KOR,DF,Gimcheon Sangmu,25,1999,2,0,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+1cee961c,Kim Hyunwoo,Kim Hyunwoo,kr KOR,DF,Gimcheon Sangmu,25,1999,2,0,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+c8d05e7a,Lee Hyunyong,Lee Hyunyong,kr KOR,DF,Suwon FC,21,2003,31,24,"2,174",24.2,1,0,1,1,0,0,4,0,0.04,0.00,0.04,0.04,0.04,Matches,0.14,0.50,7,2,28.6,0.08,0.29,,,,,,,,,,,,,,,,,,,K League 1,2025
+23bf644d,Yun Il-lok,Yun Il-lok,kr KOR,"DF,MF",Gangwon FC,32,1992,6,3,268,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.34,,,,,,,,,,,,,,,,,,,K League 1,2025
+52161db0,Park In-hyeok,Park In-hyeok,kr KOR,"FW,MF",Gwangju FC,29,1995,29,14,"1,431",15.9,4,0,4,3,1,1,5,0,0.25,0.00,0.25,0.19,0.19,Matches,0.20,0.43,15,7,46.7,0.44,0.94,,,,,,,,,,,,,,,,,,,K League 1,2025
+c05a99ab,Oh In-pyo,Oh In-pyo,kr KOR,DF,Gimcheon Sangmu,27,1997,13,11,882,9.8,0,1,1,0,0,0,1,0,0.00,0.10,0.10,0.00,0.10,Matches,0.00,0.00,3,2,66.7,0.20,0.31,,,,,,,,,,,,,,,,,,,K League 1,2025
+eed53c90,Yu In-soo,Yu In-soo,kr KOR,"FW,MF",Jeju United,30,1994,34,30,"2,574",28.6,4,1,5,4,0,0,2,1,0.14,0.03,0.17,0.14,0.17,Matches,0.31,0.50,13,8,61.5,0.28,0.45,,,,,,,,,,,,,,,,,,,K League 1,2025
+ae7d1c33,Kim In-sung,Kim In-sung,kr KOR,"MF,FW",Pohang Steelers,35,1989,33,8,"1,217",13.5,3,2,5,3,0,0,2,0,0.22,0.15,0.37,0.22,0.37,Matches,0.60,1.00,5,3,60.0,0.22,0.37,,,,,,,,,,,,,,,,,,,K League 1,2025
+cd4041b9,Kim Ingyun,Kim Ingyun,kr KOR,FW,Daejeon Citizen,26,1998,12,0,390,4.3,2,1,3,2,0,0,3,0,0.46,0.23,0.69,0.46,0.69,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+cd4041b9,Kim Ingyun,Kim Ingyun,kr KOR,FW,Daejeon Citizen,26,1998,12,0,390,4.3,2,1,3,2,0,0,3,0,0.46,0.23,0.69,0.46,0.69,Matches,0.00,,1,0,0.0,0.00,0.69,,,,,,,,,,,,,,,,,,,K League 1,2025
+cd4041b9,Kim Ingyun,Kim Ingyun,kr KOR,FW,Gimcheon Sangmu,26,1998,5,0,131,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+cd4041b9,Kim Ingyun,Kim Ingyun,kr KOR,FW,Gimcheon Sangmu,26,1998,5,0,131,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.69,,,,,,,,,,,,,,,,,,,K League 1,2025
+e923520a,Hwang Injae,Hwang Injae,kr KOR,GK,Pohang Steelers,30,1994,33,33,"2,970",33.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,12,36.4,33,33,31,0.94,9,"2,970",4,5,0,20.0,1,28.9,26,38,8,16,K League 1,2025
+c5c800e6,Hwang Intaek,Hwang Intaek,kr KOR,DF,Suwon FC,21,2003,9,4,315,3.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.29,0.57,,,,,,,,,,,,,,,,,,,K League 1,2025
+8e0321d1,Back Inwoo,Back Inwoo,kr KOR,"MF,FW",Ulsan HD,18,2006,12,11,482,5.4,1,0,1,1,0,0,0,0,0.19,0.00,0.19,0.19,0.19,Matches,0.11,1.00,9,1,11.1,0.19,1.68,,,,,,,,,,,,,,,,,,,K League 1,2025
+2b34a458,Masatoshi Ishida,Masatoshi Ishida,jp JPN,"FW,MF",Daejeon Citizen,29,1995,24,21,"1,540",17.1,6,4,10,6,0,0,2,0,0.35,0.23,0.58,0.35,0.58,Matches,0.46,0.86,13,7,53.8,0.41,0.76,,,,,,,,,,,,,,,,,,,K League 1,2025
+6cb94039,Italo,Italo,br BRA,MF,Jeju United,27,1997,31,27,"2,424",26.9,1,0,1,1,0,0,7,0,0.04,0.00,0.04,0.04,0.04,Matches,0.17,,6,0,0.0,0.00,0.22,,,,,,,,,,,,,,,,,,,K League 1,2025
+6116cf00,Jeong Jae-hee,Jeong Jae-hee,kr KOR,FW,Daejeon Citizen,30,1994,24,2,911,10.1,2,2,4,2,0,0,0,0,0.20,0.20,0.40,0.20,0.40,Matches,0.50,0.67,4,3,75.0,0.30,0.40,,,,,,,,,,,,,,,,,,,K League 1,2025
+f113aefb,Ryu Jae-moon,Ryu Jae-moon,kr KOR,MF,FC Seoul,31,1993,20,14,"1,227",13.6,2,1,3,2,0,0,3,0,0.15,0.07,0.22,0.15,0.22,Matches,0.50,1.00,4,2,50.0,0.15,0.29,,,,,,,,,,,,,,,,,,,K League 1,2025
+600a3008,Oh Jae-suk,Oh Jae-suk,kr KOR,DF,Daejeon Citizen,35,1990,12,8,731,8.1,0,1,1,0,0,0,1,0,0.00,0.12,0.12,0.00,0.12,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+168b3b82,Kim Jae-woo,Kim Jae-woo,kr KOR,DF,Jeju United,26,1998,9,0,44,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+2e6e8be6,Cho Jaehun,Cho Jaehun,kr KOR,FW,Pohang Steelers,21,2003,3,2,76,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+b5f8ec6c,Hwang Jaehwan,Hwang Jaehwan,kr KOR,MF,Gwangju FC,23,2001,2,0,36,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+48087cca,Oh Jaehyeok,Oh Jaehyeok,kr KOR,"MF,FW",Jeju United,22,2002,31,15,"1,424",15.8,1,3,4,1,0,0,1,0,0.06,0.19,0.25,0.06,0.25,Matches,0.17,0.33,6,3,50.0,0.19,0.38,,,,,,,,,,,,,,,,,,,K League 1,2025
+09a163a6,Go Jaehyeon,Go Jaehyeon,kr KOR,FW,Daegu FC,25,1999,5,1,184,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+09a163a6,Go Jaehyeon,Go Jaehyeon,kr KOR,FW,Daegu FC,25,1999,5,1,184,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.39,,,,,,,,,,,,,,,,,,,K League 1,2025
+09a163a6,Go Jaehyeon,Go Jaehyeon,kr KOR,"MF,FW",Gimcheon Sangmu,25,1999,12,4,466,5.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+09a163a6,Go Jaehyeon,Go Jaehyeon,kr KOR,"MF,FW",Gimcheon Sangmu,25,1999,12,4,466,5.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.39,,,,,,,,,,,,,,,,,,,K League 1,2025
+f8833ba8,Mo Jaehyeon,Mo Jaehyeon,kr KOR,MF,Gangwon FC,28,1996,19,16,"1,481",16.5,5,4,9,4,1,1,1,0,0.30,0.24,0.55,0.24,0.49,Matches,0.25,0.44,16,9,56.3,0.55,0.97,,,,,,,,,,,,,,,,,,,K League 1,2025
+f8833ba8,Mo Jaehyeon,Mo Jaehyeon,kr KOR,MF,Gangwon FC,28,1996,19,16,"1,481",16.5,5,4,9,4,1,1,1,0,0.30,0.24,0.55,0.24,0.49,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+f8833ba8,Mo Jaehyeon,Mo Jaehyeon,kr KOR,MF,Gimcheon Sangmu,28,1996,13,11,768,8.5,1,0,1,1,0,0,1,0,0.12,0.00,0.12,0.12,0.12,Matches,0.25,0.44,16,9,56.3,0.55,0.97,,,,,,,,,,,,,,,,,,,K League 1,2025
+f8833ba8,Mo Jaehyeon,Mo Jaehyeon,kr KOR,MF,Gimcheon Sangmu,28,1996,13,11,768,8.5,1,0,1,1,0,0,1,0,0.12,0.00,0.12,0.12,0.12,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+4596dedd,Park Jaehyun,Park Jaehyun,kr KOR,MF,Daegu FC,21,2003,7,1,120,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+feeea28b,Lee Jaeik,Lee Jaeik,kr KOR,DF,Ulsan HD,25,1999,12,6,661,7.3,0,1,1,0,0,0,3,0,0.00,0.14,0.14,0.00,0.14,Matches,0.00,,4,0,0.0,0.00,0.54,,,,,,,,,,,,,,,,,,,K League 1,2025
+025cc566,An Jaejun,An Jaejun,kr KOR,MF,Pohang Steelers,23,2001,6,1,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.32,,,,,,,,,,,,,,,,,,,K League 1,2025
+afe6b963,Seo Jaemin,Seo Jaemin,kr KOR,"DF,MF",Suwon FC,27,1997,24,17,"1,371",15.2,0,1,1,0,0,0,0,0,0.00,0.07,0.07,0.00,0.07,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+edcdc82f,Jeong Jaesang,Jeong Jaesang,kr KOR,"FW,MF",Daegu FC,20,2004,25,17,"1,095",12.2,2,1,3,2,0,0,0,0,0.16,0.08,0.25,0.16,0.25,Matches,0.50,0.67,4,3,75.0,0.25,0.33,,,,,,,,,,,,,,,,,,,K League 1,2025
+95cc4b1d,Yoon Jaeseok,Yoon Jaeseok,kr KOR,"MF,FW",Ulsan HD,21,2003,30,26,"1,098",12.2,1,0,1,1,0,0,3,0,0.08,0.00,0.08,0.08,0.08,Matches,0.25,,4,0,0.0,0.00,0.33,,,,,,,,,,,,,,,,,,,K League 1,2025
+88459881,Kim Jaesung,Kim Jaesung,kr KOR,MF,Suwon FC,25,1999,13,5,549,6.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+1b6452f8,Hwang Jaewon,Hwang Jaewon,kr KOR,"DF,MF",Daegu FC,22,2002,35,34,"3,059",34.0,0,3,3,0,0,0,4,0,0.00,0.09,0.09,0.00,0.09,Matches,0.00,0.00,4,2,50.0,0.06,0.12,,,,,,,,,,,,,,,,,,,K League 1,2025
+ce2ffd27,Lee Jaewon,Lee Jaewon,kr KOR,MF,Suwon FC,27,1997,35,33,"2,915",32.4,2,0,2,2,0,0,5,0,0.06,0.00,0.06,0.06,0.06,Matches,0.15,2.00,13,1,7.7,0.03,0.40,,,,,,,,,,,,,,,,,,,K League 1,2025
+68f7d835,Bak Jaeyong,Bak Jaeyong,kr KOR,FW,Jeonbuk Hyundai,24,2000,13,5,429,4.8,1,0,1,1,0,0,1,0,0.21,0.00,0.21,0.21,0.21,Matches,0.33,0.50,3,2,66.7,0.42,0.63,,,,,,,,,,,,,,,,,,,K League 1,2025
+9fefe5d6,Hwang Jaeyun,Hwang Jaeyun,kr KOR,GK,Suwon FC,21,2003,8,8,719,8.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,12.5,8,8,14,1.75,3,719,3,4,0,25.0,1,59.3,17,27,1,4,K League 1,2025
+378918bd,Park Janghangyeol,Park Janghangyeol,kr KOR,MF,FC Seoul,20,2004,2,0,25,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+79677588,Jatoba,Jatoba,br BRA,MF,Daegu FC,29,1995,8,6,428,4.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.21,,,,,,,,,,,,,,,,,,,K League 1,2025
+3040570c,Yeon Je-woon,Yeon Je-woon,kr KOR,DF,Jeonbuk Hyundai,30,1994,20,9,849,9.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+564be0fa,Yu Jeho,Yu Jeho,kr KOR,MF,Gwangju FC,24,2000,15,7,789,8.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,2,40.0,0.23,0.57,,,,,,,,,,,,,,,,,,,K League 1,2025
+f2fb78a6,Hong Jeong-ho,Hong Jeong-ho,kr KOR,DF,Jeonbuk Hyundai,35,1989,31,30,"2,543",28.3,0,1,1,0,0,0,4,0,0.00,0.04,0.04,0.00,0.04,Matches,0.00,0.00,4,1,25.0,0.04,0.14,,,,,,,,,,,,,,,,,,,K League 1,2025
+41e8bc92,Kim Jeong-Hyun,Kim Jeong-Hyun,kr KOR,MF,FC Anyang,31,1993,26,23,"1,965",21.8,0,0,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.14,,,,,,,,,,,,,,,,,,,K League 1,2025
+de7c8518,Park Jeonghun,Park Jeonghun,kr KOR,"MF,FW",FC Anyang,20,2004,10,5,265,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+3d5de1ad,Kim Jeonghyun,Kim Jeonghyun,kr KOR,MF,Daegu FC,24,2000,26,22,"1,991",22.1,0,2,2,0,0,0,5,0,0.00,0.09,0.09,0.00,0.09,Matches,0.00,0.00,3,1,33.3,0.05,0.14,,,,,,,,,,,,,,,,,,,K League 1,2025
+64d36b21,Park Jeongin,Park Jeongin,kr KOR,MF,Gwangju FC,24,2000,6,1,187,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+72477c42,Hong Jeongun,Hong Jeongun,kr KOR,DF,Daegu FC,30,1994,8,5,389,4.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+415271d2,Eo Jeongwon,Eo Jeongwon,kr KOR,"MF,DF",Pohang Steelers,25,1999,34,30,"2,740",30.4,1,1,2,1,0,0,4,0,0.03,0.03,0.07,0.03,0.07,Matches,0.33,,3,0,0.0,0.00,0.10,,,,,,,,,,,,,,,,,,,K League 1,2025
+b4b76bb7,Lee Jiho,Lee Jiho,kr KOR,"MF,FW",Gangwon FC,22,2002,27,16,"1,565",17.4,4,3,7,4,0,0,2,0,0.23,0.17,0.40,0.23,0.40,Matches,0.80,2.00,5,2,40.0,0.12,0.29,,,,,,,,,,,,,,,,,,,K League 1,2025
+d1d67516,Kang Jihoon,Kang Jihoon,kr KOR,"MF,DF",FC Anyang,28,1997,22,16,"1,380",15.3,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,3,0,0.0,0.00,0.20,,,,,,,,,,,,,,,,,,,K League 1,2025
+08bd7baf,Kim JiHoon,Kim JiHoon,kr KOR,DF,FC Anyang,20,2004,7,1,105,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+ebacc162,Joung Jihun,Joung Jihun,kr KOR,MF,Gwangju FC,20,2004,23,19,970,10.8,1,1,2,1,0,0,4,0,0.09,0.09,0.19,0.09,0.19,Matches,0.17,0.50,6,2,33.3,0.19,0.56,,,,,,,,,,,,,,,,,,,K League 1,2025
+051e2660,Kim Jin-hyuk,Kim Jin-hyuk,kr KOR,DF,Daegu FC,31,1993,9,5,507,5.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.36,,,,,,,,,,,,,,,,,,,K League 1,2025
+90624e56,Lee Jin-hyun,Lee Jin-hyun,kr KOR,"MF,FW",Ulsan HD,27,1997,26,19,"1,671",18.6,1,3,4,1,0,0,2,0,0.05,0.16,0.22,0.05,0.22,Matches,0.25,1.00,4,1,25.0,0.05,0.22,,,,,,,,,,,,,,,,,,,K League 1,2025
+7c0479b1,Kim Jin-kyu,Kim Jin-kyu,kr KOR,MF,Jeonbuk Hyundai,27,1997,35,31,"2,368",26.3,5,6,11,5,0,0,2,0,0.19,0.23,0.42,0.19,0.42,Matches,0.45,0.63,11,8,72.7,0.30,0.42,,,,,,,,,,,,,,,,,,,K League 1,2025
+8e6ff136,Kim Jin-su,Kim Jin-su,kr KOR,DF,FC Seoul,32,1992,37,37,"3,322",36.9,2,8,10,2,0,0,5,0,0.05,0.22,0.27,0.05,0.27,Matches,0.25,0.40,8,5,62.5,0.14,0.22,,,,,,,,,,,,,,,,,,,K League 1,2025
+7f24e11d,Kim Jin-ya,Kim Jin-ya,kr KOR,"DF,MF",FC Seoul,26,1998,5,0,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+7f24e11d,Kim Jin-ya,Kim Jin-ya,kr KOR,"DF,MF",FC Seoul,26,1998,5,0,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+7f24e11d,Kim Jin-ya,Kim Jin-ya,kr KOR,DF,Daejeon Citizen,26,1998,4,2,145,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+7f24e11d,Kim Jin-ya,Kim Jin-ya,kr KOR,DF,Daejeon Citizen,26,1998,4,2,145,1.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+4d39aa4c,Kim Jinho,Kim Jinho,kr KOR,DF,Gwangju FC,25,2000,13,12,995,11.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+2e56fef5,Kim Jinho,Kim Jinho,kr KOR,"MF,FW",Jeju United,18,2006,6,4,181,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.50,,,,,,,,,,,,,,,,,,,K League 1,2025
+f73151a4,Cho Jinhyuk,Cho Jinhyuk,kr KOR,MF,Gangwon FC,24,2000,5,1,192,2.1,2,0,2,2,0,0,1,0,0.94,0.00,0.94,0.94,0.94,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+3316967a,Park Jinseob,Park Jinseob,kr KOR,"MF,DF",Jeonbuk Hyundai,29,1995,35,35,"3,105",34.5,3,3,6,3,0,0,9,0,0.09,0.09,0.17,0.09,0.17,Matches,1.00,1.00,3,3,100.0,0.09,0.09,,,,,,,,,,,,,,,,,,,K League 1,2025
+36c23c13,Park Jinseong,Park Jinseong,kr KOR,"MF,DF",Daejeon Citizen,23,2001,7,6,545,6.1,0,1,1,0,0,0,1,0,0.00,0.17,0.17,0.00,0.17,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+36c23c13,Park Jinseong,Park Jinseong,kr KOR,"MF,DF",Daejeon Citizen,23,2001,7,6,545,6.1,0,1,1,0,0,0,1,0,0.00,0.17,0.17,0.00,0.17,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+36c23c13,Park Jinseong,Park Jinseong,kr KOR,DF,Gimcheon Sangmu,23,2001,3,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+36c23c13,Park Jinseong,Park Jinseong,kr KOR,DF,Gimcheon Sangmu,23,2001,3,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+3b022f77,Seo Jinsu,Seo Jinsu,kr KOR,"FW,MF",Daejeon Citizen,24,2000,16,11,860,9.6,2,1,3,2,0,0,1,0,0.21,0.10,0.31,0.21,0.31,Matches,0.40,1.00,5,2,40.0,0.21,0.52,,,,,,,,,,,,,,,,,,,K League 1,2025
+3b022f77,Seo Jinsu,Seo Jinsu,kr KOR,"FW,MF",Daejeon Citizen,24,2000,16,11,860,9.6,2,1,3,2,0,0,1,0,0.21,0.10,0.31,0.21,0.31,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+3b022f77,Seo Jinsu,Seo Jinsu,kr KOR,FW,Jeju United,24,2000,8,4,334,3.7,1,0,1,0,1,1,0,0,0.27,0.00,0.27,0.00,0.00,Matches,0.40,1.00,5,2,40.0,0.21,0.52,,,,,,,,,,,,,,,,,,,K League 1,2025
+3b022f77,Seo Jinsu,Seo Jinsu,kr KOR,FW,Jeju United,24,2000,8,4,334,3.7,1,0,1,0,1,1,0,0,0.27,0.00,0.27,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+f397920f,Jeon Jinwoo,Jeon Jinwoo,kr KOR,FW,Jeonbuk Hyundai,25,1999,36,31,"2,699",30.0,16,3,19,15,1,1,9,0,0.53,0.10,0.63,0.50,0.60,Matches,1.25,3.00,12,5,41.7,0.17,0.40,,,,,,,,,,,,,,,,,,,K League 1,2025
+b3743cae,Jo Jinwoo,Jo Jinwoo,kr KOR,DF,Daegu FC,25,1999,5,1,203,2.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+468819c5,Lee Jinyong,Lee Jinyong,kr KOR,MF,Daegu FC,23,2001,7,1,229,2.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.39,0.79,,,,,,,,,,,,,,,,,,,K League 1,2025
+7bd9fbfc,Park Jinyoung,Park Jinyoung,kr KOR,DF,Daegu FC,22,2002,16,15,"1,284",14.3,0,1,1,0,0,0,2,0,0.00,0.07,0.07,0.00,0.07,Matches,0.00,,1,0,0.0,0.00,0.07,,,,,,,,,,,,,,,,,,,K League 1,2025
+ff67ef5b,Lee Jisol,Lee Jisol,kr KOR,DF,Suwon FC,25,1999,25,20,"1,855",20.6,1,0,1,1,0,0,6,0,0.05,0.00,0.05,0.05,0.05,Matches,0.25,1.00,4,1,25.0,0.05,0.19,,,,,,,,,,,,,,,,,,,K League 1,2025
+87bae8ac,Yoo Jiun,Yoo Jiun,kr KOR,DF,Daegu FC,20,2004,2,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+c65d1c98,Hong Jiwoo,Hong Jiwoo,kr KOR,MF,Pohang Steelers,21,2003,1,1,45,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+55cb606a,Yuri Jonathan,Yuri Jonathan,br BRA,FW,Jeju United,26,1998,33,21,"2,124",23.6,13,1,14,11,2,3,8,0,0.55,0.04,0.59,0.47,0.51,Matches,0.26,0.65,42,17,40.5,0.72,1.78,,,,,,,,,,,,,,,,,,,K League 1,2025
+c734146f,Lim Jong-eun,Lim Jong-eun,kr KOR,DF,Daejeon Citizen,34,1990,13,8,736,8.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+5b6af1ad,Yoon Jong-gyu,Yoon Jong-gyu,kr KOR,DF,Ulsan HD,26,1998,12,11,"1,008",11.2,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+7c216b30,Baek Jongbum,Baek Jongbum,kr KOR,GK,Gimcheon Sangmu,24,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,2,2,1.00,1,180,0,0,0,,0,0.0,0,2,0,1,K League 1,2025
+683cf5db,Park Jonghyeon,Park Jonghyeon,kr KOR,"MF,DF",FC Anyang,24,2000,9,5,490,5.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+7c47d201,Han Jongmu,Han Jongmu,kr KOR,"MF,FW",Daegu FC,21,2003,25,18,"1,332",14.8,0,2,2,0,0,0,3,0,0.00,0.14,0.14,0.00,0.14,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+0c409e7e,Kim Jongwoo,Kim Jongwoo,kr KOR,"MF,FW",Pohang Steelers,31,1993,13,4,427,4.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.21,0.21,,,,,,,,,,,,,,,,,,,K League 1,2025
+d0cfbba1,Woo Joo-sung,Woo Joo-sung,kr KOR,DF,Daegu FC,31,1993,18,18,"1,620",18.0,0,1,1,0,0,0,1,0,0.00,0.06,0.06,0.00,0.06,Matches,0.00,0.00,6,1,16.7,0.06,0.33,,,,,,,,,,,,,,,,,,,K League 1,2025
+0a51d6b5,Kim JooGong,Kim JooGong,kr KOR,FW,Jeju United,28,1996,7,2,247,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+0a51d6b5,Kim JooGong,Kim JooGong,kr KOR,FW,Jeju United,28,1996,7,2,247,2.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.12,0.33,25,9,36.0,0.50,1.39,,,,,,,,,,,,,,,,,,,K League 1,2025
+0a51d6b5,Kim JooGong,Kim JooGong,kr KOR,FW,Daegu FC,28,1996,20,20,"1,618",18.0,3,1,4,3,0,0,0,0,0.17,0.06,0.22,0.17,0.22,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+0a51d6b5,Kim JooGong,Kim JooGong,kr KOR,FW,Daegu FC,28,1996,20,20,"1,618",18.0,3,1,4,3,0,0,0,0,0.17,0.06,0.22,0.17,0.22,Matches,0.12,0.33,25,9,36.0,0.50,1.39,,,,,,,,,,,,,,,,,,,K League 1,2025
+5049c562,Lee Joohyun,Lee Joohyun,kr KOR,GK,Gimcheon Sangmu,26,1998,14,14,"1,260",14.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,5,35.7,14,14,15,1.07,2,"1,260",0,0,0,,0,53.1,17,32,3,9,K League 1,2025
+c56e1899,Ahn Joon-soo,Ahn Joon-soo,kr KOR,GK,Suwon FC,27,1998,31,30,"2,701",30.0,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,5,16.7,31,30,44,1.47,15,"2,701",2,4,0,50.0,2,0.0,18,42,8,7,K League 1,2025
+db164a2e,Jo Joonhyeon,Jo Joonhyeon,kr KOR,MF,Suwon FC,20,2004,4,1,128,1.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.70,,,,,,,,,,,,,,,,,,,K League 1,2025
+f0456730,Lee JoonSuk,Lee JoonSuk,kr KOR,MF,Suwon FC,24,2000,6,1,139,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+a535c8d1,Song Ju-hun,Song Ju-hun,kr KOR,DF,Jeju United,31,1994,35,35,"3,072",34.1,1,1,2,1,0,0,3,1,0.03,0.03,0.06,0.03,0.06,Matches,0.17,0.20,6,5,83.3,0.15,0.18,,,,,,,,,,,,,,,,,,,K League 1,2025
+27d3e87c,Kim Juchan,Kim Juchan,kr KOR,MF,Gimcheon Sangmu,20,2004,5,4,222,2.5,1,0,1,1,0,0,0,0,0.41,0.00,0.41,0.41,0.41,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+cc44e60e,Kang Juhyeok,Kang Juhyeok,kr KOR,MF,FC Seoul,18,2006,3,1,81,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+39a945ac,Ivan Jukić,Ivan Jukić,ba BIH,"MF,FW",FC Anyang,28,1996,11,4,470,5.2,3,1,4,3,0,0,1,0,0.57,0.19,0.77,0.57,0.77,Matches,0.33,0.38,9,8,88.9,1.53,1.72,,,,,,,,,,,,,,,,,,,K League 1,2025
+9547dffe,Choi Jun,Choi Jun,kr KOR,"DF,MF",FC Seoul,25,1999,32,29,"2,630",29.2,1,1,2,1,0,0,7,1,0.03,0.03,0.07,0.03,0.07,Matches,0.14,0.33,7,3,42.9,0.10,0.24,,,,,,,,,,,,,,,,,,,K League 1,2025
+37f31462,Lee Jun-seo,Lee Jun-seo,kr KOR,GK,Daejeon Citizen,26,1998,11,11,990,11.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,18.2,11,11,15,1.36,4,990,3,3,0,0.0,0,62.5,20,32,1,6,K League 1,2025
+b86e439c,Kim Junbum,Kim Junbum,kr KOR,MF,Daejeon Citizen,27,1998,24,13,"1,253",13.9,3,1,4,3,0,0,2,0,0.22,0.07,0.29,0.22,0.29,Matches,1.00,1.00,3,3,100.0,0.22,0.22,,,,,,,,,,,,,,,,,,,K League 1,2025
+9275ab65,Moon Jungin,Moon Jungin,kr KOR,GK,Ulsan HD,26,1998,5,5,450,5.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,2,40.0,5,5,5,1.00,2,450,0,0,0,,0,-25.0,2,4,1,2,K League 1,2025
+17663711,Kim Jungmin,Kim Jungmin,kr KOR,MF,Jeju United,25,1999,5,1,125,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.72,,,,,,,,,,,,,,,,,,,K League 1,2025
+59235d98,Lee Jungtaek,Lee Jungtaek,kr KOR,DF,Gimcheon Sangmu,26,1998,18,15,"1,377",15.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+5e9995b4,Jang Jungwoo,Jang Jungwoo,kr KOR,FW,FC Anyang,20,2004,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+c3442d16,Lee Jungyu,Lee Jungyu,kr KOR,"MF,FW",Daejeon Citizen,21,2003,19,2,210,2.3,1,0,1,1,0,0,1,0,0.43,0.00,0.43,0.43,0.43,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+6da9f1be,Kim Junha,Kim Junha,kr KOR,"FW,MF",Jeju United,19,2005,31,27,"1,513",16.8,3,1,4,3,0,0,5,1,0.18,0.06,0.24,0.18,0.24,Matches,0.60,3.00,5,1,20.0,0.06,0.30,,,,,,,,,,,,,,,,,,,K League 1,2025
+5603064d,Kang Junhyuk,Kang Junhyuk,kr KOR,"DF,MF",Gangwon FC,25,1999,22,18,"1,624",18.0,0,1,1,0,0,0,1,0,0.00,0.06,0.06,0.00,0.06,Matches,0.00,,3,0,0.0,0.00,0.17,,,,,,,,,,,,,,,,,,,K League 1,2025
+4dedc564,Jin Junseo,Jin Junseo,kr KOR,MF,Gangwon FC,19,2005,2,1,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+609fc015,Song Junseok,Song Junseok,kr KOR,DF,Gangwon FC,23,2001,24,20,"1,833",20.4,0,1,1,0,0,0,10,0,0.00,0.05,0.05,0.00,0.05,Matches,0.00,,5,0,0.0,0.00,0.25,,,,,,,,,,,,,,,,,,,K League 1,2025
+88ad1345,Byun Junsoo,Byun Junsoo,kr KOR,DF,Gwangju FC,23,2001,33,30,"2,786",31.0,2,2,4,2,0,0,7,0,0.06,0.06,0.13,0.06,0.13,Matches,0.67,1.00,3,2,66.7,0.06,0.10,,,,,,,,,,,,,,,,,,,K League 1,2025
+ed4e4488,Kim Jusung,Kim Jusung,kr KOR,DF,FC Seoul,24,2000,23,22,"2,024",22.5,0,1,1,0,0,0,5,0,0.00,0.04,0.04,0.00,0.04,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+a3ca804b,Kim Juyeop,Kim Juyeop,kr KOR,"MF,FW",Suwon FC,24,2000,6,4,265,2.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+9d2c83aa,Kim Kangguk,Kim Kangguk,kr KOR,MF,Gangwon FC,28,1997,25,15,"1,465",16.3,1,1,2,1,0,0,5,0,0.06,0.06,0.12,0.06,0.12,Matches,1.00,1.00,1,1,100.0,0.06,0.06,,,,,,,,,,,,,,,,,,,K League 1,2025
+89573714,Lee Kanghyun,Lee Kanghyun,kr KOR,MF,Gwangju FC,26,1998,33,23,"2,001",22.2,0,1,1,0,0,0,5,1,0.00,0.04,0.04,0.00,0.04,Matches,0.00,0.00,8,1,12.5,0.04,0.36,,,,,,,,,,,,,,,,,,,K League 1,2025
+43dfbf49,Yu Kanghyun,Yu Kanghyun,kr KOR,FW,Daejeon Citizen,28,1996,12,7,461,5.1,2,1,3,2,0,0,1,0,0.39,0.20,0.59,0.39,0.59,Matches,0.40,0.67,5,3,60.0,0.59,0.98,,,,,,,,,,,,,,,,,,,K League 1,2025
+43dfbf49,Yu Kanghyun,Yu Kanghyun,kr KOR,FW,Daejeon Citizen,28,1996,12,7,461,5.1,2,1,3,2,0,0,1,0,0.39,0.20,0.59,0.39,0.59,Matches,2.00,4.00,2,1,50.0,0.09,0.17,,,,,,,,,,,,,,,,,,,K League 1,2025
+43dfbf49,Yu Kanghyun,Yu Kanghyun,kr KOR,FW,Gimcheon Sangmu,28,1996,17,17,"1,047",11.6,4,2,6,4,0,0,1,1,0.34,0.17,0.52,0.34,0.52,Matches,0.40,0.67,5,3,60.0,0.59,0.98,,,,,,,,,,,,,,,,,,,K League 1,2025
+43dfbf49,Yu Kanghyun,Yu Kanghyun,kr KOR,FW,Gimcheon Sangmu,28,1996,17,17,"1,047",11.6,4,2,6,4,0,0,1,1,0.34,0.17,0.52,0.34,0.52,Matches,2.00,4.00,2,1,50.0,0.09,0.17,,,,,,,,,,,,,,,,,,,K League 1,2025
+43ba633b,Han Karam,Han Karam,kr KOR,MF,FC Anyang,26,1998,12,8,603,6.7,1,0,1,1,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches,0.50,1.00,2,1,50.0,0.15,0.30,,,,,,,,,,,,,,,,,,,K League 1,2025
+b8dab818,Kelvin,Kelvin,br BRA,"FW,MF",Daejeon Citizen,27,1997,9,4,475,5.3,0,1,1,0,0,0,0,0,0.00,0.19,0.19,0.00,0.19,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+df416e60,Kim Keon-woong,Kim Keon-woong,kr KOR,MF,Jeju United,27,1997,12,11,885,9.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.10,0.10,,,,,,,,,,,,,,,,,,,K League 1,2025
+cdecfd32,Won Kijong,Won Kijong,kr KOR,"MF,FW",Gimcheon Sangmu,29,1996,21,6,617,6.9,6,0,6,6,0,0,1,0,0.88,0.00,0.88,0.88,0.88,Matches,0.67,1.20,9,5,55.6,0.73,1.31,,,,,,,,,,,,,,,,,,,K League 1,2025
+29c89625,Hanseo Kim,Hanseo Kim,kr KOR,MF,Daejeon Citizen,21,2003,13,8,370,4.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,1,1,100.0,0.24,0.24,,,,,,,,,,,,,,,,,,,K League 1,2025
+0bf3c11c,Patryk Klimala,Patryk Klimala,pl POL,FW,FC Seoul,26,1998,4,1,159,1.8,1,1,2,1,0,0,0,0,0.57,0.57,1.13,0.57,1.13,Matches,1.00,1.00,1,1,100.0,0.57,0.57,,,,,,,,,,,,,,,,,,,K League 1,2025
+ab1ada74,Han Kook-young,Han Kook-young,kr KOR,MF,Jeonbuk Hyundai,34,1990,16,5,592,6.6,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+dbe0034f,Franko Kovačević,Franko Kovačević,hr CRO,FW,Gangwon FC,25,1999,12,5,437,4.9,1,0,1,1,0,0,1,0,0.21,0.00,0.21,0.21,0.21,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+2e755dfe,Anton Krivotsyuk,Anton Krivotsyuk,az AZE,DF,Daejeon Citizen,26,1998,30,28,"2,508",27.9,2,1,3,2,0,0,4,0,0.07,0.04,0.11,0.07,0.11,Matches,1.00,2.00,2,1,50.0,0.04,0.07,,,,,,,,,,,,,,,,,,,K League 1,2025
+2a69bff3,Lee Kunhee,Lee Kunhee,kr KOR,FW,Gimcheon Sangmu,26,1998,5,4,337,3.7,0,1,1,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+2a69bff3,Lee Kunhee,Lee Kunhee,kr KOR,FW,Gimcheon Sangmu,26,1998,5,4,337,3.7,0,1,1,0,0,0,0,0,0.00,0.27,0.27,0.00,0.27,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+2a69bff3,Lee Kunhee,Lee Kunhee,kr KOR,FW,Jeju United,26,1998,6,3,312,3.5,2,1,3,2,0,0,2,0,0.58,0.29,0.87,0.58,0.87,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+2a69bff3,Lee Kunhee,Lee Kunhee,kr KOR,FW,Jeju United,26,1998,6,3,312,3.5,2,1,3,2,0,0,2,0,0.58,0.29,0.87,0.58,0.87,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+b2390654,Shin Kwang-hoon,Shin Kwang-hoon,kr KOR,"DF,MF",Pohang Steelers,37,1987,36,29,"2,279",25.3,0,1,1,0,0,0,7,0,0.00,0.04,0.04,0.00,0.04,Matches,0.00,0.00,2,1,50.0,0.04,0.08,,,,,,,,,,,,,,,,,,,K League 1,2025
+a4f42989,Kim Kyeong-min,Kim Kyeong-min,kr KOR,GK,Gwangju FC,33,1991,33,33,"2,935",32.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,11,33.3,33,33,34,1.04,13,"2,935",6,7,1,0.0,0,33.3,28,42,8,12,K League 1,2025
+47ce67ca,Lee Kyeongtae,Lee Kyeongtae,kr KOR,GK,Daejeon Citizen,29,1995,1,0,46,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,,1,0,2,3.91,0,46,0,0,0,,0,0.0,0,2,0,0,K League 1,2025
+f9552f68,Choi Kyoung-rok,Choi Kyoung-rok,kr KOR,"MF,FW",Gwangju FC,29,1995,32,26,"2,284",25.4,1,4,5,1,0,0,2,0,0.04,0.16,0.20,0.04,0.20,Matches,0.33,,3,0,0.0,0.00,0.12,,,,,,,,,,,,,,,,,,,K League 1,2025
+6a9a47cd,Choi Kyu-baek,Choi Kyu-baek,kr KOR,DF,Suwon FC,31,1994,28,24,"2,131",23.7,1,0,1,1,0,0,2,0,0.04,0.00,0.04,0.04,0.04,Matches,0.14,0.50,7,2,28.6,0.08,0.30,,,,,,,,,,,,,,,,,,,K League 1,2025
+88ed2a5e,Park Kyuhyun,Park Kyuhyun,kr KOR,"DF,MF",Daejeon Citizen,23,2001,13,13,"1,001",11.1,0,1,1,0,0,0,4,1,0.00,0.09,0.09,0.00,0.09,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+ad1516af,Kwon Kyung-won,Kwon Kyung-won,kr KOR,DF,FC Anyang,33,1992,12,12,"1,074",11.9,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,2,40.0,0.17,0.42,,,,,,,,,,,,,,,,,,,K League 1,2025
+6d174988,Roh Kyungho,Roh Kyungho,kr KOR,MF,Suwon FC,24,2000,23,15,"1,250",13.9,2,0,2,2,0,0,4,0,0.14,0.00,0.14,0.14,0.14,Matches,0.40,0.67,5,3,60.0,0.22,0.36,,,,,,,,,,,,,,,,,,,K League 1,2025
+eeac2dfb,Matías Lacava,Matías Lacava,ve VEN,"MF,FW",Ulsan HD,22,2002,24,9,997,11.1,1,2,3,1,0,1,3,0,0.09,0.18,0.27,0.09,0.27,Matches,0.50,,2,0,0.0,0.00,0.18,,,,,,,,,,,,,,,,,,,K League 1,2025
+5a6b9bb9,Bruno Lamas,Bruno Lamas,br BRA,"MF,FW",Daegu FC,30,1994,31,17,"1,796",20.0,4,2,6,2,2,2,2,0,0.20,0.10,0.30,0.10,0.20,Matches,0.10,0.33,20,6,30.0,0.30,1.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+6a3e25c2,Rim Lee,Rim Lee,kr KOR,MF,Daegu FC,21,2003,9,5,356,4.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.25,,,,,,,,,,,,,,,,,,,K League 1,2025
+810e3c74,Jesse Lingard,Jesse Lingard,eng ENG,"FW,MF",FC Seoul,32,1992,34,30,"2,559",28.4,10,4,14,7,3,4,9,0,0.35,0.14,0.49,0.25,0.39,Matches,0.41,1.00,17,7,41.2,0.25,0.60,,,,,,,,,,,,,,,,,,,K League 1,2025
+7a3d0687,Lucas,Lucas,br BRA,MF,FC Seoul,25,1999,31,23,"1,856",20.6,5,1,6,5,0,0,0,0,0.24,0.05,0.29,0.24,0.29,Matches,0.63,0.83,8,6,75.0,0.29,0.39,,,,,,,,,,,,,,,,,,,K League 1,2025
+585fe2f8,Gustav Ludwigson,Gustav Ludwigson,se SWE,"MF,DF",Ulsan HD,31,1993,36,23,"2,434",27.0,5,4,9,5,0,0,2,0,0.18,0.15,0.33,0.18,0.33,Matches,0.28,0.63,18,8,44.4,0.30,0.67,,,,,,,,,,,,,,,,,,,K League 1,2025
+63b74b47,Jorge Luiz,Jorge Luiz,br BRA,FW,Pohang Steelers,25,1999,36,26,"2,623",29.1,5,5,10,4,1,1,3,0,0.17,0.17,0.34,0.14,0.31,Matches,0.17,0.44,23,9,39.1,0.31,0.79,,,,,,,,,,,,,,,,,,,K League 1,2025
+60a5d86b,Park Manho,Park Manho,kr KOR,GK,Daegu FC,20,2004,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,0,0.0,2,2,6,3.00,2,180,1,1,0,0.0,0,,,,0,0,K League 1,2025
+7e57dcf9,Marcão,Marcão,br BRA,FW,Ulsan HD,30,1994,9,3,435,4.8,3,0,3,3,0,0,0,0,0.62,0.00,0.62,0.62,0.62,Matches,0.43,1.00,7,3,42.9,0.62,1.45,,,,,,,,,,,,,,,,,,,K League 1,2025
+fda832c5,Caio Marcelo,Caio Marcelo,br BRA,DF,Daegu FC,26,1998,32,31,"2,756",30.6,5,2,7,5,0,0,3,2,0.16,0.07,0.23,0.16,0.23,Matches,1.00,1.67,5,3,60.0,0.10,0.16,,,,,,,,,,,,,,,,,,,K League 1,2025
+5cd0e178,Jeon Min-gwang,Jeon Min-gwang,kr KOR,DF,Pohang Steelers,32,1993,37,36,"3,249",36.1,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.03,,,,,,,,,,,,,,,,,,,K League 1,2025
+a9cd77f7,Kim Min-hyeok,Kim Min-hyeok,kr KOR,MF,Ulsan HD,32,1992,15,9,780,8.7,0,0,0,0,0,0,9,2,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.12,,,,,,,,,,,,,,,,,,,K League 1,2025
+0c0b7996,Lim Min-hyeok,Lim Min-hyeok,kr KOR,MF,FC Anyang,27,1997,6,1,155,1.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.58,,,,,,,,,,,,,,,,,,,K League 1,2025
+b7e6f5fe,Lee Min-ki,Lee Min-ki,kr KOR,DF,Gwangju FC,31,1993,10,5,477,5.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+aa128730,Joo Min-kyu,Joo Min-kyu,kr KOR,FW,Daejeon Citizen,34,1990,34,24,"2,314",25.7,14,4,18,11,3,4,3,0,0.54,0.16,0.70,0.43,0.58,Matches,1.10,1.83,10,6,60.0,0.23,0.39,,,,,,,,,,,,,,,,,,,K League 1,2025
+130281c0,Lee Min-soo,Lee Min-soo,kr KOR,MF,FC Anyang,33,1992,7,0,138,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.65,,,,,,,,,,,,,,,,,,,K League 1,2025
+cdd82dc4,Kim Minduk,Kim Minduk,kr KOR,DF,Daejeon Citizen,28,1996,12,11,997,11.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.09,,,,,,,,,,,,,,,,,,,K League 1,2025
+cdd82dc4,Kim Minduk,Kim Minduk,kr KOR,DF,Daejeon Citizen,28,1996,12,11,997,11.1,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+cdd82dc4,Kim Minduk,Kim Minduk,kr KOR,DF,Gimcheon Sangmu,28,1996,7,6,461,5.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.09,,,,,,,,,,,,,,,,,,,K League 1,2025
+cdd82dc4,Kim Minduk,Kim Minduk,kr KOR,DF,Gimcheon Sangmu,28,1996,7,6,461,5.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+c9237648,Jang Mingyu,Jang Mingyu,kr KOR,DF,Jeju United,25,1999,35,14,"1,660",18.4,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.05,,,,,,,,,,,,,,,,,,,K League 1,2025
+b343eab8,Shin Minha,Shin Minha,kr KOR,DF,Gangwon FC,19,2005,29,27,"2,323",25.8,1,1,2,1,0,0,3,0,0.04,0.04,0.08,0.04,0.08,Matches,0.20,1.00,5,1,20.0,0.04,0.19,,,,,,,,,,,,,,,,,,,K League 1,2025
+a2c3a7b5,Kim Minho,Kim Minho,kr KOR,MF,FC Anyang,22,2003,1,1,31,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+bd6dac23,Kong Minhyu,Kong Minhyu,kp PRK,FW,FC Anyang,35,1990,29,10,866,9.6,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,4,2,50.0,0.21,0.42,,,,,,,,,,,,,,,,,,,K League 1,2025
+b90dd730,Kim Minjoon,Kim Minjoon,kr KOR,FW,Daegu FC,18,2006,6,3,221,2.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+1c3e60fc,Kang Minjun,Kang Minjun,kr KOR,"MF,DF",Pohang Steelers,21,2003,27,17,"1,587",17.6,0,2,2,0,0,0,4,0,0.00,0.11,0.11,0.00,0.11,Matches,0.00,,2,0,0.0,0.00,0.11,,,,,,,,,,,,,,,,,,,K League 1,2025
+5c47fcbd,Kim Minjun,Kim Minjun,kr KOR,"MF,FW",Gangwon FC,24,2000,9,6,441,4.9,0,1,1,0,0,0,0,0,0.00,0.20,0.20,0.00,0.20,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+8fe02d3b,Kim Minkyu,Kim Minkyu,kr KOR,DF,Gimcheon Sangmu,26,1998,5,5,350,3.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+97d38555,Song Minkyu,Song Minkyu,kr KOR,FW,Jeonbuk Hyundai,25,1999,35,33,"2,285",25.4,5,2,7,5,0,0,3,0,0.20,0.08,0.28,0.20,0.28,Matches,0.29,1.00,17,5,29.4,0.20,0.67,,,,,,,,,,,,,,,,,,,K League 1,2025
+411544b3,Moon Minseo,Moon Minseo,kr KOR,"MF,FW",Gwangju FC,20,2004,30,16,953,10.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,7,3,42.9,0.28,0.66,,,,,,,,,,,,,,,,,,,K League 1,2025
+583ebb1a,Park Minseo,Park Minseo,kr KOR,"DF,MF",Ulsan HD,24,2000,16,13,"1,124",12.5,1,1,2,1,0,0,4,0,0.08,0.08,0.16,0.08,0.16,Matches,0.17,,6,0,0.0,0.00,0.48,,,,,,,,,,,,,,,,,,,K League 1,2025
+976921d0,Kang Minwoo,Kang Minwoo,kr KOR,DF,Ulsan HD,18,2006,6,3,231,2.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+662f05ad,Seo Minwoo,Seo Minwoo,kr KOR,MF,Gangwon FC,26,1998,16,15,"1,303",14.5,1,0,1,1,0,0,4,0,0.07,0.00,0.07,0.07,0.07,Matches,0.50,,2,0,0.0,0.00,0.14,,,,,,,,,,,,,,,,,,,K League 1,2025
+662f05ad,Seo Minwoo,Seo Minwoo,kr KOR,MF,Gangwon FC,26,1998,16,15,"1,303",14.5,1,0,1,1,0,0,4,0,0.07,0.00,0.07,0.07,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+662f05ad,Seo Minwoo,Seo Minwoo,kr KOR,MF,Gimcheon Sangmu,26,1998,15,15,"1,317",14.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.50,,2,0,0.0,0.00,0.14,,,,,,,,,,,,,,,,,,,K League 1,2025
+662f05ad,Seo Minwoo,Seo Minwoo,kr KOR,MF,Gimcheon Sangmu,26,1998,15,15,"1,317",14.6,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+6bce7dd8,Kim Moonhwan,Kim Moonhwan,kr KOR,DF,Daejeon Citizen,29,1995,24,19,"1,817",20.2,0,2,2,0,0,0,4,0,0.00,0.10,0.10,0.00,0.10,Matches,0.00,0.00,1,1,100.0,0.05,0.05,,,,,,,,,,,,,,,,,,,K League 1,2025
+89ff1b5d,Bruno Mota,Bruno Mota,br BRA,FW,FC Anyang,28,1996,37,28,"2,639",29.3,14,3,17,13,1,2,6,0,0.48,0.10,0.58,0.44,0.55,Matches,0.46,1.08,28,12,42.9,0.41,0.95,,,,,,,,,,,,,,,,,,,K League 1,2025
+08d00071,Lee Myung-jae,Lee Myung-jae,kr KOR,DF,Daejeon Citizen,31,1993,15,14,"1,281",14.2,2,3,5,2,0,0,0,0,0.14,0.21,0.35,0.14,0.35,Matches,0.67,2.00,3,1,33.3,0.07,0.21,,,,,,,,,,,,,,,,,,,K League 1,2025
+5e7f7aa0,Seo Myungguan,Seo Myungguan,kr KOR,DF,Ulsan HD,22,2002,21,17,"1,580",17.6,1,0,1,1,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches,1.00,,1,0,0.0,0.00,0.06,,,,,,,,,,,,,,,,,,,K League 1,2025
+6dee0d6c,Oberdan,Oberdan,br BRA,MF,Pohang Steelers,29,1995,31,31,"2,675",29.7,6,0,6,6,0,0,4,1,0.20,0.00,0.20,0.20,0.20,Matches,0.60,1.00,10,6,60.0,0.20,0.34,,,,,,,,,,,,,,,,,,,K League 1,2025
+070f654b,Mohamed Ofkir,Mohamed Ofkir,no NOR,"MF,FW",Suwon FC,28,1996,10,2,390,4.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+8d488a4a,Bruno Oliveira,Bruno Oliveira,br BRA,DF,Gwangju FC,28,1996,7,4,349,3.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+df0d179d,Matheus Oliveira Santos,Matheus Oliveira Santos,br BRA,"FW,MF",FC Anyang,27,1997,35,29,"2,578",28.6,10,5,15,10,0,1,5,1,0.35,0.17,0.52,0.35,0.52,Matches,0.50,0.91,20,11,55.0,0.38,0.70,,,,,,,,,,,,,,,,,,,K League 1,2025
+5dd7d165,Tiago Orobó,Tiago Orobó,br BRA,FW,Jeonbuk Hyundai,31,1993,30,13,"1,518",16.9,9,6,15,7,2,2,8,0,0.53,0.36,0.89,0.42,0.77,Matches,0.39,0.70,18,10,55.6,0.59,1.07,,,,,,,,,,,,,,,,,,,K League 1,2025
+b9c19ad9,Thomas Oude Kotte,Thomas Oude Kotte,nl NED,"DF,MF",FC Anyang,28,1996,37,34,"3,110",34.6,3,2,5,3,0,0,5,0,0.09,0.06,0.14,0.09,0.14,Matches,0.43,0.75,7,4,57.1,0.12,0.20,,,,,,,,,,,,,,,,,,,K League 1,2025
+f27c48db,Pedrinho,Pedrinho,br BRA,MF,Jeju United,22,2002,9,2,185,2.1,0,2,2,0,0,0,0,0,0.00,0.97,0.97,0.00,0.97,Matches,0.00,,1,0,0.0,0.00,0.49,,,,,,,,,,,,,,,,,,,K League 1,2025
+ac838fac,Yoon Pyungguk,Yoon Pyungguk,kr KOR,GK,Pohang Steelers,32,1992,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,3,3,7,2.33,3,270,0,0,0,,0,-75.0,0,4,0,0,K League 1,2025
+3cc9e2d1,Isnairo Reis,Isnairo Reis,br BRA,FW,Gwangju FC,32,1993,37,36,"3,280",36.4,10,2,12,9,1,1,2,0,0.27,0.05,0.33,0.25,0.30,Matches,0.43,0.82,21,11,52.4,0.30,0.58,,,,,,,,,,,,,,,,,,,K League 1,2025
+e7540cda,Juninho Rocha,Juninho Rocha,br BRA,"MF,FW",Pohang Steelers,27,1997,28,20,"1,573",17.5,2,2,4,2,0,0,4,0,0.11,0.11,0.23,0.11,0.23,Matches,0.18,0.40,11,5,45.5,0.29,0.63,,,,,,,,,,,,,,,,,,,K League 1,2025
+38ea198d,Kim Ryunseong,Kim Ryunseong,kr KOR,"DF,MF",Jeju United,22,2002,35,34,"2,847",31.6,1,5,6,1,0,0,6,1,0.03,0.16,0.19,0.03,0.19,Matches,0.20,0.33,5,3,60.0,0.09,0.16,,,,,,,,,,,,,,,,,,,K League 1,2025
+789af70e,Pablo Sabbag,Pablo Sabbag,sy SYR,FW,Suwon FC,27,1997,34,29,"2,635",29.3,17,1,18,15,2,2,5,0,0.58,0.03,0.61,0.51,0.55,Matches,0.31,0.50,49,30,61.2,1.02,1.67,,,,,,,,,,,,,,,,,,,K League 1,2025
+1df5c2bc,Choi San,Choi San,kr KOR,"MF,FW",Suwon FC,18,2006,2,2,69,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+12885cbe,Min Sang-gi,Min Sang-gi,kr KOR,DF,Gwangju FC,33,1991,16,12,"1,022",11.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+e0672ada,Lee Sang-heon,Lee Sang-heon,kr KOR,FW,Gangwon FC,26,1998,30,24,"1,952",21.7,4,1,5,4,0,0,4,0,0.18,0.05,0.23,0.18,0.23,Matches,0.57,1.00,7,4,57.1,0.18,0.32,,,,,,,,,,,,,,,,,,,K League 1,2025
+5c28bdc3,Sim Sang-min,Sim Sang-min,kr KOR,DF,Gwangju FC,31,1993,19,16,"1,335",14.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.07,,,,,,,,,,,,,,,,,,,K League 1,2025
+d9ef4dbc,Kang Sang-woo,Kang Sang-woo,kr KOR,"DF,MF",Ulsan HD,31,1993,32,25,"2,310",25.7,1,1,2,1,0,0,4,0,0.04,0.04,0.08,0.04,0.08,Matches,0.33,1.00,3,1,33.3,0.04,0.12,,,,,,,,,,,,,,,,,,,K League 1,2025
+416a0ca6,Cho Sanghyeok,Cho Sanghyeok,kr KOR,FW,Pohang Steelers,21,2004,25,3,642,7.1,2,1,3,2,0,0,0,0,0.28,0.14,0.42,0.28,0.42,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+711cba8c,Park Sanghyeok,Park Sanghyeok,kr KOR,FW,Gangwon FC,22,2002,4,2,242,2.7,2,0,2,2,0,0,0,0,0.74,0.00,0.74,0.74,0.74,Matches,0.67,0.67,3,3,100.0,1.12,1.12,,,,,,,,,,,,,,,,,,,K League 1,2025
+711cba8c,Park Sanghyeok,Park Sanghyeok,kr KOR,FW,Gangwon FC,22,2002,4,2,242,2.7,2,0,2,2,0,0,0,0,0.74,0.00,0.74,0.74,0.74,Matches,0.77,2.50,13,4,30.8,0.20,0.66,,,,,,,,,,,,,,,,,,,K League 1,2025
+711cba8c,Park Sanghyeok,Park Sanghyeok,kr KOR,FW,Gimcheon Sangmu,22,2002,33,16,"1,768",19.6,10,2,12,10,0,0,4,0,0.51,0.10,0.61,0.51,0.61,Matches,0.67,0.67,3,3,100.0,1.12,1.12,,,,,,,,,,,,,,,,,,,K League 1,2025
+711cba8c,Park Sanghyeok,Park Sanghyeok,kr KOR,FW,Gimcheon Sangmu,22,2002,33,16,"1,768",19.6,10,2,12,10,0,0,4,0,0.51,0.10,0.61,0.51,0.61,Matches,0.77,2.50,13,4,30.8,0.20,0.66,,,,,,,,,,,,,,,,,,,K League 1,2025
+630b4f37,Shin Sangun,Shin Sangun,kr KOR,"MF,FW",Daejeon Citizen,25,1999,6,4,254,2.8,1,0,1,1,0,0,0,0,0.35,0.00,0.35,0.35,0.35,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+630b4f37,Shin Sangun,Shin Sangun,kr KOR,"MF,FW",Daejeon Citizen,25,1999,6,4,254,2.8,1,0,1,1,0,0,0,0,0.35,0.00,0.35,0.35,0.35,Matches,0.11,0.25,9,4,44.4,1.22,2.75,,,,,,,,,,,,,,,,,,,K League 1,2025
+630b4f37,Shin Sangun,Shin Sangun,kr KOR,FW,Jeju United,25,1999,10,0,295,3.3,1,1,2,1,0,0,0,0,0.31,0.31,0.61,0.31,0.61,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+630b4f37,Shin Sangun,Shin Sangun,kr KOR,FW,Jeju United,25,1999,10,0,295,3.3,1,1,2,1,0,0,0,0,0.31,0.31,0.61,0.31,0.61,Matches,0.11,0.25,9,4,44.4,1.22,2.75,,,,,,,,,,,,,,,,,,,K League 1,2025
+834e848d,Ji Sangwook,Ji Sangwook,kr KOR,FW,Jeju United,22,2003,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,45.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+046d9594,Lee Sangyong,Lee Sangyong,kr KOR,DF,FC Anyang,30,1994,2,0,96,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+40276392,Kang Sangyoon,Kang Sangyoon,kr KOR,MF,Jeonbuk Hyundai,20,2004,34,31,"2,578",28.6,0,4,4,0,0,0,2,0,0.00,0.14,0.14,0.00,0.14,Matches,0.00,0.00,4,1,25.0,0.03,0.14,,,,,,,,,,,,,,,,,,,K League 1,2025
+ca8ca082,Ju Se-jong,Ju Se-jong,kr KOR,MF,Gwangju FC,34,1990,21,10,826,9.2,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+02ad10de,Park Sejin,Park Sejin,kr KOR,FW,Gimcheon Sangmu,20,2004,14,3,344,3.8,1,0,1,1,0,0,0,0,0.26,0.00,0.26,0.26,0.26,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+02ad10de,Park Sejin,Park Sejin,kr KOR,FW,Gimcheon Sangmu,20,2004,14,3,344,3.8,1,0,1,1,0,0,0,0,0.26,0.00,0.26,0.26,0.26,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+02ad10de,Park Sejin,Park Sejin,kr KOR,FW,Daegu FC,20,2004,3,3,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+02ad10de,Park Sejin,Park Sejin,kr KOR,FW,Daegu FC,20,2004,3,3,135,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+5b66c012,Hwang Seok-ho,Hwang Seok-ho,kr KOR,DF,Ulsan HD,35,1989,3,3,225,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+2b5e2806,Choi Seokhyun,Choi Seokhyun,kr KOR,"DF,MF",Ulsan HD,22,2003,23,8,715,7.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.13,,,,,,,,,,,,,,,,,,,K League 1,2025
+61c75363,Moon Seon-min,Moon Seon-min,kr KOR,"MF,FW",FC Seoul,32,1992,35,7,"1,616",18.0,6,3,9,6,0,0,1,0,0.33,0.17,0.50,0.33,0.50,Matches,0.67,2.00,9,3,33.3,0.17,0.50,,,,,,,,,,,,,,,,,,,K League 1,2025
+245ed47f,Cho Seonggwon,Cho Seonggwon,kr KOR,DF,Gwangju FC,23,2001,34,31,"2,846",31.6,2,1,3,2,0,0,6,0,0.06,0.03,0.09,0.06,0.09,Matches,0.29,1.00,7,2,28.6,0.06,0.22,,,,,,,,,,,,,,,,,,,K League 1,2025
+f1333503,Cheon Seonghoon,Cheon Seonghoon,kr KOR,FW,FC Seoul,24,2000,9,0,67,0.7,1,0,1,1,0,0,0,0,1.34,0.00,1.34,1.34,1.34,Matches,1.00,1.00,1,1,100.0,1.34,1.34,,,,,,,,,,,,,,,,,,,K League 1,2025
+20e1537f,Park Seonghoon,Park Seonghoon,kr KOR,DF,FC Seoul,22,2003,15,12,"1,042",11.6,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09,Matches,0.33,1.00,3,1,33.3,0.09,0.26,,,,,,,,,,,,,,,,,,,K League 1,2025
+be1593ec,Kang Seongjin,Kang Seongjin,kr KOR,MF,FC Seoul,21,2003,5,1,124,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+c646973b,Hong Seongmin,Hong Seongmin,kr KOR,GK,Pohang Steelers,18,2006,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,0.0,2,2,8,4.00,2,180,0,0,0,,0,0.0,0,8,0,0,K League 1,2025
+715dfd8e,Maeng Seongung,Maeng Seongung,kr KOR,MF,Gimcheon Sangmu,26,1998,18,16,"1,348",15.0,1,2,3,1,0,0,3,0,0.07,0.13,0.20,0.07,0.20,Matches,0.13,0.50,8,2,25.0,0.13,0.53,,,,,,,,,,,,,,,,,,,K League 1,2025
+715dfd8e,Maeng Seongung,Maeng Seongung,kr KOR,MF,Gimcheon Sangmu,26,1998,18,16,"1,348",15.0,1,2,3,1,0,0,3,0,0.07,0.13,0.20,0.07,0.20,Matches,0.00,,1,0,0.0,0.00,0.33,,,,,,,,,,,,,,,,,,,K League 1,2025
+715dfd8e,Maeng Seongung,Maeng Seongung,kr KOR,MF,Jeonbuk Hyundai,26,1998,4,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.13,0.50,8,2,25.0,0.13,0.53,,,,,,,,,,,,,,,,,,,K League 1,2025
+715dfd8e,Maeng Seongung,Maeng Seongung,kr KOR,MF,Jeonbuk Hyundai,26,1998,4,3,270,3.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.33,,,,,,,,,,,,,,,,,,,K League 1,2025
+c930a750,Jang SeongWon,Jang SeongWon,kr KOR,"MF,DF",Daegu FC,27,1997,21,16,"1,488",16.5,1,2,3,1,0,0,1,0,0.06,0.12,0.18,0.06,0.18,Matches,1.00,1.00,1,1,100.0,0.06,0.06,,,,,,,,,,,,,,,,,,,K League 1,2025
+2eb888ae,Moon Seongwoo,Moon Seongwoo,kr KOR,MF,FC Anyang,21,2003,19,12,897,10.0,1,1,2,1,0,0,1,0,0.10,0.10,0.20,0.10,0.20,Matches,0.20,0.50,5,2,40.0,0.20,0.50,,,,,,,,,,,,,,,,,,,K League 1,2025
+77111930,Hwang Seoung,Hwang Seoung,kr KOR,"MF,FW",Pohang Steelers,20,2005,12,2,187,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+292c4ba7,Kim Seung-dae,Kim Seung-dae,kr KOR,"FW,MF",Daejeon Citizen,33,1991,4,0,54,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+9b5af452,Lim Seung-gyeom,Lim Seung-gyeom,kr KOR,DF,FC Anyang,29,1995,1,0,7,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+87162eb6,Oh Seung-hoon,Oh Seung-hoon,kr KOR,GK,Daegu FC,36,1988,17,17,"1,530",17.0,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,5.9,17,17,31,1.82,10,"1,530",4,5,1,0.0,0,25.0,20,36,5,2,K League 1,2025
+e0446c82,Jung Seung-hyun,Jung Seung-hyun,kr KOR,DF,Ulsan HD,30,1994,13,13,"1,080",12.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,6,1,16.7,0.08,0.50,,,,,,,,,,,,,,,,,,,K League 1,2025
+2fc16a80,Lee Seung-mo,Lee Seung-mo,kr KOR,MF,FC Seoul,26,1998,33,17,"1,554",17.3,1,1,2,1,0,0,3,0,0.06,0.06,0.12,0.06,0.12,Matches,0.11,,9,0,0.0,0.00,0.52,,,,,,,,,,,,,,,,,,,K League 1,2025
+0f22b650,Lee Seung-woo,Lee Seung-woo,kr KOR,"MF,FW",Jeonbuk Hyundai,27,1998,25,8,872,9.7,4,2,6,3,1,1,6,0,0.41,0.21,0.62,0.31,0.52,Matches,0.25,0.60,12,5,41.7,0.52,1.24,,,,,,,,,,,,,,,,,,,K League 1,2025
+39562e67,Jung Seungbae,Jung Seungbae,kr KOR,MF,Suwon FC,21,2003,14,2,218,2.4,1,0,1,1,0,0,0,0,0.41,0.00,0.41,0.41,0.41,Matches,0.50,1.00,2,1,50.0,0.41,0.83,,,,,,,,,,,,,,,,,,,K League 1,2025
+4ce171db,Ko Seungbeom,Ko Seungbeom,kr KOR,MF,Ulsan HD,30,1994,29,29,"2,530",28.1,3,3,6,3,0,0,8,0,0.11,0.11,0.21,0.11,0.21,Matches,0.27,0.75,11,4,36.4,0.14,0.39,,,,,,,,,,,,,,,,,,,K League 1,2025
+defacdc6,Son Seungbeom,Son Seungbeom,kr KOR,MF,FC Seoul,20,2004,5,3,171,1.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+3f5922fa,Kim Seungsub,Kim Seungsub,kr KOR,MF,Jeju United,28,1996,4,1,216,2.4,1,0,1,1,0,0,0,0,0.42,0.00,0.42,0.42,0.42,Matches,0.25,,4,0,0.0,0.00,1.67,,,,,,,,,,,,,,,,,,,K League 1,2025
+3f5922fa,Kim Seungsub,Kim Seungsub,kr KOR,MF,Jeju United,28,1996,4,1,216,2.4,1,0,1,1,0,0,0,0,0.42,0.00,0.42,0.42,0.42,Matches,0.23,0.44,30,16,53.3,0.57,1.08,,,,,,,,,,,,,,,,,,,K League 1,2025
+3f5922fa,Kim Seungsub,Kim Seungsub,kr KOR,MF,Gimcheon Sangmu,28,1996,33,33,"2,506",27.8,7,3,10,7,0,0,1,0,0.25,0.11,0.36,0.25,0.36,Matches,0.25,,4,0,0.0,0.00,1.67,,,,,,,,,,,,,,,,,,,K League 1,2025
+3f5922fa,Kim Seungsub,Kim Seungsub,kr KOR,MF,Gimcheon Sangmu,28,1996,33,33,"2,506",27.8,7,3,10,7,0,0,1,0,0.25,0.11,0.36,0.25,0.36,Matches,0.23,0.44,30,16,53.3,0.57,1.08,,,,,,,,,,,,,,,,,,,K League 1,2025
+9a7727b5,Ha Seungun,Ha Seungun,kr KOR,"DF,MF",Gwangju FC,26,1998,19,7,916,10.2,1,1,2,1,0,0,3,0,0.10,0.10,0.20,0.10,0.20,Matches,0.33,0.50,3,2,66.7,0.20,0.29,,,,,,,,,,,,,,,,,,,K League 1,2025
+7f4b180f,Jeong Seungwon,Jeong Seungwon,kr KOR,MF,FC Seoul,27,1997,33,31,"2,452",27.2,2,5,7,2,0,0,3,0,0.07,0.18,0.26,0.07,0.26,Matches,0.17,1.00,12,2,16.7,0.07,0.44,,,,,,,,,,,,,,,,,,,K League 1,2025
+ba11efea,Lee Seungwon,Lee Seungwon,kr KOR,"MF,FW",Gimcheon Sangmu,21,2003,32,23,"1,841",20.5,1,6,7,1,0,0,6,0,0.05,0.29,0.34,0.05,0.34,Matches,1.00,1.00,1,1,100.0,0.05,0.05,,,,,,,,,,,,,,,,,,,K League 1,2025
+ba11efea,Lee Seungwon,Lee Seungwon,kr KOR,"MF,FW",Gimcheon Sangmu,21,2003,32,23,"1,841",20.5,1,6,7,1,0,0,6,0,0.05,0.29,0.34,0.05,0.34,Matches,0.00,,1,0,0.0,0.00,0.45,,,,,,,,,,,,,,,,,,,K League 1,2025
+ba11efea,Lee Seungwon,Lee Seungwon,kr KOR,"MF,FW",Gangwon FC,21,2003,3,2,201,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,1.00,1.00,1,1,100.0,0.05,0.05,,,,,,,,,,,,,,,,,,,K League 1,2025
+ba11efea,Lee Seungwon,Lee Seungwon,kr KOR,"MF,FW",Gangwon FC,21,2003,3,2,201,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.45,,,,,,,,,,,,,,,,,,,K League 1,2025
+f34bbbad,Park Seungwook,Park Seungwook,kr KOR,DF,Pohang Steelers,27,1997,18,17,"1,526",17.0,1,0,1,1,0,0,2,0,0.06,0.00,0.06,0.06,0.06,Matches,0.20,1.00,5,1,20.0,0.06,0.29,,,,,,,,,,,,,,,,,,,K League 1,2025
+f34bbbad,Park Seungwook,Park Seungwook,kr KOR,DF,Pohang Steelers,27,1997,18,17,"1,526",17.0,1,0,1,1,0,0,2,0,0.06,0.00,0.06,0.06,0.06,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+f34bbbad,Park Seungwook,Park Seungwook,kr KOR,DF,Gimcheon Sangmu,27,1997,16,15,"1,395",15.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,0.20,1.00,5,1,20.0,0.06,0.29,,,,,,,,,,,,,,,,,,,K League 1,2025
+f34bbbad,Park Seungwook,Park Seungwook,kr KOR,DF,Gimcheon Sangmu,27,1997,16,15,"1,395",15.5,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+c5afeca4,Evandro da Silva,Evandro da Silva,br BRA,FW,Jeju United,28,1997,5,4,202,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+5fb82d00,Kim Sinjin,Kim Sinjin,kr KOR,FW,FC Seoul,23,2001,2,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+5fb82d00,Kim Sinjin,Kim Sinjin,kr KOR,FW,FC Seoul,23,2001,2,0,39,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+5fb82d00,Kim Sinjin,Kim Sinjin,kr KOR,FW,Gangwon FC,23,2001,3,0,44,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+5fb82d00,Kim Sinjin,Kim Sinjin,kr KOR,FW,Gangwon FC,23,2001,3,0,44,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+22b95e8a,Jin Siwoo,Jin Siwoo,kr KOR,DF,Gwangju FC,22,2002,23,19,"1,755",19.5,0,0,0,0,0,0,7,2,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,0.10,,,,,,,,,,,,,,,,,,,K League 1,2025
+3e51ccb2,Jang Siyoung,Jang Siyoung,kr KOR,FW,Ulsan HD,22,2002,2,0,11,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+a40430c0,Lee Siyoung,Lee Siyoung,kr KOR,DF,Suwon FC,27,1997,17,14,"1,313",14.6,0,1,1,0,0,0,2,0,0.00,0.07,0.07,0.00,0.07,Matches,0.00,0.00,5,3,60.0,0.21,0.34,,,,,,,,,,,,,,,,,,,K League 1,2025
+a40430c0,Lee Siyoung,Lee Siyoung,kr KOR,DF,Suwon FC,27,1997,17,14,"1,313",14.6,0,1,1,0,0,0,2,0,0.00,0.07,0.07,0.00,0.07,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+a40430c0,Lee Siyoung,Lee Siyoung,kr KOR,"DF,MF",FC Seoul,27,1997,1,0,28,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,5,3,60.0,0.21,0.34,,,,,,,,,,,,,,,,,,,K League 1,2025
+a40430c0,Lee Siyoung,Lee Siyoung,kr KOR,"DF,MF",FC Seoul,27,1997,1,0,28,0.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+a6a63445,Lee Soobin,Lee Soobin,kr KOR,MF,Gimcheon Sangmu,24,2000,4,2,221,2.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+ec158ffd,Park Sooil,Park Sooil,kr KOR,DF,Gimcheon Sangmu,28,1996,15,13,"1,170",13.0,1,1,2,1,0,0,1,0,0.08,0.08,0.15,0.08,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+ec158ffd,Park Sooil,Park Sooil,kr KOR,DF,Gimcheon Sangmu,28,1996,15,13,"1,170",13.0,1,1,2,1,0,0,1,0,0.08,0.08,0.15,0.08,0.15,Matches,0.25,1.00,4,1,25.0,0.06,0.26,,,,,,,,,,,,,,,,,,,K League 1,2025
+ec158ffd,Park Sooil,Park Sooil,kr KOR,DF,FC Seoul,28,1996,17,16,"1,402",15.6,1,1,2,1,0,0,2,0,0.06,0.06,0.13,0.06,0.13,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+ec158ffd,Park Sooil,Park Sooil,kr KOR,DF,FC Seoul,28,1996,17,16,"1,402",15.6,1,1,2,1,0,0,2,0,0.06,0.06,0.13,0.06,0.13,Matches,0.25,1.00,4,1,25.0,0.06,0.26,,,,,,,,,,,,,,,,,,,K League 1,2025
+90539ec6,Lee Soonmin,Lee Soonmin,kr KOR,MF,Daejeon Citizen,30,1994,24,19,"1,841",20.5,0,2,2,0,0,0,5,1,0.00,0.10,0.10,0.00,0.10,Matches,0.00,,1,0,0.0,0.00,0.05,,,,,,,,,,,,,,,,,,,K League 1,2025
+635ed65e,Park Subeen,Park Subeen,kr KOR,FW,Pohang Steelers,19,2005,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+d6ffa246,Baek Sung-dong,Baek Sung-dong,kr KOR,"FW,MF",Pohang Steelers,33,1991,8,5,290,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+1d8c99b0,Ki Sung-yueng,Ki Sung-yueng,kr KOR,MF,Pohang Steelers,36,1989,16,13,"1,109",12.3,0,2,2,0,0,0,1,0,0.00,0.16,0.16,0.00,0.16,Matches,0.00,0.00,3,1,33.3,0.08,0.24,,,,,,,,,,,,,,,,,,,K League 1,2025
+1d8c99b0,Ki Sung-yueng,Ki Sung-yueng,kr KOR,MF,Pohang Steelers,36,1989,16,13,"1,109",12.3,0,2,2,0,0,0,1,0,0.00,0.16,0.16,0.00,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+1d8c99b0,Ki Sung-yueng,Ki Sung-yueng,kr KOR,MF,FC Seoul,36,1989,8,5,489,5.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,1,33.3,0.08,0.24,,,,,,,,,,,,,,,,,,,K League 1,2025
+1d8c99b0,Ki Sung-yueng,Ki Sung-yueng,kr KOR,MF,FC Seoul,36,1989,8,5,489,5.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+fad97e8b,Choi Sungbum,Choi Sungbum,kr KOR,MF,FC Anyang,23,2001,19,6,702,7.8,2,2,4,2,0,0,3,0,0.26,0.26,0.51,0.26,0.51,Matches,0.67,1.00,3,2,66.7,0.26,0.38,,,,,,,,,,,,,,,,,,,K League 1,2025
+d6362f39,Jo Sungwook,Jo Sungwook,kr KOR,DF,Pohang Steelers,29,1995,2,1,40,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+0a8dc1d3,Kwon Sungyun,Kwon Sungyun,kr KOR,DF,Gwangju FC,23,2001,2,1,77,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+15ae2ac6,Kwon Sunho,Kwon Sunho,kr KOR,MF,Jeju United,21,2003,2,1,64,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,1.41,,,,,,,,,,,,,,,,,,,K League 1,2025
+fdfacbb5,Lee Tae-hee,Lee Tae-hee,kr KOR,"DF,MF",FC Anyang,32,1992,32,31,"2,802",31.1,0,1,1,0,0,0,6,0,0.00,0.03,0.03,0.00,0.03,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+484e9d32,Nam Tae-hee,Nam Tae-hee,kr KOR,"MF,FW",Jeju United,33,1991,37,32,"2,961",32.9,6,5,11,6,0,0,6,0,0.18,0.15,0.33,0.18,0.33,Matches,0.27,0.55,22,11,50.0,0.33,0.67,,,,,,,,,,,,,,,,,,,K League 1,2025
+2e2f2a1c,Kim Tae-hwan,Kim Tae-hwan,kr KOR,DF,Jeonbuk Hyundai,35,1989,35,34,"3,011",33.5,0,2,2,0,0,0,6,0,0.00,0.06,0.06,0.00,0.06,Matches,0.00,,1,0,0.0,0.00,0.03,,,,,,,,,,,,,,,,,,,K League 1,2025
+eee918fb,An Tae-hyun,An Tae-hyun,kr KOR,"DF,MF",Jeju United,31,1993,25,19,"1,628",18.1,0,2,2,0,0,0,5,1,0.00,0.11,0.11,0.00,0.11,Matches,0.00,0.00,4,2,50.0,0.11,0.22,,,,,,,,,,,,,,,,,,,K League 1,2025
+fde1ced3,Kim Taehan,Kim Taehan,kr KOR,DF,Suwon FC,28,1996,29,25,"2,347",26.1,0,1,1,0,0,0,6,0,0.00,0.04,0.04,0.00,0.04,Matches,0.00,0.00,3,1,33.3,0.04,0.12,,,,,,,,,,,,,,,,,,,K League 1,2025
+40146931,Jin Taeho,Jin Taeho,kr KOR,FW,Jeonbuk Hyundai,19,2006,12,0,83,0.9,0,1,1,0,0,0,0,0,0.00,1.08,1.08,0.00,1.08,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+339691b4,Han Taehui,Han Taehui,kr KOR,GK,Daegu FC,20,2004,19,19,"1,710",19.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,5.3,19,19,30,1.58,6,"1,710",4,4,0,0.0,0,39.5,27,43,8,5,K League 1,2025
+edf98343,Kim Taehun,Kim Taehun,kr KOR,GK,Gimcheon Sangmu,27,1997,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,1,33.3,3,3,6,2.00,2,270,0,0,0,,0,50.0,6,12,0,1,K League 1,2025
+f5d9016d,Kim Taehwan,Kim Taehwan,kr KOR,MF,Gangwon FC,18,2006,1,0,5,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+2d0b6c94,Kim Taehwan,Kim Taehwan,kr KOR,DF,Gimcheon Sangmu,24,2000,5,4,310,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+2d0b6c94,Kim Taehwan,Kim Taehwan,kr KOR,DF,Gimcheon Sangmu,24,2000,5,4,310,3.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+2d0b6c94,Kim Taehwan,Kim Taehwan,kr KOR,DF,Jeju United,24,2000,2,1,134,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+2d0b6c94,Kim Taehwan,Kim Taehwan,kr KOR,DF,Jeju United,24,2000,2,1,134,1.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+143204a4,Kim Taehyun,Kim Taehyun,kr KOR,DF,Jeonbuk Hyundai,28,1996,28,27,"2,413",26.8,0,2,2,0,0,0,6,0,0.00,0.07,0.07,0.00,0.07,Matches,0.00,,3,0,0.0,0.00,0.11,,,,,,,,,,,,,,,,,,,K League 1,2025
+219fdd3c,Park Taejun,Park Taejun,kr KOR,MF,Gwangju FC,26,1999,15,12,"1,203",13.4,1,1,2,1,0,0,3,0,0.07,0.07,0.15,0.07,0.15,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+219fdd3c,Park Taejun,Park Taejun,kr KOR,MF,Gwangju FC,26,1999,15,12,"1,203",13.4,1,1,2,1,0,0,3,0,0.07,0.07,0.15,0.07,0.15,Matches,0.50,,2,0,0.0,0.00,0.29,,,,,,,,,,,,,,,,,,,K League 1,2025
+219fdd3c,Park Taejun,Park Taejun,kr KOR,MF,Gimcheon Sangmu,26,1999,9,6,611,6.8,1,2,3,1,0,0,3,0,0.15,0.29,0.44,0.15,0.44,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+219fdd3c,Park Taejun,Park Taejun,kr KOR,MF,Gimcheon Sangmu,26,1999,9,6,611,6.8,1,2,3,1,0,0,3,0,0.15,0.29,0.44,0.15,0.44,Matches,0.50,,2,0,0.0,0.00,0.29,,,,,,,,,,,,,,,,,,,K League 1,2025
+f5c96d6b,Lee Taekgeun,Lee Taekgeun,kr KOR,"MF,DF",Suwon FC,23,2001,11,4,411,4.6,1,1,2,1,0,0,0,0,0.22,0.22,0.44,0.22,0.44,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+32257cce,Lee Taeseok,Lee Taeseok,kr KOR,"DF,MF",Pohang Steelers,22,2002,22,18,"1,734",19.3,1,3,4,1,0,0,5,0,0.05,0.16,0.21,0.05,0.21,Matches,1.00,,1,0,0.0,0.00,0.05,,,,,,,,,,,,,,,,,,,K League 1,2025
+abea3c66,Jeong Taewook,Jeong Taewook,kr KOR,DF,FC Seoul,27,1997,2,2,180,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+0e0e0de3,Kwon Taeyoung,Kwon Taeyoung,kr KOR,FW,Daegu FC,22,2002,12,2,289,3.2,0,1,1,0,0,0,1,0,0.00,0.31,0.31,0.00,0.31,Matches,0.00,0.00,4,2,50.0,0.62,1.25,,,,,,,,,,,,,,,,,,,K League 1,2025
+09132321,Gabriel Tigrão,Gabriel Tigrão,br BRA,"MF,FW",Gwangju FC,23,2001,8,4,316,3.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+d02ffcea,Miłosz Trojak,Miłosz Trojak,pl POL,DF,Ulsan HD,30,1994,11,7,669,7.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.13,0.27,,,,,,,,,,,,,,,,,,,K League 1,2025
+cea3ddc7,Marko Tuci,Marko Tuci,me MNE,DF,Gangwon FC,26,1998,31,30,"2,709",30.1,0,0,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,2,1,50.0,0.03,0.07,,,,,,,,,,,,,,,,,,,K League 1,2025
+e3993b65,Patrick Twumasi,Patrick Twumasi,gh GHA,"FW,MF",Jeonbuk Hyundai,30,1994,4,0,107,1.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,2,0,0.0,0.00,1.68,,,,,,,,,,,,,,,,,,,K League 1,2025
+3586e7f9,Hong Ukhyeon,Hong Ukhyeon,kr KOR,DF,Gimcheon Sangmu,21,2004,6,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+5049696b,João Victor,João Victor,br BRA,MF,Daejeon Citizen,25,1999,13,11,946,10.5,4,2,6,4,0,0,1,0,0.38,0.19,0.57,0.38,0.57,Matches,0.50,1.33,8,3,37.5,0.29,0.76,,,,,,,,,,,,,,,,,,,K League 1,2025
+98cc3363,Wanderson,Wanderson,br BRA,FW,Pohang Steelers,35,1989,2,1,123,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+1f24226d,Willyan,Willyan,br BRA,"MF,FW",Suwon FC,30,1994,11,6,720,8.0,8,2,10,6,2,2,2,0,1.00,0.25,1.25,0.75,1.00,Matches,0.35,0.60,17,10,58.8,1.25,2.12,,,,,,,,,,,,,,,,,,,K League 1,2025
+1f24226d,Willyan,Willyan,br BRA,"MF,FW",Suwon FC,30,1994,11,6,720,8.0,8,2,10,6,2,2,2,0,1.00,0.25,1.25,0.75,1.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+1f24226d,Willyan,Willyan,br BRA,MF,FC Seoul,30,1994,7,2,103,1.1,0,1,1,0,0,0,1,0,0.00,0.87,0.87,0.00,0.87,Matches,0.35,0.60,17,10,58.8,1.25,2.12,,,,,,,,,,,,,,,,,,,K League 1,2025
+1f24226d,Willyan,Willyan,br BRA,MF,FC Seoul,30,1994,7,2,103,1.1,0,1,1,0,0,0,1,0,0.00,0.87,0.87,0.00,0.87,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+9157dbbf,Um Wonsang,Um Wonsang,kr KOR,"FW,MF",Ulsan HD,26,1999,30,8,"1,636",18.2,1,5,6,1,0,0,0,0,0.06,0.28,0.33,0.06,0.33,Matches,0.14,0.50,7,2,28.6,0.11,0.39,,,,,,,,,,,,,,,,,,,K League 1,2025
+8feac5f2,Lee Wonwoo,Lee Wonwoo,kr KOR,"DF,MF",Daegu FC,21,2003,10,5,427,4.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+8e4a12e5,Jeong Woo-jae,Jeong Woo-jae,kr KOR,"DF,MF",Daegu FC,32,1992,16,14,"1,182",13.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+858a34b8,Jung Woo-young,Jung Woo-young,kr KOR,MF,Ulsan HD,35,1989,17,13,"1,027",11.4,0,1,1,0,0,0,3,0,0.00,0.09,0.09,0.00,0.09,Matches,0.00,,2,0,0.0,0.00,0.18,,,,,,,,,,,,,,,,,,,K League 1,2025
+b53e9cdd,Choi Woojin,Choi Woojin,kr KOR,DF,Jeonbuk Hyundai,20,2004,12,5,438,4.9,0,1,1,0,0,0,2,0,0.00,0.21,0.21,0.00,0.21,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+68a424cc,Chung Woon,Chung Woon,kr KOR,DF,Jeju United,35,1989,11,3,218,2.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+d022a085,Choi Yehoon,Choi Yehoon,kr KOR,DF,Gimcheon Sangmu,21,2003,21,16,741,8.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+e4c18bc4,Lee Yeong-jae,Lee Yeong-jae,kr KOR,MF,Jeonbuk Hyundai,30,1994,32,9,"1,249",13.9,2,1,3,2,0,0,0,0,0.14,0.07,0.22,0.14,0.22,Matches,0.33,2.00,6,1,16.7,0.07,0.43,,,,,,,,,,,,,,,,,,,K League 1,2025
+8fd3a340,Jang Yeongwoo,Jang Yeongwoo,kr KOR,"MF,DF",Suwon FC,22,2002,6,3,234,2.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+da2489c8,Kim Yiseok,Kim Yiseok,kr KOR,MF,Gangwon FC,26,1998,3,1,88,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+da2489c8,Kim Yiseok,Kim Yiseok,kr KOR,MF,Gangwon FC,26,1998,3,1,88,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.50,1.00,2,1,50.0,0.49,0.97,,,,,,,,,,,,,,,,,,,K League 1,2025
+da2489c8,Kim Yiseok,Kim Yiseok,kr KOR,MF,Gimcheon Sangmu,26,1998,6,1,185,2.1,1,0,1,1,0,0,1,0,0.49,0.00,0.49,0.49,0.49,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+da2489c8,Kim Yiseok,Kim Yiseok,kr KOR,MF,Gimcheon Sangmu,26,1998,6,1,185,2.1,1,0,1,1,0,0,1,0,0.49,0.00,0.49,0.49,0.49,Matches,0.50,1.00,2,1,50.0,0.49,0.97,,,,,,,,,,,,,,,,,,,K League 1,2025
+95e57652,Lee Yong,Lee Yong,kr KOR,DF,Suwon FC,38,1986,19,19,"1,634",18.2,0,1,1,0,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches,0.00,,1,0,0.0,0.00,0.06,,,,,,,,,,,,,,,,,,,K League 1,2025
+2edf857a,Ri Yong-jik,Ri Yong-jik,kp PRK,MF,FC Anyang,33,1991,14,9,820,9.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+74f375cd,Lee Yong-rae,Lee Yong-rae,kr KOR,MF,Daegu FC,38,1986,14,6,376,4.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,,1,0,0.0,0.00,0.24,,,,,,,,,,,,,,,,,,,K League 1,2025
+efb36c5f,Park Yonghui,Park Yonghui,kr KOR,"MF,FW",Suwon FC,22,2002,11,5,538,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+200262e8,Hong Yongjun,Hong Yongjun,kr KOR,MF,Gwangju FC,21,2003,2,1,61,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+20a20e0b,Jeon Yongjun,Jeon Yongjun,kr KOR,FW,Daegu FC,21,2003,2,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+2880ba02,Heo Yool,Heo Yool,kr KOR,FW,Ulsan HD,23,2001,26,18,"1,602",17.8,4,1,5,4,0,0,5,0,0.22,0.06,0.28,0.22,0.28,Matches,0.50,0.80,8,5,62.5,0.28,0.45,,,,,,,,,,,,,,,,,,,K League 1,2025
+70f8b7c5,Kyohei Yoshino,Kyohei Yoshino,jp JPN,MF,Daegu FC,30,1994,16,14,"1,095",12.2,2,0,2,2,0,0,4,0,0.16,0.00,0.16,0.16,0.16,Matches,,,,,,,,,,,,,,,,,,,,,,,,,,K League 1,2025
+a4cf8951,Lee You-hyeon,Lee You-hyeon,kr KOR,"MF,DF",Gangwon FC,27,1997,29,28,"2,409",26.8,1,2,3,1,0,0,3,0,0.04,0.07,0.11,0.04,0.11,Matches,0.13,0.25,8,4,50.0,0.15,0.30,,,,,,,,,,,,,,,,,,,K League 1,2025
+3d3da10c,Kim Young-bin,Kim Young-bin,kr KOR,DF,Jeonbuk Hyundai,33,1991,28,26,"2,328",25.9,0,1,1,0,0,0,6,0,0.00,0.04,0.04,0.00,0.04,Matches,0.00,,2,0,0.0,0.00,0.08,,,,,,,,,,,,,,,,,,,K League 1,2025
+145c7bde,Kim Young-chan,Kim Young-chan,kr KOR,DF,FC Anyang,31,1993,24,19,"1,776",19.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches,0.00,0.00,3,2,66.7,0.10,0.15,,,,,,,,,,,,,,,,,,,K League 1,2025
+9459ace1,Kim Young-gwon,Kim Young-gwon,kr KOR,DF,Ulsan HD,34,1990,36,34,"3,069",34.1,0,1,1,0,0,0,4,0,0.00,0.03,0.03,0.00,0.03,Matches,0.00,0.00,2,1,50.0,0.03,0.06,,,,,,,,,,,,,,,,,,,K League 1,2025
+979307e9,Ahn Young-kyu,Ahn Young-kyu,kr KOR,DF,Gwangju FC,35,1989,16,10,849,9.4,0,1,1,0,0,0,1,0,0.00,0.11,0.11,0.00,0.11,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+c0b4f2c7,Cho Youngwook,Cho Youngwook,kr KOR,"FW,MF",FC Seoul,25,1999,34,26,"2,129",23.7,7,2,9,7,0,0,1,0,0.30,0.08,0.38,0.30,0.38,Matches,0.39,1.00,18,7,38.9,0.30,0.76,,,,,,,,,,,,,,,,,,,K League 1,2025
+49c03e27,Jang Yun-ho,Jang Yun-ho,kr KOR,MF,Suwon FC,28,1996,8,4,334,3.7,0,1,1,0,0,0,1,0,0.00,0.27,0.27,0.00,0.27,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+81c93371,Kang Yun-seong,Kang Yun-seong,kr KOR,"DF,MF",Daejeon Citizen,27,1997,25,22,"1,978",22.0,1,1,2,1,0,0,4,1,0.05,0.05,0.09,0.05,0.09,Matches,1.00,1.00,1,1,100.0,0.05,0.05,,,,,,,,,,,,,,,,,,,K League 1,2025
+a9f44951,Kang Yungu,Kang Yungu,kr KOR,MF,Gangwon FC,22,2002,5,0,125,1.4,0,1,1,0,0,0,0,0,0.00,0.72,0.72,0.00,0.72,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+e817879a,Kim Yunho,Kim Yunho,kr KOR,FW,Gwangju FC,17,2007,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,,,,,,,,,,,,,,,,,,,K League 1,2025
+e6d086ee,Lee Yunoh,Lee Yunoh,kr KOR,GK,FC Anyang,25,1999,1,0,22,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches,,,0,0,,0.00,0.00,0,,1,0,1,4.09,0,22,0,0,0,,0,0.0,0,1,0,0,K League 1,2025
+ee945e21,Hong Yunsang,Hong Yunsang,kr KOR,"MF,FW",Pohang Steelers,22,2002,30,24,"1,688",18.8,3,2,5,3,0,0,2,0,0.16,0.11,0.27,0.16,0.27,Matches,0.38,0.60,8,5,62.5,0.27,0.43,,,,,,,,,,,,,,,,,,,K League 1,2025
