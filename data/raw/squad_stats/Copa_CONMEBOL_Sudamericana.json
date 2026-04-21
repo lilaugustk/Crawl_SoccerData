@@ -1,0 +1,390 @@
+[
+    {
+        "season": "2026",
+        "url": "https://fbref.com/en/comps/205/Copa-Sudamericana-Stats",
+        "stats": {
+            "overall": [
+                {
+                    "squad": "co  América Cali",
+                    "squad_id": "c6f65a93",
+                    "team": "co  América Cali",
+                    "games": "1",
+                    "wins": "0",
+                    "ties": "1",
+                    "losses": "0",
+                    "goals_for": "1",
+                    "goals_against": "1",
+                    "goal_diff": "0",
+                    "points": "1",
+                    "last_5": "D L W L D",
+                    "notes": ""
+                },
+                {
+                    "squad": "ar  Tigre",
+                    "squad_id": "0e92bf17",
+                    "team": "ar  Tigre",
+                    "games": "1",
+                    "wins": "0",
+                    "ties": "1",
+                    "losses": "0",
+                    "goals_for": "1",
+                    "goals_against": "1",
+                    "goal_diff": "0",
+                    "points": "1",
+                    "last_5": "D L L D D",
+                    "notes": ""
+                },
+                {
+                    "squad": "ec  Macará",
+                    "squad_id": "8e8ff33e",
+                    "team": "ec  Macará",
+                    "games": "1",
+                    "wins": "0",
+                    "ties": "1",
+                    "losses": "0",
+                    "goals_for": "1",
+                    "goals_against": "1",
+                    "goal_diff": "0",
+                    "points": "1",
+                    "last_5": "W D L D L",
+                    "notes": ""
+                },
+                {
+                    "squad": "pe  Alianza Atlético",
+                    "squad_id": "e71b53ba",
+                    "team": "pe  Alianza Atlético",
+                    "games": "1",
+                    "wins": "0",
+                    "ties": "1",
+                    "losses": "0",
+                    "goals_for": "1",
+                    "goals_against": "1",
+                    "goal_diff": "0",
+                    "points": "1",
+                    "last_5": "L W D D D",
+                    "notes": ""
+                }
+            ]
+        }
+    },
+    {
+        "season": "2025",
+        "url": "https://fbref.com/en/comps/205/2025/2025-Copa-Sudamericana-Stats",
+        "stats": {
+            "overall": [
+                {
+                    "squad": "ar  Independiente",
+                    "squad_id": "2025",
+                    "team": "ar  Independiente",
+                    "games": "6",
+                    "wins": "4",
+                    "ties": "0",
+                    "losses": "2",
+                    "goals_for": "16",
+                    "goals_against": "6",
+                    "goal_diff": "+10",
+                    "points": "12",
+                    "notes": "→ Round of 16"
+                },
+                {
+                    "squad": "py  Guaraní",
+                    "squad_id": "2025",
+                    "team": "py  Guaraní",
+                    "games": "6",
+                    "wins": "2",
+                    "ties": "2",
+                    "losses": "2",
+                    "goals_for": "9",
+                    "goals_against": "12",
+                    "goal_diff": "-3",
+                    "points": "8",
+                    "notes": "→ Knockout round play-offs"
+                },
+                {
+                    "squad": "uy  Boston River",
+                    "squad_id": "2025",
+                    "team": "uy  Boston River",
+                    "games": "6",
+                    "wins": "2",
+                    "ties": "1",
+                    "losses": "3",
+                    "goals_for": "12",
+                    "goals_against": "14",
+                    "goal_diff": "-2",
+                    "points": "7",
+                    "notes": ""
+                },
+                {
+                    "squad": "bo  Nacional Potosí",
+                    "squad_id": "2025",
+                    "team": "bo  Nacional Potosí",
+                    "games": "6",
+                    "wins": "2",
+                    "ties": "1",
+                    "losses": "3",
+                    "goals_for": "8",
+                    "goals_against": "13",
+                    "goal_diff": "-5",
+                    "points": "7",
+                    "notes": ""
+                }
+            ]
+        }
+    },
+    {
+        "season": "2024",
+        "url": "https://fbref.com/en/comps/205/2024/2024-Copa-Sudamericana-Stats",
+        "stats": {
+            "overall": [
+                {
+                    "squad": "co  Independiente Medellín",
+                    "squad_id": "2024",
+                    "team": "co  Independiente Medellín",
+                    "games": "6",
+                    "wins": "4",
+                    "ties": "1",
+                    "losses": "1",
+                    "goals_for": "16",
+                    "goals_against": "7",
+                    "goal_diff": "+9",
+                    "points": "13",
+                    "notes": "→ Round of 16"
+                },
+                {
+                    "squad": "bo  Always Ready",
+                    "squad_id": "2024",
+                    "team": "bo  Always Ready",
+                    "games": "6",
+                    "wins": "3",
+                    "ties": "2",
+                    "losses": "1",
+                    "goals_for": "10",
+                    "goals_against": "7",
+                    "goal_diff": "+3",
+                    "points": "11",
+                    "notes": "→ Knockout round play-offs"
+                },
+                {
+                    "squad": "ar  Defensa y Justicia",
+                    "squad_id": "2024",
+                    "team": "ar  Defensa y Justicia",
+                    "games": "6",
+                    "wins": "1",
+                    "ties": "2",
+                    "losses": "3",
+                    "goals_for": "4",
+                    "goals_against": "8",
+                    "goal_diff": "-4",
+                    "points": "5",
+                    "notes": ""
+                },
+                {
+                    "squad": "pe  Universidad César Vallejo",
+                    "squad_id": "d1f6a4fe",
+                    "team": "pe  Universidad César Vallejo",
+                    "games": "6",
+                    "wins": "1",
+                    "ties": "1",
+                    "losses": "4",
+                    "goals_for": "6",
+                    "goals_against": "14",
+                    "goal_diff": "-8",
+                    "points": "4",
+                    "notes": ""
+                }
+            ]
+        }
+    },
+    {
+        "season": "2023",
+        "url": "https://fbref.com/en/comps/205/2023/2023-Copa-Sudamericana-Stats",
+        "stats": {
+            "overall": [
+                {
+                    "squad": "ec  LDU Quito",
+                    "squad_id": "2023",
+                    "team": "ec  LDU Quito",
+                    "games": "6",
+                    "wins": "3",
+                    "ties": "3",
+                    "losses": "0",
+                    "goals_for": "10",
+                    "goals_against": "2",
+                    "goal_diff": "+8",
+                    "points": "12",
+                    "notes": "→ Round of 16"
+                },
+                {
+                    "squad": "br  Botafogo (RJ)",
+                    "squad_id": "2023",
+                    "team": "br  Botafogo (RJ)",
+                    "games": "6",
+                    "wins": "2",
+                    "ties": "4",
+                    "losses": "0",
+                    "goals_for": "10",
+                    "goals_against": "5",
+                    "goal_diff": "+5",
+                    "points": "10",
+                    "notes": "→ Knockout round play-offs"
+                },
+                {
+                    "squad": "cl  Deportes Magallanes",
+                    "squad_id": "0e719970",
+                    "team": "cl  Deportes Magallanes",
+                    "games": "6",
+                    "wins": "0",
+                    "ties": "4",
+                    "losses": "2",
+                    "goals_for": "8",
+                    "goals_against": "13",
+                    "goal_diff": "-5",
+                    "points": "4",
+                    "notes": ""
+                },
+                {
+                    "squad": "pe  Universidad César Vallejo",
+                    "squad_id": "2023",
+                    "team": "pe  Universidad César Vallejo",
+                    "games": "6",
+                    "wins": "1",
+                    "ties": "1",
+                    "losses": "4",
+                    "goals_for": "8",
+                    "goals_against": "16",
+                    "goal_diff": "-8",
+                    "points": "4",
+                    "notes": ""
+                }
+            ]
+        }
+    },
+    {
+        "season": "2022",
+        "url": "https://fbref.com/en/comps/205/2022/2022-Copa-Sudamericana-Stats",
+        "stats": {
+            "overall": [
+                {
+                    "squad": "ar  Lanús",
+                    "squad_id": "2022",
+                    "team": "ar  Lanús",
+                    "games": "6",
+                    "wins": "3",
+                    "ties": "2",
+                    "losses": "1",
+                    "goals_for": "7",
+                    "goals_against": "4",
+                    "goal_diff": "+3",
+                    "points": "11",
+                    "notes": "→ Round of 16"
+                },
+                {
+                    "squad": "ec  Barcelona",
+                    "squad_id": "2022",
+                    "team": "ec  Barcelona",
+                    "games": "6",
+                    "wins": "2",
+                    "ties": "3",
+                    "losses": "1",
+                    "goals_for": "9",
+                    "goals_against": "8",
+                    "goal_diff": "+1",
+                    "points": "9",
+                    "notes": ""
+                },
+                {
+                    "squad": "uy  Montevideo Wanderers",
+                    "squad_id": "2022",
+                    "team": "uy  Montevideo Wanderers",
+                    "games": "6",
+                    "wins": "2",
+                    "ties": "2",
+                    "losses": "2",
+                    "goals_for": "6",
+                    "goals_against": "7",
+                    "goal_diff": "-1",
+                    "points": "8",
+                    "notes": ""
+                },
+                {
+                    "squad": "ve  Metropolitanos",
+                    "squad_id": "2022",
+                    "team": "ve  Metropolitanos",
+                    "games": "6",
+                    "wins": "0",
+                    "ties": "3",
+                    "losses": "3",
+                    "goals_for": "3",
+                    "goals_against": "6",
+                    "goal_diff": "-3",
+                    "points": "3",
+                    "notes": ""
+                }
+            ]
+        }
+    },
+    {
+        "season": "2021",
+        "url": "https://fbref.com/en/comps/205/2021/2021-Copa-Sudamericana-Stats",
+        "stats": {
+            "overall": [
+                {
+                    "squad": "ar  Rosario Central",
+                    "squad_id": "2021",
+                    "team": "ar  Rosario Central",
+                    "games": "6",
+                    "wins": "3",
+                    "ties": "2",
+                    "losses": "1",
+                    "goals_for": "10",
+                    "goals_against": "3",
+                    "goal_diff": "+7",
+                    "points": "11",
+                    "notes": "→ Round of 16"
+                },
+                {
+                    "squad": "cl  Huachipato",
+                    "squad_id": "2021",
+                    "team": "cl  Huachipato",
+                    "games": "6",
+                    "wins": "2",
+                    "ties": "2",
+                    "losses": "2",
+                    "goals_for": "4",
+                    "goals_against": "10",
+                    "goal_diff": "-6",
+                    "points": "8",
+                    "notes": ""
+                },
+                {
+                    "squad": "ar  San Lorenzo",
+                    "squad_id": "2021",
+                    "team": "ar  San Lorenzo",
+                    "games": "6",
+                    "wins": "2",
+                    "ties": "1",
+                    "losses": "3",
+                    "goals_for": "7",
+                    "goals_against": "6",
+                    "goal_diff": "+1",
+                    "points": "7",
+                    "notes": ""
+                },
+                {
+                    "squad": "py  12 de Octubre",
+                    "squad_id": "2021",
+                    "team": "py  12 de Octubre",
+                    "games": "6",
+                    "wins": "1",
+                    "ties": "3",
+                    "losses": "2",
+                    "goals_for": "3",
+                    "goals_against": "5",
+                    "goal_diff": "-2",
+                    "points": "6",
+                    "notes": ""
+                }
+            ]
+        }
+    }
+]
