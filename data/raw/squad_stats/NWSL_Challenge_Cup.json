@@ -1,0 +1,328 @@
+[
+    {
+        "season": "2023",
+        "url": "https://fbref.com/en/comps/881/2023/2023-NWSL-Challenge-Cup-Stats",
+        "stats": {
+            "overall": [
+                {
+                    "squad": "Current",
+                    "squad_id": "2023",
+                    "team": "Current",
+                    "games": "6",
+                    "wins": "4",
+                    "ties": "1",
+                    "losses": "1",
+                    "goals_for": "14",
+                    "goals_against": "4",
+                    "goal_diff": "+10",
+                    "points": "13",
+                    "notes": ""
+                },
+                {
+                    "squad": "Racing Louisville",
+                    "squad_id": "2023",
+                    "team": "Racing Louisville",
+                    "games": "6",
+                    "wins": "4",
+                    "ties": "0",
+                    "losses": "2",
+                    "goals_for": "10",
+                    "goals_against": "6",
+                    "goal_diff": "+4",
+                    "points": "12",
+                    "notes": "→ Semifinals"
+                },
+                {
+                    "squad": "Houston Dash",
+                    "squad_id": "2023",
+                    "team": "Houston Dash",
+                    "games": "6",
+                    "wins": "2",
+                    "ties": "0",
+                    "losses": "4",
+                    "goals_for": "4",
+                    "goals_against": "11",
+                    "goal_diff": "-7",
+                    "points": "6",
+                    "notes": ""
+                },
+                {
+                    "squad": "Red Stars",
+                    "squad_id": "2023",
+                    "team": "Red Stars",
+                    "games": "6",
+                    "wins": "1",
+                    "ties": "1",
+                    "losses": "4",
+                    "goals_for": "3",
+                    "goals_against": "10",
+                    "goal_diff": "-7",
+                    "points": "4",
+                    "notes": ""
+                }
+            ]
+        }
+    },
+    {
+        "season": "2022",
+        "url": "https://fbref.com/en/comps/881/2022/2022-NWSL-Challenge-Cup-Stats",
+        "stats": {
+            "overall": [
+                {
+                    "squad": "Current",
+                    "squad_id": "2022",
+                    "team": "Current",
+                    "games": "6",
+                    "wins": "4",
+                    "ties": "1",
+                    "losses": "1",
+                    "goals_for": "10",
+                    "goals_against": "7",
+                    "goal_diff": "+3",
+                    "points": "13",
+                    "notes": "→ Knockout stage"
+                },
+                {
+                    "squad": "Red Stars",
+                    "squad_id": "2022",
+                    "team": "Red Stars",
+                    "games": "6",
+                    "wins": "2",
+                    "ties": "2",
+                    "losses": "2",
+                    "goals_for": "8",
+                    "goals_against": "6",
+                    "goal_diff": "+2",
+                    "points": "8",
+                    "notes": ""
+                },
+                {
+                    "squad": "Racing Louisville",
+                    "squad_id": "2022",
+                    "team": "Racing Louisville",
+                    "games": "6",
+                    "wins": "1",
+                    "ties": "3",
+                    "losses": "2",
+                    "goals_for": "8",
+                    "goals_against": "7",
+                    "goal_diff": "+1",
+                    "points": "6",
+                    "notes": ""
+                },
+                {
+                    "squad": "Houston Dash",
+                    "squad_id": "2022",
+                    "team": "Houston Dash",
+                    "games": "6",
+                    "wins": "2",
+                    "ties": "0",
+                    "losses": "4",
+                    "goals_for": "7",
+                    "goals_against": "13",
+                    "goal_diff": "-6",
+                    "points": "6",
+                    "notes": ""
+                }
+            ]
+        }
+    },
+    {
+        "season": "2021",
+        "url": "https://fbref.com/en/comps/881/2021/2021-NWSL-Challenge-Cup-Stats",
+        "stats": {
+            "overall": [
+                {
+                    "squad": "Gotham FC",
+                    "squad_id": "2021",
+                    "team": "Gotham FC",
+                    "games": "4",
+                    "wins": "2",
+                    "ties": "2",
+                    "losses": "0",
+                    "goals_for": "5",
+                    "goals_against": "3",
+                    "goal_diff": "+2",
+                    "points": "8",
+                    "notes": "→ Final"
+                },
+                {
+                    "squad": "NC Courage",
+                    "squad_id": "2021",
+                    "team": "NC Courage",
+                    "games": "4",
+                    "wins": "2",
+                    "ties": "1",
+                    "losses": "1",
+                    "goals_for": "9",
+                    "goals_against": "8",
+                    "goal_diff": "+1",
+                    "points": "7",
+                    "notes": ""
+                },
+                {
+                    "squad": "Orlando Pride",
+                    "squad_id": "2021",
+                    "team": "Orlando Pride",
+                    "games": "4",
+                    "wins": "1",
+                    "ties": "2",
+                    "losses": "1",
+                    "goals_for": "3",
+                    "goals_against": "3",
+                    "goal_diff": "0",
+                    "points": "5",
+                    "notes": ""
+                },
+                {
+                    "squad": "Washington Spirit",
+                    "squad_id": "2021",
+                    "team": "Washington Spirit",
+                    "games": "4",
+                    "wins": "1",
+                    "ties": "1",
+                    "losses": "2",
+                    "goals_for": "3",
+                    "goals_against": "4",
+                    "goal_diff": "-1",
+                    "points": "4",
+                    "notes": ""
+                },
+                {
+                    "squad": "Racing Louisville",
+                    "squad_id": "2021",
+                    "team": "Racing Louisville",
+                    "games": "4",
+                    "wins": "0",
+                    "ties": "2",
+                    "losses": "2",
+                    "goals_for": "4",
+                    "goals_against": "6",
+                    "goal_diff": "-2",
+                    "points": "2",
+                    "notes": ""
+                }
+            ]
+        }
+    },
+    {
+        "season": "2020",
+        "url": "https://fbref.com/en/comps/881/2020/2020-NWSL-Challenge-Cup-Stats",
+        "stats": {
+            "overall": [
+                {
+                    "squad": "NC Courage",
+                    "squad_id": "2020",
+                    "team": "NC Courage",
+                    "games": "4",
+                    "wins": "4",
+                    "ties": "0",
+                    "losses": "0",
+                    "goals_for": "7",
+                    "goals_against": "1",
+                    "goal_diff": "+6",
+                    "points": "12",
+                    "notes": ""
+                },
+                {
+                    "squad": "Washington Spirit",
+                    "squad_id": "2020",
+                    "team": "Washington Spirit",
+                    "games": "4",
+                    "wins": "2",
+                    "ties": "1",
+                    "losses": "1",
+                    "goals_for": "4",
+                    "goals_against": "4",
+                    "goal_diff": "0",
+                    "points": "7",
+                    "notes": ""
+                },
+                {
+                    "squad": "Reign",
+                    "squad_id": "2020",
+                    "team": "Reign",
+                    "games": "4",
+                    "wins": "1",
+                    "ties": "2",
+                    "losses": "1",
+                    "goals_for": "1",
+                    "goals_against": "2",
+                    "goal_diff": "-1",
+                    "points": "5",
+                    "notes": ""
+                },
+                {
+                    "squad": "Houston Dash",
+                    "squad_id": "2020",
+                    "team": "Houston Dash",
+                    "games": "4",
+                    "wins": "1",
+                    "ties": "1",
+                    "losses": "2",
+                    "goals_for": "5",
+                    "goals_against": "6",
+                    "goal_diff": "-1",
+                    "points": "4",
+                    "notes": ""
+                },
+                {
+                    "squad": "Royals",
+                    "squad_id": "2020",
+                    "team": "Royals",
+                    "games": "4",
+                    "wins": "1",
+                    "ties": "1",
+                    "losses": "2",
+                    "goals_for": "4",
+                    "goals_against": "5",
+                    "goal_diff": "-1",
+                    "points": "4",
+                    "notes": ""
+                },
+                {
+                    "squad": "Red Stars",
+                    "squad_id": "2020",
+                    "team": "Red Stars",
+                    "games": "4",
+                    "wins": "1",
+                    "ties": "1",
+                    "losses": "2",
+                    "goals_for": "2",
+                    "goals_against": "3",
+                    "goal_diff": "-1",
+                    "points": "4",
+                    "notes": ""
+                },
+                {
+                    "squad": "Sky Blue FC",
+                    "squad_id": "2020",
+                    "team": "Sky Blue FC",
+                    "games": "4",
+                    "wins": "1",
+                    "ties": "1",
+                    "losses": "2",
+                    "goals_for": "2",
+                    "goals_against": "3",
+                    "goal_diff": "-1",
+                    "points": "4",
+                    "notes": ""
+                },
+                {
+                    "squad": "Portland Thorns",
+                    "squad_id": "2020",
+                    "team": "Portland Thorns",
+                    "games": "4",
+                    "wins": "0",
+                    "ties": "3",
+                    "losses": "1",
+                    "goals_for": "2",
+                    "goals_against": "3",
+                    "goal_diff": "-1",
+                    "points": "3",
+                    "notes": ""
+                }
+            ]
+        }
+    }
+]

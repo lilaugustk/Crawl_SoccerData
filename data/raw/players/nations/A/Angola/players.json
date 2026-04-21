@@ -1270,5 +1270,89 @@
         "born": "July 3, 2002",
         "current_club": "AEK Athens",
         "scraped_at": "2026-04-16 17:03:54"
+    },
+    {
+        "player_id": "7c298e83",
+        "name": "Tó Carneiro",
+        "url": "https://fbref.com/en/players/7c298e83/To-Carneiro",
+        "position": "DF",
+        "footed": "",
+        "height": "170cm",
+        "weight": "67kg",
+        "born": "November 5, 1995",
+        "current_club": "AS FAR",
+        "scraped_at": "2026-04-21 14:03:29"
+    },
+    {
+        "player_id": "b2991fb9",
+        "name": "Anderson Emanuel Castelo Branco Cruz",
+        "url": "https://fbref.com/en/players/b2991fb9/Anderson-Emanuel-Castelo-Branco-Cruz",
+        "position": "MF",
+        "footed": "",
+        "height": "",
+        "weight": "",
+        "born": "April 9, 1996",
+        "current_club": "Atlético Petróleos de Luanda",
+        "scraped_at": "2026-04-21 14:03:41"
+    },
+    {
+        "player_id": "e9543ec7",
+        "name": "Sandro Cruz",
+        "url": "https://fbref.com/en/players/e9543ec7/Sandro-Cruz",
+        "position": "DF",
+        "footed": "",
+        "height": "",
+        "weight": "",
+        "born": "May 12, 2001",
+        "current_club": "ŠK Slovan Bratislava",
+        "scraped_at": "2026-04-21 14:03:52"
+    },
+    {
+        "player_id": "97db75de",
+        "name": "Joël Da Silva",
+        "url": "https://fbref.com/en/players/97db75de/Joel-Da-Silva",
+        "position": "FW",
+        "footed": "Right",
+        "height": "180cm",
+        "weight": "87kg",
+        "born": "December 4, 1994",
+        "current_club": "FK Radnik Bijeljina",
+        "scraped_at": "2026-04-21 14:03:59"
+    },
+    {
+        "player_id": "0f1c5224",
+        "name": "Elvis Delgado",
+        "url": "https://fbref.com/en/players/0f1c5224/Elvis-Delgado",
+        "position": "FW",
+        "footed": "",
+        "height": "",
+        "weight": "",
+        "born": "February 26, 1996",
+        "current_club": "US Sarre-Union",
+        "scraped_at": "2026-04-21 14:04:09"
+    },
+    {
+        "player_id": "0ca4fdab",
+        "name": "Depú",
+        "url": "https://fbref.com/en/players/0ca4fdab/Depu",
+        "position": "FW",
+        "footed": "",
+        "height": "",
+        "weight": "",
+        "born": "January 8, 2000",
+        "current_club": "Young Africans SC",
+        "scraped_at": "2026-04-21 14:04:19"
+    },
+    {
+        "player_id": "4351b193",
+        "name": "Domingos",
+        "url": "https://fbref.com/en/players/4351b193/Domingos",
+        "position": "MF",
+        "footed": "",
+        "height": "",
+        "weight": "",
+        "born": "May 7, 2003",
+        "current_club": "Porto",
+        "scraped_at": "2026-04-21 14:04:30"
     }
 ]

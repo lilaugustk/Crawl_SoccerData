@@ -1,0 +1,66 @@
+[
+    {
+        "season": "2025",
+        "url": "https://fbref.com/en/comps/719/FIFA-Club-World-Cup-Stats",
+        "stats": {
+            "overall": [
+                {
+                    "squad": "br  Palmeiras",
+                    "squad_id": "2025",
+                    "team": "br  Palmeiras",
+                    "games": "3",
+                    "wins": "1",
+                    "ties": "2",
+                    "losses": "0",
+                    "goals_for": "4",
+                    "goals_against": "2",
+                    "goal_diff": "+2",
+                    "points": "5",
+                    "notes": "→ Round of 16"
+                },
+                {
+                    "squad": "us  Inter Miami",
+                    "squad_id": "2025",
+                    "team": "us  Inter Miami",
+                    "games": "3",
+                    "wins": "1",
+                    "ties": "2",
+                    "losses": "0",
+                    "goals_for": "4",
+                    "goals_against": "3",
+                    "goal_diff": "+1",
+                    "points": "5",
+                    "notes": "→ Round of 16"
+                },
+                {
+                    "squad": "pt  Porto",
+                    "squad_id": "2025",
+                    "team": "pt  Porto",
+                    "games": "3",
+                    "wins": "0",
+                    "ties": "2",
+                    "losses": "1",
+                    "goals_for": "5",
+                    "goals_against": "6",
+                    "goal_diff": "-1",
+                    "points": "2",
+                    "notes": ""
+                },
+                {
+                    "squad": "eg  Al Ahly",
+                    "squad_id": "79a0cdd6",
+                    "team": "eg  Al Ahly",
+                    "games": "3",
+                    "wins": "0",
+                    "ties": "2",
+                    "losses": "1",
+                    "goals_for": "4",
+                    "goals_against": "6",
+                    "goal_diff": "-2",
+                    "points": "2",
+                    "notes": ""
+                }
+            ]
+        }
+    }
+]
